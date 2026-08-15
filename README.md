@@ -48,11 +48,10 @@ Boyut, logonun uzun kenarını ifade eder.
 Bu depo public olduğu için logolar doğrudan bağlanabilir:
 
 ```html
-<img src="https://raw.githubusercontent.com/KULLANICI/euplus-brand-assets/main/logos/euplus/euplus.svg"
+<img src="https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/logos/euplus/euplus.svg"
      alt="EUPLUS" width="200">
 ```
 
-> `KULLANICI` yerine GitHub kullanıcı adınızı yazın.
 
 ## Kullanım kuralları
 
