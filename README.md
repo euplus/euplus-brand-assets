@@ -52,7 +52,6 @@ Bu depo public olduğu için logolar doğrudan bağlanabilir:
      alt="EUPLUS" width="200">
 ```
 
-
 ## Kullanım kuralları
 
 - Logoların **en/boy oranını** koruyun; yatay veya dikey olarak esnetmeyin.
