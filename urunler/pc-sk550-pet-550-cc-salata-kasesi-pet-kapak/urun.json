@@ -1,0 +1,65 @@
+{
+ "stok_kodu": "PC-SK550-PET",
+ "baslik": "550 cc Salata Kasesi + PET Kapak",
+ "urun_adi": "550 cc Salata Kasesi + PET Kapak",
+ "kategori": "Salata Kaseleri",
+ "kategori_en": "Salad Bowls",
+ "katalog": "servis",
+ "tur": "kapak-pc",
+ "olcu_mm": "145x127x52",
+ "hacim_cc": "550",
+ "hacim": "550",
+ "materyal": "Kraft karton + PET",
+ "agiz_capi_mm": "145",
+ "dip_capi_mm": "127",
+ "yukseklik_mm": "52",
+ "agirlik_g": "12,5+7",
+ "fisek_ici_adet": "50",
+ "koli_olcusu_mm": "750x300x497",
+ "koli_ici_adet": "300+300",
+ "koli_net_kg": "6",
+ "palet_koli": "",
+ "koli_secenekleri": [
+  {
+   "koli_ici": "300+300",
+   "koli": "750x300x497",
+   "net_kg": "6"
+  }
+ ],
+ "min_siparis": "300+300 adet (1 koli)",
+ "not": "kase + kapak",
+ "aciklama": [
+  "550 cc Salata Kasesi + PET Kapak, bardak veya kase ile uyumlu plastik kapaktır. Paket servis ve gel-al satışta taşıma güvenliği için uygundur.",
+  "Teknik özellikler: ağız çapı 145 mm, dip çapı 127 mm, yükseklik 52 mm, 550 cc hacim, ürün ağırlığı 12,5+7 g.",
+  "Kraft karton + PET. Gıdayla temasa uygun hammaddeden üretilmiştir.",
+  "kase + kapak. Sıkı oturur, taşıma sırasında dökülmeyi önler.",
+  "Toptan satış koli bazındadır: bir kolide 300+300 adet (50 adetlik fişekler hâlinde), koli ölçüsü 750 × 300 × 497 mm, koli net ağırlığı 6 kg."
+ ],
+ "aciklama_html": "<p>550 cc Salata Kasesi + PET Kapak, bardak veya kase ile uyumlu plastik kapaktır. Paket servis ve gel-al satışta taşıma güvenliği için uygundur.</p>\n<p>Teknik özellikler: ağız çapı 145 mm, dip çapı 127 mm, yükseklik 52 mm, 550 cc hacim, ürün ağırlığı 12,5+7 g.</p>\n<p>Kraft karton + PET. Gıdayla temasa uygun hammaddeden üretilmiştir.</p>\n<p>kase + kapak. Sıkı oturur, taşıma sırasında dökülmeyi önler.</p>\n<p>Toptan satış koli bazındadır: bir kolide 300+300 adet (50 adetlik fişekler hâlinde), koli ölçüsü 750 × 300 × 497 mm, koli net ağırlığı 6 kg.</p>",
+ "etiketler": [
+  "550 cc salata kasesi + pet kapak",
+  "bardak kapağı",
+  "plastik kapak",
+  "şeffaf kapak",
+  "karton bardak kapağı",
+  "kase kapağı",
+  "550 cc bardak",
+  "paket servis ambalajı",
+  "plastik ambalaj",
+  "toptan ambalaj",
+  "pc-sk550-pet"
+ ],
+ "marka": "EUPLUS",
+ "gorseller": {
+  "jpg": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/pc-sk550-pet-550-cc-salata-kasesi-pet-kapak/pc-sk550-pet-550-cc-salata-kasesi-pet-kapak.jpg",
+  "png": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/pc-sk550-pet-550-cc-salata-kasesi-pet-kapak/pc-sk550-pet-550-cc-salata-kasesi-pet-kapak.png",
+  "png_seffaf": false,
+  "not": "Kategori tanıtım fotoğrafı; ürüne özel fotoğraf yok"
+ },
+ "kaynak": {
+  "tedarikci": "promocup",
+  "tedarikci_ad": "Promocup",
+  "tedarikci_kodu": "",
+  "katalog": "kaynaklar/promocup/promocup-katalog-2026.pdf"
+ }
+}

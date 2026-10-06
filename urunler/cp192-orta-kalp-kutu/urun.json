@@ -1,0 +1,61 @@
+{
+ "stok_kodu": "CP192",
+ "baslik": "Orta Kalp Kutu 300 cc",
+ "urun_adi": "Orta Kalp Kutu",
+ "kategori": "Lokum & Çikolata Kapları",
+ "kategori_en": "Toffee & Chocolate Containers",
+ "katalog": "seffaf",
+ "tur": "kutu",
+ "olcu_mm": "120x120x50",
+ "hacim_cc": "300",
+ "hacim": "300",
+ "materyal": "PS",
+ "agiz_capi_mm": "",
+ "dip_capi_mm": "",
+ "yukseklik_mm": "",
+ "agirlik_g": "",
+ "fisek_ici_adet": "",
+ "koli_olcusu_mm": "600x400x460",
+ "koli_ici_adet": "450",
+ "koli_net_kg": "",
+ "palet_koli": "20",
+ "koli_secenekleri": [],
+ "min_siparis": "450 adet (1 koli)",
+ "not": "",
+ "aciklama": [
+  "Orta Kalp Kutu 300 cc, tek kullanımlık şeffaf sunum kutusudur. Lokum, çikolata, draje, badem şekeri, macaron ve kuruyemiş sunumu için uygundur.",
+  "Teknik özellikler: ürün ölçüsü 120 × 120 × 50 mm, 300 cc hacim, PS (polistiren) hammadde.",
+  "Kristal berraklığındaki gövdesi ürünün içeriğini olduğu gibi gösterir; vitrinde ve raf ömrü boyunca formunu korur. Gıdayla temasa uygun hammaddeden üretilmiştir.",
+  "Soğuk sunum ve dolapta saklama için −10 °C'ye, sıcak dolum için +60 °C'ye kadar kullanılabilir.",
+  "Toptan satış koli bazındadır: bir kolide 450 adet, koli ölçüsü 600 × 400 × 460 mm, bir euro palete 20 koli sığar."
+ ],
+ "aciklama_html": "<p>Orta Kalp Kutu 300 cc, tek kullanımlık şeffaf sunum kutusudur. Lokum, çikolata, draje, badem şekeri, macaron ve kuruyemiş sunumu için uygundur.</p>\n<p>Teknik özellikler: ürün ölçüsü 120 × 120 × 50 mm, 300 cc hacim, PS (polistiren) hammadde.</p>\n<p>Kristal berraklığındaki gövdesi ürünün içeriğini olduğu gibi gösterir; vitrinde ve raf ömrü boyunca formunu korur. Gıdayla temasa uygun hammaddeden üretilmiştir.</p>\n<p>Soğuk sunum ve dolapta saklama için −10 °C'ye, sıcak dolum için +60 °C'ye kadar kullanılabilir.</p>\n<p>Toptan satış koli bazındadır: bir kolide 450 adet, koli ölçüsü 600 × 400 × 460 mm, bir euro palete 20 koli sığar.</p>",
+ "etiketler": [
+  "orta kalp kutu 300 cc",
+  "orta kalp kutu",
+  "300 cc kutu",
+  "300cc kutu",
+  "sunum kutusu",
+  "plastik kutu",
+  "şeffaf kutu",
+  "tatlı kutusu",
+  "tek kullanımlık kutu",
+  "lokum kutusu",
+  "çikolata kutusu",
+  "kuruyemiş kabı",
+  "cp192"
+ ],
+ "marka": "EUPLUS",
+ "gorseller": {
+  "jpg": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/cp192-orta-kalp-kutu/cp192-orta-kalp-kutu.jpg",
+  "png": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/cp192-orta-kalp-kutu/cp192-orta-kalp-kutu.png",
+  "png_seffaf": true,
+  "not": ""
+ },
+ "kaynak": {
+  "tedarikci": "crystal-pack",
+  "tedarikci_ad": "Crystal Pack",
+  "tedarikci_kodu": "CP192",
+  "katalog": "kaynaklar/crystal-pack/crystal-pack-katalog-2026.pdf"
+ }
+}

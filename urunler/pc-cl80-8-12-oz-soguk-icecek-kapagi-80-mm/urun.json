@@ -1,0 +1,66 @@
+{
+ "stok_kodu": "PC-CL80",
+ "baslik": "8-12 oz Soğuk İçecek Kapağı 80 mm Ø",
+ "urun_adi": "8-12 oz Soğuk İçecek Kapağı 80 mm Ø",
+ "kategori": "Bardak Kapakları",
+ "kategori_en": "Cup Lids",
+ "katalog": "servis",
+ "tur": "soguk-bardak",
+ "olcu_mm": "",
+ "hacim_cc": "",
+ "hacim": "",
+ "materyal": "PET",
+ "agiz_capi_mm": "80",
+ "dip_capi_mm": "",
+ "yukseklik_mm": "",
+ "agirlik_g": "1,5",
+ "fisek_ici_adet": "100",
+ "koli_olcusu_mm": "440x375x430",
+ "koli_ici_adet": "2000",
+ "koli_net_kg": "3",
+ "palet_koli": "",
+ "koli_secenekleri": [
+  {
+   "koli_ici": "2000",
+   "koli": "440x375x430",
+   "net_kg": "3"
+  }
+ ],
+ "min_siparis": "2000 adet (1 koli)",
+ "not": "8 ve 12 oz soğuk içecek bardakları ile uyumlu",
+ "aciklama": [
+  "8-12 oz Soğuk İçecek Kapağı 80 mm Ø, karton soğuk içecek bardağıdır. Soğuk içecek, gazlı içecek, milkshake, smoothie, mısır ve patates servisi için uygundur.",
+  "Teknik özellikler: çap 80 mm, ürün ağırlığı 1,5 g.",
+  "Gıdayla temasa uygun, içi PE (polietilen) kaplı karton; sıvı geçirmez, kokusuz. Gıdayla temasa uygun hammaddeden üretilmiştir.",
+  "Ofset, flekso veya dijital baskı ile markanıza özel baskı yapılabilir; baskısız olarak da sunulur. Uyumlu kapaklarla paket servis için güvenle kullanılır.",
+  "Toptan satış koli bazındadır: bir kolide 2000 adet (100 adetlik fişekler hâlinde), koli ölçüsü 440 × 375 × 430 mm, koli net ağırlığı 3 kg."
+ ],
+ "aciklama_html": "<p>8-12 oz Soğuk İçecek Kapağı 80 mm Ø, karton soğuk içecek bardağıdır. Soğuk içecek, gazlı içecek, milkshake, smoothie, mısır ve patates servisi için uygundur.</p>\n<p>Teknik özellikler: çap 80 mm, ürün ağırlığı 1,5 g.</p>\n<p>Gıdayla temasa uygun, içi PE (polietilen) kaplı karton; sıvı geçirmez, kokusuz. Gıdayla temasa uygun hammaddeden üretilmiştir.</p>\n<p>Ofset, flekso veya dijital baskı ile markanıza özel baskı yapılabilir; baskısız olarak da sunulur. Uyumlu kapaklarla paket servis için güvenle kullanılır.</p>\n<p>Toptan satış koli bazındadır: bir kolide 2000 adet (100 adetlik fişekler hâlinde), koli ölçüsü 440 × 375 × 430 mm, koli net ağırlığı 3 kg.</p>",
+ "etiketler": [
+  "8-12 oz soğuk içecek kapağı 80 mm ø",
+  "soğuk içecek bardağı",
+  "karton soğuk bardak",
+  "milkshake bardağı",
+  "kola bardağı",
+  "mısır bardağı",
+  "karton bardak",
+  "baskılı karton bardak",
+  "paket servis ambalajı",
+  "karton ambalaj",
+  "toptan ambalaj",
+  "pc-cl80"
+ ],
+ "marka": "EUPLUS",
+ "gorseller": {
+  "jpg": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/pc-cl80-8-12-oz-soguk-icecek-kapagi-80-mm/pc-cl80-8-12-oz-soguk-icecek-kapagi-80-mm.jpg",
+  "png": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/pc-cl80-8-12-oz-soguk-icecek-kapagi-80-mm/pc-cl80-8-12-oz-soguk-icecek-kapagi-80-mm.png",
+  "png_seffaf": false,
+  "not": ""
+ },
+ "kaynak": {
+  "tedarikci": "promocup",
+  "tedarikci_ad": "Promocup",
+  "tedarikci_kodu": "",
+  "katalog": "kaynaklar/promocup/promocup-katalog-2026.pdf"
+ }
+}

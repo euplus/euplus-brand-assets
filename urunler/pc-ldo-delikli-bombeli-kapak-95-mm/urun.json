@@ -1,0 +1,64 @@
+{
+ "stok_kodu": "PC-LDO",
+ "baslik": "Delikli Bombeli Kapak Ø95 mm",
+ "urun_adi": "Delikli Bombeli Kapak Ø95 mm",
+ "kategori": "PET Bardak ve Kapaklar",
+ "kategori_en": "PET Cups & Lids",
+ "katalog": "servis",
+ "tur": "kapak-pc",
+ "olcu_mm": "",
+ "hacim_cc": "",
+ "hacim": "",
+ "materyal": "PET",
+ "agiz_capi_mm": "95",
+ "dip_capi_mm": "",
+ "yukseklik_mm": "",
+ "agirlik_g": "3,3",
+ "fisek_ici_adet": "100",
+ "koli_olcusu_mm": "550x215x525",
+ "koli_ici_adet": "1000",
+ "koli_net_kg": "3,3",
+ "palet_koli": "",
+ "koli_secenekleri": [
+  {
+   "koli_ici": "1000",
+   "koli": "550x215x525",
+   "net_kg": "3,3"
+  }
+ ],
+ "min_siparis": "1000 adet (1 koli)",
+ "not": "",
+ "aciklama": [
+  "Delikli Bombeli Kapak Ø95 mm, bardak veya kase ile uyumlu plastik kapaktır. Paket servis ve gel-al satışta taşıma güvenliği için uygundur.",
+  "Teknik özellikler: çap 95 mm, ürün ağırlığı 3,3 g.",
+  "PET (polietilen tereftalat); kristal şeffaf görünüm. Gıdayla temasa uygun hammaddeden üretilmiştir.",
+  "Uyumlu bardak ve kaselerle kullanılır. Sıkı oturur, taşıma sırasında dökülmeyi önler.",
+  "Toptan satış koli bazındadır: bir kolide 1000 adet (100 adetlik fişekler hâlinde), koli ölçüsü 550 × 215 × 525 mm, koli net ağırlığı 3,3 kg."
+ ],
+ "aciklama_html": "<p>Delikli Bombeli Kapak Ø95 mm, bardak veya kase ile uyumlu plastik kapaktır. Paket servis ve gel-al satışta taşıma güvenliği için uygundur.</p>\n<p>Teknik özellikler: çap 95 mm, ürün ağırlığı 3,3 g.</p>\n<p>PET (polietilen tereftalat); kristal şeffaf görünüm. Gıdayla temasa uygun hammaddeden üretilmiştir.</p>\n<p>Uyumlu bardak ve kaselerle kullanılır. Sıkı oturur, taşıma sırasında dökülmeyi önler.</p>\n<p>Toptan satış koli bazındadır: bir kolide 1000 adet (100 adetlik fişekler hâlinde), koli ölçüsü 550 × 215 × 525 mm, koli net ağırlığı 3,3 kg.</p>",
+ "etiketler": [
+  "delikli bombeli kapak ø95 mm",
+  "bardak kapağı",
+  "plastik kapak",
+  "şeffaf kapak",
+  "karton bardak kapağı",
+  "kase kapağı",
+  "paket servis ambalajı",
+  "plastik ambalaj",
+  "toptan ambalaj",
+  "pc-ldo"
+ ],
+ "marka": "EUPLUS",
+ "gorseller": {
+  "jpg": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/pc-ldo-delikli-bombeli-kapak-95-mm/pc-ldo-delikli-bombeli-kapak-95-mm.jpg",
+  "png": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/pc-ldo-delikli-bombeli-kapak-95-mm/pc-ldo-delikli-bombeli-kapak-95-mm.png",
+  "png_seffaf": false,
+  "not": "Kategori tanıtım fotoğrafı; ürüne özel fotoğraf yok"
+ },
+ "kaynak": {
+  "tedarikci": "promocup",
+  "tedarikci_ad": "Promocup",
+  "tedarikci_kodu": "LDO",
+  "katalog": "kaynaklar/promocup/promocup-katalog-2026.pdf"
+ }
+}

@@ -1,0 +1,57 @@
+{
+ "stok_kodu": "PC-OPZ-01",
+ "baslik": "Oluklu Pizza Dilim Kutusu",
+ "urun_adi": "Oluklu Pizza Dilim Kutusu",
+ "kategori": "Oluklu Gıda Kutuları",
+ "kategori_en": "Corrugated Food Boxes",
+ "katalog": "servis",
+ "tur": "pizza-kutusu",
+ "olcu_mm": "220x210x40",
+ "hacim_cc": "",
+ "hacim": "",
+ "materyal": "Mikro oluklu mukavva",
+ "agiz_capi_mm": "",
+ "dip_capi_mm": "",
+ "yukseklik_mm": "",
+ "agirlik_g": "",
+ "fisek_ici_adet": "",
+ "koli_olcusu_mm": "",
+ "koli_ici_adet": "",
+ "koli_net_kg": "",
+ "palet_koli": "",
+ "koli_secenekleri": [],
+ "min_siparis": "Bizimle iletişime geçin",
+ "not": "",
+ "aciklama": [
+  "Oluklu Pizza Dilim Kutusu, mikro oluklu mukavvadan üretilmiş pizza dilim kutusudur. Dilim pizza, börek ve pide servisi için uygundur.",
+  "Teknik özellikler: ürün ölçüsü 220 × 210 × 40 mm.",
+  "Mikro oluklu (E dalga) mukavva; ısıyı korur, buharı dengeler, ezilmeye dayanıklı. Gıdayla temasa uygun hammaddeden üretilmiştir.",
+  "Baskılı veya baskısız, kraft ya da beyaz karton seçeneğiyle üretilir; markanıza özel baskı (ofset / flekso / dijital) yapılabilir. Düz sevk edilir, kullanım anında katlanır. Farklı ölçüler için bizimle iletişime geçin."
+ ],
+ "aciklama_html": "<p>Oluklu Pizza Dilim Kutusu, mikro oluklu mukavvadan üretilmiş pizza dilim kutusudur. Dilim pizza, börek ve pide servisi için uygundur.</p>\n<p>Teknik özellikler: ürün ölçüsü 220 × 210 × 40 mm.</p>\n<p>Mikro oluklu (E dalga) mukavva; ısıyı korur, buharı dengeler, ezilmeye dayanıklı. Gıdayla temasa uygun hammaddeden üretilmiştir.</p>\n<p>Baskılı veya baskısız, kraft ya da beyaz karton seçeneğiyle üretilir; markanıza özel baskı (ofset / flekso / dijital) yapılabilir. Düz sevk edilir, kullanım anında katlanır. Farklı ölçüler için bizimle iletişime geçin.</p>",
+ "etiketler": [
+  "oluklu pizza dilim kutusu",
+  "pizza dilim kutusu",
+  "üçgen pizza kutusu",
+  "oluklu pizza kutusu",
+  "dilim pizza kabı",
+  "kraft pizza kutusu",
+  "paket servis ambalajı",
+  "karton ambalaj",
+  "toptan ambalaj",
+  "pc-opz-01"
+ ],
+ "marka": "EUPLUS",
+ "gorseller": {
+  "jpg": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/pc-opz-01-oluklu-pizza-dilim-kutusu/pc-opz-01-oluklu-pizza-dilim-kutusu.jpg",
+  "png": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/pc-opz-01-oluklu-pizza-dilim-kutusu/pc-opz-01-oluklu-pizza-dilim-kutusu.png",
+  "png_seffaf": true,
+  "not": ""
+ },
+ "kaynak": {
+  "tedarikci": "promocup",
+  "tedarikci_ad": "Promocup",
+  "tedarikci_kodu": "OPZ-01",
+  "katalog": "kaynaklar/promocup/promocup-katalog-2026.pdf"
+ }
+}

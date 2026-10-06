@@ -1,0 +1,26 @@
+{
+ "slug": "crystal-pack",
+ "ad": "Crystal Pack",
+ "tur": "tedarikçi",
+ "adres": "Barbaros Mah. Çimen Sok. No:30 Ataşehir / İstanbul",
+ "telefon": "+90 216 641 25 15",
+ "eposta": "info@crystalpack.com",
+ "web": "www.crystalpack.com.tr",
+ "instagram": "@crystalpackambalaj",
+ "kataloglar": [
+  {
+   "dosya": "crystal-pack-katalog-2026.pdf",
+   "yil": 2026,
+   "sayfa": 50,
+   "islendi": "2026-09-21",
+   "urun_sayisi": 93,
+   "not": "Ürün görselleri ve teknik veriler bu katalogdan çıkarıldı. Görsel kullanım izni teyit edilmeli."
+  }
+ ],
+ "urun_kodu_oneki": "CP",
+ "notlar": "Şeffaf PS/PET sunum ambalajları. Üç bölüm: sütlü tatlı, lokum-çikolata, bal.",
+ "gorsel_izni": {
+  "durum": "teyit edilmedi",
+  "not": "Depo public. Yayımdan önce Crystal Pack ile teyit edilmeli."
+ }
+}

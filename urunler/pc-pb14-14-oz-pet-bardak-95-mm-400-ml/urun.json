@@ -1,0 +1,67 @@
+{
+ "stok_kodu": "PC-PB14",
+ "baslik": "14 oz PET Bardak (95 mm Ø) – 400 ml",
+ "urun_adi": "14 oz PET Bardak (95 mm Ø) – 400 ml",
+ "kategori": "PET Bardak ve Kapaklar",
+ "kategori_en": "PET Cups & Lids",
+ "katalog": "servis",
+ "tur": "pet-bardak",
+ "olcu_mm": "",
+ "hacim_cc": "400",
+ "hacim": "400",
+ "materyal": "PET",
+ "agiz_capi_mm": "95",
+ "dip_capi_mm": "",
+ "yukseklik_mm": "",
+ "agirlik_g": "12",
+ "fisek_ici_adet": "50",
+ "koli_olcusu_mm": "485x405x505",
+ "koli_ici_adet": "1000",
+ "koli_net_kg": "12",
+ "palet_koli": "",
+ "koli_secenekleri": [
+  {
+   "koli_ici": "1000",
+   "koli": "485x405x505",
+   "net_kg": "12"
+  }
+ ],
+ "min_siparis": "1000 adet (1 koli)",
+ "not": "",
+ "aciklama": [
+  "14 oz PET Bardak (95 mm Ø) – 400 ml, kristal şeffaf PET soğuk içecek bardağıdır. Bubble tea, frappe, limonata, smoothie ve soğuk kahve servisi için uygundur.",
+  "Teknik özellikler: çap 95 mm, 400 cc hacim, ürün ağırlığı 12 g.",
+  "PET (polietilen tereftalat), kristal şeffaf. Gıdayla temasa uygun hammaddeden üretilmiştir.",
+  "Ofset, flekso veya dijital baskı ile markanıza özel baskı yapılabilir; baskısız olarak da sunulur. Uyumlu kapaklarla paket servis için güvenle kullanılır.",
+  "Toptan satış koli bazındadır: bir kolide 1000 adet (50 adetlik fişekler hâlinde), koli ölçüsü 485 × 405 × 505 mm, koli net ağırlığı 12 kg."
+ ],
+ "aciklama_html": "<p>14 oz PET Bardak (95 mm Ø) – 400 ml, kristal şeffaf PET soğuk içecek bardağıdır. Bubble tea, frappe, limonata, smoothie ve soğuk kahve servisi için uygundur.</p>\n<p>Teknik özellikler: çap 95 mm, 400 cc hacim, ürün ağırlığı 12 g.</p>\n<p>PET (polietilen tereftalat), kristal şeffaf. Gıdayla temasa uygun hammaddeden üretilmiştir.</p>\n<p>Ofset, flekso veya dijital baskı ile markanıza özel baskı yapılabilir; baskısız olarak da sunulur. Uyumlu kapaklarla paket servis için güvenle kullanılır.</p>\n<p>Toptan satış koli bazındadır: bir kolide 1000 adet (50 adetlik fişekler hâlinde), koli ölçüsü 485 × 405 × 505 mm, koli net ağırlığı 12 kg.</p>",
+ "etiketler": [
+  "14 oz pet bardak (95 mm ø) – 400 ml",
+  "pet bardak",
+  "şeffaf bardak",
+  "bubble tea bardağı",
+  "plastik bardak",
+  "soğuk içecek bardağı",
+  "95 mm pet bardak",
+  "kapaklı pet bardak",
+  "400 cc bardak",
+  "paket servis ambalajı",
+  "plastik ambalaj",
+  "toptan ambalaj",
+  "pc-pb14"
+ ],
+ "marka": "EUPLUS",
+ "gorseller": {
+  "jpg": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/pc-pb14-14-oz-pet-bardak-95-mm-400-ml/pc-pb14-14-oz-pet-bardak-95-mm-400-ml.jpg",
+  "png": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/pc-pb14-14-oz-pet-bardak-95-mm-400-ml/pc-pb14-14-oz-pet-bardak-95-mm-400-ml.png",
+  "png_seffaf": false,
+  "not": "Kategori tanıtım fotoğrafı; ürüne özel fotoğraf yok"
+ },
+ "kaynak": {
+  "tedarikci": "promocup",
+  "tedarikci_ad": "Promocup",
+  "tedarikci_kodu": "",
+  "katalog": "kaynaklar/promocup/promocup-katalog-2026.pdf"
+ }
+}

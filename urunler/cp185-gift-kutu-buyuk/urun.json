@@ -1,0 +1,61 @@
+{
+ "stok_kodu": "CP185",
+ "baslik": "Gift Kutu Büyük 1200 cc",
+ "urun_adi": "Gift Kutu Büyük",
+ "kategori": "Lokum & Çikolata Kapları",
+ "kategori_en": "Toffee & Chocolate Containers",
+ "katalog": "seffaf",
+ "tur": "kutu",
+ "olcu_mm": "167x167x95",
+ "hacim_cc": "1200",
+ "hacim": "1200",
+ "materyal": "PS",
+ "agiz_capi_mm": "",
+ "dip_capi_mm": "",
+ "yukseklik_mm": "",
+ "agirlik_g": "",
+ "fisek_ici_adet": "",
+ "koli_olcusu_mm": "600x400x460",
+ "koli_ici_adet": "48",
+ "koli_net_kg": "",
+ "palet_koli": "20",
+ "koli_secenekleri": [],
+ "min_siparis": "48 adet (1 koli)",
+ "not": "",
+ "aciklama": [
+  "Gift Kutu Büyük 1200 cc, tek kullanımlık şeffaf sunum kutusudur. Lokum, çikolata, draje, badem şekeri, macaron ve kuruyemiş sunumu için uygundur.",
+  "Teknik özellikler: ürün ölçüsü 167 × 167 × 95 mm, 1200 cc hacim, PS (polistiren) hammadde.",
+  "Kristal berraklığındaki gövdesi ürünün içeriğini olduğu gibi gösterir; vitrinde ve raf ömrü boyunca formunu korur. Gıdayla temasa uygun hammaddeden üretilmiştir.",
+  "Soğuk sunum ve dolapta saklama için −10 °C'ye, sıcak dolum için +60 °C'ye kadar kullanılabilir.",
+  "Toptan satış koli bazındadır: bir kolide 48 adet, koli ölçüsü 600 × 400 × 460 mm, bir euro palete 20 koli sığar."
+ ],
+ "aciklama_html": "<p>Gift Kutu Büyük 1200 cc, tek kullanımlık şeffaf sunum kutusudur. Lokum, çikolata, draje, badem şekeri, macaron ve kuruyemiş sunumu için uygundur.</p>\n<p>Teknik özellikler: ürün ölçüsü 167 × 167 × 95 mm, 1200 cc hacim, PS (polistiren) hammadde.</p>\n<p>Kristal berraklığındaki gövdesi ürünün içeriğini olduğu gibi gösterir; vitrinde ve raf ömrü boyunca formunu korur. Gıdayla temasa uygun hammaddeden üretilmiştir.</p>\n<p>Soğuk sunum ve dolapta saklama için −10 °C'ye, sıcak dolum için +60 °C'ye kadar kullanılabilir.</p>\n<p>Toptan satış koli bazındadır: bir kolide 48 adet, koli ölçüsü 600 × 400 × 460 mm, bir euro palete 20 koli sığar.</p>",
+ "etiketler": [
+  "gift kutu büyük 1200 cc",
+  "gift kutu büyük",
+  "1200 cc kutu",
+  "1200cc kutu",
+  "sunum kutusu",
+  "plastik kutu",
+  "şeffaf kutu",
+  "tatlı kutusu",
+  "tek kullanımlık kutu",
+  "lokum kutusu",
+  "çikolata kutusu",
+  "kuruyemiş kabı",
+  "cp185"
+ ],
+ "marka": "EUPLUS",
+ "gorseller": {
+  "jpg": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/cp185-gift-kutu-buyuk/cp185-gift-kutu-buyuk.jpg",
+  "png": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/cp185-gift-kutu-buyuk/cp185-gift-kutu-buyuk.png",
+  "png_seffaf": true,
+  "not": ""
+ },
+ "kaynak": {
+  "tedarikci": "crystal-pack",
+  "tedarikci_ad": "Crystal Pack",
+  "tedarikci_kodu": "CP185",
+  "katalog": "kaynaklar/crystal-pack/crystal-pack-katalog-2026.pdf"
+ }
+}

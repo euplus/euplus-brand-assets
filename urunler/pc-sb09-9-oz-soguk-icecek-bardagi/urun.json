@@ -1,0 +1,68 @@
+{
+ "stok_kodu": "PC-SB09",
+ "baslik": "9 oz Soğuk İçecek Bardağı",
+ "urun_adi": "9 oz Soğuk İçecek Bardağı",
+ "kategori": "Soğuk İçecek Bardakları",
+ "kategori_en": "Cold Cups",
+ "katalog": "servis",
+ "tur": "soguk-bardak",
+ "olcu_mm": "77x51x103",
+ "hacim_cc": "",
+ "hacim": "9 oz",
+ "materyal": "PE kaplı karton",
+ "agiz_capi_mm": "77",
+ "dip_capi_mm": "51",
+ "yukseklik_mm": "103",
+ "agirlik_g": "6,8",
+ "fisek_ici_adet": "100",
+ "koli_olcusu_mm": "410x328x630",
+ "koli_ici_adet": "2000",
+ "koli_net_kg": "13,6",
+ "palet_koli": "",
+ "koli_secenekleri": [
+  {
+   "koli_ici": "2000",
+   "koli": "410x328x630",
+   "net_kg": "13,6"
+  }
+ ],
+ "min_siparis": "2000 adet (1 koli)",
+ "not": "",
+ "aciklama": [
+  "9 oz Soğuk İçecek Bardağı, karton soğuk içecek bardağıdır. Soğuk içecek, gazlı içecek, milkshake, smoothie, mısır ve patates servisi için uygundur.",
+  "Teknik özellikler: ağız çapı 77 mm, dip çapı 51 mm, yükseklik 103 mm, hacim 9 oz, ürün ağırlığı 6,8 g.",
+  "Gıdayla temasa uygun, içi PE (polietilen) kaplı karton; sıvı geçirmez, kokusuz. Gıdayla temasa uygun hammaddeden üretilmiştir.",
+  "Ofset, flekso veya dijital baskı ile markanıza özel baskı yapılabilir; baskısız olarak da sunulur. Uyumlu kapaklarla paket servis için güvenle kullanılır.",
+  "Toptan satış koli bazındadır: bir kolide 2000 adet (100 adetlik fişekler hâlinde), koli ölçüsü 410 × 328 × 630 mm, koli net ağırlığı 13,6 kg."
+ ],
+ "aciklama_html": "<p>9 oz Soğuk İçecek Bardağı, karton soğuk içecek bardağıdır. Soğuk içecek, gazlı içecek, milkshake, smoothie, mısır ve patates servisi için uygundur.</p>\n<p>Teknik özellikler: ağız çapı 77 mm, dip çapı 51 mm, yükseklik 103 mm, hacim 9 oz, ürün ağırlığı 6,8 g.</p>\n<p>Gıdayla temasa uygun, içi PE (polietilen) kaplı karton; sıvı geçirmez, kokusuz. Gıdayla temasa uygun hammaddeden üretilmiştir.</p>\n<p>Ofset, flekso veya dijital baskı ile markanıza özel baskı yapılabilir; baskısız olarak da sunulur. Uyumlu kapaklarla paket servis için güvenle kullanılır.</p>\n<p>Toptan satış koli bazındadır: bir kolide 2000 adet (100 adetlik fişekler hâlinde), koli ölçüsü 410 × 328 × 630 mm, koli net ağırlığı 13,6 kg.</p>",
+ "etiketler": [
+  "9 oz soğuk içecek bardağı",
+  "soğuk içecek bardağı",
+  "karton soğuk bardak",
+  "milkshake bardağı",
+  "kola bardağı",
+  "mısır bardağı",
+  "karton bardak",
+  "baskılı karton bardak",
+  "9 oz bardak",
+  "9oz karton bardak",
+  "paket servis ambalajı",
+  "karton ambalaj",
+  "toptan ambalaj",
+  "pc-sb09"
+ ],
+ "marka": "EUPLUS",
+ "gorseller": {
+  "jpg": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/pc-sb09-9-oz-soguk-icecek-bardagi/pc-sb09-9-oz-soguk-icecek-bardagi.jpg",
+  "png": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/pc-sb09-9-oz-soguk-icecek-bardagi/pc-sb09-9-oz-soguk-icecek-bardagi.png",
+  "png_seffaf": false,
+  "not": "Kategori tanıtım fotoğrafı; ürüne özel fotoğraf yok"
+ },
+ "kaynak": {
+  "tedarikci": "promocup",
+  "tedarikci_ad": "Promocup",
+  "tedarikci_kodu": "",
+  "katalog": "kaynaklar/promocup/promocup-katalog-2026.pdf"
+ }
+}

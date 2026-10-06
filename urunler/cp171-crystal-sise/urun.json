@@ -1,0 +1,59 @@
+{
+ "stok_kodu": "CP171",
+ "baslik": "Crystal Şişe 250 cc",
+ "urun_adi": "Crystal Şişe",
+ "kategori": "Lokum & Çikolata Kapları",
+ "kategori_en": "Toffee & Chocolate Containers",
+ "katalog": "seffaf",
+ "tur": "sise",
+ "olcu_mm": "28x58x200",
+ "hacim_cc": "250",
+ "hacim": "250",
+ "materyal": "PS",
+ "agiz_capi_mm": "",
+ "dip_capi_mm": "",
+ "yukseklik_mm": "",
+ "agirlik_g": "",
+ "fisek_ici_adet": "",
+ "koli_olcusu_mm": "600x400x460",
+ "koli_ici_adet": "250",
+ "koli_net_kg": "",
+ "palet_koli": "20",
+ "koli_secenekleri": [],
+ "min_siparis": "250 adet (1 koli)",
+ "not": "",
+ "aciklama": [
+  "Crystal Şişe 250 cc, şeker ve draje sunumu için şeffaf dekoratif şişedir. Lokum, çikolata, draje, badem şekeri, macaron ve kuruyemiş sunumu için uygundur.",
+  "Teknik özellikler: ürün ölçüsü 28 × 58 × 200 mm, 250 cc hacim, PS (polistiren) hammadde.",
+  "Kristal berraklığındaki gövdesi ürünün içeriğini olduğu gibi gösterir; vitrinde ve raf ömrü boyunca formunu korur. Gıdayla temasa uygun hammaddeden üretilmiştir.",
+  "Soğuk sunum ve dolapta saklama için −10 °C'ye, sıcak dolum için +60 °C'ye kadar kullanılabilir.",
+  "Toptan satış koli bazındadır: bir kolide 250 adet, koli ölçüsü 600 × 400 × 460 mm, bir euro palete 20 koli sığar."
+ ],
+ "aciklama_html": "<p>Crystal Şişe 250 cc, şeker ve draje sunumu için şeffaf dekoratif şişedir. Lokum, çikolata, draje, badem şekeri, macaron ve kuruyemiş sunumu için uygundur.</p>\n<p>Teknik özellikler: ürün ölçüsü 28 × 58 × 200 mm, 250 cc hacim, PS (polistiren) hammadde.</p>\n<p>Kristal berraklığındaki gövdesi ürünün içeriğini olduğu gibi gösterir; vitrinde ve raf ömrü boyunca formunu korur. Gıdayla temasa uygun hammaddeden üretilmiştir.</p>\n<p>Soğuk sunum ve dolapta saklama için −10 °C'ye, sıcak dolum için +60 °C'ye kadar kullanılabilir.</p>\n<p>Toptan satış koli bazındadır: bir kolide 250 adet, koli ölçüsü 600 × 400 × 460 mm, bir euro palete 20 koli sığar.</p>",
+ "etiketler": [
+  "crystal şişe 250 cc",
+  "crystal şişe",
+  "250 cc sise",
+  "250cc sise",
+  "dekoratif şişe",
+  "şeker şişesi",
+  "plastik şişe",
+  "lokum kutusu",
+  "çikolata kutusu",
+  "kuruyemiş kabı",
+  "cp171"
+ ],
+ "marka": "EUPLUS",
+ "gorseller": {
+  "jpg": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/cp171-crystal-sise/cp171-crystal-sise.jpg",
+  "png": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/cp171-crystal-sise/cp171-crystal-sise.png",
+  "png_seffaf": true,
+  "not": ""
+ },
+ "kaynak": {
+  "tedarikci": "crystal-pack",
+  "tedarikci_ad": "Crystal Pack",
+  "tedarikci_kodu": "CP171",
+  "katalog": "kaynaklar/crystal-pack/crystal-pack-katalog-2026.pdf"
+ }
+}

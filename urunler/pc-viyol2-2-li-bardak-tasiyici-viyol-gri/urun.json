@@ -1,0 +1,65 @@
+{
+ "stok_kodu": "PC-VIYOL2",
+ "baslik": "2'li Bardak Taşıyıcı Viyol (Gri)",
+ "urun_adi": "2'li Bardak Taşıyıcı Viyol (Gri)",
+ "kategori": "Taşıma ve Aksesuarlar",
+ "kategori_en": "Carriers & Accessories",
+ "katalog": "servis",
+ "tur": "viyol",
+ "olcu_mm": "",
+ "hacim_cc": "",
+ "hacim": "",
+ "materyal": "Kağıt hamuru (pulp)",
+ "agiz_capi_mm": "",
+ "dip_capi_mm": "",
+ "yukseklik_mm": "",
+ "agirlik_g": "14",
+ "fisek_ici_adet": "480",
+ "koli_olcusu_mm": "600x448x215",
+ "koli_ici_adet": "480",
+ "koli_net_kg": "6,7",
+ "palet_koli": "",
+ "koli_secenekleri": [
+  {
+   "koli_ici": "480",
+   "koli": "600x448x215",
+   "net_kg": "6,7"
+  }
+ ],
+ "min_siparis": "480 adet (1 koli)",
+ "not": "",
+ "aciklama": [
+  "2'li Bardak Taşıyıcı Viyol (Gri), kağıt hamurundan (pulp) üretilmiş bardak taşıyıcı viyoldür. Birden fazla içeceğin güvenle taşınması için uygundur.",
+  "Teknik özellikler: ürün ağırlığı 14 g.",
+  "Geri dönüştürülmüş kağıt hamuru (pulp); gri. Gıdayla temasa uygun hammaddeden üretilmiştir.",
+  "Paket servis ve gel-al satış için pratik çözüm.",
+  "Toptan satış koli bazındadır: bir kolide 480 adet (480 adetlik fişekler hâlinde), koli ölçüsü 600 × 448 × 215 mm, koli net ağırlığı 6,7 kg."
+ ],
+ "aciklama_html": "<p>2'li Bardak Taşıyıcı Viyol (Gri), kağıt hamurundan (pulp) üretilmiş bardak taşıyıcı viyoldür. Birden fazla içeceğin güvenle taşınması için uygundur.</p>\n<p>Teknik özellikler: ürün ağırlığı 14 g.</p>\n<p>Geri dönüştürülmüş kağıt hamuru (pulp); gri. Gıdayla temasa uygun hammaddeden üretilmiştir.</p>\n<p>Paket servis ve gel-al satış için pratik çözüm.</p>\n<p>Toptan satış koli bazındadır: bir kolide 480 adet (480 adetlik fişekler hâlinde), koli ölçüsü 600 × 448 × 215 mm, koli net ağırlığı 6,7 kg.</p>",
+ "etiketler": [
+  "2'li bardak taşıyıcı viyol (gri)",
+  "bardak taşıyıcı",
+  "viyol",
+  "bardak viyolü",
+  "kahve taşıma viyolü",
+  "cup holder",
+  "karton bardak taşıyıcı",
+  "paket servis ambalajı",
+  "karton ambalaj",
+  "toptan ambalaj",
+  "pc-vıyol2"
+ ],
+ "marka": "EUPLUS",
+ "gorseller": {
+  "jpg": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/pc-viyol2-2-li-bardak-tasiyici-viyol-gri/pc-viyol2-2-li-bardak-tasiyici-viyol-gri.jpg",
+  "png": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/pc-viyol2-2-li-bardak-tasiyici-viyol-gri/pc-viyol2-2-li-bardak-tasiyici-viyol-gri.png",
+  "png_seffaf": false,
+  "not": "Kategori tanıtım fotoğrafı; ürüne özel fotoğraf yok"
+ },
+ "kaynak": {
+  "tedarikci": "promocup",
+  "tedarikci_ad": "Promocup",
+  "tedarikci_kodu": "",
+  "katalog": "kaynaklar/promocup/promocup-katalog-2026.pdf"
+ }
+}

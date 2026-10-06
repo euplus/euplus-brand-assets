@@ -1,0 +1,73 @@
+{
+ "stok_kodu": "PC-TB04",
+ "baslik": "4 oz Tek Katlı Sıcak İçecek Bardağı",
+ "urun_adi": "4 oz Tek Katlı Sıcak İçecek Bardağı",
+ "kategori": "Tek Katlı Sıcak İçecek Bardakları",
+ "kategori_en": "Single Wall Hot Cups",
+ "katalog": "servis",
+ "tur": "tek-katli-bardak",
+ "olcu_mm": "63x46x60",
+ "hacim_cc": "",
+ "hacim": "4 oz",
+ "materyal": "PE kaplı karton",
+ "agiz_capi_mm": "63",
+ "dip_capi_mm": "46",
+ "yukseklik_mm": "60",
+ "agirlik_g": "3,35",
+ "fisek_ici_adet": "100",
+ "koli_olcusu_mm": "335x160x690",
+ "koli_ici_adet": "1000",
+ "koli_net_kg": "3",
+ "palet_koli": "",
+ "koli_secenekleri": [
+  {
+   "koli_ici": "1000",
+   "koli": "335x160x690",
+   "net_kg": "3"
+  },
+  {
+   "koli_ici": "3000",
+   "koli": "420x335x685",
+   "net_kg": "10"
+  }
+ ],
+ "min_siparis": "1000 adet (1 koli)",
+ "not": "",
+ "aciklama": [
+  "4 oz Tek Katlı Sıcak İçecek Bardağı, tek katlı karton sıcak içecek bardağıdır. Kahve, çay, salep, sıcak çikolata ve bitki çayı servisi için uygundur.",
+  "Teknik özellikler: ağız çapı 63 mm, dip çapı 46 mm, yükseklik 60 mm, hacim 4 oz, ürün ağırlığı 3,35 g.",
+  "Gıdayla temasa uygun, içi PE (polietilen) kaplı karton; sıvı geçirmez, kokusuz. Gıdayla temasa uygun hammaddeden üretilmiştir.",
+  "Ofset, flekso veya dijital baskı ile markanıza özel baskılı; baskısız beyaz veya kraft olarak da sunulur. Sıcak içecek için tasarlanmıştır; PS yudum kapakları ile uyumludur.",
+  "Toptan satış koli bazındadır: bir kolide 1000 adet (100 adetlik fişekler hâlinde), koli ölçüsü 335 × 160 × 690 mm, koli net ağırlığı 3 kg. Alternatif koli: 3000 adet, 420 × 335 × 685 mm, 10 kg."
+ ],
+ "aciklama_html": "<p>4 oz Tek Katlı Sıcak İçecek Bardağı, tek katlı karton sıcak içecek bardağıdır. Kahve, çay, salep, sıcak çikolata ve bitki çayı servisi için uygundur.</p>\n<p>Teknik özellikler: ağız çapı 63 mm, dip çapı 46 mm, yükseklik 60 mm, hacim 4 oz, ürün ağırlığı 3,35 g.</p>\n<p>Gıdayla temasa uygun, içi PE (polietilen) kaplı karton; sıvı geçirmez, kokusuz. Gıdayla temasa uygun hammaddeden üretilmiştir.</p>\n<p>Ofset, flekso veya dijital baskı ile markanıza özel baskılı; baskısız beyaz veya kraft olarak da sunulur. Sıcak içecek için tasarlanmıştır; PS yudum kapakları ile uyumludur.</p>\n<p>Toptan satış koli bazındadır: bir kolide 1000 adet (100 adetlik fişekler hâlinde), koli ölçüsü 335 × 160 × 690 mm, koli net ağırlığı 3 kg. Alternatif koli: 3000 adet, 420 × 335 × 685 mm, 10 kg.</p>",
+ "etiketler": [
+  "4 oz tek katlı sıcak içecek bardağı",
+  "karton bardak",
+  "kağıt bardak",
+  "tek katlı karton bardak",
+  "sıcak içecek bardağı",
+  "kahve bardağı",
+  "çay bardağı",
+  "baskılı karton bardak",
+  "tek kullanımlık bardak",
+  "4 oz bardak",
+  "4oz karton bardak",
+  "paket servis ambalajı",
+  "karton ambalaj",
+  "toptan ambalaj"
+ ],
+ "marka": "EUPLUS",
+ "gorseller": {
+  "jpg": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/pc-tb04-4-oz-tek-katli-sicak-icecek-bardagi/pc-tb04-4-oz-tek-katli-sicak-icecek-bardagi.jpg",
+  "png": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/pc-tb04-4-oz-tek-katli-sicak-icecek-bardagi/pc-tb04-4-oz-tek-katli-sicak-icecek-bardagi.png",
+  "png_seffaf": false,
+  "not": "Kategori tanıtım fotoğrafı; ürüne özel fotoğraf yok"
+ },
+ "kaynak": {
+  "tedarikci": "promocup",
+  "tedarikci_ad": "Promocup",
+  "tedarikci_kodu": "",
+  "katalog": "kaynaklar/promocup/promocup-katalog-2026.pdf"
+ }
+}

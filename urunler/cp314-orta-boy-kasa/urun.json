@@ -1,0 +1,59 @@
+{
+ "stok_kodu": "CP314",
+ "baslik": "Orta Boy Kasa 400 cc",
+ "urun_adi": "Orta Boy Kasa",
+ "kategori": "Bal Kapları",
+ "kategori_en": "Honey Containers",
+ "katalog": "seffaf",
+ "tur": "kasa",
+ "olcu_mm": "111x157x46",
+ "hacim_cc": "400",
+ "hacim": "400",
+ "materyal": "PS",
+ "agiz_capi_mm": "",
+ "dip_capi_mm": "",
+ "yukseklik_mm": "",
+ "agirlik_g": "",
+ "fisek_ici_adet": "",
+ "koli_olcusu_mm": "600x460x400",
+ "koli_ici_adet": "165",
+ "koli_net_kg": "",
+ "palet_koli": "20",
+ "koli_secenekleri": [],
+ "min_siparis": "165 adet (1 koli)",
+ "not": "",
+ "aciklama": [
+  "Orta Boy Kasa 400 cc, petek bal için tasarlanmış kasa (çerçeve) modelidir. Süzme bal, petek bal ve krem bal sunumu için uygundur.",
+  "Teknik özellikler: ürün ölçüsü 111 × 157 × 46 mm, 400 cc hacim, PS (polistiren) hammadde.",
+  "Kristal berraklığındaki gövdesi ürünün içeriğini olduğu gibi gösterir; vitrinde ve raf ömrü boyunca formunu korur. Gıdayla temasa uygun hammaddeden üretilmiştir.",
+  "Soğuk sunum ve dolapta saklama için −10 °C'ye, sıcak dolum için +60 °C'ye kadar kullanılabilir.",
+  "Toptan satış koli bazındadır: bir kolide 165 adet, koli ölçüsü 600 × 460 × 400 mm, bir euro palete 20 koli sığar."
+ ],
+ "aciklama_html": "<p>Orta Boy Kasa 400 cc, petek bal için tasarlanmış kasa (çerçeve) modelidir. Süzme bal, petek bal ve krem bal sunumu için uygundur.</p>\n<p>Teknik özellikler: ürün ölçüsü 111 × 157 × 46 mm, 400 cc hacim, PS (polistiren) hammadde.</p>\n<p>Kristal berraklığındaki gövdesi ürünün içeriğini olduğu gibi gösterir; vitrinde ve raf ömrü boyunca formunu korur. Gıdayla temasa uygun hammaddeden üretilmiştir.</p>\n<p>Soğuk sunum ve dolapta saklama için −10 °C'ye, sıcak dolum için +60 °C'ye kadar kullanılabilir.</p>\n<p>Toptan satış koli bazındadır: bir kolide 165 adet, koli ölçüsü 600 × 460 × 400 mm, bir euro palete 20 koli sığar.</p>",
+ "etiketler": [
+  "orta boy kasa 400 cc",
+  "orta boy kasa",
+  "400 cc kasa",
+  "400cc kasa",
+  "petek bal kasası",
+  "bal kasası",
+  "petek bal kabı",
+  "bal kabı",
+  "petek bal ambalajı",
+  "bal ambalajı",
+  "cp314"
+ ],
+ "marka": "EUPLUS",
+ "gorseller": {
+  "jpg": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/cp314-orta-boy-kasa/cp314-orta-boy-kasa.jpg",
+  "png": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/cp314-orta-boy-kasa/cp314-orta-boy-kasa.png",
+  "png_seffaf": true,
+  "not": ""
+ },
+ "kaynak": {
+  "tedarikci": "crystal-pack",
+  "tedarikci_ad": "Crystal Pack",
+  "tedarikci_kodu": "CP314",
+  "katalog": "kaynaklar/crystal-pack/crystal-pack-katalog-2026.pdf"
+ }
+}

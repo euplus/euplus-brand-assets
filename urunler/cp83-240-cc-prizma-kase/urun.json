@@ -1,0 +1,60 @@
+{
+ "stok_kodu": "CP83",
+ "baslik": "240 cc Prizma Kase",
+ "urun_adi": "240 cc Prizma Kase",
+ "kategori": "Sütlü Tatlı Kapları",
+ "kategori_en": "Milk Dessert Containers",
+ "katalog": "seffaf",
+ "tur": "kase",
+ "olcu_mm": "",
+ "hacim_cc": "240",
+ "hacim": "240",
+ "materyal": "PS",
+ "agiz_capi_mm": "",
+ "dip_capi_mm": "",
+ "yukseklik_mm": "",
+ "agirlik_g": "",
+ "fisek_ici_adet": "",
+ "koli_olcusu_mm": "390x250x220",
+ "koli_ici_adet": "1000",
+ "koli_net_kg": "",
+ "palet_koli": "99",
+ "koli_secenekleri": [],
+ "min_siparis": "1000 adet (1 koli)",
+ "not": "",
+ "aciklama": [
+  "240 cc Prizma Kase, tek kullanımlık şeffaf tatlı kasesidir. Sütlü tatlı, puding, muhallebi, sütlaç, kazandibi, tiramisu ve benzeri tatlıların sunumu için uygundur.",
+  "Teknik özellikler: 240 cc hacim, PS (polistiren) hammadde.",
+  "Kristal berraklığındaki gövdesi ürünün içeriğini olduğu gibi gösterir; vitrinde ve raf ömrü boyunca formunu korur. Gıdayla temasa uygun hammaddeden üretilmiştir.",
+  "Soğuk sunum ve dolapta saklama için −10 °C'ye, sıcak dolum için +60 °C'ye kadar kullanılabilir.",
+  "Toptan satış koli bazındadır: bir kolide 1000 adet, koli ölçüsü 390 × 250 × 220 mm, bir euro palete 99 koli sığar."
+ ],
+ "aciklama_html": "<p>240 cc Prizma Kase, tek kullanımlık şeffaf tatlı kasesidir. Sütlü tatlı, puding, muhallebi, sütlaç, kazandibi, tiramisu ve benzeri tatlıların sunumu için uygundur.</p>\n<p>Teknik özellikler: 240 cc hacim, PS (polistiren) hammadde.</p>\n<p>Kristal berraklığındaki gövdesi ürünün içeriğini olduğu gibi gösterir; vitrinde ve raf ömrü boyunca formunu korur. Gıdayla temasa uygun hammaddeden üretilmiştir.</p>\n<p>Soğuk sunum ve dolapta saklama için −10 °C'ye, sıcak dolum için +60 °C'ye kadar kullanılabilir.</p>\n<p>Toptan satış koli bazındadır: bir kolide 1000 adet, koli ölçüsü 390 × 250 × 220 mm, bir euro palete 99 koli sığar.</p>",
+ "etiketler": [
+  "240 cc prizma kase",
+  "240 cc kase",
+  "240cc kase",
+  "tatlı kasesi",
+  "sunum kasesi",
+  "plastik kase",
+  "şeffaf kase",
+  "tek kullanımlık kase",
+  "sütlü tatlı kabı",
+  "puding kabı",
+  "tatlı ambalajı",
+  "cp83"
+ ],
+ "marka": "EUPLUS",
+ "gorseller": {
+  "jpg": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/cp83-240-cc-prizma-kase/cp83-240-cc-prizma-kase.jpg",
+  "png": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/cp83-240-cc-prizma-kase/cp83-240-cc-prizma-kase.png",
+  "png_seffaf": true,
+  "not": ""
+ },
+ "kaynak": {
+  "tedarikci": "crystal-pack",
+  "tedarikci_ad": "Crystal Pack",
+  "tedarikci_kodu": "CP83",
+  "katalog": "kaynaklar/crystal-pack/crystal-pack-katalog-2026.pdf"
+ }
+}

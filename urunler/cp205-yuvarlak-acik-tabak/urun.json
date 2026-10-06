@@ -1,0 +1,60 @@
+{
+ "stok_kodu": "CP205",
+ "baslik": "Yuvarlak Açık Tabak 500 cc",
+ "urun_adi": "Yuvarlak Açık Tabak",
+ "kategori": "Lokum & Çikolata Kapları",
+ "kategori_en": "Toffee & Chocolate Containers",
+ "katalog": "seffaf",
+ "tur": "tabak",
+ "olcu_mm": "208x208x21",
+ "hacim_cc": "500",
+ "hacim": "500",
+ "materyal": "PS",
+ "agiz_capi_mm": "",
+ "dip_capi_mm": "",
+ "yukseklik_mm": "",
+ "agirlik_g": "",
+ "fisek_ici_adet": "",
+ "koli_olcusu_mm": "405x305x400",
+ "koli_ici_adet": "300",
+ "koli_net_kg": "",
+ "palet_koli": "28",
+ "koli_secenekleri": [],
+ "min_siparis": "300 adet (1 koli)",
+ "not": "",
+ "aciklama": [
+  "Yuvarlak Açık Tabak 500 cc, tek kullanımlık şeffaf sunum tabağıdır. Lokum, çikolata, draje, badem şekeri, macaron ve kuruyemiş sunumu için uygundur.",
+  "Teknik özellikler: ürün ölçüsü 208 × 208 × 21 mm, 500 cc hacim, PS (polistiren) hammadde.",
+  "Kristal berraklığındaki gövdesi ürünün içeriğini olduğu gibi gösterir; vitrinde ve raf ömrü boyunca formunu korur. Gıdayla temasa uygun hammaddeden üretilmiştir.",
+  "Soğuk sunum ve dolapta saklama için −10 °C'ye, sıcak dolum için +60 °C'ye kadar kullanılabilir.",
+  "Toptan satış koli bazındadır: bir kolide 300 adet, koli ölçüsü 405 × 305 × 400 mm, bir euro palete 28 koli sığar."
+ ],
+ "aciklama_html": "<p>Yuvarlak Açık Tabak 500 cc, tek kullanımlık şeffaf sunum tabağıdır. Lokum, çikolata, draje, badem şekeri, macaron ve kuruyemiş sunumu için uygundur.</p>\n<p>Teknik özellikler: ürün ölçüsü 208 × 208 × 21 mm, 500 cc hacim, PS (polistiren) hammadde.</p>\n<p>Kristal berraklığındaki gövdesi ürünün içeriğini olduğu gibi gösterir; vitrinde ve raf ömrü boyunca formunu korur. Gıdayla temasa uygun hammaddeden üretilmiştir.</p>\n<p>Soğuk sunum ve dolapta saklama için −10 °C'ye, sıcak dolum için +60 °C'ye kadar kullanılabilir.</p>\n<p>Toptan satış koli bazındadır: bir kolide 300 adet, koli ölçüsü 405 × 305 × 400 mm, bir euro palete 28 koli sığar.</p>",
+ "etiketler": [
+  "yuvarlak açık tabak 500 cc",
+  "yuvarlak açık tabak",
+  "500 cc tabak",
+  "500cc tabak",
+  "plastik tabak",
+  "şeffaf tabak",
+  "sunum tabağı",
+  "servis tabağı",
+  "lokum kutusu",
+  "çikolata kutusu",
+  "kuruyemiş kabı",
+  "cp205"
+ ],
+ "marka": "EUPLUS",
+ "gorseller": {
+  "jpg": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/cp205-yuvarlak-acik-tabak/cp205-yuvarlak-acik-tabak.jpg",
+  "png": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/cp205-yuvarlak-acik-tabak/cp205-yuvarlak-acik-tabak.png",
+  "png_seffaf": true,
+  "not": ""
+ },
+ "kaynak": {
+  "tedarikci": "crystal-pack",
+  "tedarikci_ad": "Crystal Pack",
+  "tedarikci_kodu": "CP205",
+  "katalog": "kaynaklar/crystal-pack/crystal-pack-katalog-2026.pdf"
+ }
+}

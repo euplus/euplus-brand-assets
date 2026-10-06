@@ -1,0 +1,65 @@
+{
+ "stok_kodu": "PC-SK1000-PP",
+ "baslik": "1000 cc Salata Kasesi + PP Kapak",
+ "urun_adi": "1000 cc Salata Kasesi + PP Kapak",
+ "kategori": "Salata Kaseleri",
+ "kategori_en": "Salad Bowls",
+ "katalog": "servis",
+ "tur": "kapak-pc",
+ "olcu_mm": "187x164x55",
+ "hacim_cc": "1000",
+ "hacim": "1000",
+ "materyal": "Kraft karton + PP",
+ "agiz_capi_mm": "187",
+ "dip_capi_mm": "164",
+ "yukseklik_mm": "55",
+ "agirlik_g": "18+12",
+ "fisek_ici_adet": "25",
+ "koli_olcusu_mm": "580x390x530",
+ "koli_ici_adet": "200+200",
+ "koli_net_kg": "6",
+ "palet_koli": "",
+ "koli_secenekleri": [
+  {
+   "koli_ici": "200+200",
+   "koli": "580x390x530",
+   "net_kg": "6"
+  }
+ ],
+ "min_siparis": "200+200 adet (1 koli)",
+ "not": "kase + kapak",
+ "aciklama": [
+  "1000 cc Salata Kasesi + PP Kapak, bardak veya kase ile uyumlu plastik kapaktır. Paket servis ve gel-al satışta taşıma güvenliği için uygundur.",
+  "Teknik özellikler: ağız çapı 187 mm, dip çapı 164 mm, yükseklik 55 mm, 1000 cc hacim, ürün ağırlığı 18+12 g.",
+  "Kraft karton + PP. Gıdayla temasa uygun hammaddeden üretilmiştir.",
+  "kase + kapak. Sıkı oturur, taşıma sırasında dökülmeyi önler.",
+  "Toptan satış koli bazındadır: bir kolide 200+200 adet (25 adetlik fişekler hâlinde), koli ölçüsü 580 × 390 × 530 mm, koli net ağırlığı 6 kg."
+ ],
+ "aciklama_html": "<p>1000 cc Salata Kasesi + PP Kapak, bardak veya kase ile uyumlu plastik kapaktır. Paket servis ve gel-al satışta taşıma güvenliği için uygundur.</p>\n<p>Teknik özellikler: ağız çapı 187 mm, dip çapı 164 mm, yükseklik 55 mm, 1000 cc hacim, ürün ağırlığı 18+12 g.</p>\n<p>Kraft karton + PP. Gıdayla temasa uygun hammaddeden üretilmiştir.</p>\n<p>kase + kapak. Sıkı oturur, taşıma sırasında dökülmeyi önler.</p>\n<p>Toptan satış koli bazındadır: bir kolide 200+200 adet (25 adetlik fişekler hâlinde), koli ölçüsü 580 × 390 × 530 mm, koli net ağırlığı 6 kg.</p>",
+ "etiketler": [
+  "1000 cc salata kasesi + pp kapak",
+  "bardak kapağı",
+  "plastik kapak",
+  "şeffaf kapak",
+  "karton bardak kapağı",
+  "kase kapağı",
+  "1000 cc bardak",
+  "paket servis ambalajı",
+  "plastik ambalaj",
+  "toptan ambalaj",
+  "pc-sk1000-pp"
+ ],
+ "marka": "EUPLUS",
+ "gorseller": {
+  "jpg": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/pc-sk1000-pp-1000-cc-salata-kasesi-pp-kapak/pc-sk1000-pp-1000-cc-salata-kasesi-pp-kapak.jpg",
+  "png": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/pc-sk1000-pp-1000-cc-salata-kasesi-pp-kapak/pc-sk1000-pp-1000-cc-salata-kasesi-pp-kapak.png",
+  "png_seffaf": false,
+  "not": "Kategori tanıtım fotoğrafı; ürüne özel fotoğraf yok"
+ },
+ "kaynak": {
+  "tedarikci": "promocup",
+  "tedarikci_ad": "Promocup",
+  "tedarikci_kodu": "",
+  "katalog": "kaynaklar/promocup/promocup-katalog-2026.pdf"
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "stok_kodu": "CP85",
+ "baslik": "Verona Bardak 60 cc",
+ "urun_adi": "Verona Bardak 60 cc",
+ "kategori": "Sütlü Tatlı Kapları",
+ "kategori_en": "Milk Dessert Containers",
+ "katalog": "seffaf",
+ "tur": "bardak",
+ "olcu_mm": "50x45x65",
+ "hacim_cc": "60",
+ "hacim": "60",
+ "materyal": "PS",
+ "agiz_capi_mm": "",
+ "dip_capi_mm": "",
+ "yukseklik_mm": "",
+ "agirlik_g": "",
+ "fisek_ici_adet": "",
+ "koli_olcusu_mm": "300x360x180",
+ "koli_ici_adet": "360",
+ "koli_net_kg": "",
+ "palet_koli": "2112",
+ "koli_secenekleri": [],
+ "min_siparis": "360 adet (1 koli)",
+ "not": "",
+ "aciklama": [
+  "Verona Bardak 60 cc, tek kullanımlık şeffaf sunum bardağıdır. Sütlü tatlı, puding, muhallebi, sütlaç, kazandibi, tiramisu ve benzeri tatlıların sunumu için uygundur.",
+  "Teknik özellikler: ürün ölçüsü 50 × 45 × 65 mm, 60 cc hacim, PS (polistiren) hammadde.",
+  "Kristal berraklığındaki gövdesi ürünün içeriğini olduğu gibi gösterir; vitrinde ve raf ömrü boyunca formunu korur. Gıdayla temasa uygun hammaddeden üretilmiştir.",
+  "Soğuk sunum ve dolapta saklama için −10 °C'ye, sıcak dolum için +60 °C'ye kadar kullanılabilir.",
+  "Toptan satış koli bazındadır: bir kolide 360 adet, koli ölçüsü 300 × 360 × 180 mm, bir euro palete 2112 koli sığar."
+ ],
+ "aciklama_html": "<p>Verona Bardak 60 cc, tek kullanımlık şeffaf sunum bardağıdır. Sütlü tatlı, puding, muhallebi, sütlaç, kazandibi, tiramisu ve benzeri tatlıların sunumu için uygundur.</p>\n<p>Teknik özellikler: ürün ölçüsü 50 × 45 × 65 mm, 60 cc hacim, PS (polistiren) hammadde.</p>\n<p>Kristal berraklığındaki gövdesi ürünün içeriğini olduğu gibi gösterir; vitrinde ve raf ömrü boyunca formunu korur. Gıdayla temasa uygun hammaddeden üretilmiştir.</p>\n<p>Soğuk sunum ve dolapta saklama için −10 °C'ye, sıcak dolum için +60 °C'ye kadar kullanılabilir.</p>\n<p>Toptan satış koli bazındadır: bir kolide 360 adet, koli ölçüsü 300 × 360 × 180 mm, bir euro palete 2112 koli sığar.</p>",
+ "etiketler": [
+  "verona bardak 60 cc",
+  "60 cc bardak",
+  "60cc bardak",
+  "plastik bardak",
+  "şeffaf bardak",
+  "tatlı bardağı",
+  "sunum bardağı",
+  "sütlü tatlı kabı",
+  "puding kabı",
+  "tatlı ambalajı",
+  "cp85"
+ ],
+ "marka": "EUPLUS",
+ "gorseller": {
+  "jpg": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/cp85-verona-bardak-60-cc/cp85-verona-bardak-60-cc.jpg",
+  "png": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/cp85-verona-bardak-60-cc/cp85-verona-bardak-60-cc.png",
+  "png_seffaf": true,
+  "not": ""
+ },
+ "kaynak": {
+  "tedarikci": "crystal-pack",
+  "tedarikci_ad": "Crystal Pack",
+  "tedarikci_kodu": "CP85",
+  "katalog": "kaynaklar/crystal-pack/crystal-pack-katalog-2026.pdf"
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "stok_kodu": "PC-KP145-PET",
+ "baslik": "145 mm Ø PET Kapak",
+ "urun_adi": "145 mm Ø PET Kapak",
+ "kategori": "Şeffaf Kase Kapakları",
+ "kategori_en": "Clear Bowl Lids",
+ "katalog": "servis",
+ "tur": "kapak-pc",
+ "olcu_mm": "",
+ "hacim_cc": "",
+ "hacim": "",
+ "materyal": "PET",
+ "agiz_capi_mm": "145",
+ "dip_capi_mm": "",
+ "yukseklik_mm": "",
+ "agirlik_g": "7",
+ "fisek_ici_adet": "50",
+ "koli_olcusu_mm": "610x310x310",
+ "koli_ici_adet": "400",
+ "koli_net_kg": "2,8",
+ "palet_koli": "",
+ "koli_secenekleri": [
+  {
+   "koli_ici": "400",
+   "koli": "610x310x310",
+   "net_kg": "2,8"
+  }
+ ],
+ "min_siparis": "400 adet (1 koli)",
+ "not": "550 ve 750 cc salata kaseleri ile uyumlu",
+ "aciklama": [
+  "145 mm Ø PET Kapak, bardak veya kase ile uyumlu plastik kapaktır. Paket servis ve gel-al satışta taşıma güvenliği için uygundur.",
+  "Teknik özellikler: çap 145 mm, ürün ağırlığı 7 g.",
+  "PET (polietilen tereftalat); kristal şeffaf görünüm. Gıdayla temasa uygun hammaddeden üretilmiştir.",
+  "550 ve 750 cc salata kaseleri ile uyumlu. Sıkı oturur, taşıma sırasında dökülmeyi önler.",
+  "Toptan satış koli bazındadır: bir kolide 400 adet (50 adetlik fişekler hâlinde), koli ölçüsü 610 × 310 × 310 mm, koli net ağırlığı 2,8 kg."
+ ],
+ "aciklama_html": "<p>145 mm Ø PET Kapak, bardak veya kase ile uyumlu plastik kapaktır. Paket servis ve gel-al satışta taşıma güvenliği için uygundur.</p>\n<p>Teknik özellikler: çap 145 mm, ürün ağırlığı 7 g.</p>\n<p>PET (polietilen tereftalat); kristal şeffaf görünüm. Gıdayla temasa uygun hammaddeden üretilmiştir.</p>\n<p>550 ve 750 cc salata kaseleri ile uyumlu. Sıkı oturur, taşıma sırasında dökülmeyi önler.</p>\n<p>Toptan satış koli bazındadır: bir kolide 400 adet (50 adetlik fişekler hâlinde), koli ölçüsü 610 × 310 × 310 mm, koli net ağırlığı 2,8 kg.</p>",
+ "etiketler": [
+  "145 mm ø pet kapak",
+  "bardak kapağı",
+  "plastik kapak",
+  "şeffaf kapak",
+  "karton bardak kapağı",
+  "kase kapağı",
+  "paket servis ambalajı",
+  "plastik ambalaj",
+  "toptan ambalaj",
+  "pc-kp145-pet"
+ ],
+ "marka": "EUPLUS",
+ "gorseller": {
+  "jpg": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/pc-kp145-pet-145-mm-pet-kapak/pc-kp145-pet-145-mm-pet-kapak.jpg",
+  "png": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/pc-kp145-pet-145-mm-pet-kapak/pc-kp145-pet-145-mm-pet-kapak.png",
+  "png_seffaf": false,
+  "not": "Kategori tanıtım fotoğrafı; ürüne özel fotoğraf yok"
+ },
+ "kaynak": {
+  "tedarikci": "promocup",
+  "tedarikci_ad": "Promocup",
+  "tedarikci_kodu": "",
+  "katalog": "kaynaklar/promocup/promocup-katalog-2026.pdf"
+ }
+}

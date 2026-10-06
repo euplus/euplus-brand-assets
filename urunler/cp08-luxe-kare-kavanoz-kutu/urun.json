@@ -1,0 +1,59 @@
+{
+ "stok_kodu": "CP08",
+ "baslik": "Luxe Kare Kavanoz Kutu",
+ "urun_adi": "Luxe Kare Kavanoz Kutu",
+ "kategori": "Sütlü Tatlı Kapları",
+ "kategori_en": "Milk Dessert Containers",
+ "katalog": "seffaf",
+ "tur": "kavanoz",
+ "olcu_mm": "73x63x73",
+ "hacim_cc": "270",
+ "hacim": "270",
+ "materyal": "PS",
+ "agiz_capi_mm": "",
+ "dip_capi_mm": "",
+ "yukseklik_mm": "",
+ "agirlik_g": "",
+ "fisek_ici_adet": "",
+ "koli_olcusu_mm": "800x400x580",
+ "koli_ici_adet": "390",
+ "koli_net_kg": "",
+ "palet_koli": "12",
+ "koli_secenekleri": [],
+ "min_siparis": "390 adet (1 koli)",
+ "not": "",
+ "aciklama": [
+  "Luxe Kare Kavanoz Kutu, tek kullanımlık şeffaf kavanozdur. Sütlü tatlı, puding, muhallebi, sütlaç, kazandibi, tiramisu ve benzeri tatlıların sunumu için uygundur.",
+  "Teknik özellikler: ürün ölçüsü 73 × 63 × 73 mm, 270 cc hacim, PS (polistiren) hammadde.",
+  "Kristal berraklığındaki gövdesi ürünün içeriğini olduğu gibi gösterir; vitrinde ve raf ömrü boyunca formunu korur. Gıdayla temasa uygun hammaddeden üretilmiştir.",
+  "Soğuk sunum ve dolapta saklama için −10 °C'ye, sıcak dolum için +60 °C'ye kadar kullanılabilir.",
+  "Toptan satış koli bazındadır: bir kolide 390 adet, koli ölçüsü 800 × 400 × 580 mm, bir euro palete 12 koli sığar."
+ ],
+ "aciklama_html": "<p>Luxe Kare Kavanoz Kutu, tek kullanımlık şeffaf kavanozdur. Sütlü tatlı, puding, muhallebi, sütlaç, kazandibi, tiramisu ve benzeri tatlıların sunumu için uygundur.</p>\n<p>Teknik özellikler: ürün ölçüsü 73 × 63 × 73 mm, 270 cc hacim, PS (polistiren) hammadde.</p>\n<p>Kristal berraklığındaki gövdesi ürünün içeriğini olduğu gibi gösterir; vitrinde ve raf ömrü boyunca formunu korur. Gıdayla temasa uygun hammaddeden üretilmiştir.</p>\n<p>Soğuk sunum ve dolapta saklama için −10 °C'ye, sıcak dolum için +60 °C'ye kadar kullanılabilir.</p>\n<p>Toptan satış koli bazındadır: bir kolide 390 adet, koli ölçüsü 800 × 400 × 580 mm, bir euro palete 12 koli sığar.</p>",
+ "etiketler": [
+  "luxe kare kavanoz kutu",
+  "270 cc kavanoz",
+  "270cc kavanoz",
+  "plastik kavanoz",
+  "şeffaf kavanoz",
+  "pet kavanoz",
+  "kapaklı kavanoz",
+  "sütlü tatlı kabı",
+  "puding kabı",
+  "tatlı ambalajı",
+  "cp08"
+ ],
+ "marka": "EUPLUS",
+ "gorseller": {
+  "jpg": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/cp08-luxe-kare-kavanoz-kutu/cp08-luxe-kare-kavanoz-kutu.jpg",
+  "png": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/cp08-luxe-kare-kavanoz-kutu/cp08-luxe-kare-kavanoz-kutu.png",
+  "png_seffaf": true,
+  "not": ""
+ },
+ "kaynak": {
+  "tedarikci": "crystal-pack",
+  "tedarikci_ad": "Crystal Pack",
+  "tedarikci_kodu": "CP08",
+  "katalog": "kaynaklar/crystal-pack/crystal-pack-katalog-2026.pdf"
+ }
+}

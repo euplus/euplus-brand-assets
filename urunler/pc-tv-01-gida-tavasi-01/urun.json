@@ -1,0 +1,58 @@
+{
+ "stok_kodu": "PC-TV-01",
+ "baslik": "Gıda Tavası 01",
+ "urun_adi": "Gıda Tavası 01",
+ "kategori": "Gıda Tavaları",
+ "kategori_en": "Food Trays",
+ "katalog": "servis",
+ "tur": "tava",
+ "olcu_mm": "70x120x40",
+ "hacim_cc": "",
+ "hacim": "",
+ "materyal": "Karton",
+ "agiz_capi_mm": "",
+ "dip_capi_mm": "",
+ "yukseklik_mm": "",
+ "agirlik_g": "",
+ "fisek_ici_adet": "",
+ "koli_olcusu_mm": "",
+ "koli_ici_adet": "",
+ "koli_net_kg": "",
+ "palet_koli": "",
+ "koli_secenekleri": [],
+ "min_siparis": "Bizimle iletişime geçin",
+ "not": "Baskılı veya baskısız; kraft ya da beyaz karton",
+ "aciklama": [
+  "Gıda Tavası 01, açık karton servis tavasıdır (gıda tepsisi). Sosisli, tavuk, nugget, tatlı ve atıştırmalık servisi için uygundur.",
+  "Teknik özellikler: ürün ölçüsü 70 × 120 × 40 mm.",
+  "Gıdayla temasa uygun karton; kraft veya beyaz yüzey seçeneği. Gıdayla temasa uygun hammaddeden üretilmiştir.",
+  "Baskılı veya baskısız, kraft ya da beyaz karton seçeneğiyle üretilir; markanıza özel baskı (ofset / flekso / dijital) yapılabilir. Düz sevk edilir, kullanım anında katlanır. Farklı ölçüler için bizimle iletişime geçin."
+ ],
+ "aciklama_html": "<p>Gıda Tavası 01, açık karton servis tavasıdır (gıda tepsisi). Sosisli, tavuk, nugget, tatlı ve atıştırmalık servisi için uygundur.</p>\n<p>Teknik özellikler: ürün ölçüsü 70 × 120 × 40 mm.</p>\n<p>Gıdayla temasa uygun karton; kraft veya beyaz yüzey seçeneği. Gıdayla temasa uygun hammaddeden üretilmiştir.</p>\n<p>Baskılı veya baskısız, kraft ya da beyaz karton seçeneğiyle üretilir; markanıza özel baskı (ofset / flekso / dijital) yapılabilir. Düz sevk edilir, kullanım anında katlanır. Farklı ölçüler için bizimle iletişime geçin.</p>",
+ "etiketler": [
+  "gıda tavası 01",
+  "karton tava",
+  "gıda tavası",
+  "karton servis tepsisi",
+  "sosisli kabı",
+  "tavuk kabı",
+  "kraft tava",
+  "paket servis ambalajı",
+  "karton ambalaj",
+  "toptan ambalaj",
+  "pc-tv-01"
+ ],
+ "marka": "EUPLUS",
+ "gorseller": {
+  "jpg": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/pc-tv-01-gida-tavasi-01/pc-tv-01-gida-tavasi-01.jpg",
+  "png": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/pc-tv-01-gida-tavasi-01/pc-tv-01-gida-tavasi-01.png",
+  "png_seffaf": true,
+  "not": ""
+ },
+ "kaynak": {
+  "tedarikci": "promocup",
+  "tedarikci_ad": "Promocup",
+  "tedarikci_kodu": "TV-01",
+  "katalog": "kaynaklar/promocup/promocup-katalog-2026.pdf"
+ }
+}

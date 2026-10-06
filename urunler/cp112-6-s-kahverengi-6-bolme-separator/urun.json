@@ -1,0 +1,56 @@
+{
+ "stok_kodu": "CP112 6-S",
+ "baslik": "Kahverengi 6 Bölme Separatör",
+ "urun_adi": "Kahverengi 6 Bölme Separatör",
+ "kategori": "Lokum & Çikolata Kapları",
+ "kategori_en": "Toffee & Chocolate Containers",
+ "katalog": "seffaf",
+ "tur": "separator",
+ "olcu_mm": "195x195x30",
+ "hacim_cc": "",
+ "hacim": "",
+ "materyal": "PET",
+ "agiz_capi_mm": "",
+ "dip_capi_mm": "",
+ "yukseklik_mm": "",
+ "agirlik_g": "",
+ "fisek_ici_adet": "",
+ "koli_olcusu_mm": "",
+ "koli_ici_adet": "",
+ "koli_net_kg": "",
+ "palet_koli": "",
+ "koli_secenekleri": [],
+ "min_siparis": "Bizimle iletişime geçin",
+ "not": "",
+ "aciklama": [
+  "Kahverengi 6 Bölme Separatör, kendi kabıyla uyumlu bölmeli separatördür (ayırıcı). Lokum, çikolata, draje, badem şekeri, macaron ve kuruyemiş sunumu için uygundur.",
+  "Teknik özellikler: ürün ölçüsü 195 × 195 × 30 mm, PET (polietilen tereftalat) hammadde.",
+  "Kristal berraklığındaki gövdesi ürünün içeriğini olduğu gibi gösterir; vitrinde ve raf ömrü boyunca formunu korur. Gıdayla temasa uygun hammaddeden üretilmiştir.",
+  "Soğuk sunum ve dolapta saklama için −10 °C'ye, sıcak dolum için +60 °C'ye kadar kullanılabilir."
+ ],
+ "aciklama_html": "<p>Kahverengi 6 Bölme Separatör, kendi kabıyla uyumlu bölmeli separatördür (ayırıcı). Lokum, çikolata, draje, badem şekeri, macaron ve kuruyemiş sunumu için uygundur.</p>\n<p>Teknik özellikler: ürün ölçüsü 195 × 195 × 30 mm, PET (polietilen tereftalat) hammadde.</p>\n<p>Kristal berraklığındaki gövdesi ürünün içeriğini olduğu gibi gösterir; vitrinde ve raf ömrü boyunca formunu korur. Gıdayla temasa uygun hammaddeden üretilmiştir.</p>\n<p>Soğuk sunum ve dolapta saklama için −10 °C'ye, sıcak dolum için +60 °C'ye kadar kullanılabilir.</p>",
+ "etiketler": [
+  "kahverengi 6 bölme separatör",
+  "separatör",
+  "bölmeli ayırıcı",
+  "kutu içi ayırıcı",
+  "lokum kutusu",
+  "çikolata kutusu",
+  "kuruyemiş kabı",
+  "pet ambalaj",
+  "cp112 6-s"
+ ],
+ "marka": "EUPLUS",
+ "gorseller": {
+  "jpg": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/cp112-6-s-kahverengi-6-bolme-separator/cp112-6-s-kahverengi-6-bolme-separator.jpg",
+  "png": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/cp112-6-s-kahverengi-6-bolme-separator/cp112-6-s-kahverengi-6-bolme-separator.png",
+  "png_seffaf": true,
+  "not": ""
+ },
+ "kaynak": {
+  "tedarikci": "crystal-pack",
+  "tedarikci_ad": "Crystal Pack",
+  "tedarikci_kodu": "CP112 6-S",
+  "katalog": "kaynaklar/crystal-pack/crystal-pack-katalog-2026.pdf"
+ }
+}

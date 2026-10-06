@@ -1,0 +1,64 @@
+{
+ "stok_kodu": "PC-KP101-PET",
+ "baslik": "101 mm Ø PET Kapak (250 cc)",
+ "urun_adi": "101 mm Ø PET Kapak (250 cc)",
+ "kategori": "Şeffaf Kase Kapakları",
+ "kategori_en": "Clear Bowl Lids",
+ "katalog": "servis",
+ "tur": "kapak-pc",
+ "olcu_mm": "",
+ "hacim_cc": "",
+ "hacim": "",
+ "materyal": "PET",
+ "agiz_capi_mm": "101",
+ "dip_capi_mm": "",
+ "yukseklik_mm": "",
+ "agirlik_g": "2,5",
+ "fisek_ici_adet": "100",
+ "koli_olcusu_mm": "655x410x520",
+ "koli_ici_adet": "2000",
+ "koli_net_kg": "5",
+ "palet_koli": "",
+ "koli_secenekleri": [
+  {
+   "koli_ici": "2000",
+   "koli": "655x410x520",
+   "net_kg": "5"
+  }
+ ],
+ "min_siparis": "2000 adet (1 koli)",
+ "not": "250 cc dondurma kasesi ile uyumlu",
+ "aciklama": [
+  "101 mm Ø PET Kapak (250 cc), bardak veya kase ile uyumlu plastik kapaktır. Paket servis ve gel-al satışta taşıma güvenliği için uygundur.",
+  "Teknik özellikler: çap 101 mm, ürün ağırlığı 2,5 g.",
+  "PET (polietilen tereftalat); kristal şeffaf görünüm. Gıdayla temasa uygun hammaddeden üretilmiştir.",
+  "250 cc dondurma kasesi ile uyumlu. Sıkı oturur, taşıma sırasında dökülmeyi önler.",
+  "Toptan satış koli bazındadır: bir kolide 2000 adet (100 adetlik fişekler hâlinde), koli ölçüsü 655 × 410 × 520 mm, koli net ağırlığı 5 kg."
+ ],
+ "aciklama_html": "<p>101 mm Ø PET Kapak (250 cc), bardak veya kase ile uyumlu plastik kapaktır. Paket servis ve gel-al satışta taşıma güvenliği için uygundur.</p>\n<p>Teknik özellikler: çap 101 mm, ürün ağırlığı 2,5 g.</p>\n<p>PET (polietilen tereftalat); kristal şeffaf görünüm. Gıdayla temasa uygun hammaddeden üretilmiştir.</p>\n<p>250 cc dondurma kasesi ile uyumlu. Sıkı oturur, taşıma sırasında dökülmeyi önler.</p>\n<p>Toptan satış koli bazındadır: bir kolide 2000 adet (100 adetlik fişekler hâlinde), koli ölçüsü 655 × 410 × 520 mm, koli net ağırlığı 5 kg.</p>",
+ "etiketler": [
+  "101 mm ø pet kapak (250 cc)",
+  "bardak kapağı",
+  "plastik kapak",
+  "şeffaf kapak",
+  "karton bardak kapağı",
+  "kase kapağı",
+  "paket servis ambalajı",
+  "plastik ambalaj",
+  "toptan ambalaj",
+  "pc-kp101-pet"
+ ],
+ "marka": "EUPLUS",
+ "gorseller": {
+  "jpg": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/pc-kp101-pet-101-mm-pet-kapak-250-cc/pc-kp101-pet-101-mm-pet-kapak-250-cc.jpg",
+  "png": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/pc-kp101-pet-101-mm-pet-kapak-250-cc/pc-kp101-pet-101-mm-pet-kapak-250-cc.png",
+  "png_seffaf": false,
+  "not": "Kategori tanıtım fotoğrafı; ürüne özel fotoğraf yok"
+ },
+ "kaynak": {
+  "tedarikci": "promocup",
+  "tedarikci_ad": "Promocup",
+  "tedarikci_kodu": "",
+  "katalog": "kaynaklar/promocup/promocup-katalog-2026.pdf"
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "stok_kodu": "PC-SB22",
+ "baslik": "22 oz Soğuk İçecek Bardağı",
+ "urun_adi": "22 oz Soğuk İçecek Bardağı",
+ "kategori": "Soğuk İçecek Bardakları",
+ "kategori_en": "Cold Cups",
+ "katalog": "servis",
+ "tur": "soguk-bardak",
+ "olcu_mm": "90x61x169",
+ "hacim_cc": "",
+ "hacim": "22 oz",
+ "materyal": "PE kaplı karton",
+ "agiz_capi_mm": "90",
+ "dip_capi_mm": "61",
+ "yukseklik_mm": "169",
+ "agirlik_g": "13",
+ "fisek_ici_adet": "50",
+ "koli_olcusu_mm": "460x370x590",
+ "koli_ici_adet": "1000",
+ "koli_net_kg": "13",
+ "palet_koli": "",
+ "koli_secenekleri": [
+  {
+   "koli_ici": "1000",
+   "koli": "460x370x590",
+   "net_kg": "13"
+  }
+ ],
+ "min_siparis": "1000 adet (1 koli)",
+ "not": "",
+ "aciklama": [
+  "22 oz Soğuk İçecek Bardağı, karton soğuk içecek bardağıdır. Soğuk içecek, gazlı içecek, milkshake, smoothie, mısır ve patates servisi için uygundur.",
+  "Teknik özellikler: ağız çapı 90 mm, dip çapı 61 mm, yükseklik 169 mm, hacim 22 oz, ürün ağırlığı 13 g.",
+  "Gıdayla temasa uygun, içi PE (polietilen) kaplı karton; sıvı geçirmez, kokusuz. Gıdayla temasa uygun hammaddeden üretilmiştir.",
+  "Ofset, flekso veya dijital baskı ile markanıza özel baskı yapılabilir; baskısız olarak da sunulur. Uyumlu kapaklarla paket servis için güvenle kullanılır.",
+  "Toptan satış koli bazındadır: bir kolide 1000 adet (50 adetlik fişekler hâlinde), koli ölçüsü 460 × 370 × 590 mm, koli net ağırlığı 13 kg."
+ ],
+ "aciklama_html": "<p>22 oz Soğuk İçecek Bardağı, karton soğuk içecek bardağıdır. Soğuk içecek, gazlı içecek, milkshake, smoothie, mısır ve patates servisi için uygundur.</p>\n<p>Teknik özellikler: ağız çapı 90 mm, dip çapı 61 mm, yükseklik 169 mm, hacim 22 oz, ürün ağırlığı 13 g.</p>\n<p>Gıdayla temasa uygun, içi PE (polietilen) kaplı karton; sıvı geçirmez, kokusuz. Gıdayla temasa uygun hammaddeden üretilmiştir.</p>\n<p>Ofset, flekso veya dijital baskı ile markanıza özel baskı yapılabilir; baskısız olarak da sunulur. Uyumlu kapaklarla paket servis için güvenle kullanılır.</p>\n<p>Toptan satış koli bazındadır: bir kolide 1000 adet (50 adetlik fişekler hâlinde), koli ölçüsü 460 × 370 × 590 mm, koli net ağırlığı 13 kg.</p>",
+ "etiketler": [
+  "22 oz soğuk içecek bardağı",
+  "soğuk içecek bardağı",
+  "karton soğuk bardak",
+  "milkshake bardağı",
+  "kola bardağı",
+  "mısır bardağı",
+  "karton bardak",
+  "baskılı karton bardak",
+  "22 oz bardak",
+  "22oz karton bardak",
+  "paket servis ambalajı",
+  "karton ambalaj",
+  "toptan ambalaj",
+  "pc-sb22"
+ ],
+ "marka": "EUPLUS",
+ "gorseller": {
+  "jpg": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/pc-sb22-22-oz-soguk-icecek-bardagi/pc-sb22-22-oz-soguk-icecek-bardagi.jpg",
+  "png": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/pc-sb22-22-oz-soguk-icecek-bardagi/pc-sb22-22-oz-soguk-icecek-bardagi.png",
+  "png_seffaf": false,
+  "not": "Kategori tanıtım fotoğrafı; ürüne özel fotoğraf yok"
+ },
+ "kaynak": {
+  "tedarikci": "promocup",
+  "tedarikci_ad": "Promocup",
+  "tedarikci_kodu": "",
+  "katalog": "kaynaklar/promocup/promocup-katalog-2026.pdf"
+ }
+}

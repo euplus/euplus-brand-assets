@@ -1,0 +1,64 @@
+{
+ "stok_kodu": "PC-LBT",
+ "baslik": "Yudum Kapak Ø95 mm",
+ "urun_adi": "Yudum Kapak Ø95 mm",
+ "kategori": "PET Bardak ve Kapaklar",
+ "kategori_en": "PET Cups & Lids",
+ "katalog": "servis",
+ "tur": "kapak-pc",
+ "olcu_mm": "",
+ "hacim_cc": "",
+ "hacim": "",
+ "materyal": "PET",
+ "agiz_capi_mm": "95",
+ "dip_capi_mm": "",
+ "yukseklik_mm": "",
+ "agirlik_g": "3,5",
+ "fisek_ici_adet": "100",
+ "koli_olcusu_mm": "465x215x530",
+ "koli_ici_adet": "1000",
+ "koli_net_kg": "3,5",
+ "palet_koli": "",
+ "koli_secenekleri": [
+  {
+   "koli_ici": "1000",
+   "koli": "465x215x530",
+   "net_kg": "3,5"
+  }
+ ],
+ "min_siparis": "1000 adet (1 koli)",
+ "not": "",
+ "aciklama": [
+  "Yudum Kapak Ø95 mm, bardak veya kase ile uyumlu plastik kapaktır. Paket servis ve gel-al satışta taşıma güvenliği için uygundur.",
+  "Teknik özellikler: çap 95 mm, ürün ağırlığı 3,5 g.",
+  "PET (polietilen tereftalat); kristal şeffaf görünüm. Gıdayla temasa uygun hammaddeden üretilmiştir.",
+  "Uyumlu bardak ve kaselerle kullanılır. Sıkı oturur, taşıma sırasında dökülmeyi önler.",
+  "Toptan satış koli bazındadır: bir kolide 1000 adet (100 adetlik fişekler hâlinde), koli ölçüsü 465 × 215 × 530 mm, koli net ağırlığı 3,5 kg."
+ ],
+ "aciklama_html": "<p>Yudum Kapak Ø95 mm, bardak veya kase ile uyumlu plastik kapaktır. Paket servis ve gel-al satışta taşıma güvenliği için uygundur.</p>\n<p>Teknik özellikler: çap 95 mm, ürün ağırlığı 3,5 g.</p>\n<p>PET (polietilen tereftalat); kristal şeffaf görünüm. Gıdayla temasa uygun hammaddeden üretilmiştir.</p>\n<p>Uyumlu bardak ve kaselerle kullanılır. Sıkı oturur, taşıma sırasında dökülmeyi önler.</p>\n<p>Toptan satış koli bazındadır: bir kolide 1000 adet (100 adetlik fişekler hâlinde), koli ölçüsü 465 × 215 × 530 mm, koli net ağırlığı 3,5 kg.</p>",
+ "etiketler": [
+  "yudum kapak ø95 mm",
+  "bardak kapağı",
+  "plastik kapak",
+  "yudum kapağı",
+  "karton bardak kapağı",
+  "kase kapağı",
+  "paket servis ambalajı",
+  "plastik ambalaj",
+  "toptan ambalaj",
+  "pc-lbt"
+ ],
+ "marka": "EUPLUS",
+ "gorseller": {
+  "jpg": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/pc-lbt-yudum-kapak-95-mm/pc-lbt-yudum-kapak-95-mm.jpg",
+  "png": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/pc-lbt-yudum-kapak-95-mm/pc-lbt-yudum-kapak-95-mm.png",
+  "png_seffaf": false,
+  "not": "Kategori tanıtım fotoğrafı; ürüne özel fotoğraf yok"
+ },
+ "kaynak": {
+  "tedarikci": "promocup",
+  "tedarikci_ad": "Promocup",
+  "tedarikci_kodu": "LBT",
+  "katalog": "kaynaklar/promocup/promocup-katalog-2026.pdf"
+ }
+}

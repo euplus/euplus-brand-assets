@@ -1,0 +1,56 @@
+{
+ "stok_kodu": "CP111 3-S",
+ "baslik": "Gold 3 Bölme Separatör",
+ "urun_adi": "Gold 3 Bölme Separatör",
+ "kategori": "Lokum & Çikolata Kapları",
+ "kategori_en": "Toffee & Chocolate Containers",
+ "katalog": "seffaf",
+ "tur": "separator",
+ "olcu_mm": "155x155x30",
+ "hacim_cc": "",
+ "hacim": "",
+ "materyal": "PET",
+ "agiz_capi_mm": "",
+ "dip_capi_mm": "",
+ "yukseklik_mm": "",
+ "agirlik_g": "",
+ "fisek_ici_adet": "",
+ "koli_olcusu_mm": "",
+ "koli_ici_adet": "",
+ "koli_net_kg": "",
+ "palet_koli": "",
+ "koli_secenekleri": [],
+ "min_siparis": "Bizimle iletişime geçin",
+ "not": "",
+ "aciklama": [
+  "Gold 3 Bölme Separatör, kendi kabıyla uyumlu bölmeli separatördür (ayırıcı). Lokum, çikolata, draje, badem şekeri, macaron ve kuruyemiş sunumu için uygundur.",
+  "Teknik özellikler: ürün ölçüsü 155 × 155 × 30 mm, PET (polietilen tereftalat) hammadde.",
+  "Kristal berraklığındaki gövdesi ürünün içeriğini olduğu gibi gösterir; vitrinde ve raf ömrü boyunca formunu korur. Gıdayla temasa uygun hammaddeden üretilmiştir.",
+  "Soğuk sunum ve dolapta saklama için −10 °C'ye, sıcak dolum için +60 °C'ye kadar kullanılabilir."
+ ],
+ "aciklama_html": "<p>Gold 3 Bölme Separatör, kendi kabıyla uyumlu bölmeli separatördür (ayırıcı). Lokum, çikolata, draje, badem şekeri, macaron ve kuruyemiş sunumu için uygundur.</p>\n<p>Teknik özellikler: ürün ölçüsü 155 × 155 × 30 mm, PET (polietilen tereftalat) hammadde.</p>\n<p>Kristal berraklığındaki gövdesi ürünün içeriğini olduğu gibi gösterir; vitrinde ve raf ömrü boyunca formunu korur. Gıdayla temasa uygun hammaddeden üretilmiştir.</p>\n<p>Soğuk sunum ve dolapta saklama için −10 °C'ye, sıcak dolum için +60 °C'ye kadar kullanılabilir.</p>",
+ "etiketler": [
+  "gold 3 bölme separatör",
+  "separatör",
+  "bölmeli ayırıcı",
+  "kutu içi ayırıcı",
+  "lokum kutusu",
+  "çikolata kutusu",
+  "kuruyemiş kabı",
+  "pet ambalaj",
+  "cp111 3-s"
+ ],
+ "marka": "EUPLUS",
+ "gorseller": {
+  "jpg": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/cp111-3-s-gold-3-bolme-separator/cp111-3-s-gold-3-bolme-separator.jpg",
+  "png": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/cp111-3-s-gold-3-bolme-separator/cp111-3-s-gold-3-bolme-separator.png",
+  "png_seffaf": true,
+  "not": ""
+ },
+ "kaynak": {
+  "tedarikci": "crystal-pack",
+  "tedarikci_ad": "Crystal Pack",
+  "tedarikci_kodu": "CP111 3-S",
+  "katalog": "kaynaklar/crystal-pack/crystal-pack-katalog-2026.pdf"
+ }
+}

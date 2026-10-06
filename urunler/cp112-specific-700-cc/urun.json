@@ -1,0 +1,60 @@
+{
+ "stok_kodu": "CP112",
+ "baslik": "Specific 700 cc",
+ "urun_adi": "Specific 700 cc",
+ "kategori": "Lokum & Çikolata Kapları",
+ "kategori_en": "Toffee & Chocolate Containers",
+ "katalog": "seffaf",
+ "tur": "kutu",
+ "olcu_mm": "198x198x34",
+ "hacim_cc": "700",
+ "hacim": "700",
+ "materyal": "PS · gold/şeffaf",
+ "agiz_capi_mm": "",
+ "dip_capi_mm": "",
+ "yukseklik_mm": "",
+ "agirlik_g": "",
+ "fisek_ici_adet": "",
+ "koli_olcusu_mm": "600x400x460",
+ "koli_ici_adet": "120",
+ "koli_net_kg": "",
+ "palet_koli": "20",
+ "koli_secenekleri": [],
+ "min_siparis": "120 adet (1 koli)",
+ "not": "",
+ "aciklama": [
+  "Specific 700 cc, tek kullanımlık şeffaf sunum kutusudur. Lokum, çikolata, draje, badem şekeri, macaron ve kuruyemiş sunumu için uygundur.",
+  "Teknik özellikler: ürün ölçüsü 198 × 198 × 34 mm, 700 cc hacim, PS (polistiren), gold ve şeffaf seçenekli hammadde.",
+  "Kristal berraklığındaki gövdesi ürünün içeriğini olduğu gibi gösterir; vitrinde ve raf ömrü boyunca formunu korur. Gıdayla temasa uygun hammaddeden üretilmiştir.",
+  "Soğuk sunum ve dolapta saklama için −10 °C'ye, sıcak dolum için +60 °C'ye kadar kullanılabilir.",
+  "Toptan satış koli bazındadır: bir kolide 120 adet, koli ölçüsü 600 × 400 × 460 mm, bir euro palete 20 koli sığar."
+ ],
+ "aciklama_html": "<p>Specific 700 cc, tek kullanımlık şeffaf sunum kutusudur. Lokum, çikolata, draje, badem şekeri, macaron ve kuruyemiş sunumu için uygundur.</p>\n<p>Teknik özellikler: ürün ölçüsü 198 × 198 × 34 mm, 700 cc hacim, PS (polistiren), gold ve şeffaf seçenekli hammadde.</p>\n<p>Kristal berraklığındaki gövdesi ürünün içeriğini olduğu gibi gösterir; vitrinde ve raf ömrü boyunca formunu korur. Gıdayla temasa uygun hammaddeden üretilmiştir.</p>\n<p>Soğuk sunum ve dolapta saklama için −10 °C'ye, sıcak dolum için +60 °C'ye kadar kullanılabilir.</p>\n<p>Toptan satış koli bazındadır: bir kolide 120 adet, koli ölçüsü 600 × 400 × 460 mm, bir euro palete 20 koli sığar.</p>",
+ "etiketler": [
+  "specific 700 cc",
+  "700 cc kutu",
+  "700cc kutu",
+  "sunum kutusu",
+  "plastik kutu",
+  "şeffaf kutu",
+  "tatlı kutusu",
+  "tek kullanımlık kutu",
+  "lokum kutusu",
+  "çikolata kutusu",
+  "kuruyemiş kabı",
+  "cp112"
+ ],
+ "marka": "EUPLUS",
+ "gorseller": {
+  "jpg": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/cp112-specific-700-cc/cp112-specific-700-cc.jpg",
+  "png": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/cp112-specific-700-cc/cp112-specific-700-cc.png",
+  "png_seffaf": true,
+  "not": ""
+ },
+ "kaynak": {
+  "tedarikci": "crystal-pack",
+  "tedarikci_ad": "Crystal Pack",
+  "tedarikci_kodu": "CP112",
+  "katalog": "kaynaklar/crystal-pack/crystal-pack-katalog-2026.pdf"
+ }
+}

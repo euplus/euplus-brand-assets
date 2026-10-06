@@ -1,0 +1,64 @@
+{
+ "stok_kodu": "PC-TIPA109",
+ "baslik": "Kapak Tıpası PP 109 mm (Siyah / Beyaz)",
+ "urun_adi": "Kapak Tıpası PP 109 mm (Siyah / Beyaz)",
+ "kategori": "Taşıma ve Aksesuarlar",
+ "kategori_en": "Carriers & Accessories",
+ "katalog": "servis",
+ "tur": "tipa",
+ "olcu_mm": "",
+ "hacim_cc": "",
+ "hacim": "",
+ "materyal": "PP",
+ "agiz_capi_mm": "",
+ "dip_capi_mm": "",
+ "yukseklik_mm": "",
+ "agirlik_g": "1",
+ "fisek_ici_adet": "1000",
+ "koli_olcusu_mm": "520x250x260",
+ "koli_ici_adet": "5000",
+ "koli_net_kg": "5",
+ "palet_koli": "",
+ "koli_secenekleri": [
+  {
+   "koli_ici": "5000",
+   "koli": "520x250x260",
+   "net_kg": "5"
+  }
+ ],
+ "min_siparis": "5000 adet (1 koli)",
+ "not": "Yudum kapağı ağzını kapatan tıpa",
+ "aciklama": [
+  "Kapak Tıpası PP 109 mm (Siyah / Beyaz), yudum kapağı ağzını kapatan PP tıpadır. Paket servis sırasında dökülmenin önlenmesi için uygundur.",
+  "Teknik özellikler: ürün ağırlığı 1 g.",
+  "PP (polipropilen); siyah ve beyaz. Gıdayla temasa uygun hammaddeden üretilmiştir.",
+  "Yudum kapağı ağzını kapatan tıpa.",
+  "Toptan satış koli bazındadır: bir kolide 5000 adet (1000 adetlik fişekler hâlinde), koli ölçüsü 520 × 250 × 260 mm, koli net ağırlığı 5 kg."
+ ],
+ "aciklama_html": "<p>Kapak Tıpası PP 109 mm (Siyah / Beyaz), yudum kapağı ağzını kapatan PP tıpadır. Paket servis sırasında dökülmenin önlenmesi için uygundur.</p>\n<p>Teknik özellikler: ürün ağırlığı 1 g.</p>\n<p>PP (polipropilen); siyah ve beyaz. Gıdayla temasa uygun hammaddeden üretilmiştir.</p>\n<p>Yudum kapağı ağzını kapatan tıpa.</p>\n<p>Toptan satış koli bazındadır: bir kolide 5000 adet (1000 adetlik fişekler hâlinde), koli ölçüsü 520 × 250 × 260 mm, koli net ağırlığı 5 kg.</p>",
+ "etiketler": [
+  "kapak tıpası pp 109 mm (siyah / beyaz)",
+  "kapak tıpası",
+  "bardak kapağı tıpası",
+  "kahve kapağı tıpası",
+  "plastik tıpa",
+  "yudum kapağı tıpası",
+  "paket servis ambalajı",
+  "plastik ambalaj",
+  "toptan ambalaj",
+  "pc-tıpa109"
+ ],
+ "marka": "EUPLUS",
+ "gorseller": {
+  "jpg": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/pc-tipa109-kapak-tipasi-pp-109-mm-siyah-beyaz/pc-tipa109-kapak-tipasi-pp-109-mm-siyah-beyaz.jpg",
+  "png": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/pc-tipa109-kapak-tipasi-pp-109-mm-siyah-beyaz/pc-tipa109-kapak-tipasi-pp-109-mm-siyah-beyaz.png",
+  "png_seffaf": false,
+  "not": "Kategori tanıtım fotoğrafı; ürüne özel fotoğraf yok"
+ },
+ "kaynak": {
+  "tedarikci": "promocup",
+  "tedarikci_ad": "Promocup",
+  "tedarikci_kodu": "",
+  "katalog": "kaynaklar/promocup/promocup-katalog-2026.pdf"
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "stok_kodu": "PC-SK750-PP",
+ "baslik": "750 cc Salata Kasesi + PP Kapak",
+ "urun_adi": "750 cc Salata Kasesi + PP Kapak",
+ "kategori": "Salata Kaseleri",
+ "kategori_en": "Salad Bowls",
+ "katalog": "servis",
+ "tur": "kapak-pc",
+ "olcu_mm": "145x125x65",
+ "hacim_cc": "750",
+ "hacim": "750",
+ "materyal": "Kraft karton + PP",
+ "agiz_capi_mm": "145",
+ "dip_capi_mm": "125",
+ "yukseklik_mm": "65",
+ "agirlik_g": "14+7",
+ "fisek_ici_adet": "50",
+ "koli_olcusu_mm": "750x390x497",
+ "koli_ici_adet": "300+300",
+ "koli_net_kg": "6,3",
+ "palet_koli": "",
+ "koli_secenekleri": [
+  {
+   "koli_ici": "300+300",
+   "koli": "750x390x497",
+   "net_kg": "6,3"
+  }
+ ],
+ "min_siparis": "300+300 adet (1 koli)",
+ "not": "kase + kapak",
+ "aciklama": [
+  "750 cc Salata Kasesi + PP Kapak, bardak veya kase ile uyumlu plastik kapaktır. Paket servis ve gel-al satışta taşıma güvenliği için uygundur.",
+  "Teknik özellikler: ağız çapı 145 mm, dip çapı 125 mm, yükseklik 65 mm, 750 cc hacim, ürün ağırlığı 14+7 g.",
+  "Kraft karton + PP. Gıdayla temasa uygun hammaddeden üretilmiştir.",
+  "kase + kapak. Sıkı oturur, taşıma sırasında dökülmeyi önler.",
+  "Toptan satış koli bazındadır: bir kolide 300+300 adet (50 adetlik fişekler hâlinde), koli ölçüsü 750 × 390 × 497 mm, koli net ağırlığı 6,3 kg."
+ ],
+ "aciklama_html": "<p>750 cc Salata Kasesi + PP Kapak, bardak veya kase ile uyumlu plastik kapaktır. Paket servis ve gel-al satışta taşıma güvenliği için uygundur.</p>\n<p>Teknik özellikler: ağız çapı 145 mm, dip çapı 125 mm, yükseklik 65 mm, 750 cc hacim, ürün ağırlığı 14+7 g.</p>\n<p>Kraft karton + PP. Gıdayla temasa uygun hammaddeden üretilmiştir.</p>\n<p>kase + kapak. Sıkı oturur, taşıma sırasında dökülmeyi önler.</p>\n<p>Toptan satış koli bazındadır: bir kolide 300+300 adet (50 adetlik fişekler hâlinde), koli ölçüsü 750 × 390 × 497 mm, koli net ağırlığı 6,3 kg.</p>",
+ "etiketler": [
+  "750 cc salata kasesi + pp kapak",
+  "bardak kapağı",
+  "plastik kapak",
+  "şeffaf kapak",
+  "karton bardak kapağı",
+  "kase kapağı",
+  "750 cc bardak",
+  "paket servis ambalajı",
+  "plastik ambalaj",
+  "toptan ambalaj",
+  "pc-sk750-pp"
+ ],
+ "marka": "EUPLUS",
+ "gorseller": {
+  "jpg": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/pc-sk750-pp-750-cc-salata-kasesi-pp-kapak/pc-sk750-pp-750-cc-salata-kasesi-pp-kapak.jpg",
+  "png": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/pc-sk750-pp-750-cc-salata-kasesi-pp-kapak/pc-sk750-pp-750-cc-salata-kasesi-pp-kapak.png",
+  "png_seffaf": false,
+  "not": "Kategori tanıtım fotoğrafı; ürüne özel fotoğraf yok"
+ },
+ "kaynak": {
+  "tedarikci": "promocup",
+  "tedarikci_ad": "Promocup",
+  "tedarikci_kodu": "",
+  "katalog": "kaynaklar/promocup/promocup-katalog-2026.pdf"
+ }
+}

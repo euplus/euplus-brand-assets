@@ -1,0 +1,59 @@
+{
+ "stok_kodu": "CP315",
+ "baslik": "Büyük Boy Kasa 500 cc",
+ "urun_adi": "Büyük Boy Kasa",
+ "kategori": "Bal Kapları",
+ "kategori_en": "Honey Containers",
+ "katalog": "seffaf",
+ "tur": "kasa",
+ "olcu_mm": "114x180x44",
+ "hacim_cc": "500",
+ "hacim": "500",
+ "materyal": "PS",
+ "agiz_capi_mm": "",
+ "dip_capi_mm": "",
+ "yukseklik_mm": "",
+ "agirlik_g": "",
+ "fisek_ici_adet": "",
+ "koli_olcusu_mm": "600x460x400",
+ "koli_ici_adet": "150",
+ "koli_net_kg": "",
+ "palet_koli": "20",
+ "koli_secenekleri": [],
+ "min_siparis": "150 adet (1 koli)",
+ "not": "",
+ "aciklama": [
+  "Büyük Boy Kasa 500 cc, petek bal için tasarlanmış kasa (çerçeve) modelidir. Süzme bal, petek bal ve krem bal sunumu için uygundur.",
+  "Teknik özellikler: ürün ölçüsü 114 × 180 × 44 mm, 500 cc hacim, PS (polistiren) hammadde.",
+  "Kristal berraklığındaki gövdesi ürünün içeriğini olduğu gibi gösterir; vitrinde ve raf ömrü boyunca formunu korur. Gıdayla temasa uygun hammaddeden üretilmiştir.",
+  "Soğuk sunum ve dolapta saklama için −10 °C'ye, sıcak dolum için +60 °C'ye kadar kullanılabilir.",
+  "Toptan satış koli bazındadır: bir kolide 150 adet, koli ölçüsü 600 × 460 × 400 mm, bir euro palete 20 koli sığar."
+ ],
+ "aciklama_html": "<p>Büyük Boy Kasa 500 cc, petek bal için tasarlanmış kasa (çerçeve) modelidir. Süzme bal, petek bal ve krem bal sunumu için uygundur.</p>\n<p>Teknik özellikler: ürün ölçüsü 114 × 180 × 44 mm, 500 cc hacim, PS (polistiren) hammadde.</p>\n<p>Kristal berraklığındaki gövdesi ürünün içeriğini olduğu gibi gösterir; vitrinde ve raf ömrü boyunca formunu korur. Gıdayla temasa uygun hammaddeden üretilmiştir.</p>\n<p>Soğuk sunum ve dolapta saklama için −10 °C'ye, sıcak dolum için +60 °C'ye kadar kullanılabilir.</p>\n<p>Toptan satış koli bazındadır: bir kolide 150 adet, koli ölçüsü 600 × 460 × 400 mm, bir euro palete 20 koli sığar.</p>",
+ "etiketler": [
+  "büyük boy kasa 500 cc",
+  "büyük boy kasa",
+  "500 cc kasa",
+  "500cc kasa",
+  "petek bal kasası",
+  "bal kasası",
+  "petek bal kabı",
+  "bal kabı",
+  "petek bal ambalajı",
+  "bal ambalajı",
+  "cp315"
+ ],
+ "marka": "EUPLUS",
+ "gorseller": {
+  "jpg": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/cp315-buyuk-boy-kasa/cp315-buyuk-boy-kasa.jpg",
+  "png": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/cp315-buyuk-boy-kasa/cp315-buyuk-boy-kasa.png",
+  "png_seffaf": true,
+  "not": ""
+ },
+ "kaynak": {
+  "tedarikci": "crystal-pack",
+  "tedarikci_ad": "Crystal Pack",
+  "tedarikci_kodu": "CP315",
+  "katalog": "kaynaklar/crystal-pack/crystal-pack-katalog-2026.pdf"
+ }
+}

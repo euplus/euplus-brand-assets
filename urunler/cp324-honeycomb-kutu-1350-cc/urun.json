@@ -1,0 +1,60 @@
+{
+ "stok_kodu": "CP324",
+ "baslik": "Honeycomb Kutu 1350 cc",
+ "urun_adi": "Honeycomb Kutu 1350 cc",
+ "kategori": "Bal Kapları",
+ "kategori_en": "Honey Containers",
+ "katalog": "seffaf",
+ "tur": "kutu",
+ "olcu_mm": "165x232x53",
+ "hacim_cc": "1350",
+ "hacim": "1350",
+ "materyal": "PS",
+ "agiz_capi_mm": "",
+ "dip_capi_mm": "",
+ "yukseklik_mm": "",
+ "agirlik_g": "",
+ "fisek_ici_adet": "",
+ "koli_olcusu_mm": "600x460x400",
+ "koli_ici_adet": "50",
+ "koli_net_kg": "",
+ "palet_koli": "20",
+ "koli_secenekleri": [],
+ "min_siparis": "50 adet (1 koli)",
+ "not": "",
+ "aciklama": [
+  "Honeycomb Kutu 1350 cc, tek kullanımlık şeffaf sunum kutusudur. Süzme bal, petek bal ve krem bal sunumu için uygundur.",
+  "Teknik özellikler: ürün ölçüsü 165 × 232 × 53 mm, 1350 cc hacim, PS (polistiren) hammadde.",
+  "Kristal berraklığındaki gövdesi ürünün içeriğini olduğu gibi gösterir; vitrinde ve raf ömrü boyunca formunu korur. Gıdayla temasa uygun hammaddeden üretilmiştir.",
+  "Soğuk sunum ve dolapta saklama için −10 °C'ye, sıcak dolum için +60 °C'ye kadar kullanılabilir.",
+  "Toptan satış koli bazındadır: bir kolide 50 adet, koli ölçüsü 600 × 460 × 400 mm, bir euro palete 20 koli sığar."
+ ],
+ "aciklama_html": "<p>Honeycomb Kutu 1350 cc, tek kullanımlık şeffaf sunum kutusudur. Süzme bal, petek bal ve krem bal sunumu için uygundur.</p>\n<p>Teknik özellikler: ürün ölçüsü 165 × 232 × 53 mm, 1350 cc hacim, PS (polistiren) hammadde.</p>\n<p>Kristal berraklığındaki gövdesi ürünün içeriğini olduğu gibi gösterir; vitrinde ve raf ömrü boyunca formunu korur. Gıdayla temasa uygun hammaddeden üretilmiştir.</p>\n<p>Soğuk sunum ve dolapta saklama için −10 °C'ye, sıcak dolum için +60 °C'ye kadar kullanılabilir.</p>\n<p>Toptan satış koli bazındadır: bir kolide 50 adet, koli ölçüsü 600 × 460 × 400 mm, bir euro palete 20 koli sığar.</p>",
+ "etiketler": [
+  "honeycomb kutu 1350 cc",
+  "1350 cc kutu",
+  "1350cc kutu",
+  "sunum kutusu",
+  "plastik kutu",
+  "şeffaf kutu",
+  "tatlı kutusu",
+  "tek kullanımlık kutu",
+  "bal kabı",
+  "petek bal ambalajı",
+  "bal ambalajı",
+  "cp324"
+ ],
+ "marka": "EUPLUS",
+ "gorseller": {
+  "jpg": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/cp324-honeycomb-kutu-1350-cc/cp324-honeycomb-kutu-1350-cc.jpg",
+  "png": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/cp324-honeycomb-kutu-1350-cc/cp324-honeycomb-kutu-1350-cc.png",
+  "png_seffaf": true,
+  "not": ""
+ },
+ "kaynak": {
+  "tedarikci": "crystal-pack",
+  "tedarikci_ad": "Crystal Pack",
+  "tedarikci_kodu": "CP324",
+  "katalog": "kaynaklar/crystal-pack/crystal-pack-katalog-2026.pdf"
+ }
+}

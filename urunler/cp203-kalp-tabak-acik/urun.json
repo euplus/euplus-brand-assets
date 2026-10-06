@@ -1,0 +1,60 @@
+{
+ "stok_kodu": "CP203",
+ "baslik": "Kalp Tabak (Açık) 350 cc",
+ "urun_adi": "Kalp Tabak (Açık)",
+ "kategori": "Lokum & Çikolata Kapları",
+ "kategori_en": "Toffee & Chocolate Containers",
+ "katalog": "seffaf",
+ "tur": "tabak",
+ "olcu_mm": "230x210x15",
+ "hacim_cc": "350",
+ "hacim": "350",
+ "materyal": "PS",
+ "agiz_capi_mm": "",
+ "dip_capi_mm": "",
+ "yukseklik_mm": "",
+ "agirlik_g": "",
+ "fisek_ici_adet": "",
+ "koli_olcusu_mm": "405x305x405",
+ "koli_ici_adet": "300",
+ "koli_net_kg": "",
+ "palet_koli": "28",
+ "koli_secenekleri": [],
+ "min_siparis": "300 adet (1 koli)",
+ "not": "",
+ "aciklama": [
+  "Kalp Tabak (Açık) 350 cc, tek kullanımlık şeffaf sunum tabağıdır. Lokum, çikolata, draje, badem şekeri, macaron ve kuruyemiş sunumu için uygundur.",
+  "Teknik özellikler: ürün ölçüsü 230 × 210 × 15 mm, 350 cc hacim, PS (polistiren) hammadde.",
+  "Kristal berraklığındaki gövdesi ürünün içeriğini olduğu gibi gösterir; vitrinde ve raf ömrü boyunca formunu korur. Gıdayla temasa uygun hammaddeden üretilmiştir.",
+  "Soğuk sunum ve dolapta saklama için −10 °C'ye, sıcak dolum için +60 °C'ye kadar kullanılabilir.",
+  "Toptan satış koli bazındadır: bir kolide 300 adet, koli ölçüsü 405 × 305 × 405 mm, bir euro palete 28 koli sığar."
+ ],
+ "aciklama_html": "<p>Kalp Tabak (Açık) 350 cc, tek kullanımlık şeffaf sunum tabağıdır. Lokum, çikolata, draje, badem şekeri, macaron ve kuruyemiş sunumu için uygundur.</p>\n<p>Teknik özellikler: ürün ölçüsü 230 × 210 × 15 mm, 350 cc hacim, PS (polistiren) hammadde.</p>\n<p>Kristal berraklığındaki gövdesi ürünün içeriğini olduğu gibi gösterir; vitrinde ve raf ömrü boyunca formunu korur. Gıdayla temasa uygun hammaddeden üretilmiştir.</p>\n<p>Soğuk sunum ve dolapta saklama için −10 °C'ye, sıcak dolum için +60 °C'ye kadar kullanılabilir.</p>\n<p>Toptan satış koli bazındadır: bir kolide 300 adet, koli ölçüsü 405 × 305 × 405 mm, bir euro palete 28 koli sığar.</p>",
+ "etiketler": [
+  "kalp tabak (açık) 350 cc",
+  "kalp tabak (açık)",
+  "350 cc tabak",
+  "350cc tabak",
+  "plastik tabak",
+  "şeffaf tabak",
+  "sunum tabağı",
+  "servis tabağı",
+  "lokum kutusu",
+  "çikolata kutusu",
+  "kuruyemiş kabı",
+  "cp203"
+ ],
+ "marka": "EUPLUS",
+ "gorseller": {
+  "jpg": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/cp203-kalp-tabak-acik/cp203-kalp-tabak-acik.jpg",
+  "png": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/cp203-kalp-tabak-acik/cp203-kalp-tabak-acik.png",
+  "png_seffaf": true,
+  "not": ""
+ },
+ "kaynak": {
+  "tedarikci": "crystal-pack",
+  "tedarikci_ad": "Crystal Pack",
+  "tedarikci_kodu": "CP203",
+  "katalog": "kaynaklar/crystal-pack/crystal-pack-katalog-2026.pdf"
+ }
+}

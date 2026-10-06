@@ -1,0 +1,58 @@
+{
+ "stok_kodu": "PC-OHK-03",
+ "baslik": "Oluklu Gıda Kutusu 03",
+ "urun_adi": "Oluklu Gıda Kutusu 03",
+ "kategori": "Oluklu Gıda Kutuları",
+ "kategori_en": "Corrugated Food Boxes",
+ "katalog": "servis",
+ "tur": "oluklu-kutu",
+ "olcu_mm": "200x150x75",
+ "hacim_cc": "",
+ "hacim": "",
+ "materyal": "Mikro oluklu mukavva",
+ "agiz_capi_mm": "",
+ "dip_capi_mm": "",
+ "yukseklik_mm": "",
+ "agirlik_g": "",
+ "fisek_ici_adet": "",
+ "koli_olcusu_mm": "",
+ "koli_ici_adet": "",
+ "koli_net_kg": "",
+ "palet_koli": "",
+ "koli_secenekleri": [],
+ "min_siparis": "Bizimle iletişime geçin",
+ "not": "",
+ "aciklama": [
+  "Oluklu Gıda Kutusu 03, mikro oluklu mukavvadan üretilmiş kilitli gıda kutusudur. Hamburger, menü, kızartma ve paket servis için uygundur.",
+  "Teknik özellikler: ürün ölçüsü 200 × 150 × 75 mm.",
+  "Mikro oluklu (E dalga) mukavva; ısıyı korur, buharı dengeler, ezilmeye dayanıklı. Gıdayla temasa uygun hammaddeden üretilmiştir.",
+  "Baskılı veya baskısız, kraft ya da beyaz karton seçeneğiyle üretilir; markanıza özel baskı (ofset / flekso / dijital) yapılabilir. Düz sevk edilir, kullanım anında katlanır. Farklı ölçüler için bizimle iletişime geçin."
+ ],
+ "aciklama_html": "<p>Oluklu Gıda Kutusu 03, mikro oluklu mukavvadan üretilmiş kilitli gıda kutusudur. Hamburger, menü, kızartma ve paket servis için uygundur.</p>\n<p>Teknik özellikler: ürün ölçüsü 200 × 150 × 75 mm.</p>\n<p>Mikro oluklu (E dalga) mukavva; ısıyı korur, buharı dengeler, ezilmeye dayanıklı. Gıdayla temasa uygun hammaddeden üretilmiştir.</p>\n<p>Baskılı veya baskısız, kraft ya da beyaz karton seçeneğiyle üretilir; markanıza özel baskı (ofset / flekso / dijital) yapılabilir. Düz sevk edilir, kullanım anında katlanır. Farklı ölçüler için bizimle iletişime geçin.</p>",
+ "etiketler": [
+  "oluklu gıda kutusu 03",
+  "oluklu hamburger kutusu",
+  "oluklu gıda kutusu",
+  "mikro oluklu kutu",
+  "menü kutusu",
+  "kraft kutu",
+  "paket servis kutusu",
+  "paket servis ambalajı",
+  "karton ambalaj",
+  "toptan ambalaj",
+  "pc-ohk-03"
+ ],
+ "marka": "EUPLUS",
+ "gorseller": {
+  "jpg": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/pc-ohk-03-oluklu-gida-kutusu-03/pc-ohk-03-oluklu-gida-kutusu-03.jpg",
+  "png": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/pc-ohk-03-oluklu-gida-kutusu-03/pc-ohk-03-oluklu-gida-kutusu-03.png",
+  "png_seffaf": true,
+  "not": ""
+ },
+ "kaynak": {
+  "tedarikci": "promocup",
+  "tedarikci_ad": "Promocup",
+  "tedarikci_kodu": "OHK-03",
+  "katalog": "kaynaklar/promocup/promocup-katalog-2026.pdf"
+ }
+}

@@ -1,0 +1,63 @@
+{
+ "stok_kodu": "PC-HOLDER",
+ "baslik": "Pasta Kutusu / Holder",
+ "urun_adi": "Pasta Kutusu / Holder",
+ "kategori": "Taşıma ve Aksesuarlar",
+ "kategori_en": "Carriers & Accessories",
+ "katalog": "servis",
+ "tur": "holder",
+ "olcu_mm": "",
+ "hacim_cc": "",
+ "hacim": "",
+ "materyal": "Karton",
+ "agiz_capi_mm": "",
+ "dip_capi_mm": "",
+ "yukseklik_mm": "",
+ "agirlik_g": "",
+ "fisek_ici_adet": "",
+ "koli_olcusu_mm": "315x305x515",
+ "koli_ici_adet": "500",
+ "koli_net_kg": "",
+ "palet_koli": "",
+ "koli_secenekleri": [
+  {
+   "koli_ici": "500",
+   "koli": "315x305x515",
+   "net_kg": ""
+  }
+ ],
+ "min_siparis": "500 adet (1 koli)",
+ "not": "",
+ "aciklama": [
+  "Pasta Kutusu / Holder, karton pasta kutusu taşıyıcısıdır (holder). Pasta ve tatlı kutularının taşınması için uygundur.",
+  "Teknik özellikler: ölçü ve ağırlık siparişe göre belirlenir.",
+  "Karton. Gıdayla temasa uygun hammaddeden üretilmiştir.",
+  "Paket servis ve gel-al satış için pratik çözüm.",
+  "Toptan satış koli bazındadır: bir kolide 500 adet, koli ölçüsü 315 × 305 × 515 mm."
+ ],
+ "aciklama_html": "<p>Pasta Kutusu / Holder, karton pasta kutusu taşıyıcısıdır (holder). Pasta ve tatlı kutularının taşınması için uygundur.</p>\n<p>Teknik özellikler: ölçü ve ağırlık siparişe göre belirlenir.</p>\n<p>Karton. Gıdayla temasa uygun hammaddeden üretilmiştir.</p>\n<p>Paket servis ve gel-al satış için pratik çözüm.</p>\n<p>Toptan satış koli bazındadır: bir kolide 500 adet, koli ölçüsü 315 × 305 × 515 mm.</p>",
+ "etiketler": [
+  "pasta kutusu / holder",
+  "pasta kutusu holder",
+  "pasta taşıyıcı",
+  "karton holder",
+  "kutu taşıyıcı",
+  "paket servis ambalajı",
+  "karton ambalaj",
+  "toptan ambalaj",
+  "pc-holder"
+ ],
+ "marka": "EUPLUS",
+ "gorseller": {
+  "jpg": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/pc-holder-pasta-kutusu-holder/pc-holder-pasta-kutusu-holder.jpg",
+  "png": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/pc-holder-pasta-kutusu-holder/pc-holder-pasta-kutusu-holder.png",
+  "png_seffaf": false,
+  "not": "Kategori tanıtım fotoğrafı; ürüne özel fotoğraf yok"
+ },
+ "kaynak": {
+  "tedarikci": "promocup",
+  "tedarikci_ad": "Promocup",
+  "tedarikci_kodu": "",
+  "katalog": "kaynaklar/promocup/promocup-katalog-2026.pdf"
+ }
+}

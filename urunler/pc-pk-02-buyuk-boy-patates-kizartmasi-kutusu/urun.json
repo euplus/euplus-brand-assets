@@ -1,0 +1,57 @@
+{
+ "stok_kodu": "PC-PK-02",
+ "baslik": "Büyük Boy Patates Kızartması Kutusu",
+ "urun_adi": "Büyük Boy Patates Kızartması Kutusu",
+ "kategori": "Patates Kızartması Kutuları",
+ "kategori_en": "French Fry Boxes",
+ "katalog": "servis",
+ "tur": "patates-kutusu",
+ "olcu_mm": "83x40x130",
+ "hacim_cc": "",
+ "hacim": "",
+ "materyal": "Karton",
+ "agiz_capi_mm": "",
+ "dip_capi_mm": "",
+ "yukseklik_mm": "",
+ "agirlik_g": "",
+ "fisek_ici_adet": "",
+ "koli_olcusu_mm": "",
+ "koli_ici_adet": "",
+ "koli_net_kg": "",
+ "palet_koli": "",
+ "koli_secenekleri": [],
+ "min_siparis": "Bizimle iletişime geçin",
+ "not": "Baskılı veya baskısız; kraft ya da beyaz karton",
+ "aciklama": [
+  "Büyük Boy Patates Kızartması Kutusu, karton patates kızartması kutusudur. Patates kızartması, soğan halkası, nugget ve atıştırmalık servisi için uygundur.",
+  "Teknik özellikler: ürün ölçüsü 83 × 40 × 130 mm.",
+  "Gıdayla temasa uygun karton; kraft veya beyaz yüzey seçeneği. Gıdayla temasa uygun hammaddeden üretilmiştir.",
+  "Baskılı veya baskısız, kraft ya da beyaz karton seçeneğiyle üretilir; markanıza özel baskı (ofset / flekso / dijital) yapılabilir. Düz sevk edilir, kullanım anında katlanır. Farklı ölçüler için bizimle iletişime geçin."
+ ],
+ "aciklama_html": "<p>Büyük Boy Patates Kızartması Kutusu, karton patates kızartması kutusudur. Patates kızartması, soğan halkası, nugget ve atıştırmalık servisi için uygundur.</p>\n<p>Teknik özellikler: ürün ölçüsü 83 × 40 × 130 mm.</p>\n<p>Gıdayla temasa uygun karton; kraft veya beyaz yüzey seçeneği. Gıdayla temasa uygun hammaddeden üretilmiştir.</p>\n<p>Baskılı veya baskısız, kraft ya da beyaz karton seçeneğiyle üretilir; markanıza özel baskı (ofset / flekso / dijital) yapılabilir. Düz sevk edilir, kullanım anında katlanır. Farklı ölçüler için bizimle iletişime geçin.</p>",
+ "etiketler": [
+  "büyük boy patates kızartması kutusu",
+  "patates kutusu",
+  "patates kızartması kutusu",
+  "karton patates kabı",
+  "fast food kutusu",
+  "kraft patates kutusu",
+  "paket servis ambalajı",
+  "karton ambalaj",
+  "toptan ambalaj",
+  "pc-pk-02"
+ ],
+ "marka": "EUPLUS",
+ "gorseller": {
+  "jpg": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/pc-pk-02-buyuk-boy-patates-kizartmasi-kutusu/pc-pk-02-buyuk-boy-patates-kizartmasi-kutusu.jpg",
+  "png": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/pc-pk-02-buyuk-boy-patates-kizartmasi-kutusu/pc-pk-02-buyuk-boy-patates-kizartmasi-kutusu.png",
+  "png_seffaf": true,
+  "not": ""
+ },
+ "kaynak": {
+  "tedarikci": "promocup",
+  "tedarikci_ad": "Promocup",
+  "tedarikci_kodu": "PK-02",
+  "katalog": "kaynaklar/promocup/promocup-katalog-2026.pdf"
+ }
+}

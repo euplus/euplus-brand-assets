@@ -1,0 +1,65 @@
+{
+ "stok_kodu": "PC-DK100",
+ "baslik": "100 cc Dondurma Kasesi",
+ "urun_adi": "100 cc Dondurma Kasesi",
+ "kategori": "Dondurma Kaseleri",
+ "kategori_en": "Ice Cream Cups",
+ "katalog": "servis",
+ "tur": "dondurma-kasesi",
+ "olcu_mm": "85x73x44",
+ "hacim_cc": "100",
+ "hacim": "100",
+ "materyal": "PE kaplı karton",
+ "agiz_capi_mm": "85",
+ "dip_capi_mm": "73",
+ "yukseklik_mm": "44",
+ "agirlik_g": "5",
+ "fisek_ici_adet": "50",
+ "koli_olcusu_mm": "460x365x582",
+ "koli_ici_adet": "1000",
+ "koli_net_kg": "5",
+ "palet_koli": "",
+ "koli_secenekleri": [
+  {
+   "koli_ici": "1000",
+   "koli": "460x365x582",
+   "net_kg": "5"
+  }
+ ],
+ "min_siparis": "1000 adet (1 koli)",
+ "not": "",
+ "aciklama": [
+  "100 cc Dondurma Kasesi, karton dondurma ve tatlı kasesidir. Dondurma, dondurulmuş yoğurt, helva, meyve salatası ve meze servisi için uygundur.",
+  "Teknik özellikler: ağız çapı 85 mm, dip çapı 73 mm, yükseklik 44 mm, 100 cc hacim, ürün ağırlığı 5 g.",
+  "Gıdayla temasa uygun, içi PE (polietilen) kaplı karton; sıvı geçirmez, kokusuz. Gıdayla temasa uygun hammaddeden üretilmiştir.",
+  "Ofset, flekso veya dijital baskı ile markanıza özel baskı yapılabilir; baskısız olarak da sunulur. Uyumlu kapaklarla paket servis için güvenle kullanılır.",
+  "Toptan satış koli bazındadır: bir kolide 1000 adet (50 adetlik fişekler hâlinde), koli ölçüsü 460 × 365 × 582 mm, koli net ağırlığı 5 kg."
+ ],
+ "aciklama_html": "<p>100 cc Dondurma Kasesi, karton dondurma ve tatlı kasesidir. Dondurma, dondurulmuş yoğurt, helva, meyve salatası ve meze servisi için uygundur.</p>\n<p>Teknik özellikler: ağız çapı 85 mm, dip çapı 73 mm, yükseklik 44 mm, 100 cc hacim, ürün ağırlığı 5 g.</p>\n<p>Gıdayla temasa uygun, içi PE (polietilen) kaplı karton; sıvı geçirmez, kokusuz. Gıdayla temasa uygun hammaddeden üretilmiştir.</p>\n<p>Ofset, flekso veya dijital baskı ile markanıza özel baskı yapılabilir; baskısız olarak da sunulur. Uyumlu kapaklarla paket servis için güvenle kullanılır.</p>\n<p>Toptan satış koli bazındadır: bir kolide 1000 adet (50 adetlik fişekler hâlinde), koli ölçüsü 460 × 365 × 582 mm, koli net ağırlığı 5 kg.</p>",
+ "etiketler": [
+  "100 cc dondurma kasesi",
+  "dondurma kasesi",
+  "karton dondurma kabı",
+  "dondurma bardağı",
+  "tatlı kasesi",
+  "karton kase",
+  "baskılı dondurma kasesi",
+  "paket servis ambalajı",
+  "karton ambalaj",
+  "toptan ambalaj",
+  "pc-dk100"
+ ],
+ "marka": "EUPLUS",
+ "gorseller": {
+  "jpg": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/pc-dk100-100-cc-dondurma-kasesi/pc-dk100-100-cc-dondurma-kasesi.jpg",
+  "png": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/pc-dk100-100-cc-dondurma-kasesi/pc-dk100-100-cc-dondurma-kasesi.png",
+  "png_seffaf": false,
+  "not": "Kategori tanıtım fotoğrafı; ürüne özel fotoğraf yok"
+ },
+ "kaynak": {
+  "tedarikci": "promocup",
+  "tedarikci_ad": "Promocup",
+  "tedarikci_kodu": "",
+  "katalog": "kaynaklar/promocup/promocup-katalog-2026.pdf"
+ }
+}

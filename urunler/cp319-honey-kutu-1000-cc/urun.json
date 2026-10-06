@@ -1,0 +1,60 @@
+{
+ "stok_kodu": "CP319",
+ "baslik": "Honey Kutu 1000 cc",
+ "urun_adi": "Honey Kutu 1000 cc",
+ "kategori": "Bal Kapları",
+ "kategori_en": "Honey Containers",
+ "katalog": "seffaf",
+ "tur": "kutu",
+ "olcu_mm": "126x225x52",
+ "hacim_cc": "1000",
+ "hacim": "1000",
+ "materyal": "PS",
+ "agiz_capi_mm": "",
+ "dip_capi_mm": "",
+ "yukseklik_mm": "",
+ "agirlik_g": "",
+ "fisek_ici_adet": "",
+ "koli_olcusu_mm": "600x400x460",
+ "koli_ici_adet": "140",
+ "koli_net_kg": "",
+ "palet_koli": "20",
+ "koli_secenekleri": [],
+ "min_siparis": "140 adet (1 koli)",
+ "not": "",
+ "aciklama": [
+  "Honey Kutu 1000 cc, tek kullanımlık şeffaf sunum kutusudur. Süzme bal, petek bal ve krem bal sunumu için uygundur.",
+  "Teknik özellikler: ürün ölçüsü 126 × 225 × 52 mm, 1000 cc hacim, PS (polistiren) hammadde.",
+  "Kristal berraklığındaki gövdesi ürünün içeriğini olduğu gibi gösterir; vitrinde ve raf ömrü boyunca formunu korur. Gıdayla temasa uygun hammaddeden üretilmiştir.",
+  "Soğuk sunum ve dolapta saklama için −10 °C'ye, sıcak dolum için +60 °C'ye kadar kullanılabilir.",
+  "Toptan satış koli bazındadır: bir kolide 140 adet, koli ölçüsü 600 × 400 × 460 mm, bir euro palete 20 koli sığar."
+ ],
+ "aciklama_html": "<p>Honey Kutu 1000 cc, tek kullanımlık şeffaf sunum kutusudur. Süzme bal, petek bal ve krem bal sunumu için uygundur.</p>\n<p>Teknik özellikler: ürün ölçüsü 126 × 225 × 52 mm, 1000 cc hacim, PS (polistiren) hammadde.</p>\n<p>Kristal berraklığındaki gövdesi ürünün içeriğini olduğu gibi gösterir; vitrinde ve raf ömrü boyunca formunu korur. Gıdayla temasa uygun hammaddeden üretilmiştir.</p>\n<p>Soğuk sunum ve dolapta saklama için −10 °C'ye, sıcak dolum için +60 °C'ye kadar kullanılabilir.</p>\n<p>Toptan satış koli bazındadır: bir kolide 140 adet, koli ölçüsü 600 × 400 × 460 mm, bir euro palete 20 koli sığar.</p>",
+ "etiketler": [
+  "honey kutu 1000 cc",
+  "1000 cc kutu",
+  "1000cc kutu",
+  "sunum kutusu",
+  "plastik kutu",
+  "şeffaf kutu",
+  "tatlı kutusu",
+  "tek kullanımlık kutu",
+  "bal kabı",
+  "petek bal ambalajı",
+  "bal ambalajı",
+  "cp319"
+ ],
+ "marka": "EUPLUS",
+ "gorseller": {
+  "jpg": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/cp319-honey-kutu-1000-cc/cp319-honey-kutu-1000-cc.jpg",
+  "png": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/cp319-honey-kutu-1000-cc/cp319-honey-kutu-1000-cc.png",
+  "png_seffaf": true,
+  "not": ""
+ },
+ "kaynak": {
+  "tedarikci": "crystal-pack",
+  "tedarikci_ad": "Crystal Pack",
+  "tedarikci_kodu": "CP319",
+  "katalog": "kaynaklar/crystal-pack/crystal-pack-katalog-2026.pdf"
+ }
+}

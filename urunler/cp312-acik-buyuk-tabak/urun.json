@@ -1,0 +1,60 @@
+{
+ "stok_kodu": "CP312",
+ "baslik": "Açık Büyük Tabak 500 cc",
+ "urun_adi": "Açık Büyük Tabak",
+ "kategori": "Bal Kapları",
+ "kategori_en": "Honey Containers",
+ "katalog": "seffaf",
+ "tur": "tabak",
+ "olcu_mm": "144x195x27",
+ "hacim_cc": "500",
+ "hacim": "500",
+ "materyal": "PS",
+ "agiz_capi_mm": "",
+ "dip_capi_mm": "",
+ "yukseklik_mm": "",
+ "agirlik_g": "",
+ "fisek_ici_adet": "",
+ "koli_olcusu_mm": "450x510x170",
+ "koli_ici_adet": "360",
+ "koli_net_kg": "",
+ "palet_koli": "28",
+ "koli_secenekleri": [],
+ "min_siparis": "360 adet (1 koli)",
+ "not": "",
+ "aciklama": [
+  "Açık Büyük Tabak 500 cc, tek kullanımlık şeffaf sunum tabağıdır. Süzme bal, petek bal ve krem bal sunumu için uygundur.",
+  "Teknik özellikler: ürün ölçüsü 144 × 195 × 27 mm, 500 cc hacim, PS (polistiren) hammadde.",
+  "Kristal berraklığındaki gövdesi ürünün içeriğini olduğu gibi gösterir; vitrinde ve raf ömrü boyunca formunu korur. Gıdayla temasa uygun hammaddeden üretilmiştir.",
+  "Soğuk sunum ve dolapta saklama için −10 °C'ye, sıcak dolum için +60 °C'ye kadar kullanılabilir.",
+  "Toptan satış koli bazındadır: bir kolide 360 adet, koli ölçüsü 450 × 510 × 170 mm, bir euro palete 28 koli sığar."
+ ],
+ "aciklama_html": "<p>Açık Büyük Tabak 500 cc, tek kullanımlık şeffaf sunum tabağıdır. Süzme bal, petek bal ve krem bal sunumu için uygundur.</p>\n<p>Teknik özellikler: ürün ölçüsü 144 × 195 × 27 mm, 500 cc hacim, PS (polistiren) hammadde.</p>\n<p>Kristal berraklığındaki gövdesi ürünün içeriğini olduğu gibi gösterir; vitrinde ve raf ömrü boyunca formunu korur. Gıdayla temasa uygun hammaddeden üretilmiştir.</p>\n<p>Soğuk sunum ve dolapta saklama için −10 °C'ye, sıcak dolum için +60 °C'ye kadar kullanılabilir.</p>\n<p>Toptan satış koli bazındadır: bir kolide 360 adet, koli ölçüsü 450 × 510 × 170 mm, bir euro palete 28 koli sığar.</p>",
+ "etiketler": [
+  "açık büyük tabak 500 cc",
+  "açık büyük tabak",
+  "500 cc tabak",
+  "500cc tabak",
+  "plastik tabak",
+  "şeffaf tabak",
+  "sunum tabağı",
+  "servis tabağı",
+  "bal kabı",
+  "petek bal ambalajı",
+  "bal ambalajı",
+  "cp312"
+ ],
+ "marka": "EUPLUS",
+ "gorseller": {
+  "jpg": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/cp312-acik-buyuk-tabak/cp312-acik-buyuk-tabak.jpg",
+  "png": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/cp312-acik-buyuk-tabak/cp312-acik-buyuk-tabak.png",
+  "png_seffaf": true,
+  "not": ""
+ },
+ "kaynak": {
+  "tedarikci": "crystal-pack",
+  "tedarikci_ad": "Crystal Pack",
+  "tedarikci_kodu": "CP312",
+  "katalog": "kaynaklar/crystal-pack/crystal-pack-katalog-2026.pdf"
+ }
+}

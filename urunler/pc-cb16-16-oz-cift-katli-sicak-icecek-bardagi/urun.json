@@ -1,0 +1,68 @@
+{
+ "stok_kodu": "PC-CB16",
+ "baslik": "16 oz Çift Katlı Sıcak İçecek Bardağı",
+ "urun_adi": "16 oz Çift Katlı Sıcak İçecek Bardağı",
+ "kategori": "Çift Katlı Sıcak İçecek Bardakları",
+ "kategori_en": "Double Wall Hot Cups",
+ "katalog": "servis",
+ "tur": "cift-katli-bardak",
+ "olcu_mm": "90x63x135",
+ "hacim_cc": "",
+ "hacim": "16 oz",
+ "materyal": "PE kaplı karton",
+ "agiz_capi_mm": "90",
+ "dip_capi_mm": "63",
+ "yukseklik_mm": "135",
+ "agirlik_g": "22",
+ "fisek_ici_adet": "18",
+ "koli_olcusu_mm": "460x365x582",
+ "koli_ici_adet": "360",
+ "koli_net_kg": "8,0",
+ "palet_koli": "",
+ "koli_secenekleri": [
+  {
+   "koli_ici": "360",
+   "koli": "460x365x582",
+   "net_kg": "8,0"
+  }
+ ],
+ "min_siparis": "360 adet (1 koli)",
+ "not": "",
+ "aciklama": [
+  "16 oz Çift Katlı Sıcak İçecek Bardağı, çift katlı (çift cidarlı) karton sıcak içecek bardağıdır. Filtre kahve, latte, çay ve sıcak çikolata gibi uzun süre sıcak tutulan içeceklerin servisi için uygundur.",
+  "Teknik özellikler: ağız çapı 90 mm, dip çapı 63 mm, yükseklik 135 mm, hacim 16 oz, ürün ağırlığı 22 g.",
+  "Gıdayla temasa uygun, içi PE (polietilen) kaplı karton; sıvı geçirmez, kokusuz. Gıdayla temasa uygun hammaddeden üretilmiştir.",
+  "Ofset, flekso veya dijital baskı ile markanıza özel baskılı; baskısız beyaz veya kraft olarak da sunulur. Sıcak içecek için tasarlanmıştır; çift cidar yapısı kılıf (sleeve) gerektirmez.",
+  "Toptan satış koli bazındadır: bir kolide 360 adet (18 adetlik fişekler hâlinde), koli ölçüsü 460 × 365 × 582 mm, koli net ağırlığı 8,0 kg."
+ ],
+ "aciklama_html": "<p>16 oz Çift Katlı Sıcak İçecek Bardağı, çift katlı (çift cidarlı) karton sıcak içecek bardağıdır. Filtre kahve, latte, çay ve sıcak çikolata gibi uzun süre sıcak tutulan içeceklerin servisi için uygundur.</p>\n<p>Teknik özellikler: ağız çapı 90 mm, dip çapı 63 mm, yükseklik 135 mm, hacim 16 oz, ürün ağırlığı 22 g.</p>\n<p>Gıdayla temasa uygun, içi PE (polietilen) kaplı karton; sıvı geçirmez, kokusuz. Gıdayla temasa uygun hammaddeden üretilmiştir.</p>\n<p>Ofset, flekso veya dijital baskı ile markanıza özel baskılı; baskısız beyaz veya kraft olarak da sunulur. Sıcak içecek için tasarlanmıştır; çift cidar yapısı kılıf (sleeve) gerektirmez.</p>\n<p>Toptan satış koli bazındadır: bir kolide 360 adet (18 adetlik fişekler hâlinde), koli ölçüsü 460 × 365 × 582 mm, koli net ağırlığı 8,0 kg.</p>",
+ "etiketler": [
+  "16 oz çift katlı sıcak içecek bardağı",
+  "çift katlı karton bardak",
+  "double wall bardak",
+  "kılıfsız karton bardak",
+  "kahve bardağı",
+  "sıcak içecek bardağı",
+  "baskılı karton bardak",
+  "karton bardak",
+  "16 oz bardak",
+  "16oz karton bardak",
+  "paket servis ambalajı",
+  "karton ambalaj",
+  "toptan ambalaj",
+  "pc-cb16"
+ ],
+ "marka": "EUPLUS",
+ "gorseller": {
+  "jpg": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/pc-cb16-16-oz-cift-katli-sicak-icecek-bardagi/pc-cb16-16-oz-cift-katli-sicak-icecek-bardagi.jpg",
+  "png": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/pc-cb16-16-oz-cift-katli-sicak-icecek-bardagi/pc-cb16-16-oz-cift-katli-sicak-icecek-bardagi.png",
+  "png_seffaf": false,
+  "not": "Kategori tanıtım fotoğrafı; ürüne özel fotoğraf yok"
+ },
+ "kaynak": {
+  "tedarikci": "promocup",
+  "tedarikci_ad": "Promocup",
+  "tedarikci_kodu": "",
+  "katalog": "kaynaklar/promocup/promocup-katalog-2026.pdf"
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "slug": "promocup",
+ "ad": "Promocup",
+ "tur": "tedarikçi",
+ "adres": "Selimpaşa Mahallesi 5008 Sokak No:2 Silivri / İstanbul",
+ "telefon": "+90 212 283 54 09",
+ "telefon2": "+90 212 283 54 12",
+ "whatsapp": "+90 534 812 56 94",
+ "eposta": "info@promocup.com.tr",
+ "web": "www.promocup.com.tr",
+ "instagram": "@promocupturkiye",
+ "kardes_markalar": ["Promo Box", "Promo Bag"],
+ "sertifikalar": ["ISO 9001:2015", "ISO 14001:2015", "ISO 45001:2018", "BRCGS Ambalaj Malzemeleri", "FSC COC"],
+ "baski": ["flekso", "ofset", "dijital"],
+ "kataloglar": [
+  {
+   "dosya": "promocup-katalog-2026.pdf",
+   "yil": 2026,
+   "tarih": "2026-06-23",
+   "sayfa": 18,
+   "islendi": "2026-10-06",
+   "urun_sayisi": 72,
+   "not": "Canva ile hazırlanmış, tamamen raster (150 dpi) katalog; metin katmanı yok. Ürün görselleri ve teknik tablolar sayfa görüntülerinden elle/okunarak çıkarıldı. Bardak, kase ve kapaklarda ürün başına değil kategori başına tanıtım fotoğrafı var; kutularda ürün başına fotoğraf var."
+  }
+ ],
+ "urun_kodu_oneki": "PC",
+ "kod_notu": "Tedarikçinin kendi kodu olan ürünlerde (PK-01, TV-01, HK-01, OHK-01, OPZ-01, OSK-01, LST71, LBT80, LBT90, LCT, LDO, LCX, LBT) PC-<kod>; diğerlerinde PC-<tip kısaltması><ölçü> türetildi.",
+ "notlar": "Karton bardak (tek/çift katlı, soğuk), karton dondurma ve salata kaseleri, karton gıda kutuları ve oluklu kutular, PET bardak ve kapaklar, PS/PP/PET plastik kapaklar, viyol ve kağıt çantalar. Tüm ürünlerde özel baskı (ofset / flekso / dijital) yapılabiliyor. Kağıt çantada minimum sipariş 25.000 adet.",
+ "gorsel_izni": {
+  "durum": "teyit edilmedi",
+  "not": "Depo public. Yayımdan önce Promocup ile teyit edilmeli."
+ }
+}

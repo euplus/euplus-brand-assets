@@ -1,0 +1,65 @@
+{
+ "stok_kodu": "PC-SK1300-PP",
+ "baslik": "1300 cc Salata Kasesi + PP Kapak",
+ "urun_adi": "1300 cc Salata Kasesi + PP Kapak",
+ "kategori": "Salata Kaseleri",
+ "kategori_en": "Salad Bowls",
+ "katalog": "servis",
+ "tur": "kapak-pc",
+ "olcu_mm": "187x161x70",
+ "hacim_cc": "1300",
+ "hacim": "1300",
+ "materyal": "Kraft karton + PP",
+ "agiz_capi_mm": "187",
+ "dip_capi_mm": "161",
+ "yukseklik_mm": "70",
+ "agirlik_g": "22+12",
+ "fisek_ici_adet": "25",
+ "koli_olcusu_mm": "580x390x530",
+ "koli_ici_adet": "200+200",
+ "koli_net_kg": "6,8",
+ "palet_koli": "",
+ "koli_secenekleri": [
+  {
+   "koli_ici": "200+200",
+   "koli": "580x390x530",
+   "net_kg": "6,8"
+  }
+ ],
+ "min_siparis": "200+200 adet (1 koli)",
+ "not": "kase + kapak",
+ "aciklama": [
+  "1300 cc Salata Kasesi + PP Kapak, bardak veya kase ile uyumlu plastik kapaktır. Paket servis ve gel-al satışta taşıma güvenliği için uygundur.",
+  "Teknik özellikler: ağız çapı 187 mm, dip çapı 161 mm, yükseklik 70 mm, 1300 cc hacim, ürün ağırlığı 22+12 g.",
+  "Kraft karton + PP. Gıdayla temasa uygun hammaddeden üretilmiştir.",
+  "kase + kapak. Sıkı oturur, taşıma sırasında dökülmeyi önler.",
+  "Toptan satış koli bazındadır: bir kolide 200+200 adet (25 adetlik fişekler hâlinde), koli ölçüsü 580 × 390 × 530 mm, koli net ağırlığı 6,8 kg."
+ ],
+ "aciklama_html": "<p>1300 cc Salata Kasesi + PP Kapak, bardak veya kase ile uyumlu plastik kapaktır. Paket servis ve gel-al satışta taşıma güvenliği için uygundur.</p>\n<p>Teknik özellikler: ağız çapı 187 mm, dip çapı 161 mm, yükseklik 70 mm, 1300 cc hacim, ürün ağırlığı 22+12 g.</p>\n<p>Kraft karton + PP. Gıdayla temasa uygun hammaddeden üretilmiştir.</p>\n<p>kase + kapak. Sıkı oturur, taşıma sırasında dökülmeyi önler.</p>\n<p>Toptan satış koli bazındadır: bir kolide 200+200 adet (25 adetlik fişekler hâlinde), koli ölçüsü 580 × 390 × 530 mm, koli net ağırlığı 6,8 kg.</p>",
+ "etiketler": [
+  "1300 cc salata kasesi + pp kapak",
+  "bardak kapağı",
+  "plastik kapak",
+  "şeffaf kapak",
+  "karton bardak kapağı",
+  "kase kapağı",
+  "1300 cc bardak",
+  "paket servis ambalajı",
+  "plastik ambalaj",
+  "toptan ambalaj",
+  "pc-sk1300-pp"
+ ],
+ "marka": "EUPLUS",
+ "gorseller": {
+  "jpg": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/pc-sk1300-pp-1300-cc-salata-kasesi-pp-kapak/pc-sk1300-pp-1300-cc-salata-kasesi-pp-kapak.jpg",
+  "png": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/pc-sk1300-pp-1300-cc-salata-kasesi-pp-kapak/pc-sk1300-pp-1300-cc-salata-kasesi-pp-kapak.png",
+  "png_seffaf": false,
+  "not": "Kategori tanıtım fotoğrafı; ürüne özel fotoğraf yok"
+ },
+ "kaynak": {
+  "tedarikci": "promocup",
+  "tedarikci_ad": "Promocup",
+  "tedarikci_kodu": "",
+  "katalog": "kaynaklar/promocup/promocup-katalog-2026.pdf"
+ }
+}

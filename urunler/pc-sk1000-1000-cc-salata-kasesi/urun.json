@@ -1,0 +1,66 @@
+{
+ "stok_kodu": "PC-SK1000",
+ "baslik": "1000 cc Salata Kasesi",
+ "urun_adi": "1000 cc Salata Kasesi",
+ "kategori": "Salata Kaseleri",
+ "kategori_en": "Salad Bowls",
+ "katalog": "servis",
+ "tur": "salata-kasesi",
+ "olcu_mm": "187x164x55",
+ "hacim_cc": "1000",
+ "hacim": "1000",
+ "materyal": "Kraft karton",
+ "agiz_capi_mm": "187",
+ "dip_capi_mm": "164",
+ "yukseklik_mm": "55",
+ "agirlik_g": "18",
+ "fisek_ici_adet": "25",
+ "koli_olcusu_mm": "580x390x530",
+ "koli_ici_adet": "300",
+ "koli_net_kg": "5,4",
+ "palet_koli": "",
+ "koli_secenekleri": [
+  {
+   "koli_ici": "300",
+   "koli": "580x390x530",
+   "net_kg": "5,4"
+  }
+ ],
+ "min_siparis": "300 adet (1 koli)",
+ "not": "",
+ "aciklama": [
+  "1000 cc Salata Kasesi, kraft karton salata kasesidir. Salata, poke bowl, makarna, pilav ve sıcak-soğuk yemek servisi için uygundur.",
+  "Teknik özellikler: ağız çapı 187 mm, dip çapı 164 mm, yükseklik 55 mm, 1000 cc hacim, ürün ağırlığı 18 g.",
+  "Gıdayla temasa uygun, içi PE kaplı kraft karton; soğuk ve sıcak yemeğe dayanıklı. Gıdayla temasa uygun hammaddeden üretilmiştir.",
+  "Ofset, flekso veya dijital baskı ile markanıza özel baskı yapılabilir; baskısız olarak da sunulur. Uyumlu kapaklarla paket servis için güvenle kullanılır.",
+  "Toptan satış koli bazındadır: bir kolide 300 adet (25 adetlik fişekler hâlinde), koli ölçüsü 580 × 390 × 530 mm, koli net ağırlığı 5,4 kg."
+ ],
+ "aciklama_html": "<p>1000 cc Salata Kasesi, kraft karton salata kasesidir. Salata, poke bowl, makarna, pilav ve sıcak-soğuk yemek servisi için uygundur.</p>\n<p>Teknik özellikler: ağız çapı 187 mm, dip çapı 164 mm, yükseklik 55 mm, 1000 cc hacim, ürün ağırlığı 18 g.</p>\n<p>Gıdayla temasa uygun, içi PE kaplı kraft karton; soğuk ve sıcak yemeğe dayanıklı. Gıdayla temasa uygun hammaddeden üretilmiştir.</p>\n<p>Ofset, flekso veya dijital baskı ile markanıza özel baskı yapılabilir; baskısız olarak da sunulur. Uyumlu kapaklarla paket servis için güvenle kullanılır.</p>\n<p>Toptan satış koli bazındadır: bir kolide 300 adet (25 adetlik fişekler hâlinde), koli ölçüsü 580 × 390 × 530 mm, koli net ağırlığı 5,4 kg.</p>",
+ "etiketler": [
+  "1000 cc salata kasesi",
+  "salata kasesi",
+  "kraft salata kabı",
+  "karton salata kasesi",
+  "poke bowl kabı",
+  "kraft kase",
+  "paket servis kabı",
+  "kapaklı salata kasesi",
+  "paket servis ambalajı",
+  "karton ambalaj",
+  "toptan ambalaj",
+  "pc-sk1000"
+ ],
+ "marka": "EUPLUS",
+ "gorseller": {
+  "jpg": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/pc-sk1000-1000-cc-salata-kasesi/pc-sk1000-1000-cc-salata-kasesi.jpg",
+  "png": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/pc-sk1000-1000-cc-salata-kasesi/pc-sk1000-1000-cc-salata-kasesi.png",
+  "png_seffaf": false,
+  "not": "Kategori tanıtım fotoğrafı; ürüne özel fotoğraf yok"
+ },
+ "kaynak": {
+  "tedarikci": "promocup",
+  "tedarikci_ad": "Promocup",
+  "tedarikci_kodu": "",
+  "katalog": "kaynaklar/promocup/promocup-katalog-2026.pdf"
+ }
+}

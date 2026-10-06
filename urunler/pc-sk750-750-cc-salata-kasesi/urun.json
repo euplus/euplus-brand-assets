@@ -1,0 +1,71 @@
+{
+ "stok_kodu": "PC-SK750",
+ "baslik": "750 cc Salata Kasesi",
+ "urun_adi": "750 cc Salata Kasesi",
+ "kategori": "Salata Kaseleri",
+ "kategori_en": "Salad Bowls",
+ "katalog": "servis",
+ "tur": "salata-kasesi",
+ "olcu_mm": "145x125x65",
+ "hacim_cc": "750",
+ "hacim": "750",
+ "materyal": "Kraft karton",
+ "agiz_capi_mm": "145",
+ "dip_capi_mm": "125",
+ "yukseklik_mm": "65",
+ "agirlik_g": "14",
+ "fisek_ici_adet": "50",
+ "koli_olcusu_mm": "750x300x497",
+ "koli_ici_adet": "500",
+ "koli_net_kg": "7",
+ "palet_koli": "",
+ "koli_secenekleri": [
+  {
+   "koli_ici": "500",
+   "koli": "750x300x497",
+   "net_kg": "7"
+  },
+  {
+   "koli_ici": "400",
+   "koli": "597x300x500",
+   "net_kg": "5,6"
+  }
+ ],
+ "min_siparis": "500 adet (1 koli)",
+ "not": "",
+ "aciklama": [
+  "750 cc Salata Kasesi, kraft karton salata kasesidir. Salata, poke bowl, makarna, pilav ve sıcak-soğuk yemek servisi için uygundur.",
+  "Teknik özellikler: ağız çapı 145 mm, dip çapı 125 mm, yükseklik 65 mm, 750 cc hacim, ürün ağırlığı 14 g.",
+  "Gıdayla temasa uygun, içi PE kaplı kraft karton; soğuk ve sıcak yemeğe dayanıklı. Gıdayla temasa uygun hammaddeden üretilmiştir.",
+  "Ofset, flekso veya dijital baskı ile markanıza özel baskı yapılabilir; baskısız olarak da sunulur. Uyumlu kapaklarla paket servis için güvenle kullanılır.",
+  "Toptan satış koli bazındadır: bir kolide 500 adet (50 adetlik fişekler hâlinde), koli ölçüsü 750 × 300 × 497 mm, koli net ağırlığı 7 kg. Alternatif koli: 400 adet, 597 × 300 × 500 mm, 5,6 kg."
+ ],
+ "aciklama_html": "<p>750 cc Salata Kasesi, kraft karton salata kasesidir. Salata, poke bowl, makarna, pilav ve sıcak-soğuk yemek servisi için uygundur.</p>\n<p>Teknik özellikler: ağız çapı 145 mm, dip çapı 125 mm, yükseklik 65 mm, 750 cc hacim, ürün ağırlığı 14 g.</p>\n<p>Gıdayla temasa uygun, içi PE kaplı kraft karton; soğuk ve sıcak yemeğe dayanıklı. Gıdayla temasa uygun hammaddeden üretilmiştir.</p>\n<p>Ofset, flekso veya dijital baskı ile markanıza özel baskı yapılabilir; baskısız olarak da sunulur. Uyumlu kapaklarla paket servis için güvenle kullanılır.</p>\n<p>Toptan satış koli bazındadır: bir kolide 500 adet (50 adetlik fişekler hâlinde), koli ölçüsü 750 × 300 × 497 mm, koli net ağırlığı 7 kg. Alternatif koli: 400 adet, 597 × 300 × 500 mm, 5,6 kg.</p>",
+ "etiketler": [
+  "750 cc salata kasesi",
+  "salata kasesi",
+  "kraft salata kabı",
+  "karton salata kasesi",
+  "poke bowl kabı",
+  "kraft kase",
+  "paket servis kabı",
+  "kapaklı salata kasesi",
+  "paket servis ambalajı",
+  "karton ambalaj",
+  "toptan ambalaj",
+  "pc-sk750"
+ ],
+ "marka": "EUPLUS",
+ "gorseller": {
+  "jpg": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/pc-sk750-750-cc-salata-kasesi/pc-sk750-750-cc-salata-kasesi.jpg",
+  "png": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/pc-sk750-750-cc-salata-kasesi/pc-sk750-750-cc-salata-kasesi.png",
+  "png_seffaf": false,
+  "not": "Kategori tanıtım fotoğrafı; ürüne özel fotoğraf yok"
+ },
+ "kaynak": {
+  "tedarikci": "promocup",
+  "tedarikci_ad": "Promocup",
+  "tedarikci_kodu": "",
+  "katalog": "kaynaklar/promocup/promocup-katalog-2026.pdf"
+ }
+}

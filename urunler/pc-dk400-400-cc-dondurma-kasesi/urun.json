@@ -1,0 +1,65 @@
+{
+ "stok_kodu": "PC-DK400",
+ "baslik": "400 cc Dondurma Kasesi",
+ "urun_adi": "400 cc Dondurma Kasesi",
+ "kategori": "Dondurma Kaseleri",
+ "kategori_en": "Ice Cream Cups",
+ "katalog": "servis",
+ "tur": "dondurma-kasesi",
+ "olcu_mm": "115x100x70",
+ "hacim_cc": "400",
+ "hacim": "400",
+ "materyal": "PE kaplı karton",
+ "agiz_capi_mm": "115",
+ "dip_capi_mm": "100",
+ "yukseklik_mm": "70",
+ "agirlik_g": "10",
+ "fisek_ici_adet": "35",
+ "koli_olcusu_mm": "590x470x500",
+ "koli_ici_adet": "700",
+ "koli_net_kg": "7",
+ "palet_koli": "",
+ "koli_secenekleri": [
+  {
+   "koli_ici": "700",
+   "koli": "590x470x500",
+   "net_kg": "7"
+  }
+ ],
+ "min_siparis": "700 adet (1 koli)",
+ "not": "",
+ "aciklama": [
+  "400 cc Dondurma Kasesi, karton dondurma ve tatlı kasesidir. Dondurma, dondurulmuş yoğurt, helva, meyve salatası ve meze servisi için uygundur.",
+  "Teknik özellikler: ağız çapı 115 mm, dip çapı 100 mm, yükseklik 70 mm, 400 cc hacim, ürün ağırlığı 10 g.",
+  "Gıdayla temasa uygun, içi PE (polietilen) kaplı karton; sıvı geçirmez, kokusuz. Gıdayla temasa uygun hammaddeden üretilmiştir.",
+  "Ofset, flekso veya dijital baskı ile markanıza özel baskı yapılabilir; baskısız olarak da sunulur. Uyumlu kapaklarla paket servis için güvenle kullanılır.",
+  "Toptan satış koli bazındadır: bir kolide 700 adet (35 adetlik fişekler hâlinde), koli ölçüsü 590 × 470 × 500 mm, koli net ağırlığı 7 kg."
+ ],
+ "aciklama_html": "<p>400 cc Dondurma Kasesi, karton dondurma ve tatlı kasesidir. Dondurma, dondurulmuş yoğurt, helva, meyve salatası ve meze servisi için uygundur.</p>\n<p>Teknik özellikler: ağız çapı 115 mm, dip çapı 100 mm, yükseklik 70 mm, 400 cc hacim, ürün ağırlığı 10 g.</p>\n<p>Gıdayla temasa uygun, içi PE (polietilen) kaplı karton; sıvı geçirmez, kokusuz. Gıdayla temasa uygun hammaddeden üretilmiştir.</p>\n<p>Ofset, flekso veya dijital baskı ile markanıza özel baskı yapılabilir; baskısız olarak da sunulur. Uyumlu kapaklarla paket servis için güvenle kullanılır.</p>\n<p>Toptan satış koli bazındadır: bir kolide 700 adet (35 adetlik fişekler hâlinde), koli ölçüsü 590 × 470 × 500 mm, koli net ağırlığı 7 kg.</p>",
+ "etiketler": [
+  "400 cc dondurma kasesi",
+  "dondurma kasesi",
+  "karton dondurma kabı",
+  "dondurma bardağı",
+  "tatlı kasesi",
+  "karton kase",
+  "baskılı dondurma kasesi",
+  "paket servis ambalajı",
+  "karton ambalaj",
+  "toptan ambalaj",
+  "pc-dk400"
+ ],
+ "marka": "EUPLUS",
+ "gorseller": {
+  "jpg": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/pc-dk400-400-cc-dondurma-kasesi/pc-dk400-400-cc-dondurma-kasesi.jpg",
+  "png": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/pc-dk400-400-cc-dondurma-kasesi/pc-dk400-400-cc-dondurma-kasesi.png",
+  "png_seffaf": false,
+  "not": "Kategori tanıtım fotoğrafı; ürüne özel fotoğraf yok"
+ },
+ "kaynak": {
+  "tedarikci": "promocup",
+  "tedarikci_ad": "Promocup",
+  "tedarikci_kodu": "",
+  "katalog": "kaynaklar/promocup/promocup-katalog-2026.pdf"
+ }
+}

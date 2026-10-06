@@ -1,0 +1,64 @@
+{
+ "stok_kodu": "PC-KP104-PS",
+ "baslik": "104 mm Ø PS Kapak (29 oz)",
+ "urun_adi": "104 mm Ø PS Kapak (29 oz)",
+ "kategori": "Şeffaf Kase Kapakları",
+ "kategori_en": "Clear Bowl Lids",
+ "katalog": "servis",
+ "tur": "kapak-pc",
+ "olcu_mm": "",
+ "hacim_cc": "",
+ "hacim": "",
+ "materyal": "PS",
+ "agiz_capi_mm": "104",
+ "dip_capi_mm": "",
+ "yukseklik_mm": "",
+ "agirlik_g": "3",
+ "fisek_ici_adet": "50",
+ "koli_olcusu_mm": "440x230x480",
+ "koli_ici_adet": "800",
+ "koli_net_kg": "2,4",
+ "palet_koli": "",
+ "koli_secenekleri": [
+  {
+   "koli_ici": "800",
+   "koli": "440x230x480",
+   "net_kg": "2,4"
+  }
+ ],
+ "min_siparis": "800 adet (1 koli)",
+ "not": "29 oz soğuk içecek bardağı ile uyumlu",
+ "aciklama": [
+  "104 mm Ø PS Kapak (29 oz), bardak veya kase ile uyumlu plastik kapaktır. Paket servis ve gel-al satışta taşıma güvenliği için uygundur.",
+  "Teknik özellikler: çap 104 mm, ürün ağırlığı 3 g.",
+  "PS (polistiren); siyah ve beyaz renk seçeneği. Gıdayla temasa uygun hammaddeden üretilmiştir.",
+  "29 oz soğuk içecek bardağı ile uyumlu. Sıkı oturur, taşıma sırasında dökülmeyi önler.",
+  "Toptan satış koli bazındadır: bir kolide 800 adet (50 adetlik fişekler hâlinde), koli ölçüsü 440 × 230 × 480 mm, koli net ağırlığı 2,4 kg."
+ ],
+ "aciklama_html": "<p>104 mm Ø PS Kapak (29 oz), bardak veya kase ile uyumlu plastik kapaktır. Paket servis ve gel-al satışta taşıma güvenliği için uygundur.</p>\n<p>Teknik özellikler: çap 104 mm, ürün ağırlığı 3 g.</p>\n<p>PS (polistiren); siyah ve beyaz renk seçeneği. Gıdayla temasa uygun hammaddeden üretilmiştir.</p>\n<p>29 oz soğuk içecek bardağı ile uyumlu. Sıkı oturur, taşıma sırasında dökülmeyi önler.</p>\n<p>Toptan satış koli bazındadır: bir kolide 800 adet (50 adetlik fişekler hâlinde), koli ölçüsü 440 × 230 × 480 mm, koli net ağırlığı 2,4 kg.</p>",
+ "etiketler": [
+  "104 mm ø ps kapak (29 oz)",
+  "bardak kapağı",
+  "plastik kapak",
+  "yudum kapağı",
+  "karton bardak kapağı",
+  "kahve bardağı kapağı",
+  "paket servis ambalajı",
+  "plastik ambalaj",
+  "toptan ambalaj",
+  "pc-kp104-ps"
+ ],
+ "marka": "EUPLUS",
+ "gorseller": {
+  "jpg": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/pc-kp104-ps-104-mm-ps-kapak-29-oz/pc-kp104-ps-104-mm-ps-kapak-29-oz.jpg",
+  "png": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/pc-kp104-ps-104-mm-ps-kapak-29-oz/pc-kp104-ps-104-mm-ps-kapak-29-oz.png",
+  "png_seffaf": false,
+  "not": "Kategori tanıtım fotoğrafı; ürüne özel fotoğraf yok"
+ },
+ "kaynak": {
+  "tedarikci": "promocup",
+  "tedarikci_ad": "Promocup",
+  "tedarikci_kodu": "",
+  "katalog": "kaynaklar/promocup/promocup-katalog-2026.pdf"
+ }
+}

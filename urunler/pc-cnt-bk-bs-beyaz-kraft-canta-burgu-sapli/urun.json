@@ -1,0 +1,60 @@
+{
+ "stok_kodu": "PC-CNT-BK-BS",
+ "baslik": "Beyaz Kraft Çanta – Burgu Saplı",
+ "urun_adi": "Beyaz Kraft Çanta – Burgu Saplı",
+ "kategori": "Kağıt Çantalar",
+ "kategori_en": "Paper Bags",
+ "katalog": "servis",
+ "tur": "canta",
+ "olcu_mm": "",
+ "hacim_cc": "",
+ "hacim": "",
+ "materyal": "Beyaz kraft kağıt",
+ "agiz_capi_mm": "",
+ "dip_capi_mm": "",
+ "yukseklik_mm": "",
+ "agirlik_g": "",
+ "fisek_ici_adet": "",
+ "koli_olcusu_mm": "",
+ "koli_ici_adet": "",
+ "koli_net_kg": "",
+ "palet_koli": "",
+ "koli_secenekleri": [],
+ "min_siparis": "25.000 adet (siparişe özel üretim)",
+ "not": "Körük 9–26 cm, genişlik 22–55 cm, yükseklik 20–62 cm arası ölçüler; minimum sipariş 25.000 adet; özel baskı yapılır",
+ "aciklama": [
+  "Beyaz Kraft Çanta – Burgu Saplı, kağıt taşıma çantasıdır. Paket servis, mağaza ve kurumsal hediye taşıması için uygundur.",
+  "Teknik özellikler: ölçü ve ağırlık siparişe göre belirlenir.",
+  "Beyaz kraft kağıt; burgu veya düz sap, SOS (yassı dipli) seçeneği. Gıdayla temasa uygun hammaddeden üretilmiştir.",
+  "Ölçü, kağıt ve sap tipi siparişe göre belirlenir: körük 9–26 cm, genişlik 22–55 cm, yükseklik 20–62 cm. Ofset veya flekso baskı ile markanıza özel üretilir.",
+  "Toptan satış siparişe özel üretimdir: minimum sipariş 25.000 adettir."
+ ],
+ "aciklama_html": "<p>Beyaz Kraft Çanta – Burgu Saplı, kağıt taşıma çantasıdır. Paket servis, mağaza ve kurumsal hediye taşıması için uygundur.</p>\n<p>Teknik özellikler: ölçü ve ağırlık siparişe göre belirlenir.</p>\n<p>Beyaz kraft kağıt; burgu veya düz sap, SOS (yassı dipli) seçeneği. Gıdayla temasa uygun hammaddeden üretilmiştir.</p>\n<p>Ölçü, kağıt ve sap tipi siparişe göre belirlenir: körük 9–26 cm, genişlik 22–55 cm, yükseklik 20–62 cm. Ofset veya flekso baskı ile markanıza özel üretilir.</p>\n<p>Toptan satış siparişe özel üretimdir: minimum sipariş 25.000 adettir.</p>",
+ "etiketler": [
+  "beyaz kraft çanta – burgu saplı",
+  "kağıt çanta",
+  "kraft çanta",
+  "karton çanta",
+  "baskılı kağıt çanta",
+  "paket servis çantası",
+  "saplı kağıt çanta",
+  "burgu saplı çanta",
+  "paket servis ambalajı",
+  "karton ambalaj",
+  "toptan ambalaj",
+  "pc-cnt-bk-bs"
+ ],
+ "marka": "EUPLUS",
+ "gorseller": {
+  "jpg": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/pc-cnt-bk-bs-beyaz-kraft-canta-burgu-sapli/pc-cnt-bk-bs-beyaz-kraft-canta-burgu-sapli.jpg",
+  "png": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/pc-cnt-bk-bs-beyaz-kraft-canta-burgu-sapli/pc-cnt-bk-bs-beyaz-kraft-canta-burgu-sapli.png",
+  "png_seffaf": true,
+  "not": ""
+ },
+ "kaynak": {
+  "tedarikci": "promocup",
+  "tedarikci_ad": "Promocup",
+  "tedarikci_kodu": "",
+  "katalog": "kaynaklar/promocup/promocup-katalog-2026.pdf"
+ }
+}

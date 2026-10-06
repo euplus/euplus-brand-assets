@@ -1,0 +1,59 @@
+{
+ "stok_kodu": "CP200",
+ "baslik": "Oval Açık Tabak 150 cc",
+ "urun_adi": "Oval Açık Tabak 150 cc",
+ "kategori": "Lokum & Çikolata Kapları",
+ "kategori_en": "Toffee & Chocolate Containers",
+ "katalog": "seffaf",
+ "tur": "tabak",
+ "olcu_mm": "121x191x15",
+ "hacim_cc": "150",
+ "hacim": "150",
+ "materyal": "PS",
+ "agiz_capi_mm": "",
+ "dip_capi_mm": "",
+ "yukseklik_mm": "",
+ "agirlik_g": "",
+ "fisek_ici_adet": "",
+ "koli_olcusu_mm": "405x305x400",
+ "koli_ici_adet": "600",
+ "koli_net_kg": "",
+ "palet_koli": "28",
+ "koli_secenekleri": [],
+ "min_siparis": "600 adet (1 koli)",
+ "not": "",
+ "aciklama": [
+  "Oval Açık Tabak 150 cc, tek kullanımlık şeffaf sunum tabağıdır. Lokum, çikolata, draje, badem şekeri, macaron ve kuruyemiş sunumu için uygundur.",
+  "Teknik özellikler: ürün ölçüsü 121 × 191 × 15 mm, 150 cc hacim, PS (polistiren) hammadde.",
+  "Kristal berraklığındaki gövdesi ürünün içeriğini olduğu gibi gösterir; vitrinde ve raf ömrü boyunca formunu korur. Gıdayla temasa uygun hammaddeden üretilmiştir.",
+  "Soğuk sunum ve dolapta saklama için −10 °C'ye, sıcak dolum için +60 °C'ye kadar kullanılabilir.",
+  "Toptan satış koli bazındadır: bir kolide 600 adet, koli ölçüsü 405 × 305 × 400 mm, bir euro palete 28 koli sığar."
+ ],
+ "aciklama_html": "<p>Oval Açık Tabak 150 cc, tek kullanımlık şeffaf sunum tabağıdır. Lokum, çikolata, draje, badem şekeri, macaron ve kuruyemiş sunumu için uygundur.</p>\n<p>Teknik özellikler: ürün ölçüsü 121 × 191 × 15 mm, 150 cc hacim, PS (polistiren) hammadde.</p>\n<p>Kristal berraklığındaki gövdesi ürünün içeriğini olduğu gibi gösterir; vitrinde ve raf ömrü boyunca formunu korur. Gıdayla temasa uygun hammaddeden üretilmiştir.</p>\n<p>Soğuk sunum ve dolapta saklama için −10 °C'ye, sıcak dolum için +60 °C'ye kadar kullanılabilir.</p>\n<p>Toptan satış koli bazındadır: bir kolide 600 adet, koli ölçüsü 405 × 305 × 400 mm, bir euro palete 28 koli sığar.</p>",
+ "etiketler": [
+  "oval açık tabak 150 cc",
+  "150 cc tabak",
+  "150cc tabak",
+  "plastik tabak",
+  "şeffaf tabak",
+  "sunum tabağı",
+  "servis tabağı",
+  "lokum kutusu",
+  "çikolata kutusu",
+  "kuruyemiş kabı",
+  "cp200"
+ ],
+ "marka": "EUPLUS",
+ "gorseller": {
+  "jpg": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/cp200-oval-acik-tabak-150-cc/cp200-oval-acik-tabak-150-cc.jpg",
+  "png": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/cp200-oval-acik-tabak-150-cc/cp200-oval-acik-tabak-150-cc.png",
+  "png_seffaf": true,
+  "not": ""
+ },
+ "kaynak": {
+  "tedarikci": "crystal-pack",
+  "tedarikci_ad": "Crystal Pack",
+  "tedarikci_kodu": "CP200",
+  "katalog": "kaynaklar/crystal-pack/crystal-pack-katalog-2026.pdf"
+ }
+}
