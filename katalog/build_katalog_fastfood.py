@@ -264,7 +264,11 @@ def section_pages(c, num, sec_id):
     if len(pics) == 1:
         iw, ih = img(gpath(pics[0])).getSize(); nat = CW * ih / iw
         if 150 <= nat < hero_h: hero_h = nat
-    for i, pic in enumerate(pics): rounded_image(c, gpath(pic), M + i * (pw + gap), y - hero_h, pw, hero_h)
+    for i, pic in enumerate(pics):
+        if sec.get('sigdir'):  # çizim / beyaz zeminli görsel: kırpmadan sığdır
+            x = M + i * (pw + gap); c.setFillColor(white); c.setStrokeColor(LINE); c.setLineWidth(0.6)
+            c.roundRect(x, y - hero_h, pw, hero_h, 10, fill=1, stroke=1); draw_fit(c, gpath(pic), x, y - hero_h, pw, hero_h, pad=14)
+        else: rounded_image(c, gpath(pic), M + i * (pw + gap), y - hero_h, pw, hero_h)
     y -= hero_h + 18
     for title, cols, rows in tables:
         if y - 40 < BOT: c.showPage(); header_footer(c, stitle + " (devam)"); y = TOP - 10

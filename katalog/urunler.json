@@ -337,8 +337,7 @@
    "notlar": [
     "Kutu üretiminde kullanılan karton talebe göre değiştirilebilir.",
     "Standart ölçüler dışında farklı ölçüler üretilebilir."
-   ],
-   "gorsel2": "gorseller/hx-mikro-oluklu-2.jpg"
+   ]
   },
   "21": {
    "ad": "Taşıma Kutuları",
@@ -404,8 +403,7 @@
    "notlar": [
     "PE ve OPP astar (lining) seçenekleri mevcuttur.",
     "Standart ölçüler dışında farklı ölçüler üretilebilir."
-   ],
-   "gorsel2": "gorseller/hx-tasima-kutusu-2.jpg"
+   ]
   },
   "22": {
    "ad": "Sokak Lezzeti Tepsileri",
@@ -584,7 +582,9 @@
    "tablolar": [],
    "notlar": [
     "Standart ölçüler dışında farklı ölçüler üretilebilir."
-   ]
+   ],
+   "gorsel2": "gorseller/hx-durum-kutusu-2.jpg",
+   "sigdir": true
   },
   "25": {
    "ad": "Pizza Kutuları",
@@ -693,8 +693,7 @@
     "Ürünler 50'li çember hâlinde, palette streçle şeffaf ambalajlanır; sevkiyatta koli kullanılmaz.",
     "Baskılı ve baskısız seçenek; farklı ölçüler üretilebilir."
    ],
-   "gorsel2": "gorseller/hx-pasta-kutusu-2.jpg",
-   "gorsel3": "gorseller/hx-pasta-kutusu-3.jpg"
+   "gorsel2": "gorseller/hx-pasta-kutusu-3.jpg"
   },
   "27": {
    "ad": "Yuvarlak Noodle Kutuları",
@@ -1015,8 +1014,7 @@
    "notlar": [
     "Kılıflar baskılı veya baskısız sunulur."
    ],
-   "gorsel2": "gorseller/hx-tasiyici-2.jpg",
-   "gorsel3": "gorseller/hx-tasiyici-4.jpg"
+   "gorsel2": "gorseller/hx-tasiyici.jpg"
   },
   "32": {
    "ad": "Düz Saplı Kağıt Çantalar",
