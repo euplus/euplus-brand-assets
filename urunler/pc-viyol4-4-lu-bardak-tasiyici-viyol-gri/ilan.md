@@ -21,6 +21,6 @@ Toptan satış koli bazındadır: bir kolide 220 adet (220 adetlik fişekler hâ
 | Koli ölçüsü | 600 × 422 × 215 mm |
 | Koli net ağırlık | 6 kg |
 
-**Etiketler:** `4'lü bardak taşıyıcı viyol (gri)`, `bardak taşıyıcı`, `viyol`, `bardak viyolü`, `kahve taşıma viyolü`, `cup holder`, `karton bardak taşıyıcı`, `paket servis ambalajı`, `karton ambalaj`, `toptan ambalaj`, `pc-vıyol4`
+**Etiketler:** `4'lü bardak taşıyıcı viyol (gri)`, `bardak taşıyıcı`, `viyol`, `bardak viyolü`, `kahve taşıma viyolü`, `cup holder`, `karton bardak taşıyıcı`, `paket servis ambalajı`, `karton ambalaj`, `toptan ambalaj`, `pc-viyol4`
 
 **Görseller:** [JPG (1200×1200, beyaz zemin)](pc-viyol4-4-lu-bardak-tasiyici-viyol-gri.jpg) · [PNG (opak, kategori fotoğrafı)](pc-viyol4-4-lu-bardak-tasiyici-viyol-gri.png)

@@ -158,6 +158,1862 @@
    "tablo": "canta",
    "slogan": "Doğa dostu. Güçlü ve güvenilir.",
    "ozet": "Kraft veya beyaz kağıttan, düz veya burgu saplı çantalar; ölçü ve baskı siparişe göre."
+  },
+  "18": {
+   "ad": "Burger Kutuları",
+   "en": "Burger Boxes",
+   "katalog": "fastfood",
+   "tedarikci": "helmex",
+   "grup": 1,
+   "gorsel": "gorseller/hx-burger-kutusu.jpg",
+   "slogan": "Beyaz, kraft veya siyah; kilitli kapaklı.",
+   "ozet": "Hamburger ve sandviç servisi için kilitli kapaklı karton burger kutuları; üç boy. Kapak ölçüsü gövdeden biraz büyüktür.",
+   "tablo": "generic",
+   "sutunlar": [
+    [
+     "Kod",
+     "kod",
+     70,
+     "l"
+    ],
+    [
+     "Ürün",
+     "ad",
+     150,
+     "l"
+    ],
+    [
+     "Ölçü (mm)",
+     "olcu",
+     95,
+     "l"
+    ],
+    [
+     "Koli içi",
+     "koli_ici",
+     70,
+     "r"
+    ],
+    [
+     "Koli ölçüsü (mm)",
+     "koli",
+     80,
+     "l"
+    ],
+    [
+     "Palet",
+     "palet",
+     40,
+     "r"
+    ],
+    [
+     "Karton",
+     "gsm",
+     60,
+     "l"
+    ]
+   ],
+   "tablolar": [],
+   "notlar": [
+    "Standart ölçüler dışında, talebinize uygun farklı ölçüler üretilebilir.",
+    "Baskılı veya baskısız; beyaz, kraft ya da siyah karton."
+   ]
+  },
+  "19": {
+   "ad": "Patates Kapları",
+   "en": "Chips Scoops",
+   "katalog": "fastfood",
+   "tedarikci": "helmex",
+   "grup": 1,
+   "gorsel": "gorseller/hx-patates-kabi.jpg",
+   "slogan": "Kızartma servisi için açık ağızlı karton kap.",
+   "ozet": "Patates kızartması, soğan halkası ve atıştırmalık servisi için açık ağızlı karton patates kapları; iki boy. Ölçüler üst ağız / taban (en × derinlik) ve yüksekliktir.",
+   "tablo": "generic",
+   "sutunlar": [
+    [
+     "Kod",
+     "kod",
+     70,
+     "l"
+    ],
+    [
+     "Ürün",
+     "ad",
+     150,
+     "l"
+    ],
+    [
+     "Ölçü (mm)",
+     "olcu",
+     95,
+     "l"
+    ],
+    [
+     "Koli içi",
+     "koli_ici",
+     70,
+     "r"
+    ],
+    [
+     "Koli ölçüsü (mm)",
+     "koli",
+     80,
+     "l"
+    ],
+    [
+     "Palet",
+     "palet",
+     40,
+     "r"
+    ],
+    [
+     "Karton",
+     "gsm",
+     60,
+     "l"
+    ]
+   ],
+   "tablolar": [],
+   "notlar": [
+    "Standart ölçüler dışında, talebinize uygun farklı ölçüler üretilebilir."
+   ],
+   "gorsel2": "gorseller/hx-patates-kabi-2.jpg"
+  },
+  "20": {
+   "ad": "Mikro Oluklu Burger Kutuları",
+   "en": "Micro Corrugated Takeaway Boxes",
+   "katalog": "fastfood",
+   "tedarikci": "helmex",
+   "grup": 1,
+   "gorsel": "gorseller/hx-mikro-oluklu.jpg",
+   "slogan": "N dalga mikro oluklu; sıcağı korur, ezilmez.",
+   "ozet": "N dalga mikro oluklu mukavvadan burger ve menü kutuları. Oluklu yapı ısıyı korur, yağ geçirmez ve taşımada ezilmez.",
+   "tablo": "generic",
+   "sutunlar": [
+    [
+     "Kod",
+     "kod",
+     70,
+     "l"
+    ],
+    [
+     "Ürün",
+     "ad",
+     150,
+     "l"
+    ],
+    [
+     "Ölçü (mm)",
+     "olcu",
+     95,
+     "l"
+    ],
+    [
+     "Koli içi",
+     "koli_ici",
+     70,
+     "r"
+    ],
+    [
+     "Koli ölçüsü (mm)",
+     "koli",
+     80,
+     "l"
+    ],
+    [
+     "Palet",
+     "palet",
+     40,
+     "r"
+    ],
+    [
+     "Karton",
+     "gsm",
+     60,
+     "l"
+    ]
+   ],
+   "tablolar": [],
+   "notlar": [
+    "Kutu üretiminde kullanılan karton talebe göre değiştirilebilir.",
+    "Standart ölçüler dışında farklı ölçüler üretilebilir."
+   ],
+   "gorsel2": "gorseller/hx-mikro-oluklu-2.jpg"
+  },
+  "21": {
+   "ad": "Taşıma Kutuları",
+   "en": "Takeaway Boxes",
+   "katalog": "fastfood",
+   "tedarikci": "helmex",
+   "grup": 1,
+   "gorsel": "gorseller/hx-tasima-kutusu.jpg",
+   "slogan": "Kilitli kapaklı, PE veya OPP astarlı seçenek.",
+   "ozet": "Sıcak ve soğuk yemek servisi için kilitli kapaklı karton taşıma kutuları (noodle / takeaway box); altı boy. Üst ölçü TL×TW, alt ölçü BL×BW olarak verilmiştir.",
+   "tablo": "generic",
+   "sutunlar": [
+    [
+     "Kod",
+     "kod",
+     60,
+     "l"
+    ],
+    [
+     "Ürün",
+     "ad",
+     120,
+     "l"
+    ],
+    [
+     "Üst ölçü",
+     "ust",
+     70,
+     "l"
+    ],
+    [
+     "Alt ölçü",
+     "alt",
+     70,
+     "l"
+    ],
+    [
+     "Yük.",
+     "yuk",
+     36,
+     "r"
+    ],
+    [
+     "Koli içi",
+     "koli_ici",
+     64,
+     "r"
+    ],
+    [
+     "Koli ölçüsü (mm)",
+     "koli",
+     70,
+     "l"
+    ],
+    [
+     "Palet",
+     "palet",
+     36,
+     "r"
+    ]
+   ],
+   "tablolar": [],
+   "notlar": [
+    "PE ve OPP astar (lining) seçenekleri mevcuttur.",
+    "Standart ölçüler dışında farklı ölçüler üretilebilir."
+   ],
+   "gorsel2": "gorseller/hx-tasima-kutusu-2.jpg"
+  },
+  "22": {
+   "ad": "Sokak Lezzeti Tepsileri",
+   "en": "Street Food Trays",
+   "katalog": "fastfood",
+   "tedarikci": "helmex",
+   "grup": 1,
+   "gorsel": "gorseller/hx-sokak-tepsisi.jpg",
+   "slogan": "Açık servis için kraft karton tepsi.",
+   "ozet": "Patates, tavuk, sosisli ve atıştırmalık servisi için açık karton tepsiler; beş boy. Üst ölçü TL×TW, alt ölçü BL×BW.",
+   "tablo": "generic",
+   "sutunlar": [
+    [
+     "Kod",
+     "kod",
+     60,
+     "l"
+    ],
+    [
+     "Ürün",
+     "ad",
+     120,
+     "l"
+    ],
+    [
+     "Üst ölçü",
+     "ust",
+     70,
+     "l"
+    ],
+    [
+     "Alt ölçü",
+     "alt",
+     70,
+     "l"
+    ],
+    [
+     "Yük.",
+     "yuk",
+     36,
+     "r"
+    ],
+    [
+     "Koli içi",
+     "koli_ici",
+     64,
+     "r"
+    ],
+    [
+     "Koli ölçüsü (mm)",
+     "koli",
+     70,
+     "l"
+    ],
+    [
+     "Palet",
+     "palet",
+     36,
+     "r"
+    ]
+   ],
+   "tablolar": [],
+   "notlar": [
+    "PE ve OPP astar seçenekleri mevcuttur.",
+    "Standart ölçüler dışında farklı ölçüler üretilebilir."
+   ],
+   "gorsel2": "gorseller/hx-sokak-tepsisi-2.jpg"
+  },
+  "23": {
+   "ad": "Tavuk Kutuları ve Aile Kovası",
+   "en": "Chicken Boxes",
+   "katalog": "fastfood",
+   "tedarikci": "helmex",
+   "grup": 1,
+   "gorsel": "gorseller/hx-tavuk-kutusu.jpg",
+   "slogan": "Kızarmış tavuk servisi için üç boy kutu + saplı aile kovası.",
+   "ozet": "Kızarmış tavuk ve kanat servisi için kilitli karton kutular (üç boy) ve saplı aile kovası. Koli içi adet talebe göre düzenlenebilir.",
+   "tablo": "generic",
+   "sutunlar": [
+    [
+     "Kod",
+     "kod",
+     70,
+     "l"
+    ],
+    [
+     "Ürün",
+     "ad",
+     150,
+     "l"
+    ],
+    [
+     "Ölçü (mm)",
+     "olcu",
+     95,
+     "l"
+    ],
+    [
+     "Koli içi",
+     "koli_ici",
+     70,
+     "r"
+    ],
+    [
+     "Koli ölçüsü (mm)",
+     "koli",
+     80,
+     "l"
+    ],
+    [
+     "Palet",
+     "palet",
+     40,
+     "r"
+    ],
+    [
+     "Karton",
+     "gsm",
+     60,
+     "l"
+    ]
+   ],
+   "tablolar": [],
+   "notlar": [
+    "Koli içi adet talebe göre paketlenebilir (örn. FC0 200 adet × 2)."
+   ]
+  },
+  "24": {
+   "ad": "Dürüm Kutuları",
+   "en": "Wrap Boxes",
+   "katalog": "fastfood",
+   "tedarikci": "helmex",
+   "grup": 1,
+   "gorsel": "gorseller/hx-durum-kutusu.jpg",
+   "slogan": "Dürüm ve wrap için yastık tipi kutu.",
+   "ozet": "Dürüm, wrap ve sandviç servisi için yastık (pillow) tipi karton kutular; iki boy. Ölçüler üst / alt (en × derinlik) ve yüksekliktir.",
+   "tablo": "generic",
+   "sutunlar": [
+    [
+     "Kod",
+     "kod",
+     70,
+     "l"
+    ],
+    [
+     "Ürün",
+     "ad",
+     150,
+     "l"
+    ],
+    [
+     "Ölçü (mm)",
+     "olcu",
+     95,
+     "l"
+    ],
+    [
+     "Koli içi",
+     "koli_ici",
+     70,
+     "r"
+    ],
+    [
+     "Koli ölçüsü (mm)",
+     "koli",
+     80,
+     "l"
+    ],
+    [
+     "Palet koli",
+     "palet",
+     50,
+     "r"
+    ]
+   ],
+   "tablolar": [],
+   "notlar": [
+    "Standart ölçüler dışında farklı ölçüler üretilebilir."
+   ]
+  },
+  "25": {
+   "ad": "Pizza Kutuları",
+   "en": "Pizza Boxes",
+   "katalog": "fastfood",
+   "tedarikci": "helmex",
+   "grup": 1,
+   "gorsel": "gorseller/hx-pizza-kutusu.jpg",
+   "slogan": "5 inçten 18 inçe 13 boy; baskılı veya baskısız.",
+   "ozet": "Oluklu mukavva pizza kutuları, 5\"–18\" arası 13 standart boy. Paketler 50 veya 100 adetlik; minimum sipariş palet bazındadır.",
+   "tablo": "generic",
+   "sutunlar": [
+    [
+     "İnç",
+     "inc",
+     40,
+     "l"
+    ],
+    [
+     "L × W × H (mm)",
+     "olcu",
+     90,
+     "l"
+    ],
+    [
+     "Paket içi",
+     "paket",
+     60,
+     "r"
+    ],
+    [
+     "Paket/palet",
+     "paket_palet",
+     70,
+     "r"
+    ],
+    [
+     "Adet/palet",
+     "adet_palet",
+     70,
+     "r"
+    ],
+    [
+     "Min. sipariş",
+     "moq",
+     70,
+     "r"
+    ],
+    [
+     "Baskılı min.",
+     "moq_baskili",
+     70,
+     "r"
+    ]
+   ],
+   "tablolar": [],
+   "notlar": [
+    "Standart ölçüler dışında farklı ölçüler üretilebilir."
+   ],
+   "gorsel2": "gorseller/hx-pizza-kutusu-2.jpg"
+  },
+  "26": {
+   "ad": "Pasta Kutuları",
+   "en": "Cake Boxes",
+   "katalog": "fastfood",
+   "tedarikci": "helmex",
+   "grup": 1,
+   "gorsel": "gorseller/hx-pasta-kutusu.jpg",
+   "slogan": "Bristol karton; 15 standart ölçü.",
+   "ozet": "Pasta, tatlı ve donut servisi için bristol karton pasta kutuları; 5 cm ve 8 cm yükseklikte 15 ölçü. 50'li çemberle paketlenir, palette streçle sevk edilir.",
+   "tablo": "generic",
+   "sutunlar": [
+    [
+     "Ölçü (cm)",
+     "olcu",
+     70,
+     "l"
+    ],
+    [
+     "Karton",
+     "gsm",
+     90,
+     "l"
+    ],
+    [
+     "Paket",
+     "paket",
+     70,
+     "l"
+    ],
+    [
+     "Adet/palet",
+     "adet_palet",
+     70,
+     "r"
+    ],
+    [
+     "Palet ölçüsü (cm)",
+     "palet_olcu",
+     90,
+     "l"
+    ]
+   ],
+   "tablolar": [],
+   "notlar": [
+    "Ürünler 50'li çember hâlinde, palette streçle şeffaf ambalajlanır; sevkiyatta koli kullanılmaz.",
+    "Baskılı ve baskısız seçenek; farklı ölçüler üretilebilir."
+   ],
+   "gorsel2": "gorseller/hx-pasta-kutusu-2.jpg",
+   "gorsel3": "gorseller/hx-pasta-kutusu-3.jpg"
+  },
+  "27": {
+   "ad": "Yuvarlak Noodle Kutuları",
+   "en": "Round Noodle Boxes",
+   "katalog": "fastfood",
+   "tedarikci": "helmex",
+   "grup": 1,
+   "gorsel": "gorseller/hx-noodle-kutusu.jpg",
+   "slogan": "PE laminasyonlu; sıcak servise uygun.",
+   "ozet": "Noodle, makarna ve sıcak yemek servisi için PE laminasyonlu yuvarlak karton kutular; 450 ml ve 750 ml.",
+   "tablo": "generic",
+   "sutunlar": [
+    [
+     "Kod",
+     "kod",
+     80,
+     "l"
+    ],
+    [
+     "Ürün",
+     "ad",
+     120,
+     "l"
+    ],
+    [
+     "Ağız",
+     "agiz",
+     50,
+     "l"
+    ],
+    [
+     "Dip",
+     "dip",
+     36,
+     "r"
+    ],
+    [
+     "Yük.",
+     "yuk",
+     36,
+     "r"
+    ],
+    [
+     "Ağırlık",
+     "agirlik_g",
+     44,
+     "r"
+    ],
+    [
+     "Koli içi",
+     "koli_ici",
+     46,
+     "r"
+    ],
+    [
+     "Koli ölçüsü (mm)",
+     "koli",
+     72,
+     "l"
+    ],
+    [
+     "Palet",
+     "palet",
+     32,
+     "r"
+    ]
+   ],
+   "tablolar": [],
+   "notlar": [
+    "Kalite: 280 gsm kraft veya beyaz kağıt + PE laminasyon. Baskılı üretimde klişe bedeli uygulanır."
+   ],
+   "gorsel2": "gorseller/hx-noodle-kutusu-2.jpg"
+  },
+  "28": {
+   "ad": "Karton Kovalar",
+   "en": "Paper Buckets",
+   "katalog": "fastfood",
+   "tedarikci": "helmex",
+   "grup": 1,
+   "gorsel": "gorseller/hx-kova.jpg",
+   "slogan": "Tavuk ve aile menüsü için 60–130 oz.",
+   "ozet": "Kızarmış tavuk ve aile menüsü servisi için PE kaplı bristol karton kovalar; 1750, 2500 ve 4000 cc. Flekso 4 renk baskı.",
+   "tablo": "generic",
+   "sutunlar": [
+    [
+     "Kod",
+     "kod",
+     70,
+     "l"
+    ],
+    [
+     "Ürün",
+     "ad",
+     110,
+     "l"
+    ],
+    [
+     "Ölçü (mm)",
+     "olcu",
+     80,
+     "l"
+    ],
+    [
+     "Kalite",
+     "materyal",
+     120,
+     "l"
+    ],
+    [
+     "Koli içi",
+     "koli_ici",
+     46,
+     "r"
+    ],
+    [
+     "Koli ölçüsü (mm)",
+     "koli",
+     72,
+     "l"
+    ],
+    [
+     "Palet",
+     "palet",
+     32,
+     "r"
+    ]
+   ],
+   "tablolar": [],
+   "notlar": [
+    "Beyaz kağıt, flekso 4 renk baskı; klişe bedeli uygulanır. Palet 80×120×240 cm."
+   ]
+  },
+  "29": {
+   "ad": "Karton Kaseler",
+   "en": "Paper Bowls",
+   "katalog": "fastfood",
+   "tedarikci": "helmex",
+   "grup": 1,
+   "gorsel": "gorseller/hx-kase.jpg",
+   "slogan": "Salata ve sıcak yemek için 16–38 oz.",
+   "ozet": "Salata, poke ve sıcak yemek servisi için karton kaseler; 16 oz'dan 38 oz'a beş boy. Kraft veya beyaz; uyumlu kapak seçenekleri için bizimle iletişime geçin.",
+   "tablo": "generic",
+   "sutunlar": [
+    [
+     "Kod",
+     "kod",
+     70,
+     "l"
+    ],
+    [
+     "Ürün",
+     "ad",
+     120,
+     "l"
+    ],
+    [
+     "Çap (mm)",
+     "olcu",
+     60,
+     "r"
+    ],
+    [
+     "Ağırlık",
+     "agirlik_g",
+     50,
+     "r"
+    ],
+    [
+     "Koli içi",
+     "koli_ici",
+     80,
+     "l"
+    ],
+    [
+     "Koli ölçüsü (mm)",
+     "koli",
+     90,
+     "l"
+    ],
+    [
+     "Palet",
+     "palet",
+     40,
+     "r"
+    ]
+   ],
+   "tablolar": [],
+   "notlar": [],
+   "gorsel2": "gorseller/hx-kase-2.jpg"
+  },
+  "30": {
+   "ad": "Karton Bardaklar",
+   "en": "Paper Cups",
+   "katalog": "fastfood",
+   "tedarikci": "helmex",
+   "grup": 1,
+   "gorsel": "gorseller/hx-bardak.jpg",
+   "slogan": "Sıcak (SPX) ve soğuk (DPX) içecek bardakları.",
+   "ozet": "Tek katlı PE kaplı sıcak içecek bardakları (SPX, 4–20 oz) ve çift taraflı PE kaplı soğuk içecek bardakları (DPX, 12–32 oz). Markanıza özel baskı; minimum sipariş adetleri tabloda.",
+   "tablo": "generic",
+   "sutunlar": [
+    [
+     "Kod",
+     "kod",
+     66,
+     "l"
+    ],
+    [
+     "Hacim",
+     "hacim",
+     44,
+     "r"
+    ],
+    [
+     "Kullanım",
+     "kullanim",
+     44,
+     "l"
+    ],
+    [
+     "Kağıt",
+     "materyal",
+     76,
+     "l"
+    ],
+    [
+     "Fişek",
+     "fisek_ici",
+     34,
+     "r"
+    ],
+    [
+     "Fişek/koli",
+     "fisek_koli",
+     46,
+     "r"
+    ],
+    [
+     "Koli içi",
+     "koli_ici",
+     44,
+     "r"
+    ],
+    [
+     "Koli/palet",
+     "palet",
+     46,
+     "r"
+    ],
+    [
+     "Koli ölçüsü (mm)",
+     "koli",
+     72,
+     "l"
+    ],
+    [
+     "MOQ",
+     "moq",
+     48,
+     "r"
+    ]
+   ],
+   "tablolar": [],
+   "notlar": [
+    "Ölçü tablosu (mm): SPX4oz ağız 62,9 / dip 45,2 / yük. 64,4 / 3,37 g · SPX7oz 72,9 / 51,7 / 77 / 4,19 g · SPX9T 80,3 / 51,5 / 95,3 / 7,15 g · SPX9S 80,1 / 56,4 / 87,8 / 6,78 g.",
+    "Düşük adetli baskılı bardaklar için ayrıca bilgi alınız. Palet 80×120 cm."
+   ]
+  },
+  "31": {
+   "ad": "Bardak Kılıfı ve Taşıyıcı",
+   "en": "Sleeves & Cup Carriers",
+   "katalog": "fastfood",
+   "tedarikci": "helmex",
+   "grup": 1,
+   "gorsel": "gorseller/hx-kilif-tasiyici.jpg",
+   "slogan": "Sıcak bardak kılıfı ve geri dönüştürülmüş kağıt taşıyıcı.",
+   "ozet": "Sıcak içecek bardakları için oluklu karton kılıflar (8 oz ve 10–16 oz) ile geri dönüştürülmüş kağıt hamurundan 2'li ve 4'lü bardak taşıyıcılar.",
+   "tablo": "generic",
+   "sutunlar": [
+    [
+     "Kod",
+     "kod",
+     80,
+     "l"
+    ],
+    [
+     "Ürün",
+     "ad",
+     170,
+     "l"
+    ],
+    [
+     "Ölçü (mm)",
+     "olcu",
+     70,
+     "l"
+    ],
+    [
+     "Koli içi",
+     "koli_ici",
+     90,
+     "l"
+    ],
+    [
+     "Koli ölçüsü (mm)",
+     "koli",
+     70,
+     "l"
+    ],
+    [
+     "Palet",
+     "palet",
+     35,
+     "r"
+    ]
+   ],
+   "tablolar": [],
+   "notlar": [
+    "Kılıflar baskılı veya baskısız sunulur."
+   ],
+   "gorsel2": "gorseller/hx-tasiyici-2.jpg",
+   "gorsel3": "gorseller/hx-tasiyici-4.jpg"
+  },
+  "32": {
+   "ad": "Düz Saplı Kağıt Çantalar",
+   "en": "Flat Handle Bags",
+   "katalog": "fastfood",
+   "tedarikci": "helmex",
+   "grup": 2,
+   "gorsel": "gorseller/hx-duz-sapli-canta.jpg",
+   "slogan": "Kraft veya beyaz; flekso baskı.",
+   "ozet": "Düz (yassı) saplı kağıt çantalar; 18 standart ölçü, 70–100 gsm kraft veya beyaz kağıt, flekso baskı. Ölçü genişlik × körük × yükseklik (cm).",
+   "tablo": "generic",
+   "sutunlar": [
+    [
+     "Ölçü (cm) G×K×Y",
+     "olcu",
+     90,
+     "l"
+    ],
+    [
+     "Kağıt",
+     "gsm",
+     110,
+     "l"
+    ],
+    [
+     "Renk",
+     "renk",
+     90,
+     "l"
+    ],
+    [
+     "Baskı",
+     "baski",
+     60,
+     "l"
+    ],
+    [
+     "MOQ",
+     "moq",
+     60,
+     "r"
+    ]
+   ],
+   "tablolar": [],
+   "notlar": [
+    "Standart ölçüler dışındaki ölçüler için bizimle iletişime geçin."
+   ],
+   "gorsel2": "gorseller/hx-duz-sapli-canta-2.jpg"
+  },
+  "33": {
+   "ad": "Burgu Saplı Kağıt Çantalar",
+   "en": "Twisted Handle Bags",
+   "katalog": "fastfood",
+   "tedarikci": "helmex",
+   "grup": 2,
+   "gorsel": "gorseller/hx-burgu-sapli-canta.jpg",
+   "slogan": "Flekso veya fotoğraf kalitesinde ofset baskı.",
+   "ozet": "Burgu saplı kağıt çantalar: 17 ölçüde flekso baskılı kraft/beyaz seri (MOQ 10.000) ve 5 ölçüde fotoğraf kalitesinde ofset baskılı beyaz seri (MOQ 1.000).",
+   "tablo": "generic",
+   "sutunlar": [
+    [
+     "Ölçü (cm) G×K×Y",
+     "olcu",
+     90,
+     "l"
+    ],
+    [
+     "Kağıt",
+     "gsm",
+     110,
+     "l"
+    ],
+    [
+     "Renk",
+     "renk",
+     90,
+     "l"
+    ],
+    [
+     "Baskı",
+     "baski",
+     60,
+     "l"
+    ],
+    [
+     "MOQ",
+     "moq",
+     60,
+     "r"
+    ]
+   ],
+   "tablolar": [],
+   "notlar": [
+    "Standart ölçüler dışındaki ölçüler için bizimle iletişime geçin."
+   ]
+  },
+  "34": {
+   "ad": "Sapsız Kağıt Torbalar",
+   "en": "Handless Bags",
+   "katalog": "fastfood",
+   "tedarikci": "helmex",
+   "grup": 2,
+   "gorsel": "gorseller/hx-sapsiz-torba.jpg",
+   "slogan": "Yağlı kağıt torba, körüklü torba ve SOS kraft torba.",
+   "ozet": "Sandviç, börek ve hamburger için yağ geçirmez (greaseproof) kağıt torbalar: körüksüz 14 ölçü, körüklü 7 ölçü; ayrıca 50 gsm kraft SOS torba 3 ölçü.",
+   "tablo": "generic",
+   "sutunlar": [],
+   "tablolar": [
+    {
+     "baslik": "Körüksüz torba (cm)",
+     "urunler": [
+      "HX-TORBA-DUZ"
+     ],
+     "sutunlar": [
+      [
+       "En",
+       "en",
+       36,
+       "r"
+      ],
+      [
+       "Boy",
+       "boy",
+       36,
+       "r"
+      ],
+      [
+       "Kağıt",
+       "gsm",
+       50,
+       "l"
+      ],
+      [
+       "Ağırlık",
+       "agirlik_g",
+       44,
+       "r"
+      ],
+      [
+       "Adet/kg",
+       "adet_kg",
+       44,
+       "r"
+      ],
+      [
+       "Paket",
+       "paket",
+       44,
+       "r"
+      ],
+      [
+       "Paket kg",
+       "paket_kg",
+       50,
+       "r"
+      ],
+      [
+       "Adet/palet",
+       "adet_palet",
+       60,
+       "r"
+      ],
+      [
+       "Paket/palet",
+       "paket_palet",
+       60,
+       "r"
+      ],
+      [
+       "Palet kg",
+       "palet_kg",
+       50,
+       "r"
+      ]
+     ]
+    },
+    {
+     "baslik": "Körüklü torba (cm)",
+     "urunler": [
+      "HX-TORBA-KORUK"
+     ],
+     "sutunlar": [
+      [
+       "En",
+       "en",
+       36,
+       "r"
+      ],
+      [
+       "Boy",
+       "boy",
+       36,
+       "r"
+      ],
+      [
+       "Körük",
+       "koruk",
+       40,
+       "r"
+      ],
+      [
+       "Kağıt",
+       "gsm",
+       50,
+       "l"
+      ],
+      [
+       "Ağırlık",
+       "agirlik_g",
+       44,
+       "r"
+      ],
+      [
+       "Adet/kg",
+       "adet_kg",
+       44,
+       "r"
+      ],
+      [
+       "Paket",
+       "paket",
+       44,
+       "r"
+      ],
+      [
+       "Paket kg",
+       "paket_kg",
+       50,
+       "r"
+      ],
+      [
+       "Adet/palet",
+       "adet_palet",
+       60,
+       "r"
+      ],
+      [
+       "Paket/palet",
+       "paket_palet",
+       60,
+       "r"
+      ]
+     ]
+    },
+    {
+     "baslik": "SOS kraft torba (cm)",
+     "urunler": [
+      "HX-SOS-TORBA"
+     ],
+     "sutunlar": [
+      [
+       "En",
+       "en",
+       40,
+       "r"
+      ],
+      [
+       "Boy",
+       "boy",
+       40,
+       "r"
+      ],
+      [
+       "Körük",
+       "koruk",
+       40,
+       "r"
+      ],
+      [
+       "Kağıt",
+       "gsm",
+       60,
+       "l"
+      ],
+      [
+       "Renk",
+       "renk",
+       50,
+       "l"
+      ],
+      [
+       "Baskı",
+       "baski",
+       50,
+       "l"
+      ],
+      [
+       "Adet/palet",
+       "adet_palet",
+       60,
+       "r"
+      ],
+      [
+       "Koli içi",
+       "koli_ici",
+       50,
+       "r"
+      ],
+      [
+       "Koli/palet",
+       "palet",
+       56,
+       "r"
+      ]
+     ]
+    }
+   ],
+   "notlar": [
+    "Kağıt tipi: greaseproof, kuşe olmayan, sülfit veya şamua; beyaz ya da kahve. Palet 100×120×220 cm (SOS torba 80×120×220).",
+    "Farklı ölçüler için bizimle iletişime geçin."
+   ],
+   "gorsel2": "gorseller/hx-sapsiz-torba-2.jpg"
+  },
+  "35": {
+   "ad": "Lüks Çantalar",
+   "en": "Luxury Bags",
+   "katalog": "fastfood",
+   "tedarikci": "helmex",
+   "grup": 2,
+   "gorsel": "gorseller/hx-luks-canta.jpg",
+   "slogan": "İp saplı, ofset baskılı; 26 ölçü, beyaz veya kahve.",
+   "ozet": "Mağaza ve hediye için ip saplı lüks kağıt çantalar; 26 standart ölçü. Beyaz seri 210–300 gsm mat/parlak laminasyonlu, kahve seri 200 gsm. CMYK ofset baskı, minimum sipariş 250 adet.",
+   "tablo": "generic",
+   "sutunlar": [
+    [
+     "Seri",
+     "seri",
+     50,
+     "l"
+    ],
+    [
+     "Ölçü (cm) G×K×Y",
+     "olcu",
+     80,
+     "l"
+    ],
+    [
+     "Kağıt",
+     "gsm",
+     100,
+     "l"
+    ],
+    [
+     "Renk",
+     "renk",
+     100,
+     "l"
+    ],
+    [
+     "Laminasyon",
+     "laminasyon",
+     70,
+     "l"
+    ],
+    [
+     "Baskı",
+     "baski",
+     80,
+     "l"
+    ],
+    [
+     "MOQ",
+     "moq",
+     35,
+     "r"
+    ]
+   ],
+   "tablolar": [],
+   "notlar": [
+    "Standart ölçüler dışındaki ölçüler için bizimle iletişime geçin."
+   ]
+  },
+  "36": {
+   "ad": "Ambalaj Kağıdı ve Tepsi Kağıdı",
+   "en": "Wrapping Papers & Tray Liners",
+   "katalog": "fastfood",
+   "tedarikci": "helmex",
+   "grup": 2,
+   "gorsel": "gorseller/hx-ambalaj-kagidi.jpg",
+   "slogan": "Burger sargısı ve tepsi altı kağıdı; baskılı veya baskısız.",
+   "ozet": "Hamburger ve sandviç sarmak için 40 gsm ambalaj kağıtları ile 70 gsm tepsi kağıtları; 7 standart ölçü. Greaseproof, PE astarlı, şamua, sülfit, geri dönüşümlü veya mumlu kağıt seçenekleri.",
+   "tablo": "generic",
+   "sutunlar": [],
+   "tablolar": [
+    {
+     "baslik": "Ambalaj kağıdı (cm)",
+     "urunler": [
+      "HX-AMBALAJ-KAGIDI"
+     ],
+     "sutunlar": [
+      [
+       "En",
+       "en",
+       40,
+       "r"
+      ],
+      [
+       "Boy",
+       "boy",
+       40,
+       "r"
+      ],
+      [
+       "Kağıt",
+       "gsm",
+       60,
+       "l"
+      ],
+      [
+       "Paket",
+       "paket",
+       60,
+       "r"
+      ],
+      [
+       "Koli kg",
+       "koli_kg",
+       50,
+       "r"
+      ],
+      [
+       "Koli/palet",
+       "palet",
+       60,
+       "r"
+      ],
+      [
+       "Adet/palet",
+       "adet_palet",
+       70,
+       "r"
+      ],
+      [
+       "Palet kg",
+       "palet_kg",
+       55,
+       "r"
+      ],
+      [
+       "Palet (cm)",
+       "palet_olcu",
+       75,
+       "l"
+      ]
+     ]
+    },
+    {
+     "baslik": "Tepsi kağıdı (cm)",
+     "urunler": [
+      "HX-TEPSI-KAGIDI"
+     ],
+     "sutunlar": [
+      [
+       "En",
+       "en",
+       40,
+       "r"
+      ],
+      [
+       "Boy",
+       "boy",
+       40,
+       "r"
+      ],
+      [
+       "Kağıt",
+       "gsm",
+       60,
+       "l"
+      ],
+      [
+       "Paket",
+       "paket",
+       60,
+       "r"
+      ],
+      [
+       "Koli kg",
+       "koli_kg",
+       50,
+       "r"
+      ],
+      [
+       "Koli/palet",
+       "palet",
+       60,
+       "r"
+      ],
+      [
+       "Adet/palet",
+       "adet_palet",
+       70,
+       "r"
+      ],
+      [
+       "Palet kg",
+       "palet_kg",
+       55,
+       "r"
+      ],
+      [
+       "Palet (cm)",
+       "palet_olcu",
+       75,
+       "l"
+      ]
+     ]
+    }
+   ],
+   "notlar": [
+    "Ambalaj kağıdı seçenekleri: greaseproof / PE astarlı / şamua / sülfit / geri dönüşümlü / mumlu; beyaz veya kahve; ofset ya da flekso; sürekli veya ayarlı baskı; 27, 40, 60 gsm.",
+    "Tepsi kağıdı seçenekleri: kuşeli veya kuşesiz beyaz kağıt; ofset / flekso; 40, 70, 80, 90 gsm. Farklı ölçüler için bizimle iletişime geçin."
+   ],
+   "gorsel2": "gorseller/hx-burger-poseti.jpg"
+  },
+  "37": {
+   "ad": "Streç Film",
+   "en": "Stretch Films",
+   "katalog": "fastfood",
+   "tedarikci": "helmex",
+   "grup": 3,
+   "gorsel": "gorseller/hx-strec-film.jpg",
+   "slogan": "Makine ve el tipi paletleme filmi.",
+   "ozet": "Palet sarma için makine tipi (jumbo) ve el tipi streç filmler; 500 mm en, 12–23 mikron.",
+   "tablo": "generic",
+   "sutunlar": [
+    [
+     "Tip",
+     "tip",
+     70,
+     "l"
+    ],
+    [
+     "Boy (m)",
+     "boy",
+     60,
+     "r"
+    ],
+    [
+     "En (mm)",
+     "en",
+     60,
+     "r"
+    ],
+    [
+     "Kalınlık (µ)",
+     "mikron",
+     70,
+     "r"
+    ],
+    [
+     "Masura (kg)",
+     "masura_kg",
+     70,
+     "r"
+    ],
+    [
+     "Brüt (kg)",
+     "brut_kg",
+     60,
+     "r"
+    ]
+   ],
+   "tablolar": [],
+   "notlar": []
+  },
+  "38": {
+   "ad": "Menteşeli Sos Kapları",
+   "en": "PP Hinged Lid Sauce Pots",
+   "katalog": "fastfood",
+   "tedarikci": "helmex",
+   "grup": 3,
+   "gorsel": "gorseller/hx-sos-kabi.jpg",
+   "slogan": "Şeffaf PP; derin dondurucuya uygun, kırılmaz.",
+   "ozet": "Sos, ketçap ve mayonez servisi için menteşeli kapaklı şeffaf PP sos kapları; 1, 2 ve 4 oz. Derin dondurucuda uzun süre bekletmeye uygundur, kırılmaz.",
+   "tablo": "generic",
+   "sutunlar": [
+    [
+     "Kod",
+     "kod",
+     90,
+     "l"
+    ],
+    [
+     "Ürün",
+     "ad",
+     150,
+     "l"
+    ],
+    [
+     "Materyal",
+     "materyal",
+     70,
+     "l"
+    ],
+    [
+     "Koli içi",
+     "koli_ici",
+     50,
+     "r"
+    ],
+    [
+     "Paket",
+     "paket",
+     50,
+     "l"
+    ],
+    [
+     "Koli ölçüsü (mm)",
+     "koli",
+     70,
+     "l"
+    ],
+    [
+     "Palet",
+     "palet",
+     35,
+     "r"
+    ]
+   ],
+   "tablolar": [],
+   "notlar": [
+    "Palet 80×120 cm."
+   ],
+   "gorsel2": "gorseller/hx-sos-kabi-2.jpg"
+  },
+  "39": {
+   "ad": "Islak Mendil",
+   "en": "Wet Wipes",
+   "katalog": "fastfood",
+   "tedarikci": "helmex",
+   "grup": 3,
+   "gorsel": "gorseller/hx-islak-mendil.jpg",
+   "slogan": "Markanıza özel baskılı, parfüm seçenekli.",
+   "ozet": "Restoran ve paket servis için tek tek paketli ıslak mendiller; 6×8'den 7×12 cm'ye beş ölçü, PET veya kağıt esaslı metalize/alüminyum poşet. Ofset 4 renge kadar baskı, parfüm talebe göre.",
+   "tablo": "generic",
+   "sutunlar": [
+    [
+     "Ölçü (cm)",
+     "olcu",
+     60,
+     "l"
+    ],
+    [
+     "Poşet materyali",
+     "materyal",
+     150,
+     "l"
+    ],
+    [
+     "Baskı",
+     "baski",
+     90,
+     "l"
+    ],
+    [
+     "Parfüm",
+     "parfum",
+     70,
+     "l"
+    ],
+    [
+     "Havlu",
+     "havlu",
+     60,
+     "l"
+    ],
+    [
+     "Palet (cm)",
+     "palet_olcu",
+     70,
+     "l"
+    ],
+    [
+     "Adet/palet",
+     "adet_palet",
+     60,
+     "r"
+    ]
+   ],
+   "tablolar": [],
+   "notlar": [
+    "Standart ölçüler dışındaki ölçüler için bizimle iletişime geçin. Palet 80×120×240 cm."
+   ]
+  },
+  "40": {
+   "ad": "Peçete ve Kağıt Havlu",
+   "en": "Napkins & Towels",
+   "katalog": "fastfood",
+   "tedarikci": "helmex",
+   "grup": 3,
+   "gorsel": "gorseller/hx-pecete.jpg",
+   "slogan": "%100 selüloz; peçete, dispenser peçete, havlu ve tuvalet kağıdı.",
+   "ozet": "%100 selüloz peçeteler (24, 33, 40 cm; tek veya çift kat, 2 renk baskılı), dispenser ve Z katlama peçeteler, otomatik makine havluları, endüstriyel havlu ve tuvalet kağıdı.",
+   "tablo": "generic",
+   "sutunlar": [
+    [
+     "Ürün",
+     "ad",
+     150,
+     "l"
+    ],
+    [
+     "En (cm)",
+     "en",
+     50,
+     "r"
+    ],
+    [
+     "Boy",
+     "boy",
+     50,
+     "r"
+    ],
+    [
+     "Katlama",
+     "katlama",
+     60,
+     "l"
+    ],
+    [
+     "Baskı",
+     "baski",
+     50,
+     "l"
+    ],
+    [
+     "Kat",
+     "kat",
+     30,
+     "r"
+    ],
+    [
+     "gsm",
+     "gsm",
+     36,
+     "r"
+    ],
+    [
+     "Paket içi",
+     "paket",
+     50,
+     "r"
+    ],
+    [
+     "Koli içi",
+     "koli_ici",
+     40,
+     "r"
+    ]
+   ],
+   "tablolar": [],
+   "notlar": []
+  },
+  "41": {
+   "ad": "Fritöz Filtre Kağıdı",
+   "en": "Henny Penny Filters",
+   "katalog": "fastfood",
+   "tedarikci": "helmex",
+   "grup": 3,
+   "gorsel": "gorseller/hx-filtre-kagidi.jpg",
+   "slogan": "Basınçlı fritözler için nonwoven filtre.",
+   "ozet": "Henny Penny tipi basınçlı fritözler için 54×36 cm nonwoven 50 gsm filtre kağıdı; 50'li baskılı poşetlerde, kolide 500 adet.",
+   "tablo": "generic",
+   "sutunlar": [
+    [
+     "Kod",
+     "kod",
+     100,
+     "l"
+    ],
+    [
+     "Ürün",
+     "ad",
+     130,
+     "l"
+    ],
+    [
+     "Ölçü",
+     "olcu",
+     60,
+     "l"
+    ],
+    [
+     "Materyal",
+     "materyal",
+     90,
+     "l"
+    ],
+    [
+     "Paket",
+     "paket",
+     70,
+     "l"
+    ],
+    [
+     "Koli içi",
+     "koli_ici",
+     50,
+     "r"
+    ],
+    [
+     "Palet koli",
+     "palet",
+     50,
+     "r"
+    ]
+   ],
+   "tablolar": [],
+   "notlar": [
+    "Ambalaj: içte baskılı plastik poşet, dışta baskılı karton koli. Palet 80×120×200 cm."
+   ]
+  },
+  "42": {
+   "ad": "Limon Sosu",
+   "en": "Lemon Dressing",
+   "katalog": "fastfood",
+   "tedarikci": "helmex",
+   "grup": 3,
+   "gorsel": "gorseller/hx-limon-sosu.jpg",
+   "slogan": "500 ml PET şişe; markanıza özel etiket.",
+   "ozet": "Salata ve meze için 500 ml limon sosu; şeffaf PET şişe, markanıza özel etiket desteği.",
+   "tablo": "generic",
+   "sutunlar": [
+    [
+     "Kod",
+     "kod",
+     90,
+     "l"
+    ],
+    [
+     "Ürün",
+     "ad",
+     120,
+     "l"
+    ],
+    [
+     "Hacim",
+     "hacim",
+     50,
+     "r"
+    ],
+    [
+     "Şişe",
+     "materyal",
+     80,
+     "l"
+    ],
+    [
+     "Baskı",
+     "baski",
+     80,
+     "l"
+    ],
+    [
+     "Koli içi",
+     "koli_ici",
+     50,
+     "r"
+    ],
+    [
+     "Koli ölçüsü (mm)",
+     "koli",
+     80,
+     "l"
+    ],
+    [
+     "Palet",
+     "palet",
+     35,
+     "r"
+    ]
+   ],
+   "tablolar": [],
+   "notlar": [
+    "Özel etiket desteği sağlanır; klişe bedeli uygulanır. Palet 80×120×240 cm."
+   ]
+  },
+  "43": {
+   "ad": "Ahşap Çatal Bıçak",
+   "en": "Wooden Cutlery",
+   "katalog": "fastfood",
+   "tedarikci": "helmex",
+   "grup": 3,
+   "gorsel": "gorseller/hx-ahsap-catal-bicak.jpg",
+   "slogan": "Huş ağacı, 13 cm; tekli ve peçeteli setler.",
+   "ozet": "Huş ağacından 13 cm kaşık, çatal ve bıçak; 100'lü plastik paketlerde. Ayrıca kahve sülfit kağıda sarılı tekli setler ve peçeteli, tuzlu çoklu setler.",
+   "tablo": "generic",
+   "sutunlar": [
+    [
+     "Ürün",
+     "ad",
+     60,
+     "l"
+    ],
+    [
+     "İçerik",
+     "icerik",
+     170,
+     "l"
+    ],
+    [
+     "Koli ölçüsü (mm)",
+     "koli",
+     70,
+     "l"
+    ],
+    [
+     "Pkt/koli",
+     "paket",
+     40,
+     "r"
+    ],
+    [
+     "Poşet içi",
+     "poset",
+     44,
+     "r"
+    ],
+    [
+     "Koli içi",
+     "koli_ici",
+     44,
+     "r"
+    ],
+    [
+     "Koli kg",
+     "koli_kg",
+     40,
+     "r"
+    ],
+    [
+     "Koli/palet",
+     "palet",
+     44,
+     "r"
+    ]
+   ],
+   "tablolar": [],
+   "notlar": [
+    "Materyal: huş ağacı (birch), 13 cm."
+   ]
+  },
+  "44": {
+   "ad": "Kızartma Yağı",
+   "en": "Frying Oil",
+   "katalog": "fastfood",
+   "tedarikci": "helmex",
+   "grup": 3,
+   "gorsel": "gorseller/hx-kizartma-yagi.jpg",
+   "slogan": "Profesyonel mutfaklar için 18 lt teneke.",
+   "ozet": "Profesyonel mutfaklar için yüksek sıcaklığa dayanıklı kızartma yağı; 18 litrelik teneke. Yanmaz, köpürmez, duman ve koku yapmaz; trans yağ içermez; birkaç kez kullanılabilir.",
+   "tablo": "generic",
+   "sutunlar": [
+    [
+     "Kod",
+     "kod",
+     100,
+     "l"
+    ],
+    [
+     "Ürün",
+     "ad",
+     150,
+     "l"
+    ],
+    [
+     "Net",
+     "hacim",
+     50,
+     "r"
+    ],
+    [
+     "Ambalaj",
+     "materyal",
+     80,
+     "l"
+    ],
+    [
+     "Koli/palet",
+     "palet",
+     60,
+     "r"
+    ],
+    [
+     "Raf ömrü",
+     "raf_omru",
+     60,
+     "l"
+    ]
+   ],
+   "tablolar": [],
+   "notlar": [
+    "Besin değerleri (100 g): enerji 3700 kJ / 900 kcal; yağ 100 g (çoklu doymamış 13 g, tekli doymamış 42 g, doymuş 45 g, trans < 1 g); karbonhidrat, şeker, protein ve tuz 0 g.",
+    "Kullanım: plastik kapağı açarak kullanın, kullanım sonrası kapatın; güneşten uzak, serin yerde saklayın. Diğer yağ tipleri için bizimle iletişime geçin."
+   ],
+   "gorsel2": "gorseller/hx-kizartma-yagi-2.jpg"
   }
  },
  "urunler": [
@@ -3227,6 +5083,3715 @@
    "koli_secenekleri": [],
    "tedarikci_kodu": "",
    "not": "Körük 9–26 cm, genişlik 22–55 cm, yükseklik 20–62 cm arası ölçüler; minimum sipariş 25.000 adet; özel baskı yapılır"
+  },
+  {
+   "kod": "HX-XBS01",
+   "ad": "Küçük Burger Kutusu",
+   "bolum": 18,
+   "gorsel": "gorseller/hx-burger-kutusu.jpg",
+   "tedarikci": "helmex",
+   "olcu": "102x102x64",
+   "hacim": "",
+   "materyal": "230 gsm karton",
+   "koli": "500x300x515",
+   "koli_ici": "500 (125x4)",
+   "palet": "32",
+   "fisek_ici": "",
+   "agirlik_g": "",
+   "gsm": "230 gsm",
+   "moq": "",
+   "tedarikci_kodu": "XBS01",
+   "not": "Kapak genişliği 115 mm",
+   "varyantlar": []
+  },
+  {
+   "kod": "HX-XBS02",
+   "ad": "Orta Burger Kutusu",
+   "bolum": 18,
+   "gorsel": "gorseller/hx-burger-kutusu.jpg",
+   "tedarikci": "helmex",
+   "olcu": "112x114x72",
+   "hacim": "",
+   "materyal": "270 gsm karton",
+   "koli": "500x315x560",
+   "koli_ici": "500 (125x4)",
+   "palet": "24",
+   "fisek_ici": "",
+   "agirlik_g": "",
+   "gsm": "270 gsm",
+   "moq": "",
+   "tedarikci_kodu": "XBS02",
+   "not": "Kapak genişliği 130 mm",
+   "varyantlar": []
+  },
+  {
+   "kod": "HX-XBS03",
+   "ad": "Büyük Burger Kutusu",
+   "bolum": 18,
+   "gorsel": "gorseller/hx-burger-kutusu.jpg",
+   "tedarikci": "helmex",
+   "olcu": "151x141x78",
+   "hacim": "",
+   "materyal": "300 gsm karton",
+   "koli": "600x400x340",
+   "koli_ici": "300 (150x2)",
+   "palet": "30",
+   "fisek_ici": "",
+   "agirlik_g": "",
+   "gsm": "300 gsm",
+   "moq": "",
+   "tedarikci_kodu": "XBS03",
+   "not": "Kapak genişliği 155 mm",
+   "varyantlar": []
+  },
+  {
+   "kod": "HX-XF01",
+   "ad": "Küçük Patates Kabı",
+   "bolum": 19,
+   "gorsel": "gorseller/hx-patates-kabi.jpg",
+   "tedarikci": "helmex",
+   "olcu": "93x38 / 77x35 x h110",
+   "hacim": "",
+   "materyal": "230 gsm karton",
+   "koli": "320x295x270",
+   "koli_ici": "1000 (200x5)",
+   "palet": "108",
+   "fisek_ici": "",
+   "agirlik_g": "",
+   "gsm": "230 gsm",
+   "moq": "",
+   "tedarikci_kodu": "XF01",
+   "not": "",
+   "varyantlar": []
+  },
+  {
+   "kod": "HX-XF02",
+   "ad": "Orta Patates Kabı",
+   "bolum": 19,
+   "gorsel": "gorseller/hx-patates-kabi.jpg",
+   "tedarikci": "helmex",
+   "olcu": "100x40 / 73x33 x h153",
+   "hacim": "",
+   "materyal": "250 gsm karton",
+   "koli": "400x320x285",
+   "koli_ici": "1000 (200x5)",
+   "palet": "",
+   "fisek_ici": "",
+   "agirlik_g": "",
+   "gsm": "250 gsm",
+   "moq": "",
+   "tedarikci_kodu": "XF02",
+   "not": "",
+   "varyantlar": []
+  },
+  {
+   "kod": "HX-XC01",
+   "ad": "Mikro Oluklu Burger Kutusu (S)",
+   "bolum": 20,
+   "gorsel": "gorseller/hx-mikro-oluklu.jpg",
+   "tedarikci": "helmex",
+   "olcu": "102x102x64",
+   "hacim": "",
+   "materyal": "N dalga mikro oluklu mukavva (TL90/S85/MK110)",
+   "koli": "600x300x510",
+   "koli_ici": "200 (50x4)",
+   "palet": "24",
+   "fisek_ici": "",
+   "agirlik_g": "",
+   "gsm": "N dalga TL90/S85/MK110",
+   "moq": "",
+   "tedarikci_kodu": "XC01",
+   "not": "",
+   "varyantlar": []
+  },
+  {
+   "kod": "HX-XC02",
+   "ad": "Mikro Oluklu Burger Kutusu (M)",
+   "bolum": 20,
+   "gorsel": "gorseller/hx-mikro-oluklu.jpg",
+   "tedarikci": "helmex",
+   "olcu": "112x114x72",
+   "hacim": "",
+   "materyal": "N dalga mikro oluklu mukavva (TL90/S85/MK110)",
+   "koli": "600x300x510",
+   "koli_ici": "200 (50x4)",
+   "palet": "24",
+   "fisek_ici": "",
+   "agirlik_g": "",
+   "gsm": "N dalga TL90/S85/MK110",
+   "moq": "",
+   "tedarikci_kodu": "XC02",
+   "not": "",
+   "varyantlar": []
+  },
+  {
+   "kod": "HX-XC03",
+   "ad": "Mikro Oluklu Burger Kutusu (L)",
+   "bolum": 20,
+   "gorsel": "gorseller/hx-mikro-oluklu.jpg",
+   "tedarikci": "helmex",
+   "olcu": "195x110x78",
+   "hacim": "",
+   "materyal": "N dalga mikro oluklu mukavva (TL90/S85/MK110)",
+   "koli": "500x570x300",
+   "koli_ici": "250 (125x2)",
+   "palet": "28",
+   "fisek_ici": "",
+   "agirlik_g": "",
+   "gsm": "N dalga TL90/S85/MK110",
+   "moq": "",
+   "tedarikci_kodu": "XC03",
+   "not": "",
+   "varyantlar": []
+  },
+  {
+   "kod": "HX-XNO1",
+   "ad": "Taşıma Kutusu No.1",
+   "bolum": 21,
+   "gorsel": "gorseller/hx-tasima-kutusu.jpg",
+   "tedarikci": "helmex",
+   "olcu": "130x105 / 113x90 x h65",
+   "hacim": "",
+   "materyal": "Karton; PE veya OPP astar seçenekli",
+   "koli": "400x590x540",
+   "koli_ici": "500 (100x5)",
+   "palet": "16",
+   "fisek_ici": "",
+   "agirlik_g": "",
+   "gsm": "",
+   "moq": "",
+   "tedarikci_kodu": "XNo1",
+   "not": "",
+   "varyantlar": [],
+   "ust": "130x105",
+   "alt": "113x90",
+   "yuk": "65"
+  },
+  {
+   "kod": "HX-XNO2",
+   "ad": "Taşıma Kutusu No.2",
+   "bolum": 21,
+   "gorsel": "gorseller/hx-tasima-kutusu.jpg",
+   "tedarikci": "helmex",
+   "olcu": "140x103 / 195x140 x h50",
+   "hacim": "",
+   "materyal": "Karton; PE veya OPP astar seçenekli",
+   "koli": "625x515x420",
+   "koli_ici": "280 (70x4)",
+   "palet": "10",
+   "fisek_ici": "",
+   "agirlik_g": "",
+   "gsm": "",
+   "moq": "",
+   "tedarikci_kodu": "XNo2",
+   "not": "",
+   "varyantlar": [],
+   "ust": "140x103",
+   "alt": "195x140",
+   "yuk": "50"
+  },
+  {
+   "kod": "HX-XNO3",
+   "ad": "Taşıma Kutusu No.3",
+   "bolum": 21,
+   "gorsel": "gorseller/hx-tasima-kutusu.jpg",
+   "tedarikci": "helmex",
+   "olcu": "140x103 / 140x103 x h76",
+   "hacim": "",
+   "materyal": "Karton; PE veya OPP astar seçenekli",
+   "koli": "585x490x400",
+   "koli_ici": "180 (45x4)",
+   "palet": "20",
+   "fisek_ici": "",
+   "agirlik_g": "",
+   "gsm": "",
+   "moq": "",
+   "tedarikci_kodu": "XNo3",
+   "not": "",
+   "varyantlar": [],
+   "ust": "140x103",
+   "alt": "140x103",
+   "yuk": "76"
+  },
+  {
+   "kod": "HX-XNO4",
+   "ad": "Taşıma Kutusu No.4",
+   "bolum": 21,
+   "gorsel": "gorseller/hx-tasima-kutusu.jpg",
+   "tedarikci": "helmex",
+   "olcu": "188x147 / 113x90 x h90",
+   "hacim": "",
+   "materyal": "Karton; PE veya OPP astar seçenekli",
+   "koli": "550x370x460",
+   "koli_ici": "120 (30x4)",
+   "palet": "25",
+   "fisek_ici": "",
+   "agirlik_g": "",
+   "gsm": "",
+   "moq": "",
+   "tedarikci_kodu": "XNo4",
+   "not": "",
+   "varyantlar": [],
+   "ust": "188x147",
+   "alt": "113x90",
+   "yuk": "90"
+  },
+  {
+   "kod": "HX-XNO5",
+   "ad": "Taşıma Kutusu No.5",
+   "bolum": 21,
+   "gorsel": "gorseller/hx-tasima-kutusu.jpg",
+   "tedarikci": "helmex",
+   "olcu": "151x120 / 151x120 x h146",
+   "hacim": "",
+   "materyal": "Karton; PE veya OPP astar seçenekli",
+   "koli": "480x340x280",
+   "koli_ici": "160 (40x4)",
+   "palet": "32",
+   "fisek_ici": "",
+   "agirlik_g": "",
+   "gsm": "",
+   "moq": "",
+   "tedarikci_kodu": "XNo5",
+   "not": "",
+   "varyantlar": [],
+   "ust": "151x120",
+   "alt": "151x120",
+   "yuk": "146"
+  },
+  {
+   "kod": "HX-XNO8",
+   "ad": "Taşıma Kutusu No.8",
+   "bolum": 21,
+   "gorsel": "gorseller/hx-tasima-kutusu.jpg",
+   "tedarikci": "helmex",
+   "olcu": "140x110 / 140x110 x h70",
+   "hacim": "",
+   "materyal": "Karton; PE veya OPP astar seçenekli",
+   "koli": "635x355x480",
+   "koli_ici": "300 (50x6)",
+   "palet": "20",
+   "fisek_ici": "",
+   "agirlik_g": "",
+   "gsm": "",
+   "moq": "",
+   "tedarikci_kodu": "XNo8",
+   "not": "",
+   "varyantlar": [],
+   "ust": "140x110",
+   "alt": "140x110",
+   "yuk": "70"
+  },
+  {
+   "kod": "HX-XTRAY1",
+   "ad": "Sokak Lezzeti Tepsisi No.1",
+   "bolum": 22,
+   "gorsel": "gorseller/hx-sokak-tepsisi.jpg",
+   "tedarikci": "helmex",
+   "olcu": "157x122,5 / 87x52,5 x h35",
+   "hacim": "",
+   "materyal": "Kraft karton; PE veya OPP astar seçenekli",
+   "koli": "500x300x270",
+   "koli_ici": "500 (125x4)",
+   "palet": "54",
+   "fisek_ici": "",
+   "agirlik_g": "",
+   "gsm": "",
+   "moq": "",
+   "tedarikci_kodu": "XTray1",
+   "not": "",
+   "varyantlar": [],
+   "ust": "157x122,5",
+   "alt": "87x52,5",
+   "yuk": "35"
+  },
+  {
+   "kod": "HX-XTRAY2",
+   "ad": "Sokak Lezzeti Tepsisi No.2",
+   "bolum": 22,
+   "gorsel": "gorseller/hx-sokak-tepsisi.jpg",
+   "tedarikci": "helmex",
+   "olcu": "196x149 / 114x67 x h41",
+   "hacim": "",
+   "materyal": "Kraft karton; PE veya OPP astar seçenekli",
+   "koli": "500x300x300",
+   "koli_ici": "500 (125x4)",
+   "palet": "48",
+   "fisek_ici": "",
+   "agirlik_g": "",
+   "gsm": "",
+   "moq": "",
+   "tedarikci_kodu": "XTray2",
+   "not": "",
+   "varyantlar": [],
+   "ust": "196x149",
+   "alt": "114x67",
+   "yuk": "41"
+  },
+  {
+   "kod": "HX-XTRAY3",
+   "ad": "Sokak Lezzeti Tepsisi No.3",
+   "bolum": 22,
+   "gorsel": "gorseller/hx-sokak-tepsisi.jpg",
+   "tedarikci": "helmex",
+   "olcu": "221x175 / 127x81 x h47",
+   "hacim": "",
+   "materyal": "Kraft karton; PE veya OPP astar seçenekli",
+   "koli": "500x300x270",
+   "koli_ici": "500 (125x4)",
+   "palet": "54",
+   "fisek_ici": "",
+   "agirlik_g": "",
+   "gsm": "",
+   "moq": "",
+   "tedarikci_kodu": "XTray3",
+   "not": "",
+   "varyantlar": [],
+   "ust": "221x175",
+   "alt": "127x81",
+   "yuk": "47"
+  },
+  {
+   "kod": "HX-XTRAY4",
+   "ad": "Sokak Lezzeti Tepsisi No.4",
+   "bolum": 22,
+   "gorsel": "gorseller/hx-sokak-tepsisi.jpg",
+   "tedarikci": "helmex",
+   "olcu": "240x190 / 130x80 x h55",
+   "hacim": "",
+   "materyal": "Kraft karton; PE veya OPP astar seçenekli",
+   "koli": "500x380x270",
+   "koli_ici": "500 (125x4)",
+   "palet": "66",
+   "fisek_ici": "",
+   "agirlik_g": "",
+   "gsm": "",
+   "moq": "",
+   "tedarikci_kodu": "XTray4",
+   "not": "",
+   "varyantlar": [],
+   "ust": "240x190",
+   "alt": "130x80",
+   "yuk": "55"
+  },
+  {
+   "kod": "HX-XTRAY5",
+   "ad": "Sokak Lezzeti Tepsisi No.5",
+   "bolum": 22,
+   "gorsel": "gorseller/hx-sokak-tepsisi.jpg",
+   "tedarikci": "helmex",
+   "olcu": "266x185 / 172x91 x h47",
+   "hacim": "",
+   "materyal": "Kraft karton; PE veya OPP astar seçenekli",
+   "koli": "500x320x300",
+   "koli_ici": "500 (125x4)",
+   "palet": "48",
+   "fisek_ici": "",
+   "agirlik_g": "",
+   "gsm": "",
+   "moq": "",
+   "tedarikci_kodu": "XTray5",
+   "not": "",
+   "varyantlar": [],
+   "ust": "266x185",
+   "alt": "172x91",
+   "yuk": "47"
+  },
+  {
+   "kod": "HX-FC0",
+   "ad": "Tavuk Kutusu (S)",
+   "bolum": 23,
+   "gorsel": "gorseller/hx-tavuk-kutusu.jpg",
+   "tedarikci": "helmex",
+   "olcu": "144x84x54",
+   "hacim": "",
+   "materyal": "230 gsm karton",
+   "koli": "320x230x250",
+   "koli_ici": "400",
+   "palet": "135",
+   "fisek_ici": "",
+   "agirlik_g": "",
+   "gsm": "230 gsm",
+   "moq": "",
+   "tedarikci_kodu": "FC0",
+   "not": "",
+   "varyantlar": []
+  },
+  {
+   "kod": "HX-FC1",
+   "ad": "Tavuk Kutusu (M)",
+   "bolum": 23,
+   "gorsel": "gorseller/hx-tavuk-kutusu.jpg",
+   "tedarikci": "helmex",
+   "olcu": "174x105x61",
+   "hacim": "",
+   "materyal": "250 gsm karton",
+   "koli": "390x280x210",
+   "koli_ici": "300",
+   "palet": "110",
+   "fisek_ici": "",
+   "agirlik_g": "",
+   "gsm": "250 gsm",
+   "moq": "",
+   "tedarikci_kodu": "FC1",
+   "not": "",
+   "varyantlar": []
+  },
+  {
+   "kod": "HX-FC3",
+   "ad": "Tavuk Kutusu (L)",
+   "bolum": 23,
+   "gorsel": "gorseller/hx-tavuk-kutusu.jpg",
+   "tedarikci": "helmex",
+   "olcu": "218x116x73",
+   "hacim": "",
+   "materyal": "270 gsm karton",
+   "koli": "350x225x300",
+   "koli_ici": "200",
+   "palet": "96",
+   "fisek_ici": "",
+   "agirlik_g": "",
+   "gsm": "270 gsm",
+   "moq": "",
+   "tedarikci_kodu": "FC3",
+   "not": "",
+   "varyantlar": []
+  },
+  {
+   "kod": "HX-FC4",
+   "ad": "Aile Kovası",
+   "bolum": 23,
+   "gorsel": "gorseller/hx-tavuk-kutusu.jpg",
+   "tedarikci": "helmex",
+   "olcu": "158x158x200",
+   "hacim": "",
+   "materyal": "300 gsm karton",
+   "koli": "350x335x195",
+   "koli_ici": "100",
+   "palet": "99",
+   "fisek_ici": "",
+   "agirlik_g": "",
+   "gsm": "300 gsm",
+   "moq": "",
+   "tedarikci_kodu": "FC4",
+   "not": "",
+   "varyantlar": []
+  },
+  {
+   "kod": "HX-XW01",
+   "ad": "Dürüm Kutusu (küçük)",
+   "bolum": 24,
+   "gorsel": "gorseller/hx-durum-kutusu.jpg",
+   "tedarikci": "helmex",
+   "olcu": "80x30 / 70x30 x h225",
+   "hacim": "",
+   "materyal": "Karton",
+   "koli": "300x240x270",
+   "koli_ici": "400 (100x4)",
+   "palet": "128",
+   "fisek_ici": "",
+   "agirlik_g": "",
+   "gsm": "",
+   "moq": "",
+   "tedarikci_kodu": "XW01",
+   "not": "",
+   "varyantlar": []
+  },
+  {
+   "kod": "HX-XW02",
+   "ad": "Dürüm Kutusu (büyük)",
+   "bolum": 24,
+   "gorsel": "gorseller/hx-durum-kutusu.jpg",
+   "tedarikci": "helmex",
+   "olcu": "125x30 / 115x30 x h225",
+   "hacim": "",
+   "materyal": "Karton",
+   "koli": "310x310x330",
+   "koli_ici": "500 (100x5)",
+   "palet": "63",
+   "fisek_ici": "",
+   "agirlik_g": "",
+   "gsm": "",
+   "moq": "",
+   "tedarikci_kodu": "XW02",
+   "not": "",
+   "varyantlar": []
+  },
+  {
+   "kod": "HX-PIZZA",
+   "ad": "Pizza Kutusu",
+   "bolum": 25,
+   "gorsel": "gorseller/hx-pizza-kutusu.jpg",
+   "tedarikci": "helmex",
+   "olcu": "127x127x45 – 470x470x50",
+   "hacim": "",
+   "materyal": "Oluklu mukavva",
+   "koli": "",
+   "koli_ici": "",
+   "palet": "",
+   "fisek_ici": "",
+   "agirlik_g": "",
+   "gsm": "",
+   "moq": "2.800 – 14.000 adet (boya göre)",
+   "tedarikci_kodu": "",
+   "not": "",
+   "varyantlar": [
+    {
+     "inc": "5\"",
+     "olcu": "127x127x45",
+     "paket": "100",
+     "paket_palet": "140",
+     "adet_palet": "14.000",
+     "moq": "14.000",
+     "moq_baskili": "14.000",
+     "ad": "Pizza Kutusu 5\""
+    },
+    {
+     "inc": "6\"",
+     "olcu": "152x152x45",
+     "paket": "100",
+     "paket_palet": "140",
+     "adet_palet": "14.000",
+     "moq": "14.000",
+     "moq_baskili": "14.000",
+     "ad": "Pizza Kutusu 6\""
+    },
+    {
+     "inc": "7\"",
+     "olcu": "195x195x45",
+     "paket": "100",
+     "paket_palet": "84",
+     "adet_palet": "8.400",
+     "moq": "8.400",
+     "moq_baskili": "8.400",
+     "ad": "Pizza Kutusu 7\""
+    },
+    {
+     "inc": "8\"",
+     "olcu": "215x215x45",
+     "paket": "100",
+     "paket_palet": "84",
+     "adet_palet": "8.400",
+     "moq": "8.400",
+     "moq_baskili": "8.400",
+     "ad": "Pizza Kutusu 8\""
+    },
+    {
+     "inc": "9\"",
+     "olcu": "240x240x45",
+     "paket": "100",
+     "paket_palet": "56",
+     "adet_palet": "5.600",
+     "moq": "5.600",
+     "moq_baskili": "5.600",
+     "ad": "Pizza Kutusu 9\""
+    },
+    {
+     "inc": "10\"",
+     "olcu": "265x265x45",
+     "paket": "100",
+     "paket_palet": "56",
+     "adet_palet": "5.600",
+     "moq": "5.600",
+     "moq_baskili": "5.600",
+     "ad": "Pizza Kutusu 10\""
+    },
+    {
+     "inc": "11\"",
+     "olcu": "295x295x45",
+     "paket": "100",
+     "paket_palet": "42",
+     "adet_palet": "4.200",
+     "moq": "4.200",
+     "moq_baskili": "4.200",
+     "ad": "Pizza Kutusu 11\""
+    },
+    {
+     "inc": "12\"",
+     "olcu": "320x320x45",
+     "paket": "100",
+     "paket_palet": "42",
+     "adet_palet": "4.200",
+     "moq": "4.200",
+     "moq_baskili": "4.200",
+     "ad": "Pizza Kutusu 12\""
+    },
+    {
+     "inc": "13\"",
+     "olcu": "345x345x45",
+     "paket": "50",
+     "paket_palet": "84",
+     "adet_palet": "4.200",
+     "moq": "4.200",
+     "moq_baskili": "4.200",
+     "ad": "Pizza Kutusu 13\""
+    },
+    {
+     "inc": "14\"",
+     "olcu": "370x370x45",
+     "paket": "50",
+     "paket_palet": "84",
+     "adet_palet": "4.200",
+     "moq": "4.200",
+     "moq_baskili": "4.200",
+     "ad": "Pizza Kutusu 14\""
+    },
+    {
+     "inc": "15\"",
+     "olcu": "400x400x45",
+     "paket": "50",
+     "paket_palet": "56",
+     "adet_palet": "2.800",
+     "moq": "2.800",
+     "moq_baskili": "2.800",
+     "ad": "Pizza Kutusu 15\""
+    },
+    {
+     "inc": "16\"",
+     "olcu": "425x425x45",
+     "paket": "50",
+     "paket_palet": "56",
+     "adet_palet": "2.800",
+     "moq": "2.800",
+     "moq_baskili": "2.800",
+     "ad": "Pizza Kutusu 16\""
+    },
+    {
+     "inc": "18\"",
+     "olcu": "470x470x50",
+     "paket": "50",
+     "paket_palet": "56",
+     "adet_palet": "2.800",
+     "moq": "2.800",
+     "moq_baskili": "2.800",
+     "ad": "Pizza Kutusu 18\""
+    }
+   ]
+  },
+  {
+   "kod": "HX-PASTA",
+   "ad": "Pasta Kutusu",
+   "bolum": 26,
+   "gorsel": "gorseller/hx-pasta-kutusu.jpg",
+   "tedarikci": "helmex",
+   "olcu": "14x14x5 – 32x32x8 cm",
+   "hacim": "",
+   "materyal": "250–285 gsm bristol karton",
+   "koli": "",
+   "koli_ici": "50 (25x2) çember",
+   "palet": "",
+   "fisek_ici": "",
+   "agirlik_g": "",
+   "gsm": "",
+   "moq": "",
+   "tedarikci_kodu": "",
+   "not": "",
+   "varyantlar": [
+    {
+     "olcu": "14x14x5",
+     "gsm": "250 gsm bristol",
+     "paket": "50 (25x2)",
+     "adet_palet": "16.000",
+     "palet_olcu": "100x120x200",
+     "ad": "Pasta Kutusu 14x14x5 cm"
+    },
+    {
+     "olcu": "16x16x5",
+     "gsm": "250 gsm bristol",
+     "paket": "50 (25x2)",
+     "adet_palet": "15.600",
+     "palet_olcu": "100x120x200",
+     "ad": "Pasta Kutusu 16x16x5 cm"
+    },
+    {
+     "olcu": "18x18x5",
+     "gsm": "250 gsm bristol",
+     "paket": "50 (25x2)",
+     "adet_palet": "13.200",
+     "palet_olcu": "100x120x200",
+     "ad": "Pasta Kutusu 18x18x5 cm"
+    },
+    {
+     "olcu": "20x20x5",
+     "gsm": "250 gsm bristol",
+     "paket": "50 (25x2)",
+     "adet_palet": "10.500",
+     "palet_olcu": "100x120x200",
+     "ad": "Pasta Kutusu 20x20x5 cm"
+    },
+    {
+     "olcu": "23x23x5",
+     "gsm": "270 gsm bristol",
+     "paket": "50 (25x2)",
+     "adet_palet": "7.600",
+     "palet_olcu": "100x120x200",
+     "ad": "Pasta Kutusu 23x23x5 cm"
+    },
+    {
+     "olcu": "26x26x5",
+     "gsm": "270 gsm bristol",
+     "paket": "50 (25x2)",
+     "adet_palet": "6.000",
+     "palet_olcu": "100x120x200",
+     "ad": "Pasta Kutusu 26x26x5 cm"
+    },
+    {
+     "olcu": "29x29x5",
+     "gsm": "270 gsm bristol",
+     "paket": "50 (25x2)",
+     "adet_palet": "4.900",
+     "palet_olcu": "100x120x200",
+     "ad": "Pasta Kutusu 29x29x5 cm"
+    },
+    {
+     "olcu": "32x32x5",
+     "gsm": "270 gsm bristol",
+     "paket": "50 (25x2)",
+     "adet_palet": "3.600",
+     "palet_olcu": "100x120x200",
+     "ad": "Pasta Kutusu 32x32x5 cm"
+    },
+    {
+     "olcu": "16x16x8",
+     "gsm": "250 gsm bristol",
+     "paket": "50 (25x2)",
+     "adet_palet": "13.000",
+     "palet_olcu": "100x120x200",
+     "ad": "Pasta Kutusu 16x16x8 cm"
+    },
+    {
+     "olcu": "18x18x8",
+     "gsm": "250 gsm bristol",
+     "paket": "50 (25x2)",
+     "adet_palet": "10.500",
+     "palet_olcu": "100x120x200",
+     "ad": "Pasta Kutusu 18x18x8 cm"
+    },
+    {
+     "olcu": "20x20x8",
+     "gsm": "270 gsm bristol",
+     "paket": "50 (25x2)",
+     "adet_palet": "8.550",
+     "palet_olcu": "100x120x200",
+     "ad": "Pasta Kutusu 20x20x8 cm"
+    },
+    {
+     "olcu": "22x22x8",
+     "gsm": "270 gsm bristol",
+     "paket": "50 (25x2)",
+     "adet_palet": "7.200",
+     "palet_olcu": "100x120x200",
+     "ad": "Pasta Kutusu 22x22x8 cm"
+    },
+    {
+     "olcu": "25x25x8",
+     "gsm": "270 gsm bristol",
+     "paket": "50 (25x2)",
+     "adet_palet": "5.600",
+     "palet_olcu": "100x120x200",
+     "ad": "Pasta Kutusu 25x25x8 cm"
+    },
+    {
+     "olcu": "28x28x8",
+     "gsm": "270 gsm bristol",
+     "paket": "50 (25x2)",
+     "adet_palet": "4.200",
+     "palet_olcu": "100x120x200",
+     "ad": "Pasta Kutusu 28x28x8 cm"
+    },
+    {
+     "olcu": "32x32x8",
+     "gsm": "285 gsm bristol",
+     "paket": "50 (25x2)",
+     "adet_palet": "3.600",
+     "palet_olcu": "100x120x200",
+     "ad": "Pasta Kutusu 32x32x8 cm"
+    }
+   ]
+  },
+  {
+   "kod": "HX-NOODLE16",
+   "ad": "16 oz Noodle Kutusu (450 ml)",
+   "bolum": 27,
+   "gorsel": "gorseller/hx-noodle-kutusu.jpg",
+   "tedarikci": "helmex",
+   "olcu": "78x87 / 80 x h94",
+   "hacim": "450",
+   "materyal": "280 gsm kraft & beyaz kağıt + PE laminasyon",
+   "koli": "240x580x665",
+   "koli_ici": "500",
+   "palet": "21",
+   "fisek_ici": "",
+   "agirlik_g": "13",
+   "gsm": "",
+   "moq": "",
+   "tedarikci_kodu": "",
+   "not": "",
+   "varyantlar": [],
+   "agiz": "78x87",
+   "dip": "80",
+   "yuk": "94"
+  },
+  {
+   "kod": "HX-NOODLE26",
+   "ad": "26 oz Noodle Kutusu (750 ml)",
+   "bolum": 27,
+   "gorsel": "gorseller/hx-noodle-kutusu.jpg",
+   "tedarikci": "helmex",
+   "olcu": "83x100 / 94 x h95",
+   "hacim": "750",
+   "materyal": "280 gsm kraft & beyaz kağıt + PE laminasyon",
+   "koli": "240x580x665",
+   "koli_ici": "500",
+   "palet": "21",
+   "fisek_ici": "",
+   "agirlik_g": "16",
+   "gsm": "",
+   "moq": "",
+   "tedarikci_kodu": "",
+   "not": "",
+   "varyantlar": [],
+   "agiz": "83x100",
+   "dip": "94",
+   "yuk": "95"
+  },
+  {
+   "kod": "HX-KOVA60",
+   "ad": "60 oz Karton Kova (1750 cc)",
+   "bolum": 28,
+   "gorsel": "gorseller/hx-kova.jpg",
+   "tedarikci": "helmex",
+   "olcu": "150x125x132",
+   "hacim": "1750",
+   "materyal": "250-300 gsm bristol + PE",
+   "koli": "440x370x550",
+   "koli_ici": "240",
+   "palet": "24",
+   "fisek_ici": "",
+   "agirlik_g": "",
+   "gsm": "",
+   "moq": "",
+   "tedarikci_kodu": "",
+   "not": "",
+   "varyantlar": []
+  },
+  {
+   "kod": "HX-KOVA85",
+   "ad": "85 oz Karton Kova (2500 cc)",
+   "bolum": 28,
+   "gorsel": "gorseller/hx-kova.jpg",
+   "tedarikci": "helmex",
+   "olcu": "193x145x147",
+   "hacim": "2500",
+   "materyal": "250-300 gsm bristol + PE",
+   "koli": "470x670x750",
+   "koli_ici": "400",
+   "palet": "12",
+   "fisek_ici": "",
+   "agirlik_g": "",
+   "gsm": "",
+   "moq": "",
+   "tedarikci_kodu": "",
+   "not": "",
+   "varyantlar": []
+  },
+  {
+   "kod": "HX-KOVA130",
+   "ad": "130 oz Karton Kova (4000 cc)",
+   "bolum": 28,
+   "gorsel": "gorseller/hx-kova.jpg",
+   "tedarikci": "helmex",
+   "olcu": "211x160x170",
+   "hacim": "4000",
+   "materyal": "250-300 gsm bristol + PE",
+   "koli": "470x670x750",
+   "koli_ici": "300",
+   "palet": "12",
+   "fisek_ici": "",
+   "agirlik_g": "",
+   "gsm": "",
+   "moq": "",
+   "tedarikci_kodu": "",
+   "not": "",
+   "varyantlar": []
+  },
+  {
+   "kod": "HX-XB016",
+   "ad": "16 oz Karton Kase",
+   "bolum": 29,
+   "gorsel": "gorseller/hx-kase.jpg",
+   "tedarikci": "helmex",
+   "olcu": "111",
+   "hacim": "",
+   "materyal": "Karton",
+   "koli": "580x240x560",
+   "koli_ici": "10x50 - 500",
+   "palet": "24",
+   "fisek_ici": "",
+   "agirlik_g": "12",
+   "gsm": "",
+   "moq": "",
+   "tedarikci_kodu": "XB016",
+   "not": "",
+   "varyantlar": []
+  },
+  {
+   "kod": "HX-XB020",
+   "ad": "20 oz Karton Kase",
+   "bolum": 29,
+   "gorsel": "gorseller/hx-kase.jpg",
+   "tedarikci": "helmex",
+   "olcu": "145",
+   "hacim": "",
+   "materyal": "Karton",
+   "koli": "300x750x460",
+   "koli_ici": "10x50 - 500",
+   "palet": "20",
+   "fisek_ici": "",
+   "agirlik_g": "13",
+   "gsm": "",
+   "moq": "",
+   "tedarikci_kodu": "XB020",
+   "not": "",
+   "varyantlar": []
+  },
+  {
+   "kod": "HX-XB026",
+   "ad": "26 oz Karton Kase",
+   "bolum": 29,
+   "gorsel": "gorseller/hx-kase.jpg",
+   "tedarikci": "helmex",
+   "olcu": "145",
+   "hacim": "",
+   "materyal": "Karton",
+   "koli": "300x750x500",
+   "koli_ici": "10x50 - 500",
+   "palet": "16",
+   "fisek_ici": "",
+   "agirlik_g": "16,3",
+   "gsm": "",
+   "moq": "",
+   "tedarikci_kodu": "XB026",
+   "not": "",
+   "varyantlar": []
+  },
+  {
+   "kod": "HX-XB032",
+   "ad": "32 oz Karton Kase",
+   "bolum": 29,
+   "gorsel": "gorseller/hx-kase.jpg",
+   "tedarikci": "helmex",
+   "olcu": "187",
+   "hacim": "",
+   "materyal": "Karton",
+   "koli": "383x570x550",
+   "koli_ici": "6x50 - 300",
+   "palet": "16",
+   "fisek_ici": "",
+   "agirlik_g": "19",
+   "gsm": "",
+   "moq": "",
+   "tedarikci_kodu": "XB032",
+   "not": "",
+   "varyantlar": []
+  },
+  {
+   "kod": "HX-XB038",
+   "ad": "38 oz Karton Kase",
+   "bolum": 29,
+   "gorsel": "gorseller/hx-kase.jpg",
+   "tedarikci": "helmex",
+   "olcu": "187",
+   "hacim": "",
+   "materyal": "Karton",
+   "koli": "575x380x580",
+   "koli_ici": "6x50 - 300",
+   "palet": "24",
+   "fisek_ici": "",
+   "agirlik_g": "23,3",
+   "gsm": "",
+   "moq": "",
+   "tedarikci_kodu": "XB038",
+   "not": "",
+   "varyantlar": []
+  },
+  {
+   "kod": "HX-SPX4",
+   "ad": "Sıcak İçecek Bardağı 4 oz",
+   "bolum": 30,
+   "gorsel": "gorseller/hx-bardak.jpg",
+   "tedarikci": "helmex",
+   "olcu": "Ø62,87 / Ø45,22 x 64,36",
+   "hacim": "100 ml",
+   "materyal": "Kağıt + PE",
+   "koli": "325x260x335",
+   "koli_ici": "1.000",
+   "palet": "48",
+   "fisek_ici": "50",
+   "agirlik_g": "3,37",
+   "gsm": "",
+   "moq": "175.000",
+   "tedarikci_kodu": "SPX4oz",
+   "not": "",
+   "varyantlar": [],
+   "kullanim": "Sıcak",
+   "fisek_koli": "20"
+  },
+  {
+   "kod": "HX-SPX7",
+   "ad": "Sıcak İçecek Bardağı 7 oz",
+   "bolum": 30,
+   "gorsel": "gorseller/hx-bardak.jpg",
+   "tedarikci": "helmex",
+   "olcu": "Ø72,9 / Ø51,69 x 77",
+   "hacim": "175 ml",
+   "materyal": "Kağıt + PE",
+   "koli": "377x377x537",
+   "koli_ici": "2.000",
+   "palet": "18",
+   "fisek_ici": "80",
+   "agirlik_g": "4,19",
+   "gsm": "",
+   "moq": "200.000",
+   "tedarikci_kodu": "SPX7oz",
+   "not": "",
+   "varyantlar": [],
+   "kullanim": "Sıcak",
+   "fisek_koli": "25"
+  },
+  {
+   "kod": "HX-SPX9T",
+   "ad": "Sıcak İçecek Bardağı 9T oz (Tall)",
+   "bolum": 30,
+   "gorsel": "gorseller/hx-bardak.jpg",
+   "tedarikci": "helmex",
+   "olcu": "Ø80,3 / Ø51,51 x 95,25",
+   "hacim": "225 ml",
+   "materyal": "Kağıt + PE",
+   "koli": "327x407x517",
+   "koli_ici": "1.000",
+   "palet": "24",
+   "fisek_ici": "50",
+   "agirlik_g": "7,15",
+   "gsm": "",
+   "moq": "150.000",
+   "tedarikci_kodu": "SPX9Toz (Tall)",
+   "not": "",
+   "varyantlar": [],
+   "kullanim": "Sıcak",
+   "fisek_koli": "20"
+  },
+  {
+   "kod": "HX-SPX9S",
+   "ad": "Sıcak İçecek Bardağı 9S oz (Squat)",
+   "bolum": 30,
+   "gorsel": "gorseller/hx-bardak.jpg",
+   "tedarikci": "helmex",
+   "olcu": "Ø80,05 / Ø56,4 x 87,75",
+   "hacim": "225 ml",
+   "materyal": "Kağıt + PE",
+   "koli": "325x401x410",
+   "koli_ici": "1.000",
+   "palet": "36",
+   "fisek_ici": "50",
+   "agirlik_g": "6,78",
+   "gsm": "",
+   "moq": "170.000",
+   "tedarikci_kodu": "SPX9Soz (Squat)",
+   "not": "",
+   "varyantlar": [],
+   "kullanim": "Sıcak",
+   "fisek_koli": "20"
+  },
+  {
+   "kod": "HX-SPX12",
+   "ad": "Sıcak İçecek Bardağı 12 oz",
+   "bolum": 30,
+   "gorsel": "gorseller/hx-bardak.jpg",
+   "tedarikci": "helmex",
+   "olcu": "",
+   "hacim": "300 ml",
+   "materyal": "Kağıt + PE",
+   "koli": "401x403x530",
+   "koli_ici": "1.000",
+   "palet": "24",
+   "fisek_ici": "50",
+   "agirlik_g": "",
+   "gsm": "",
+   "moq": "100.000",
+   "tedarikci_kodu": "SPX12oz",
+   "not": "",
+   "varyantlar": [],
+   "kullanim": "Sıcak",
+   "fisek_koli": "20"
+  },
+  {
+   "kod": "HX-SPX16",
+   "ad": "Sıcak İçecek Bardağı 16 oz",
+   "bolum": 30,
+   "gorsel": "gorseller/hx-bardak.jpg",
+   "tedarikci": "helmex",
+   "olcu": "",
+   "hacim": "400 ml",
+   "materyal": "Kağıt + PE",
+   "koli": "401x403x553",
+   "koli_ici": "1.000",
+   "palet": "24",
+   "fisek_ici": "50",
+   "agirlik_g": "",
+   "gsm": "",
+   "moq": "80.000",
+   "tedarikci_kodu": "SPX16oz",
+   "not": "",
+   "varyantlar": [],
+   "kullanim": "Sıcak",
+   "fisek_koli": "20"
+  },
+  {
+   "kod": "HX-SPX20",
+   "ad": "Sıcak İçecek Bardağı 20 oz",
+   "bolum": 30,
+   "gorsel": "gorseller/hx-bardak.jpg",
+   "tedarikci": "helmex",
+   "olcu": "",
+   "hacim": "500 ml",
+   "materyal": "Kağıt + PE",
+   "koli": "272x367x682",
+   "koli_ici": "600",
+   "palet": "22",
+   "fisek_ici": "50",
+   "agirlik_g": "",
+   "gsm": "",
+   "moq": "70.000",
+   "tedarikci_kodu": "SPX20oz",
+   "not": "",
+   "varyantlar": [],
+   "kullanim": "Sıcak",
+   "fisek_koli": "12"
+  },
+  {
+   "kod": "HX-DPX12",
+   "ad": "Soğuk İçecek Bardağı 12 oz",
+   "bolum": 30,
+   "gorsel": "gorseller/hx-bardak.jpg",
+   "tedarikci": "helmex",
+   "olcu": "",
+   "hacim": "300 ml",
+   "materyal": "PE + Kağıt + PE",
+   "koli": "225x565x620",
+   "koli_ici": "2.000",
+   "palet": "18",
+   "fisek_ici": "100",
+   "agirlik_g": "",
+   "gsm": "",
+   "moq": "175.000",
+   "tedarikci_kodu": "DPX12oz",
+   "not": "",
+   "varyantlar": [],
+   "kullanim": "Soğuk",
+   "fisek_koli": "20"
+  },
+  {
+   "kod": "HX-DPX16",
+   "ad": "Soğuk İçecek Bardağı 16 oz",
+   "bolum": 30,
+   "gorsel": "gorseller/hx-bardak.jpg",
+   "tedarikci": "helmex",
+   "olcu": "",
+   "hacim": "400 ml",
+   "materyal": "PE + Kağıt + PE",
+   "koli": "401x403x553",
+   "koli_ici": "1.000",
+   "palet": "24",
+   "fisek_ici": "50",
+   "agirlik_g": "",
+   "gsm": "",
+   "moq": "140.000",
+   "tedarikci_kodu": "DPX16oz",
+   "not": "",
+   "varyantlar": [],
+   "kullanim": "Soğuk",
+   "fisek_koli": "20"
+  },
+  {
+   "kod": "HX-DPX22",
+   "ad": "Soğuk İçecek Bardağı 22 oz",
+   "bolum": 30,
+   "gorsel": "gorseller/hx-bardak.jpg",
+   "tedarikci": "helmex",
+   "olcu": "",
+   "hacim": "550 ml",
+   "materyal": "PE + Kağıt + PE",
+   "koli": "398x400x627",
+   "koli_ici": "1.000",
+   "palet": "21",
+   "fisek_ici": "50",
+   "agirlik_g": "",
+   "gsm": "",
+   "moq": "75.000",
+   "tedarikci_kodu": "DPX22oz",
+   "not": "",
+   "varyantlar": [],
+   "kullanim": "Soğuk",
+   "fisek_koli": "20"
+  },
+  {
+   "kod": "HX-DPX32",
+   "ad": "Soğuk İçecek Bardağı 32 oz",
+   "bolum": 30,
+   "gorsel": "gorseller/hx-bardak.jpg",
+   "tedarikci": "helmex",
+   "olcu": "",
+   "hacim": "800 ml",
+   "materyal": "PE + Kağıt + PE",
+   "koli": "211x528x683",
+   "koli_ici": "500",
+   "palet": "18",
+   "fisek_ici": "50",
+   "agirlik_g": "",
+   "gsm": "",
+   "moq": "70.000",
+   "tedarikci_kodu": "DPX32oz",
+   "not": "",
+   "varyantlar": [],
+   "kullanim": "Soğuk",
+   "fisek_koli": "10"
+  },
+  {
+   "kod": "HX-XPS8",
+   "ad": "Bardak Kılıfı 8 oz",
+   "bolum": 31,
+   "gorsel": "gorseller/hx-kilif-tasiyici.jpg",
+   "tedarikci": "helmex",
+   "olcu": "241x75",
+   "hacim": "",
+   "materyal": "Oluklu karton",
+   "koli": "637x347x137",
+   "koli_ici": "1000 (100x10)",
+   "palet": "60",
+   "fisek_ici": "",
+   "agirlik_g": "",
+   "gsm": "",
+   "moq": "",
+   "tedarikci_kodu": "XPS8",
+   "not": "",
+   "varyantlar": []
+  },
+  {
+   "kod": "HX-XPS12-16",
+   "ad": "Bardak Kılıfı 10-12-16 oz",
+   "bolum": 31,
+   "gorsel": "gorseller/hx-kilif-tasiyici.jpg",
+   "tedarikci": "helmex",
+   "olcu": "258x75",
+   "hacim": "",
+   "materyal": "Oluklu karton",
+   "koli": "637x347x137",
+   "koli_ici": "1000 (100x10)",
+   "palet": "60",
+   "fisek_ici": "",
+   "agirlik_g": "",
+   "gsm": "",
+   "moq": "",
+   "tedarikci_kodu": "XPS12/16",
+   "not": "",
+   "varyantlar": []
+  },
+  {
+   "kod": "HX-XCC02",
+   "ad": "2'li Bardak Taşıyıcı",
+   "bolum": 31,
+   "gorsel": "gorseller/hx-tasiyici-2.jpg",
+   "tedarikci": "helmex",
+   "olcu": "",
+   "hacim": "",
+   "materyal": "Geri dönüştürülmüş kağıt hamuru",
+   "koli": "600x500x250",
+   "koli_ici": "428",
+   "palet": "36",
+   "fisek_ici": "",
+   "agirlik_g": "",
+   "gsm": "",
+   "moq": "",
+   "tedarikci_kodu": "XCC02",
+   "not": "",
+   "varyantlar": []
+  },
+  {
+   "kod": "HX-XCC04",
+   "ad": "4'lü Bardak Taşıyıcı",
+   "bolum": 31,
+   "gorsel": "gorseller/hx-tasiyici-4.jpg",
+   "tedarikci": "helmex",
+   "olcu": "",
+   "hacim": "",
+   "materyal": "Geri dönüştürülmüş kağıt hamuru",
+   "koli": "595x315x560",
+   "koli_ici": "210",
+   "palet": "24",
+   "fisek_ici": "",
+   "agirlik_g": "",
+   "gsm": "",
+   "moq": "",
+   "tedarikci_kodu": "XCC04",
+   "not": "",
+   "varyantlar": []
+  },
+  {
+   "kod": "HX-CANTA-DUZ",
+   "ad": "Düz Saplı Kağıt Çanta",
+   "bolum": 32,
+   "gorsel": "gorseller/hx-duz-sapli-canta.jpg",
+   "tedarikci": "helmex",
+   "olcu": "18x10x33 – 46x16x46 cm",
+   "hacim": "",
+   "materyal": "70-80-90-100 gsm kraft / beyaz kağıt",
+   "koli": "",
+   "koli_ici": "",
+   "palet": "",
+   "fisek_ici": "",
+   "agirlik_g": "",
+   "gsm": "",
+   "moq": "20.000",
+   "tedarikci_kodu": "",
+   "not": "",
+   "varyantlar": [
+    {
+     "olcu": "18x10x33",
+     "gsm": "70-80-90-100 gsm",
+     "renk": "beyaz / kahve",
+     "baski": "flekso",
+     "moq": "20.000",
+     "ad": "Düz Saplı Çanta 18x10x33"
+    },
+    {
+     "olcu": "18x12x32",
+     "gsm": "70-80-90-100 gsm",
+     "renk": "beyaz / kahve",
+     "baski": "flekso",
+     "moq": "20.000",
+     "ad": "Düz Saplı Çanta 18x12x32"
+    },
+    {
+     "olcu": "18x12x42",
+     "gsm": "70-80-90-100 gsm",
+     "renk": "beyaz / kahve",
+     "baski": "flekso",
+     "moq": "20.000",
+     "ad": "Düz Saplı Çanta 18x12x42"
+    },
+    {
+     "olcu": "18x9x29,5",
+     "gsm": "70-80-90-100 gsm",
+     "renk": "beyaz / kahve",
+     "baski": "flekso",
+     "moq": "20.000",
+     "ad": "Düz Saplı Çanta 18x9x29,5"
+    },
+    {
+     "olcu": "22x12x28",
+     "gsm": "70-80-90-100 gsm",
+     "renk": "beyaz / kahve",
+     "baski": "flekso",
+     "moq": "20.000",
+     "ad": "Düz Saplı Çanta 22x12x28"
+    },
+    {
+     "olcu": "22x22x37",
+     "gsm": "70-80-90-100 gsm",
+     "renk": "beyaz / kahve",
+     "baski": "flekso",
+     "moq": "20.000",
+     "ad": "Düz Saplı Çanta 22x22x37"
+    },
+    {
+     "olcu": "25x14x31",
+     "gsm": "70-80-90-100 gsm",
+     "renk": "beyaz / kahve",
+     "baski": "flekso",
+     "moq": "20.000",
+     "ad": "Düz Saplı Çanta 25x14x31"
+    },
+    {
+     "olcu": "25x14x36",
+     "gsm": "70-80-90-100 gsm",
+     "renk": "beyaz / kahve",
+     "baski": "flekso",
+     "moq": "20.000",
+     "ad": "Düz Saplı Çanta 25x14x36"
+    },
+    {
+     "olcu": "27x17x29,5",
+     "gsm": "70-80-90-100 gsm",
+     "renk": "beyaz / kahve",
+     "baski": "flekso",
+     "moq": "20.000",
+     "ad": "Düz Saplı Çanta 27x17x29,5"
+    },
+    {
+     "olcu": "27x17x43,5",
+     "gsm": "70-80-90-100 gsm",
+     "renk": "beyaz / kahve",
+     "baski": "flekso",
+     "moq": "20.000",
+     "ad": "Düz Saplı Çanta 27x17x43,5"
+    },
+    {
+     "olcu": "27x22x53",
+     "gsm": "70-80-90-100 gsm",
+     "renk": "beyaz / kahve",
+     "baski": "flekso",
+     "moq": "20.000",
+     "ad": "Düz Saplı Çanta 27x22x53"
+    },
+    {
+     "olcu": "30x25x45",
+     "gsm": "70-80-90-100 gsm",
+     "renk": "beyaz / kahve",
+     "baski": "flekso",
+     "moq": "20.000",
+     "ad": "Düz Saplı Çanta 30x25x45"
+    },
+    {
+     "olcu": "32x16x35",
+     "gsm": "70-80-90-100 gsm",
+     "renk": "beyaz / kahve",
+     "baski": "flekso",
+     "moq": "20.000",
+     "ad": "Düz Saplı Çanta 32x16x35"
+    },
+    {
+     "olcu": "32x22x34",
+     "gsm": "70-80-90-100 gsm",
+     "renk": "beyaz / kahve",
+     "baski": "flekso",
+     "moq": "20.000",
+     "ad": "Düz Saplı Çanta 32x22x34"
+    },
+    {
+     "olcu": "32x22x37",
+     "gsm": "70-80-90-100 gsm",
+     "renk": "beyaz / kahve",
+     "baski": "flekso",
+     "moq": "20.000",
+     "ad": "Düz Saplı Çanta 32x22x37"
+    },
+    {
+     "olcu": "40x22x42",
+     "gsm": "70-80-90-100 gsm",
+     "renk": "beyaz / kahve",
+     "baski": "flekso",
+     "moq": "20.000",
+     "ad": "Düz Saplı Çanta 40x22x42"
+    },
+    {
+     "olcu": "46x16x40",
+     "gsm": "70-80-90-100 gsm",
+     "renk": "beyaz / kahve",
+     "baski": "flekso",
+     "moq": "20.000",
+     "ad": "Düz Saplı Çanta 46x16x40"
+    },
+    {
+     "olcu": "46x16x46",
+     "gsm": "70-80-90-100 gsm",
+     "renk": "beyaz / kahve",
+     "baski": "flekso",
+     "moq": "20.000",
+     "ad": "Düz Saplı Çanta 46x16x46"
+    }
+   ]
+  },
+  {
+   "kod": "HX-CANTA-BURGU",
+   "ad": "Burgu Saplı Kağıt Çanta (flekso)",
+   "bolum": 33,
+   "gorsel": "gorseller/hx-burgu-sapli-canta.jpg",
+   "tedarikci": "helmex",
+   "olcu": "18x8x23 – 54x14x50 cm",
+   "hacim": "",
+   "materyal": "70-80-90-100 gsm kraft / beyaz kağıt",
+   "koli": "",
+   "koli_ici": "",
+   "palet": "",
+   "fisek_ici": "",
+   "agirlik_g": "",
+   "gsm": "",
+   "moq": "10.000",
+   "tedarikci_kodu": "",
+   "not": "",
+   "varyantlar": [
+    {
+     "olcu": "18x8x23",
+     "gsm": "70-80-90-100 gsm",
+     "renk": "beyaz / kahve",
+     "baski": "flekso",
+     "moq": "10.000",
+     "ad": "Burgu Saplı Çanta 18x8x23"
+    },
+    {
+     "olcu": "22x10x25",
+     "gsm": "70-80-90-100 gsm",
+     "renk": "beyaz / kahve",
+     "baski": "flekso",
+     "moq": "10.000",
+     "ad": "Burgu Saplı Çanta 22x10x25"
+    },
+    {
+     "olcu": "22x10x36",
+     "gsm": "70-80-90-100 gsm",
+     "renk": "beyaz / kahve",
+     "baski": "flekso",
+     "moq": "10.000",
+     "ad": "Burgu Saplı Çanta 22x10x36"
+    },
+    {
+     "olcu": "26x14x32",
+     "gsm": "70-80-90-100 gsm",
+     "renk": "beyaz / kahve",
+     "baski": "flekso",
+     "moq": "10.000",
+     "ad": "Burgu Saplı Çanta 26x14x32"
+    },
+    {
+     "olcu": "26x14x36",
+     "gsm": "70-80-90-100 gsm",
+     "renk": "beyaz / kahve",
+     "baski": "flekso",
+     "moq": "10.000",
+     "ad": "Burgu Saplı Çanta 26x14x36"
+    },
+    {
+     "olcu": "28x16x29",
+     "gsm": "70-80-90-100 gsm",
+     "renk": "beyaz / kahve",
+     "baski": "flekso",
+     "moq": "10.000",
+     "ad": "Burgu Saplı Çanta 28x16x29"
+    },
+    {
+     "olcu": "29x15x35,5",
+     "gsm": "70-80-90-100 gsm",
+     "renk": "beyaz / kahve",
+     "baski": "flekso",
+     "moq": "10.000",
+     "ad": "Burgu Saplı Çanta 29x15x35,5"
+    },
+    {
+     "olcu": "32x12x41",
+     "gsm": "70-80-90-100 gsm",
+     "renk": "beyaz / kahve",
+     "baski": "flekso",
+     "moq": "10.000",
+     "ad": "Burgu Saplı Çanta 32x12x41"
+    },
+    {
+     "olcu": "32x16x33",
+     "gsm": "70-80-90-100 gsm",
+     "renk": "beyaz / kahve",
+     "baski": "flekso",
+     "moq": "10.000",
+     "ad": "Burgu Saplı Çanta 32x16x33"
+    },
+    {
+     "olcu": "32x16x35",
+     "gsm": "70-80-90-100 gsm",
+     "renk": "beyaz / kahve",
+     "baski": "flekso",
+     "moq": "10.000",
+     "ad": "Burgu Saplı Çanta 32x16x35"
+    },
+    {
+     "olcu": "32x17x40",
+     "gsm": "70-80-90-100 gsm",
+     "renk": "beyaz / kahve",
+     "baski": "flekso",
+     "moq": "10.000",
+     "ad": "Burgu Saplı Çanta 32x17x40"
+    },
+    {
+     "olcu": "33x20x33",
+     "gsm": "70-80-90-100 gsm",
+     "renk": "beyaz / kahve",
+     "baski": "flekso",
+     "moq": "10.000",
+     "ad": "Burgu Saplı Çanta 33x20x33"
+    },
+    {
+     "olcu": "38x25x44,5",
+     "gsm": "70-80-90-100 gsm",
+     "renk": "beyaz / kahve",
+     "baski": "flekso",
+     "moq": "10.000",
+     "ad": "Burgu Saplı Çanta 38x25x44,5"
+    },
+    {
+     "olcu": "44x14x50",
+     "gsm": "70-80-90-100 gsm",
+     "renk": "beyaz / kahve",
+     "baski": "flekso",
+     "moq": "10.000",
+     "ad": "Burgu Saplı Çanta 44x14x50"
+    },
+    {
+     "olcu": "40x15x43,5",
+     "gsm": "70-80-90-100 gsm",
+     "renk": "beyaz / kahve",
+     "baski": "flekso",
+     "moq": "10.000",
+     "ad": "Burgu Saplı Çanta 40x15x43,5"
+    },
+    {
+     "olcu": "54x14x50",
+     "gsm": "70-80-90-100 gsm",
+     "renk": "beyaz / kahve",
+     "baski": "flekso",
+     "moq": "10.000",
+     "ad": "Burgu Saplı Çanta 54x14x50"
+    },
+    {
+     "olcu": "35x18x32",
+     "gsm": "70-80-90-100 gsm",
+     "renk": "beyaz / kahve",
+     "baski": "flekso",
+     "moq": "10.000",
+     "ad": "Burgu Saplı Çanta 35x18x32"
+    }
+   ]
+  },
+  {
+   "kod": "HX-CANTA-BURGU-OFSET",
+   "ad": "Burgu Saplı Kağıt Çanta (ofset)",
+   "bolum": 33,
+   "gorsel": "gorseller/hx-burgu-sapli-canta.jpg",
+   "tedarikci": "helmex",
+   "olcu": "22,5x8x23,5 – 34,7x14x40 cm",
+   "hacim": "",
+   "materyal": "100 gsm beyaz kağıt",
+   "koli": "",
+   "koli_ici": "",
+   "palet": "",
+   "fisek_ici": "",
+   "agirlik_g": "",
+   "gsm": "",
+   "moq": "1.000",
+   "tedarikci_kodu": "",
+   "not": "",
+   "varyantlar": [
+    {
+     "olcu": "26x8x38",
+     "gsm": "100 gsm",
+     "renk": "beyaz",
+     "baski": "ofset",
+     "moq": "1.000",
+     "ad": "Burgu Saplı Ofset Çanta 26x8x38"
+    },
+    {
+     "olcu": "34,7x14x40",
+     "gsm": "100 gsm",
+     "renk": "beyaz",
+     "baski": "ofset",
+     "moq": "1.000",
+     "ad": "Burgu Saplı Ofset Çanta 34,7x14x40"
+    },
+    {
+     "olcu": "22,5x8x23,5",
+     "gsm": "100 gsm",
+     "renk": "beyaz",
+     "baski": "ofset",
+     "moq": "1.000",
+     "ad": "Burgu Saplı Ofset Çanta 22,5x8x23,5"
+    },
+    {
+     "olcu": "24x13x22",
+     "gsm": "100 gsm",
+     "renk": "beyaz",
+     "baski": "ofset",
+     "moq": "1.000",
+     "ad": "Burgu Saplı Ofset Çanta 24x13x22"
+    },
+    {
+     "olcu": "30x19x25",
+     "gsm": "100 gsm",
+     "renk": "beyaz",
+     "baski": "ofset",
+     "moq": "1.000",
+     "ad": "Burgu Saplı Ofset Çanta 30x19x25"
+    }
+   ]
+  },
+  {
+   "kod": "HX-TORBA-DUZ",
+   "ad": "Yağlı Kağıt Torba (körüksüz)",
+   "bolum": 34,
+   "gorsel": "gorseller/hx-sapsiz-torba.jpg",
+   "tedarikci": "helmex",
+   "olcu": "11x13,5 – 30x30,5 cm",
+   "hacim": "",
+   "materyal": "35–40 gsm greaseproof / sülfit / şamua kağıt",
+   "koli": "",
+   "koli_ici": "",
+   "palet": "",
+   "fisek_ici": "",
+   "agirlik_g": "",
+   "gsm": "",
+   "moq": "",
+   "tedarikci_kodu": "",
+   "not": "",
+   "varyantlar": [
+    {
+     "en": "11",
+     "boy": "13,5",
+     "gsm": "40 gsm",
+     "agirlik_g": "1,7",
+     "adet_kg": "588",
+     "paket": "5.000",
+     "paket_kg": "8,8",
+     "adet_palet": "426.136",
+     "paket_palet": "85",
+     "palet_kg": "750",
+     "ad": "Yağlı Kağıt Torba 11x13.5 cm"
+    },
+    {
+     "en": "11",
+     "boy": "24",
+     "gsm": "35 gsm",
+     "agirlik_g": "2,5",
+     "adet_kg": "395",
+     "paket": "5.000",
+     "paket_kg": "12,95",
+     "adet_palet": "289.575",
+     "paket_palet": "58",
+     "palet_kg": "750",
+     "ad": "Yağlı Kağıt Torba 11x24 cm"
+    },
+    {
+     "en": "12",
+     "boy": "13,5",
+     "gsm": "40 gsm",
+     "agirlik_g": "2",
+     "adet_kg": "500",
+     "paket": "5.000",
+     "paket_kg": "10,3",
+     "adet_palet": "364.078",
+     "paket_palet": "73",
+     "palet_kg": "750",
+     "ad": "Yağlı Kağıt Torba 12x13.5 cm"
+    },
+    {
+     "en": "12",
+     "boy": "24",
+     "gsm": "40 gsm",
+     "agirlik_g": "3,3",
+     "adet_kg": "303",
+     "paket": "5.000",
+     "paket_kg": "16,8",
+     "adet_palet": "223.214",
+     "paket_palet": "45",
+     "palet_kg": "750",
+     "ad": "Yağlı Kağıt Torba 12x24 cm"
+    },
+    {
+     "en": "15",
+     "boy": "14",
+     "gsm": "40 gsm",
+     "agirlik_g": "2,2",
+     "adet_kg": "455",
+     "paket": "5.000",
+     "paket_kg": "11,3",
+     "adet_palet": "331.858",
+     "paket_palet": "66",
+     "palet_kg": "750",
+     "ad": "Yağlı Kağıt Torba 15x14 cm"
+    },
+    {
+     "en": "16",
+     "boy": "16",
+     "gsm": "40 gsm",
+     "agirlik_g": "2,6",
+     "adet_kg": "385",
+     "paket": "5.000",
+     "paket_kg": "13,3",
+     "adet_palet": "281.955",
+     "paket_palet": "56",
+     "palet_kg": "750",
+     "ad": "Yağlı Kağıt Torba 16x16 cm"
+    },
+    {
+     "en": "17,5",
+     "boy": "17,5",
+     "gsm": "40 gsm",
+     "agirlik_g": "3",
+     "adet_kg": "339",
+     "paket": "3.000",
+     "paket_kg": "9,15",
+     "adet_palet": "245.902",
+     "paket_palet": "82",
+     "palet_kg": "750",
+     "ad": "Yağlı Kağıt Torba 17.5x17.5 cm"
+    },
+    {
+     "en": "18",
+     "boy": "19,5",
+     "gsm": "40 gsm",
+     "agirlik_g": "3,3",
+     "adet_kg": "299",
+     "paket": "3.000",
+     "paket_kg": "10,32",
+     "adet_palet": "218.023",
+     "paket_palet": "73",
+     "palet_kg": "750",
+     "ad": "Yağlı Kağıt Torba 18x19.5 cm"
+    },
+    {
+     "en": "19",
+     "boy": "20",
+     "gsm": "40 gsm",
+     "agirlik_g": "3,6",
+     "adet_kg": "282",
+     "paket": "3.000",
+     "paket_kg": "10,95",
+     "adet_palet": "205.479",
+     "paket_palet": "68",
+     "palet_kg": "750",
+     "ad": "Yağlı Kağıt Torba 19x20 cm"
+    },
+    {
+     "en": "20",
+     "boy": "24",
+     "gsm": "40 gsm",
+     "agirlik_g": "4,9",
+     "adet_kg": "204",
+     "paket": "3.000",
+     "paket_kg": "15",
+     "adet_palet": "150.000",
+     "paket_palet": "50",
+     "palet_kg": "750",
+     "ad": "Yağlı Kağıt Torba 20x24 cm"
+    },
+    {
+     "en": "20",
+     "boy": "13,5",
+     "gsm": "40 gsm",
+     "agirlik_g": "3,3",
+     "adet_kg": "303",
+     "paket": "3.000",
+     "paket_kg": "10,2",
+     "adet_palet": "220.588",
+     "paket_palet": "74",
+     "palet_kg": "750",
+     "ad": "Yağlı Kağıt Torba 20x13.5 cm"
+    },
+    {
+     "en": "21",
+     "boy": "21",
+     "gsm": "40 gsm",
+     "agirlik_g": "4,1",
+     "adet_kg": "244",
+     "paket": "3.000",
+     "paket_kg": "12,6",
+     "adet_palet": "178.571",
+     "paket_palet": "60",
+     "palet_kg": "750",
+     "ad": "Yağlı Kağıt Torba 21x21 cm"
+    },
+    {
+     "en": "23",
+     "boy": "24",
+     "gsm": "40 gsm",
+     "agirlik_g": "5,1",
+     "adet_kg": "196",
+     "paket": "3.000",
+     "paket_kg": "15,63",
+     "adet_palet": "143.954",
+     "paket_palet": "48",
+     "palet_kg": "750",
+     "ad": "Yağlı Kağıt Torba 23x24 cm"
+    },
+    {
+     "en": "30",
+     "boy": "30,5",
+     "gsm": "40 gsm",
+     "agirlik_g": "9,2",
+     "adet_kg": "109",
+     "paket": "3.000",
+     "paket_kg": "27,9",
+     "adet_palet": "80.645",
+     "paket_palet": "27",
+     "palet_kg": "750",
+     "ad": "Yağlı Kağıt Torba 30x30.5 cm"
+    }
+   ]
+  },
+  {
+   "kod": "HX-TORBA-KORUK",
+   "ad": "Yağlı Kağıt Torba (körüklü)",
+   "bolum": 34,
+   "gorsel": "gorseller/hx-sapsiz-torba.jpg",
+   "tedarikci": "helmex",
+   "olcu": "10x19x5 – 25,5x32x7 cm",
+   "hacim": "",
+   "materyal": "35–40 gsm greaseproof / sülfit / şamua kağıt",
+   "koli": "",
+   "koli_ici": "",
+   "palet": "",
+   "fisek_ici": "",
+   "agirlik_g": "",
+   "gsm": "",
+   "moq": "",
+   "tedarikci_kodu": "",
+   "not": "",
+   "varyantlar": [
+    {
+     "en": "10",
+     "boy": "19",
+     "koruk": "5",
+     "gsm": "40 gsm",
+     "agirlik_g": "3,4",
+     "adet_kg": "294",
+     "paket": "2.000",
+     "paket_kg": "7,1",
+     "adet_palet": "211.268",
+     "paket_palet": "106",
+     "ad": "Körüklü Yağlı Kağıt Torba 10x19x5 cm"
+    },
+    {
+     "en": "10",
+     "boy": "40",
+     "koruk": "6",
+     "gsm": "35 gsm",
+     "agirlik_g": "6,4",
+     "adet_kg": "156",
+     "paket": "2.000",
+     "paket_kg": "13,1",
+     "adet_palet": "114.504",
+     "paket_palet": "57",
+     "ad": "Körüklü Yağlı Kağıt Torba 10x40x6 cm"
+    },
+    {
+     "en": "12",
+     "boy": "12",
+     "koruk": "5,5",
+     "gsm": "40 gsm",
+     "agirlik_g": "3",
+     "adet_kg": "333",
+     "paket": "2.000",
+     "paket_kg": "6,3",
+     "adet_palet": "238.095",
+     "paket_palet": "119",
+     "ad": "Körüklü Yağlı Kağıt Torba 12x12x5.5 cm"
+    },
+    {
+     "en": "12",
+     "boy": "20",
+     "koruk": "7",
+     "gsm": "40 gsm",
+     "agirlik_g": "3,7",
+     "adet_kg": "270",
+     "paket": "2.000",
+     "paket_kg": "7,7",
+     "adet_palet": "194.805",
+     "paket_palet": "97",
+     "ad": "Körüklü Yağlı Kağıt Torba 12x20x7 cm"
+    },
+    {
+     "en": "12,7",
+     "boy": "29",
+     "koruk": "5",
+     "gsm": "40+40 gsm",
+     "agirlik_g": "11",
+     "adet_kg": "93",
+     "paket": "2.000",
+     "paket_kg": "21,9",
+     "adet_palet": "68.493",
+     "paket_palet": "34",
+     "ad": "Körüklü Yağlı Kağıt Torba 12.7x29x5 cm"
+    },
+    {
+     "en": "15,5",
+     "boy": "15,5",
+     "koruk": "5",
+     "gsm": "40 gsm",
+     "agirlik_g": "3,7",
+     "adet_kg": "270",
+     "paket": "2.000",
+     "paket_kg": "7,7",
+     "adet_palet": "194.805",
+     "paket_palet": "97",
+     "ad": "Körüklü Yağlı Kağıt Torba 15.5x15.5x5 cm"
+    },
+    {
+     "en": "25,5",
+     "boy": "32",
+     "koruk": "7",
+     "gsm": "40 gsm",
+     "agirlik_g": "9,8",
+     "adet_kg": "102",
+     "paket": "2.000",
+     "paket_kg": "19,9",
+     "adet_palet": "75.377",
+     "paket_palet": "38",
+     "ad": "Körüklü Yağlı Kağıt Torba 25.5x32x7 cm"
+    }
+   ]
+  },
+  {
+   "kod": "HX-SOS-TORBA",
+   "ad": "SOS Kraft Torba",
+   "bolum": 34,
+   "gorsel": "gorseller/hx-sapsiz-torba.jpg",
+   "tedarikci": "helmex",
+   "olcu": "13,5x24x7 – 19x30x11 cm",
+   "hacim": "",
+   "materyal": "50 gsm kahve kraft",
+   "koli": "",
+   "koli_ici": "",
+   "palet": "",
+   "fisek_ici": "",
+   "agirlik_g": "",
+   "gsm": "",
+   "moq": "",
+   "tedarikci_kodu": "",
+   "not": "",
+   "varyantlar": [
+    {
+     "en": "13,5",
+     "boy": "24",
+     "koruk": "7",
+     "gsm": "50 gsm",
+     "renk": "kahve",
+     "baski": "flekso",
+     "adet_palet": "40.000",
+     "koli_ici": "500",
+     "palet": "80",
+     "ad": "SOS Kraft Torba 13.5x24x7 cm"
+    },
+    {
+     "en": "15",
+     "boy": "27,5",
+     "koruk": "8,5",
+     "gsm": "50 gsm",
+     "renk": "kahve",
+     "baski": "flekso",
+     "adet_palet": "32.000",
+     "koli_ici": "500",
+     "palet": "64",
+     "ad": "SOS Kraft Torba 15x27.5x8.5 cm"
+    },
+    {
+     "en": "19",
+     "boy": "30",
+     "koruk": "11",
+     "gsm": "50 gsm",
+     "renk": "kahve",
+     "baski": "flekso",
+     "adet_palet": "30.000",
+     "koli_ici": "500",
+     "palet": "60",
+     "ad": "SOS Kraft Torba 19x30x11 cm"
+    }
+   ]
+  },
+  {
+   "kod": "HX-LUKS-BEYAZ",
+   "ad": "Lüks Çanta (beyaz)",
+   "bolum": 35,
+   "gorsel": "gorseller/hx-luks-canta.jpg",
+   "tedarikci": "helmex",
+   "olcu": "8x6x18 – 55x12x38 cm",
+   "hacim": "",
+   "materyal": "210 / 250 / 300 gsm, mat veya parlak laminasyon",
+   "koli": "",
+   "koli_ici": "",
+   "palet": "",
+   "fisek_ici": "",
+   "agirlik_g": "",
+   "gsm": "",
+   "moq": "250",
+   "tedarikci_kodu": "",
+   "not": "",
+   "varyantlar": [
+    {
+     "seri": "Beyaz",
+     "olcu": "8x6x18",
+     "gsm": "210-250-300 gsm",
+     "renk": "dış beyaz – iç beyaz",
+     "laminasyon": "mat / parlak",
+     "baski": "CMYK ofset (4-2-1)",
+     "moq": "250",
+     "ad": "Lüks Beyaz Çanta 8x6x18"
+    },
+    {
+     "seri": "Beyaz",
+     "olcu": "11x5x17",
+     "gsm": "210-250-300 gsm",
+     "renk": "dış beyaz – iç beyaz",
+     "laminasyon": "mat / parlak",
+     "baski": "CMYK ofset (4-2-1)",
+     "moq": "250",
+     "ad": "Lüks Beyaz Çanta 11x5x17"
+    },
+    {
+     "seri": "Beyaz",
+     "olcu": "13,5x7x19,5",
+     "gsm": "210-250-300 gsm",
+     "renk": "dış beyaz – iç beyaz",
+     "laminasyon": "mat / parlak",
+     "baski": "CMYK ofset (4-2-1)",
+     "moq": "250",
+     "ad": "Lüks Beyaz Çanta 13,5x7x19,5"
+    },
+    {
+     "seri": "Beyaz",
+     "olcu": "13x13x30",
+     "gsm": "210-250-300 gsm",
+     "renk": "dış beyaz – iç beyaz",
+     "laminasyon": "mat / parlak",
+     "baski": "CMYK ofset (4-2-1)",
+     "moq": "250",
+     "ad": "Lüks Beyaz Çanta 13x13x30"
+    },
+    {
+     "seri": "Beyaz",
+     "olcu": "15x8x20",
+     "gsm": "210-250-300 gsm",
+     "renk": "dış beyaz – iç beyaz",
+     "laminasyon": "mat / parlak",
+     "baski": "CMYK ofset (4-2-1)",
+     "moq": "250",
+     "ad": "Lüks Beyaz Çanta 15x8x20"
+    },
+    {
+     "seri": "Beyaz",
+     "olcu": "17x10x25",
+     "gsm": "210-250-300 gsm",
+     "renk": "dış beyaz – iç beyaz",
+     "laminasyon": "mat / parlak",
+     "baski": "CMYK ofset (4-2-1)",
+     "moq": "250",
+     "ad": "Lüks Beyaz Çanta 17x10x25"
+    },
+    {
+     "seri": "Beyaz",
+     "olcu": "17x7x17",
+     "gsm": "210-250-300 gsm",
+     "renk": "dış beyaz – iç beyaz",
+     "laminasyon": "mat / parlak",
+     "baski": "CMYK ofset (4-2-1)",
+     "moq": "250",
+     "ad": "Lüks Beyaz Çanta 17x7x17"
+    },
+    {
+     "seri": "Beyaz",
+     "olcu": "18x8x23",
+     "gsm": "210-250-300 gsm",
+     "renk": "dış beyaz – iç beyaz",
+     "laminasyon": "mat / parlak",
+     "baski": "CMYK ofset (4-2-1)",
+     "moq": "250",
+     "ad": "Lüks Beyaz Çanta 18x8x23"
+    },
+    {
+     "seri": "Beyaz",
+     "olcu": "19x15x16",
+     "gsm": "210-250-300 gsm",
+     "renk": "dış beyaz – iç beyaz",
+     "laminasyon": "mat / parlak",
+     "baski": "CMYK ofset (4-2-1)",
+     "moq": "250",
+     "ad": "Lüks Beyaz Çanta 19x15x16"
+    },
+    {
+     "seri": "Beyaz",
+     "olcu": "19x9,5x24",
+     "gsm": "210-250-300 gsm",
+     "renk": "dış beyaz – iç beyaz",
+     "laminasyon": "mat / parlak",
+     "baski": "CMYK ofset (4-2-1)",
+     "moq": "250",
+     "ad": "Lüks Beyaz Çanta 19x9,5x24"
+    },
+    {
+     "seri": "Beyaz",
+     "olcu": "21x11x21",
+     "gsm": "210-250-300 gsm",
+     "renk": "dış beyaz – iç beyaz",
+     "laminasyon": "mat / parlak",
+     "baski": "CMYK ofset (4-2-1)",
+     "moq": "250",
+     "ad": "Lüks Beyaz Çanta 21x11x21"
+    },
+    {
+     "seri": "Beyaz",
+     "olcu": "21x13x35",
+     "gsm": "210-250-300 gsm",
+     "renk": "dış beyaz – iç beyaz",
+     "laminasyon": "mat / parlak",
+     "baski": "CMYK ofset (4-2-1)",
+     "moq": "250",
+     "ad": "Lüks Beyaz Çanta 21x13x35"
+    },
+    {
+     "seri": "Beyaz",
+     "olcu": "24x10x35",
+     "gsm": "210-250-300 gsm",
+     "renk": "dış beyaz – iç beyaz",
+     "laminasyon": "mat / parlak",
+     "baski": "CMYK ofset (4-2-1)",
+     "moq": "250",
+     "ad": "Lüks Beyaz Çanta 24x10x35"
+    },
+    {
+     "seri": "Beyaz",
+     "olcu": "25x10x24",
+     "gsm": "210-250-300 gsm",
+     "renk": "dış beyaz – iç beyaz",
+     "laminasyon": "mat / parlak",
+     "baski": "CMYK ofset (4-2-1)",
+     "moq": "250",
+     "ad": "Lüks Beyaz Çanta 25x10x24"
+    },
+    {
+     "seri": "Beyaz",
+     "olcu": "26x26x18",
+     "gsm": "210-250-300 gsm",
+     "renk": "dış beyaz – iç beyaz",
+     "laminasyon": "mat / parlak",
+     "baski": "CMYK ofset (4-2-1)",
+     "moq": "250",
+     "ad": "Lüks Beyaz Çanta 26x26x18"
+    },
+    {
+     "seri": "Beyaz",
+     "olcu": "26x7,5x39,5",
+     "gsm": "210-250-300 gsm",
+     "renk": "dış beyaz – iç beyaz",
+     "laminasyon": "mat / parlak",
+     "baski": "CMYK ofset (4-2-1)",
+     "moq": "250",
+     "ad": "Lüks Beyaz Çanta 26x7,5x39,5"
+    },
+    {
+     "seri": "Beyaz",
+     "olcu": "30x10x25",
+     "gsm": "210-250-300 gsm",
+     "renk": "dış beyaz – iç beyaz",
+     "laminasyon": "mat / parlak",
+     "baski": "CMYK ofset (4-2-1)",
+     "moq": "250",
+     "ad": "Lüks Beyaz Çanta 30x10x25"
+    },
+    {
+     "seri": "Beyaz",
+     "olcu": "30x18x20",
+     "gsm": "210-250-300 gsm",
+     "renk": "dış beyaz – iç beyaz",
+     "laminasyon": "mat / parlak",
+     "baski": "CMYK ofset (4-2-1)",
+     "moq": "250",
+     "ad": "Lüks Beyaz Çanta 30x18x20"
+    },
+    {
+     "seri": "Beyaz",
+     "olcu": "34,5x14x40",
+     "gsm": "210-250-300 gsm",
+     "renk": "dış beyaz – iç beyaz",
+     "laminasyon": "mat / parlak",
+     "baski": "CMYK ofset (4-2-1)",
+     "moq": "250",
+     "ad": "Lüks Beyaz Çanta 34,5x14x40"
+    },
+    {
+     "seri": "Beyaz",
+     "olcu": "35x12x55",
+     "gsm": "210-250-300 gsm",
+     "renk": "dış beyaz – iç beyaz",
+     "laminasyon": "mat / parlak",
+     "baski": "CMYK ofset (4-2-1)",
+     "moq": "250",
+     "ad": "Lüks Beyaz Çanta 35x12x55"
+    },
+    {
+     "seri": "Beyaz",
+     "olcu": "35x30x20",
+     "gsm": "210-250-300 gsm",
+     "renk": "dış beyaz – iç beyaz",
+     "laminasyon": "mat / parlak",
+     "baski": "CMYK ofset (4-2-1)",
+     "moq": "250",
+     "ad": "Lüks Beyaz Çanta 35x30x20"
+    },
+    {
+     "seri": "Beyaz",
+     "olcu": "36x10x24",
+     "gsm": "210-250-300 gsm",
+     "renk": "dış beyaz – iç beyaz",
+     "laminasyon": "mat / parlak",
+     "baski": "CMYK ofset (4-2-1)",
+     "moq": "250",
+     "ad": "Lüks Beyaz Çanta 36x10x24"
+    },
+    {
+     "seri": "Beyaz",
+     "olcu": "38x9x23",
+     "gsm": "210-250-300 gsm",
+     "renk": "dış beyaz – iç beyaz",
+     "laminasyon": "mat / parlak",
+     "baski": "CMYK ofset (4-2-1)",
+     "moq": "250",
+     "ad": "Lüks Beyaz Çanta 38x9x23"
+    },
+    {
+     "seri": "Beyaz",
+     "olcu": "45x13x35",
+     "gsm": "210-250-300 gsm",
+     "renk": "dış beyaz – iç beyaz",
+     "laminasyon": "mat / parlak",
+     "baski": "CMYK ofset (4-2-1)",
+     "moq": "250",
+     "ad": "Lüks Beyaz Çanta 45x13x35"
+    },
+    {
+     "seri": "Beyaz",
+     "olcu": "50x10x35",
+     "gsm": "210-250-300 gsm",
+     "renk": "dış beyaz – iç beyaz",
+     "laminasyon": "mat / parlak",
+     "baski": "CMYK ofset (4-2-1)",
+     "moq": "250",
+     "ad": "Lüks Beyaz Çanta 50x10x35"
+    },
+    {
+     "seri": "Beyaz",
+     "olcu": "55x12x38",
+     "gsm": "210-250-300 gsm",
+     "renk": "dış beyaz – iç beyaz",
+     "laminasyon": "mat / parlak",
+     "baski": "CMYK ofset (4-2-1)",
+     "moq": "250",
+     "ad": "Lüks Beyaz Çanta 55x12x38"
+    }
+   ]
+  },
+  {
+   "kod": "HX-LUKS-KAHVE",
+   "ad": "Lüks Çanta (kahve)",
+   "bolum": 35,
+   "gorsel": "gorseller/hx-luks-canta.jpg",
+   "tedarikci": "helmex",
+   "olcu": "8x6x18 – 55x12x38 cm",
+   "hacim": "",
+   "materyal": "200 gsm kahve",
+   "koli": "",
+   "koli_ici": "",
+   "palet": "",
+   "fisek_ici": "",
+   "agirlik_g": "",
+   "gsm": "",
+   "moq": "250",
+   "tedarikci_kodu": "",
+   "not": "",
+   "varyantlar": [
+    {
+     "seri": "Kahve",
+     "olcu": "8x6x18",
+     "gsm": "200 gsm",
+     "renk": "kahve",
+     "laminasyon": "—",
+     "baski": "CMYK ofset (4-2-1)",
+     "moq": "250",
+     "ad": "Lüks Kahve Çanta 8x6x18"
+    },
+    {
+     "seri": "Kahve",
+     "olcu": "11x5x17",
+     "gsm": "200 gsm",
+     "renk": "kahve",
+     "laminasyon": "—",
+     "baski": "CMYK ofset (4-2-1)",
+     "moq": "250",
+     "ad": "Lüks Kahve Çanta 11x5x17"
+    },
+    {
+     "seri": "Kahve",
+     "olcu": "13,5x7x19,5",
+     "gsm": "200 gsm",
+     "renk": "kahve",
+     "laminasyon": "—",
+     "baski": "CMYK ofset (4-2-1)",
+     "moq": "250",
+     "ad": "Lüks Kahve Çanta 13,5x7x19,5"
+    },
+    {
+     "seri": "Kahve",
+     "olcu": "13x13x30",
+     "gsm": "200 gsm",
+     "renk": "kahve",
+     "laminasyon": "—",
+     "baski": "CMYK ofset (4-2-1)",
+     "moq": "250",
+     "ad": "Lüks Kahve Çanta 13x13x30"
+    },
+    {
+     "seri": "Kahve",
+     "olcu": "15x8x20",
+     "gsm": "200 gsm",
+     "renk": "kahve",
+     "laminasyon": "—",
+     "baski": "CMYK ofset (4-2-1)",
+     "moq": "250",
+     "ad": "Lüks Kahve Çanta 15x8x20"
+    },
+    {
+     "seri": "Kahve",
+     "olcu": "17x10x25",
+     "gsm": "200 gsm",
+     "renk": "kahve",
+     "laminasyon": "—",
+     "baski": "CMYK ofset (4-2-1)",
+     "moq": "250",
+     "ad": "Lüks Kahve Çanta 17x10x25"
+    },
+    {
+     "seri": "Kahve",
+     "olcu": "17x7x17",
+     "gsm": "200 gsm",
+     "renk": "kahve",
+     "laminasyon": "—",
+     "baski": "CMYK ofset (4-2-1)",
+     "moq": "250",
+     "ad": "Lüks Kahve Çanta 17x7x17"
+    },
+    {
+     "seri": "Kahve",
+     "olcu": "18x8x23",
+     "gsm": "200 gsm",
+     "renk": "kahve",
+     "laminasyon": "—",
+     "baski": "CMYK ofset (4-2-1)",
+     "moq": "250",
+     "ad": "Lüks Kahve Çanta 18x8x23"
+    },
+    {
+     "seri": "Kahve",
+     "olcu": "19x15x16",
+     "gsm": "200 gsm",
+     "renk": "kahve",
+     "laminasyon": "—",
+     "baski": "CMYK ofset (4-2-1)",
+     "moq": "250",
+     "ad": "Lüks Kahve Çanta 19x15x16"
+    },
+    {
+     "seri": "Kahve",
+     "olcu": "19x9,5x24",
+     "gsm": "200 gsm",
+     "renk": "kahve",
+     "laminasyon": "—",
+     "baski": "CMYK ofset (4-2-1)",
+     "moq": "250",
+     "ad": "Lüks Kahve Çanta 19x9,5x24"
+    },
+    {
+     "seri": "Kahve",
+     "olcu": "21x11x21",
+     "gsm": "200 gsm",
+     "renk": "kahve",
+     "laminasyon": "—",
+     "baski": "CMYK ofset (4-2-1)",
+     "moq": "250",
+     "ad": "Lüks Kahve Çanta 21x11x21"
+    },
+    {
+     "seri": "Kahve",
+     "olcu": "21x13x35",
+     "gsm": "200 gsm",
+     "renk": "kahve",
+     "laminasyon": "—",
+     "baski": "CMYK ofset (4-2-1)",
+     "moq": "250",
+     "ad": "Lüks Kahve Çanta 21x13x35"
+    },
+    {
+     "seri": "Kahve",
+     "olcu": "24x10x35",
+     "gsm": "200 gsm",
+     "renk": "kahve",
+     "laminasyon": "—",
+     "baski": "CMYK ofset (4-2-1)",
+     "moq": "250",
+     "ad": "Lüks Kahve Çanta 24x10x35"
+    },
+    {
+     "seri": "Kahve",
+     "olcu": "25x10x24",
+     "gsm": "200 gsm",
+     "renk": "kahve",
+     "laminasyon": "—",
+     "baski": "CMYK ofset (4-2-1)",
+     "moq": "250",
+     "ad": "Lüks Kahve Çanta 25x10x24"
+    },
+    {
+     "seri": "Kahve",
+     "olcu": "26x26x18",
+     "gsm": "200 gsm",
+     "renk": "kahve",
+     "laminasyon": "—",
+     "baski": "CMYK ofset (4-2-1)",
+     "moq": "250",
+     "ad": "Lüks Kahve Çanta 26x26x18"
+    },
+    {
+     "seri": "Kahve",
+     "olcu": "26x7,5x39,5",
+     "gsm": "200 gsm",
+     "renk": "kahve",
+     "laminasyon": "—",
+     "baski": "CMYK ofset (4-2-1)",
+     "moq": "250",
+     "ad": "Lüks Kahve Çanta 26x7,5x39,5"
+    },
+    {
+     "seri": "Kahve",
+     "olcu": "30x10x25",
+     "gsm": "200 gsm",
+     "renk": "kahve",
+     "laminasyon": "—",
+     "baski": "CMYK ofset (4-2-1)",
+     "moq": "250",
+     "ad": "Lüks Kahve Çanta 30x10x25"
+    },
+    {
+     "seri": "Kahve",
+     "olcu": "30x18x20",
+     "gsm": "200 gsm",
+     "renk": "kahve",
+     "laminasyon": "—",
+     "baski": "CMYK ofset (4-2-1)",
+     "moq": "250",
+     "ad": "Lüks Kahve Çanta 30x18x20"
+    },
+    {
+     "seri": "Kahve",
+     "olcu": "34,5x14x40",
+     "gsm": "200 gsm",
+     "renk": "kahve",
+     "laminasyon": "—",
+     "baski": "CMYK ofset (4-2-1)",
+     "moq": "250",
+     "ad": "Lüks Kahve Çanta 34,5x14x40"
+    },
+    {
+     "seri": "Kahve",
+     "olcu": "35x12x55",
+     "gsm": "200 gsm",
+     "renk": "kahve",
+     "laminasyon": "—",
+     "baski": "CMYK ofset (4-2-1)",
+     "moq": "250",
+     "ad": "Lüks Kahve Çanta 35x12x55"
+    },
+    {
+     "seri": "Kahve",
+     "olcu": "35x30x20",
+     "gsm": "200 gsm",
+     "renk": "kahve",
+     "laminasyon": "—",
+     "baski": "CMYK ofset (4-2-1)",
+     "moq": "250",
+     "ad": "Lüks Kahve Çanta 35x30x20"
+    },
+    {
+     "seri": "Kahve",
+     "olcu": "36x10x24",
+     "gsm": "200 gsm",
+     "renk": "kahve",
+     "laminasyon": "—",
+     "baski": "CMYK ofset (4-2-1)",
+     "moq": "250",
+     "ad": "Lüks Kahve Çanta 36x10x24"
+    },
+    {
+     "seri": "Kahve",
+     "olcu": "38x9x23",
+     "gsm": "200 gsm",
+     "renk": "kahve",
+     "laminasyon": "—",
+     "baski": "CMYK ofset (4-2-1)",
+     "moq": "250",
+     "ad": "Lüks Kahve Çanta 38x9x23"
+    },
+    {
+     "seri": "Kahve",
+     "olcu": "45x13x35",
+     "gsm": "200 gsm",
+     "renk": "kahve",
+     "laminasyon": "—",
+     "baski": "CMYK ofset (4-2-1)",
+     "moq": "250",
+     "ad": "Lüks Kahve Çanta 45x13x35"
+    },
+    {
+     "seri": "Kahve",
+     "olcu": "50x10x35",
+     "gsm": "200 gsm",
+     "renk": "kahve",
+     "laminasyon": "—",
+     "baski": "CMYK ofset (4-2-1)",
+     "moq": "250",
+     "ad": "Lüks Kahve Çanta 50x10x35"
+    },
+    {
+     "seri": "Kahve",
+     "olcu": "55x12x38",
+     "gsm": "200 gsm",
+     "renk": "kahve",
+     "laminasyon": "—",
+     "baski": "CMYK ofset (4-2-1)",
+     "moq": "250",
+     "ad": "Lüks Kahve Çanta 55x12x38"
+    }
+   ]
+  },
+  {
+   "kod": "HX-AMBALAJ-KAGIDI",
+   "ad": "Ambalaj Kağıdı (burger sargısı)",
+   "bolum": 36,
+   "gorsel": "gorseller/hx-ambalaj-kagidi.jpg",
+   "tedarikci": "helmex",
+   "olcu": "20x20 – 40x40 cm",
+   "hacim": "",
+   "materyal": "40 gsm (27 / 40 / 60 gsm seçenekli)",
+   "koli": "",
+   "koli_ici": "",
+   "palet": "",
+   "fisek_ici": "",
+   "agirlik_g": "",
+   "gsm": "",
+   "moq": "",
+   "tedarikci_kodu": "",
+   "not": "",
+   "varyantlar": [
+    {
+     "en": "30",
+     "boy": "40",
+     "gsm": "40 gsm",
+     "paket": "3.000",
+     "koli_kg": "14,7",
+     "palet": "68",
+     "adet_palet": "204.082",
+     "palet_kg": "1.000",
+     "palet_olcu": "100x120x220",
+     "ad": "Ambalaj Kağıdı 30x40 cm"
+    },
+    {
+     "en": "25",
+     "boy": "32",
+     "gsm": "40 gsm",
+     "paket": "3.000",
+     "koli_kg": "9,9",
+     "palet": "101",
+     "adet_palet": "303.030",
+     "palet_kg": "1.000",
+     "palet_olcu": "100x120x220",
+     "ad": "Ambalaj Kağıdı 25x32 cm"
+    },
+    {
+     "en": "35",
+     "boy": "40",
+     "gsm": "40 gsm",
+     "paket": "3.000",
+     "koli_kg": "17,1",
+     "palet": "58",
+     "adet_palet": "175.439",
+     "palet_kg": "1.000",
+     "palet_olcu": "100x120x220",
+     "ad": "Ambalaj Kağıdı 35x40 cm"
+    },
+    {
+     "en": "33",
+     "boy": "38",
+     "gsm": "40 gsm",
+     "paket": "3.000",
+     "koli_kg": "15,35",
+     "palet": "65",
+     "adet_palet": "195.465",
+     "palet_kg": "1.000",
+     "palet_olcu": "100x120x220",
+     "ad": "Ambalaj Kağıdı 33x38 cm"
+    },
+    {
+     "en": "20",
+     "boy": "20",
+     "gsm": "40 gsm",
+     "paket": "3.000",
+     "koli_kg": "5,1",
+     "palet": "196",
+     "adet_palet": "588.235",
+     "palet_kg": "1.000",
+     "palet_olcu": "100x120x220",
+     "ad": "Ambalaj Kağıdı 20x20 cm"
+    },
+    {
+     "en": "30",
+     "boy": "30",
+     "gsm": "40 gsm",
+     "paket": "3.000",
+     "koli_kg": "11,1",
+     "palet": "90",
+     "adet_palet": "270.270",
+     "palet_kg": "1.000",
+     "palet_olcu": "100x120x220",
+     "ad": "Ambalaj Kağıdı 30x30 cm"
+    },
+    {
+     "en": "40",
+     "boy": "40",
+     "gsm": "40 gsm",
+     "paket": "3.000",
+     "koli_kg": "19,5",
+     "palet": "51",
+     "adet_palet": "153.846",
+     "palet_kg": "1.000",
+     "palet_olcu": "100x120x220",
+     "ad": "Ambalaj Kağıdı 40x40 cm"
+    }
+   ]
+  },
+  {
+   "kod": "HX-TEPSI-KAGIDI",
+   "ad": "Tepsi Kağıdı",
+   "bolum": 36,
+   "gorsel": "gorseller/hx-ambalaj-kagidi.jpg",
+   "tedarikci": "helmex",
+   "olcu": "20x20 – 40x40 cm",
+   "hacim": "",
+   "materyal": "70 gsm (40 / 70 / 80 / 90 gsm seçenekli)",
+   "koli": "",
+   "koli_ici": "",
+   "palet": "",
+   "fisek_ici": "",
+   "agirlik_g": "",
+   "gsm": "",
+   "moq": "",
+   "tedarikci_kodu": "",
+   "not": "",
+   "varyantlar": [
+    {
+     "en": "30",
+     "boy": "40",
+     "gsm": "70 gsm",
+     "paket": "2.000",
+     "koli_kg": "17,1",
+     "palet": "58",
+     "adet_palet": "116.959",
+     "palet_kg": "1.000",
+     "palet_olcu": "100x120x220",
+     "ad": "Tepsi Kağıdı 30x40 cm"
+    },
+    {
+     "en": "25",
+     "boy": "32",
+     "gsm": "70 gsm",
+     "paket": "2.000",
+     "koli_kg": "11,5",
+     "palet": "87",
+     "adet_palet": "173.913",
+     "palet_kg": "1.000",
+     "palet_olcu": "100x120x220",
+     "ad": "Tepsi Kağıdı 25x32 cm"
+    },
+    {
+     "en": "35",
+     "boy": "40",
+     "gsm": "70 gsm",
+     "paket": "2.000",
+     "koli_kg": "19,9",
+     "palet": "50",
+     "adet_palet": "100.503",
+     "palet_kg": "1.000",
+     "palet_olcu": "100x120x220",
+     "ad": "Tepsi Kağıdı 35x40 cm"
+    },
+    {
+     "en": "33",
+     "boy": "38",
+     "gsm": "70 gsm",
+     "paket": "2.000",
+     "koli_kg": "17,86",
+     "palet": "56",
+     "adet_palet": "112.007",
+     "palet_kg": "1.000",
+     "palet_olcu": "100x120x220",
+     "ad": "Tepsi Kağıdı 33x38 cm"
+    },
+    {
+     "en": "20",
+     "boy": "20",
+     "gsm": "70 gsm",
+     "paket": "2.000",
+     "koli_kg": "5,9",
+     "palet": "169",
+     "adet_palet": "338.983",
+     "palet_kg": "1.000",
+     "palet_olcu": "100x120x220",
+     "ad": "Tepsi Kağıdı 20x20 cm"
+    },
+    {
+     "en": "30",
+     "boy": "30",
+     "gsm": "70 gsm",
+     "paket": "2.000",
+     "koli_kg": "12,9",
+     "palet": "78",
+     "adet_palet": "155.039",
+     "palet_kg": "1.000",
+     "palet_olcu": "100x120x220",
+     "ad": "Tepsi Kağıdı 30x30 cm"
+    },
+    {
+     "en": "40",
+     "boy": "40",
+     "gsm": "70 gsm",
+     "paket": "2.000",
+     "koli_kg": "22,7",
+     "palet": "44",
+     "adet_palet": "88.106",
+     "palet_kg": "1.000",
+     "palet_olcu": "100x120x220",
+     "ad": "Tepsi Kağıdı 40x40 cm"
+    }
+   ]
+  },
+  {
+   "kod": "HX-STREC-MAKINE",
+   "ad": "Makine Tipi Streç Film",
+   "bolum": 37,
+   "gorsel": "gorseller/hx-strec-film.jpg",
+   "tedarikci": "helmex",
+   "olcu": "500 mm × 2030–2880 m",
+   "hacim": "",
+   "materyal": "LLDPE",
+   "koli": "",
+   "koli_ici": "",
+   "palet": "",
+   "fisek_ici": "",
+   "agirlik_g": "",
+   "gsm": "",
+   "moq": "",
+   "tedarikci_kodu": "",
+   "not": "",
+   "varyantlar": [
+    {
+     "tip": "Makine",
+     "boy": "2.880",
+     "en": "500",
+     "mikron": "12",
+     "masura_kg": "1,6",
+     "brut_kg": "17,48",
+     "ad": "Makine Streç 12 µ"
+    },
+    {
+     "tip": "Makine",
+     "boy": "2.300",
+     "en": "500",
+     "mikron": "15",
+     "masura_kg": "1,6",
+     "brut_kg": "17,45",
+     "ad": "Makine Streç 15 µ"
+    },
+    {
+     "tip": "Makine",
+     "boy": "2.030",
+     "en": "500",
+     "mikron": "17",
+     "masura_kg": "1,6",
+     "brut_kg": "17,46",
+     "ad": "Makine Streç 17 µ"
+    }
+   ]
+  },
+  {
+   "kod": "HX-STREC-EL",
+   "ad": "El Tipi Streç Film",
+   "bolum": 37,
+   "gorsel": "gorseller/hx-strec-film.jpg",
+   "tedarikci": "helmex",
+   "olcu": "500 mm × 270–300 m",
+   "hacim": "",
+   "materyal": "LLDPE",
+   "koli": "",
+   "koli_ici": "",
+   "palet": "",
+   "fisek_ici": "",
+   "agirlik_g": "",
+   "gsm": "",
+   "moq": "",
+   "tedarikci_kodu": "",
+   "not": "",
+   "varyantlar": [
+    {
+     "tip": "El",
+     "boy": "270",
+     "en": "500",
+     "mikron": "17",
+     "masura_kg": "0,3",
+     "brut_kg": "2,41",
+     "ad": "El Streç 17 µ"
+    },
+    {
+     "tip": "El",
+     "boy": "270",
+     "en": "500",
+     "mikron": "20",
+     "masura_kg": "0,3",
+     "brut_kg": "2,78",
+     "ad": "El Streç 20 µ"
+    },
+    {
+     "tip": "El",
+     "boy": "300",
+     "en": "500",
+     "mikron": "23",
+     "masura_kg": "0,3",
+     "brut_kg": "3,47",
+     "ad": "El Streç 23 µ"
+    }
+   ]
+  },
+  {
+   "kod": "HX-SOSKABI-1OZ",
+   "ad": "Menteşeli Sos Kabı 1 oz",
+   "bolum": 38,
+   "gorsel": "gorseller/hx-sos-kabi.jpg",
+   "tedarikci": "helmex",
+   "olcu": "",
+   "hacim": "1 oz",
+   "materyal": "PP, şeffaf",
+   "koli": "510x240x265",
+   "koli_ici": "1.000",
+   "palet": "72",
+   "fisek_ici": "",
+   "agirlik_g": "",
+   "gsm": "",
+   "moq": "",
+   "tedarikci_kodu": "",
+   "not": "",
+   "varyantlar": [],
+   "paket": "50x20"
+  },
+  {
+   "kod": "HX-SOSKABI-2OZ",
+   "ad": "Menteşeli Sos Kabı 2 oz",
+   "bolum": 38,
+   "gorsel": "gorseller/hx-sos-kabi.jpg",
+   "tedarikci": "helmex",
+   "olcu": "",
+   "hacim": "2 oz",
+   "materyal": "PP, şeffaf",
+   "koli": "475x290x305",
+   "koli_ici": "1.000",
+   "palet": "60",
+   "fisek_ici": "",
+   "agirlik_g": "",
+   "gsm": "",
+   "moq": "",
+   "tedarikci_kodu": "",
+   "not": "",
+   "varyantlar": [],
+   "paket": "50x20"
+  },
+  {
+   "kod": "HX-SOSKABI-4OZ",
+   "ad": "Menteşeli Sos Kabı 4 oz",
+   "bolum": 38,
+   "gorsel": "gorseller/hx-sos-kabi.jpg",
+   "tedarikci": "helmex",
+   "olcu": "",
+   "hacim": "4 oz",
+   "materyal": "PP, şeffaf",
+   "koli": "320x275x350",
+   "koli_ici": "500",
+   "palet": "81",
+   "fisek_ici": "",
+   "agirlik_g": "",
+   "gsm": "",
+   "moq": "",
+   "tedarikci_kodu": "",
+   "not": "",
+   "varyantlar": [],
+   "paket": "50x10"
+  },
+  {
+   "kod": "HX-ISLAK-MENDIL",
+   "ad": "Islak Mendil",
+   "bolum": 39,
+   "gorsel": "gorseller/hx-islak-mendil.jpg",
+   "tedarikci": "helmex",
+   "olcu": "6x8 – 7x12 cm",
+   "hacim": "",
+   "materyal": "PET/MET/PE, PET/ALU/PE, PAP/MET/PE veya PAP/ALU/PE poşet; nonwoven havlu",
+   "koli": "",
+   "koli_ici": "",
+   "palet": "",
+   "fisek_ici": "",
+   "agirlik_g": "",
+   "gsm": "",
+   "moq": "",
+   "tedarikci_kodu": "",
+   "not": "",
+   "varyantlar": [
+    {
+     "olcu": "6x8",
+     "materyal": "PET/MET/PE, PET/ALU/PE",
+     "baski": "ofset, 4 renge kadar",
+     "parfum": "talebe göre",
+     "havlu": "nonwoven",
+     "palet_olcu": "80x120x240",
+     "adet_palet": "80.000",
+     "ad": "Islak Mendil 6x8 cm"
+    },
+    {
+     "olcu": "6x10",
+     "materyal": "PET/MET/PE, PET/ALU/PE",
+     "baski": "ofset, 4 renge kadar",
+     "parfum": "talebe göre",
+     "havlu": "nonwoven",
+     "palet_olcu": "80x120x240",
+     "adet_palet": "70.000",
+     "ad": "Islak Mendil 6x10 cm"
+    },
+    {
+     "olcu": "6x12",
+     "materyal": "PET/MET/PE, PET/ALU/PE",
+     "baski": "ofset, 4 renge kadar",
+     "parfum": "talebe göre",
+     "havlu": "nonwoven",
+     "palet_olcu": "80x120x240",
+     "adet_palet": "60.000",
+     "ad": "Islak Mendil 6x12 cm"
+    },
+    {
+     "olcu": "7x10",
+     "materyal": "PET/MET/PE, PET/ALU/PE",
+     "baski": "ofset, 4 renge kadar",
+     "parfum": "talebe göre",
+     "havlu": "nonwoven",
+     "palet_olcu": "80x120x240",
+     "adet_palet": "65.000",
+     "ad": "Islak Mendil 7x10 cm"
+    },
+    {
+     "olcu": "7x12",
+     "materyal": "PET/MET/PE, PET/ALU/PE",
+     "baski": "ofset, 4 renge kadar",
+     "parfum": "talebe göre",
+     "havlu": "nonwoven",
+     "palet_olcu": "80x120x240",
+     "adet_palet": "50.000",
+     "ad": "Islak Mendil 7x12 cm"
+    },
+    {
+     "olcu": "6x8",
+     "materyal": "PAP/MET/PE, PAP/ALU/PE",
+     "baski": "ofset, 4 renge kadar",
+     "parfum": "talebe göre",
+     "havlu": "nonwoven",
+     "palet_olcu": "80x120x240",
+     "adet_palet": "80.000",
+     "ad": "Islak Mendil 6x8 cm"
+    },
+    {
+     "olcu": "6x10",
+     "materyal": "PAP/MET/PE, PAP/ALU/PE",
+     "baski": "ofset, 4 renge kadar",
+     "parfum": "talebe göre",
+     "havlu": "nonwoven",
+     "palet_olcu": "80x120x240",
+     "adet_palet": "70.000",
+     "ad": "Islak Mendil 6x10 cm"
+    },
+    {
+     "olcu": "6x12",
+     "materyal": "PAP/MET/PE, PAP/ALU/PE",
+     "baski": "ofset, 4 renge kadar",
+     "parfum": "talebe göre",
+     "havlu": "nonwoven",
+     "palet_olcu": "80x120x240",
+     "adet_palet": "60.000",
+     "ad": "Islak Mendil 6x12 cm"
+    },
+    {
+     "olcu": "7x10",
+     "materyal": "PAP/MET/PE, PAP/ALU/PE",
+     "baski": "ofset, 4 renge kadar",
+     "parfum": "talebe göre",
+     "havlu": "nonwoven",
+     "palet_olcu": "80x120x240",
+     "adet_palet": "65.000",
+     "ad": "Islak Mendil 7x10 cm"
+    },
+    {
+     "olcu": "7x12",
+     "materyal": "PAP/MET/PE, PAP/ALU/PE",
+     "baski": "ofset, 4 renge kadar",
+     "parfum": "talebe göre",
+     "havlu": "nonwoven",
+     "palet_olcu": "80x120x240",
+     "adet_palet": "50.000",
+     "ad": "Islak Mendil 7x12 cm"
+    }
+   ]
+  },
+  {
+   "kod": "HX-PECETE",
+   "ad": "Peçete",
+   "bolum": 40,
+   "gorsel": "gorseller/hx-pecete.jpg",
+   "tedarikci": "helmex",
+   "olcu": "",
+   "hacim": "",
+   "materyal": "%100 selüloz",
+   "koli": "",
+   "koli_ici": "",
+   "palet": "",
+   "fisek_ici": "",
+   "agirlik_g": "",
+   "gsm": "",
+   "moq": "",
+   "tedarikci_kodu": "",
+   "not": "",
+   "varyantlar": [
+    {
+     "ad": "Peçete",
+     "en": "24",
+     "boy": "24",
+     "katlama": "1/4 & 1/8",
+     "baski": "2 renk",
+     "kat": "1",
+     "gsm": "17",
+     "paket": "100",
+     "koli_ici": "24"
+    },
+    {
+     "ad": "Peçete",
+     "en": "33",
+     "boy": "33",
+     "katlama": "1/4 & 1/8",
+     "baski": "2 renk",
+     "kat": "1",
+     "gsm": "17",
+     "paket": "100",
+     "koli_ici": "24"
+    },
+    {
+     "ad": "Peçete",
+     "en": "40",
+     "boy": "40",
+     "katlama": "1/4 & 1/8",
+     "baski": "2 renk",
+     "kat": "1",
+     "gsm": "17",
+     "paket": "100",
+     "koli_ici": "20"
+    },
+    {
+     "ad": "Peçete",
+     "en": "24",
+     "boy": "24",
+     "katlama": "1/4 & 1/8",
+     "baski": "2 renk",
+     "kat": "2",
+     "gsm": "17",
+     "paket": "100",
+     "koli_ici": "12"
+    },
+    {
+     "ad": "Peçete",
+     "en": "33",
+     "boy": "33",
+     "katlama": "1/4 & 1/8",
+     "baski": "2 renk",
+     "kat": "2",
+     "gsm": "17",
+     "paket": "100",
+     "koli_ici": "12"
+    },
+    {
+     "ad": "Peçete",
+     "en": "40",
+     "boy": "40",
+     "katlama": "1/4 & 1/8",
+     "baski": "2 renk",
+     "kat": "2",
+     "gsm": "17",
+     "paket": "100",
+     "koli_ici": "10"
+    }
+   ]
+  },
+  {
+   "kod": "HX-MAKINE-HAVLU",
+   "ad": "Otomatik makine havlusu",
+   "bolum": 40,
+   "gorsel": "gorseller/hx-pecete.jpg",
+   "tedarikci": "helmex",
+   "olcu": "",
+   "hacim": "",
+   "materyal": "%100 selüloz",
+   "koli": "",
+   "koli_ici": "",
+   "palet": "",
+   "fisek_ici": "",
+   "agirlik_g": "",
+   "gsm": "",
+   "moq": "",
+   "tedarikci_kodu": "",
+   "not": "",
+   "varyantlar": [
+    {
+     "ad": "Otomatik makine havlusu",
+     "en": "21",
+     "boy": "70 m",
+     "katlama": "rulo",
+     "baski": "-",
+     "kat": "2",
+     "gsm": "21",
+     "paket": "6",
+     "koli_ici": "6"
+    },
+    {
+     "ad": "Otomatik makine havlusu",
+     "en": "25",
+     "boy": "90 m",
+     "katlama": "rulo",
+     "baski": "-",
+     "kat": "2",
+     "gsm": "23",
+     "paket": "6",
+     "koli_ici": "6"
+    },
+    {
+     "ad": "Otomatik makine havlusu",
+     "en": "25",
+     "boy": "140 m",
+     "katlama": "rulo",
+     "baski": "-",
+     "kat": "2",
+     "gsm": "23",
+     "paket": "140 m",
+     "koli_ici": "6"
+    },
+    {
+     "ad": "Otomatik makine havlusu",
+     "en": "21",
+     "boy": "110 m",
+     "katlama": "rulo",
+     "baski": "-",
+     "kat": "2",
+     "gsm": "23",
+     "paket": "110 m",
+     "koli_ici": "6"
+    }
+   ]
+  },
+  {
+   "kod": "HX-TUVALET-KAGIDI",
+   "ad": "Tuvalet kağıdı",
+   "bolum": 40,
+   "gorsel": "gorseller/hx-pecete.jpg",
+   "tedarikci": "helmex",
+   "olcu": "",
+   "hacim": "",
+   "materyal": "%100 selüloz",
+   "koli": "",
+   "koli_ici": "24",
+   "palet": "",
+   "fisek_ici": "",
+   "agirlik_g": "",
+   "gsm": "17",
+   "moq": "",
+   "tedarikci_kodu": "",
+   "not": "",
+   "varyantlar": [],
+   "en": "10",
+   "boy": "11",
+   "katlama": "rulo",
+   "baski": "-",
+   "kat": "2",
+   "paket": "420"
+  },
+  {
+   "kod": "HX-DISP-PECETE",
+   "ad": "Dispenser peçete",
+   "bolum": 40,
+   "gorsel": "gorseller/hx-pecete.jpg",
+   "tedarikci": "helmex",
+   "olcu": "",
+   "hacim": "",
+   "materyal": "%100 selüloz",
+   "koli": "",
+   "koli_ici": "",
+   "palet": "",
+   "fisek_ici": "",
+   "agirlik_g": "",
+   "gsm": "",
+   "moq": "",
+   "tedarikci_kodu": "",
+   "not": "",
+   "varyantlar": [
+    {
+     "ad": "Dispenser peçete",
+     "en": "23",
+     "boy": "21",
+     "katlama": "dispenser",
+     "baski": "-",
+     "kat": "1",
+     "gsm": "17",
+     "paket": "200",
+     "koli_ici": "18"
+    },
+    {
+     "ad": "Dispenser peçete",
+     "en": "23",
+     "boy": "21",
+     "katlama": "dispenser",
+     "baski": "-",
+     "kat": "1",
+     "gsm": "17",
+     "paket": "250",
+     "koli_ici": "18"
+    }
+   ]
+  },
+  {
+   "kod": "HX-DISP-Z-PECETE",
+   "ad": "Dispenser Z peçete",
+   "bolum": 40,
+   "gorsel": "gorseller/hx-pecete.jpg",
+   "tedarikci": "helmex",
+   "olcu": "",
+   "hacim": "",
+   "materyal": "%100 selüloz",
+   "koli": "",
+   "koli_ici": "",
+   "palet": "",
+   "fisek_ici": "",
+   "agirlik_g": "",
+   "gsm": "",
+   "moq": "",
+   "tedarikci_kodu": "",
+   "not": "",
+   "varyantlar": [
+    {
+     "ad": "Dispenser Z peçete",
+     "en": "23",
+     "boy": "21",
+     "katlama": "dispenser",
+     "baski": "-",
+     "kat": "1",
+     "gsm": "20",
+     "paket": "200",
+     "koli_ici": "12"
+    },
+    {
+     "ad": "Dispenser Z peçete",
+     "en": "23",
+     "boy": "21",
+     "katlama": "dispenser",
+     "baski": "-",
+     "kat": "2",
+     "gsm": "18",
+     "paket": "200",
+     "koli_ici": "12"
+    }
+   ]
+  },
+  {
+   "kod": "HX-END-HAVLU",
+   "ad": "Endüstriyel havlu",
+   "bolum": 40,
+   "gorsel": "gorseller/hx-pecete.jpg",
+   "tedarikci": "helmex",
+   "olcu": "",
+   "hacim": "",
+   "materyal": "%100 selüloz",
+   "koli": "",
+   "koli_ici": "1",
+   "palet": "",
+   "fisek_ici": "",
+   "agirlik_g": "",
+   "gsm": "23",
+   "moq": "",
+   "tedarikci_kodu": "",
+   "not": "",
+   "varyantlar": [],
+   "en": "23",
+   "boy": "510 m",
+   "katlama": "rulo",
+   "baski": "-",
+   "kat": "1",
+   "paket": "510 m"
+  },
+  {
+   "kod": "HX-FILTRE-KAGIDI",
+   "ad": "Fritöz Filtre Kağıdı",
+   "bolum": 41,
+   "gorsel": "gorseller/hx-filtre-kagidi.jpg",
+   "tedarikci": "helmex",
+   "olcu": "54x36 cm",
+   "hacim": "",
+   "materyal": "nonwoven 50 gsm",
+   "koli": "",
+   "koli_ici": "500",
+   "palet": "42",
+   "fisek_ici": "",
+   "agirlik_g": "",
+   "gsm": "",
+   "moq": "",
+   "tedarikci_kodu": "",
+   "not": "",
+   "varyantlar": [],
+   "paket": "50 adet x 10"
+  },
+  {
+   "kod": "HX-LIMON-SOS",
+   "ad": "Limon Sosu 500 ml",
+   "bolum": 42,
+   "gorsel": "gorseller/hx-limon-sosu.jpg",
+   "tedarikci": "helmex",
+   "olcu": "",
+   "hacim": "500 ml",
+   "materyal": "PET, şeffaf",
+   "koli": "340x270x240",
+   "koli_ici": "20",
+   "palet": "80",
+   "fisek_ici": "",
+   "agirlik_g": "",
+   "gsm": "",
+   "moq": "",
+   "tedarikci_kodu": "",
+   "not": "",
+   "varyantlar": [],
+   "baski": "özel etiket"
+  },
+  {
+   "kod": "HX-KASIK",
+   "ad": "Ahşap Kaşık 13 cm",
+   "bolum": 43,
+   "gorsel": "gorseller/hx-ahsap-catal-bicak.jpg",
+   "tedarikci": "helmex",
+   "olcu": "13 cm",
+   "hacim": "",
+   "materyal": "Huş ağacı",
+   "koli": "280x330x235",
+   "koli_ici": "2.000",
+   "palet": "64",
+   "fisek_ici": "",
+   "agirlik_g": "",
+   "gsm": "",
+   "moq": "",
+   "tedarikci_kodu": "",
+   "not": "",
+   "varyantlar": [],
+   "icerik": "100'lü plastik paket",
+   "paket": "20",
+   "poset": "100",
+   "koli_kg": "5,25",
+   "adet_palet": "128.000"
+  },
+  {
+   "kod": "HX-CATAL",
+   "ad": "Ahşap Çatal 13 cm",
+   "bolum": 43,
+   "gorsel": "gorseller/hx-ahsap-catal-bicak.jpg",
+   "tedarikci": "helmex",
+   "olcu": "13 cm",
+   "hacim": "",
+   "materyal": "Huş ağacı",
+   "koli": "250x340x230",
+   "koli_ici": "2.000",
+   "palet": "80",
+   "fisek_ici": "",
+   "agirlik_g": "",
+   "gsm": "",
+   "moq": "",
+   "tedarikci_kodu": "",
+   "not": "",
+   "varyantlar": [],
+   "icerik": "100'lü plastik paket",
+   "paket": "20",
+   "poset": "100",
+   "koli_kg": "4,5",
+   "adet_palet": "160.000"
+  },
+  {
+   "kod": "HX-BICAK",
+   "ad": "Ahşap Bıçak 13 cm",
+   "bolum": 43,
+   "gorsel": "gorseller/hx-ahsap-catal-bicak.jpg",
+   "tedarikci": "helmex",
+   "olcu": "13 cm",
+   "hacim": "",
+   "materyal": "Huş ağacı",
+   "koli": "220x370x200",
+   "koli_ici": "2.000",
+   "palet": "99",
+   "fisek_ici": "",
+   "agirlik_g": "",
+   "gsm": "",
+   "moq": "",
+   "tedarikci_kodu": "",
+   "not": "",
+   "varyantlar": [],
+   "icerik": "100'lü plastik paket",
+   "paket": "20",
+   "poset": "100",
+   "koli_kg": "4,25",
+   "adet_palet": "198.000"
+  },
+  {
+   "kod": "HX-CATAL-BICAK-SET",
+   "ad": "Ahşap Çatal Bıçak Seti",
+   "bolum": 43,
+   "gorsel": "gorseller/hx-ahsap-catal-bicak.jpg",
+   "tedarikci": "helmex",
+   "olcu": "13 cm",
+   "hacim": "",
+   "materyal": "Huş ağacı; kahve sülfit kağıt; 1 kat beyaz 11 gsm peçete",
+   "koli": "",
+   "koli_ici": "",
+   "palet": "",
+   "fisek_ici": "",
+   "agirlik_g": "",
+   "gsm": "",
+   "moq": "",
+   "tedarikci_kodu": "",
+   "not": "",
+   "varyantlar": [
+    {
+     "ad": "1'li set",
+     "icerik": "Kaşık + kahve sülfit kağıt",
+     "koli": "400x400x380",
+     "paket": "10",
+     "poset": "100",
+     "koli_ici": "800",
+     "koli_kg": "5,5",
+     "palet": "36",
+     "adet_palet": "28.800"
+    },
+    {
+     "ad": "1'li set",
+     "icerik": "Çatal + kahve sülfit kağıt",
+     "koli": "400x400x380",
+     "paket": "10",
+     "poset": "100",
+     "koli_ici": "800",
+     "koli_kg": "5,3",
+     "palet": "36",
+     "adet_palet": "28.800"
+    },
+    {
+     "ad": "1'li set",
+     "icerik": "Bıçak + kahve sülfit kağıt",
+     "koli": "400x400x380",
+     "paket": "10",
+     "poset": "100",
+     "koli_ici": "800",
+     "koli_kg": "5",
+     "palet": "36",
+     "adet_palet": "28.800"
+    },
+    {
+     "ad": "1'li set",
+     "icerik": "Kaşık + 1 kat beyaz 11 gsm peçete + kahve sülfit kağıt",
+     "koli": "400x400x380",
+     "paket": "8",
+     "poset": "100",
+     "koli_ici": "800",
+     "koli_kg": "7,5",
+     "palet": "36",
+     "adet_palet": "28.800"
+    },
+    {
+     "ad": "1'li set",
+     "icerik": "Çatal + 1 kat beyaz 11 gsm peçete + kahve sülfit kağıt",
+     "koli": "400x400x380",
+     "paket": "8",
+     "poset": "100",
+     "koli_ici": "800",
+     "koli_kg": "7,5",
+     "palet": "36",
+     "adet_palet": "28.800"
+    },
+    {
+     "ad": "1'li set",
+     "icerik": "Bıçak + 1 kat beyaz 11 gsm peçete + kahve sülfit kağıt",
+     "koli": "401x400x380",
+     "paket": "8",
+     "poset": "100",
+     "koli_ici": "800",
+     "koli_kg": "7,5",
+     "palet": "36",
+     "adet_palet": "28.800"
+    },
+    {
+     "ad": "2'li set",
+     "icerik": "Çatal + bıçak + 1 kat beyaz 11 gsm peçete + kahve sülfit kağıt",
+     "koli": "402x400x380",
+     "paket": "8",
+     "poset": "100",
+     "koli_ici": "800",
+     "koli_kg": "7,5",
+     "palet": "36",
+     "adet_palet": "28.800"
+    },
+    {
+     "ad": "3'lü set",
+     "icerik": "Çatal + bıçak + kaşık + 1 kat beyaz 11 gsm peçete + kahve sülfit kağıt",
+     "koli": "403x400x380",
+     "paket": "8",
+     "poset": "100",
+     "koli_ici": "800",
+     "koli_kg": "7,5",
+     "palet": "36",
+     "adet_palet": "28.800"
+    },
+    {
+     "ad": "5'li set",
+     "icerik": "Çatal + bıçak + kaşık + 1 kat beyaz 11 gsm peçete + kahve sülfit kağıt + tuz",
+     "koli": "404x400x380",
+     "paket": "8",
+     "poset": "100",
+     "koli_ici": "800",
+     "koli_kg": "7,5",
+     "palet": "36",
+     "adet_palet": "28.800"
+    }
+   ]
+  },
+  {
+   "kod": "HX-KIZARTMA-YAGI",
+   "ad": "Kızartma Yağı 18 lt",
+   "bolum": 44,
+   "gorsel": "gorseller/hx-kizartma-yagi.jpg",
+   "tedarikci": "helmex",
+   "olcu": "",
+   "hacim": "18 lt",
+   "materyal": "Teneke",
+   "koli": "",
+   "koli_ici": "",
+   "palet": "44",
+   "fisek_ici": "",
+   "agirlik_g": "",
+   "gsm": "",
+   "moq": "",
+   "tedarikci_kodu": "",
+   "not": "",
+   "varyantlar": [],
+   "raf_omru": "1 yıl",
+   "barkod": "8691313011061"
   }
  ]
 }

@@ -1,0 +1,192 @@
+{
+ "stok_kodu": "HX-PIZZA",
+ "baslik": "Pizza Kutusu",
+ "urun_adi": "Pizza Kutusu",
+ "kategori": "Pizza Kutuları",
+ "kategori_en": "Pizza Boxes",
+ "katalog": "fastfood",
+ "tur": "pizza-kutusu",
+ "olcu_mm": "127x127x45 – 470x470x50",
+ "hacim_cc": "",
+ "hacim": "",
+ "materyal": "Oluklu mukavva",
+ "agiz_capi_mm": "",
+ "dip_capi_mm": "",
+ "yukseklik_mm": "",
+ "agirlik_g": "",
+ "fisek_ici_adet": "",
+ "koli_olcusu_mm": "",
+ "koli_ici_adet": "",
+ "koli_net_kg": "",
+ "palet_koli": "",
+ "koli_secenekleri": [],
+ "min_siparis": "2.800 – 14.000 adet (boya göre)",
+ "gsm": "",
+ "moq": "2.800 – 14.000 adet (boya göre)",
+ "varyantlar": [
+  {
+   "inc": "5\"",
+   "olcu": "127x127x45",
+   "paket": "100",
+   "paket_palet": "140",
+   "adet_palet": "14.000",
+   "moq": "14.000",
+   "moq_baskili": "14.000",
+   "ad": "Pizza Kutusu 5\""
+  },
+  {
+   "inc": "6\"",
+   "olcu": "152x152x45",
+   "paket": "100",
+   "paket_palet": "140",
+   "adet_palet": "14.000",
+   "moq": "14.000",
+   "moq_baskili": "14.000",
+   "ad": "Pizza Kutusu 6\""
+  },
+  {
+   "inc": "7\"",
+   "olcu": "195x195x45",
+   "paket": "100",
+   "paket_palet": "84",
+   "adet_palet": "8.400",
+   "moq": "8.400",
+   "moq_baskili": "8.400",
+   "ad": "Pizza Kutusu 7\""
+  },
+  {
+   "inc": "8\"",
+   "olcu": "215x215x45",
+   "paket": "100",
+   "paket_palet": "84",
+   "adet_palet": "8.400",
+   "moq": "8.400",
+   "moq_baskili": "8.400",
+   "ad": "Pizza Kutusu 8\""
+  },
+  {
+   "inc": "9\"",
+   "olcu": "240x240x45",
+   "paket": "100",
+   "paket_palet": "56",
+   "adet_palet": "5.600",
+   "moq": "5.600",
+   "moq_baskili": "5.600",
+   "ad": "Pizza Kutusu 9\""
+  },
+  {
+   "inc": "10\"",
+   "olcu": "265x265x45",
+   "paket": "100",
+   "paket_palet": "56",
+   "adet_palet": "5.600",
+   "moq": "5.600",
+   "moq_baskili": "5.600",
+   "ad": "Pizza Kutusu 10\""
+  },
+  {
+   "inc": "11\"",
+   "olcu": "295x295x45",
+   "paket": "100",
+   "paket_palet": "42",
+   "adet_palet": "4.200",
+   "moq": "4.200",
+   "moq_baskili": "4.200",
+   "ad": "Pizza Kutusu 11\""
+  },
+  {
+   "inc": "12\"",
+   "olcu": "320x320x45",
+   "paket": "100",
+   "paket_palet": "42",
+   "adet_palet": "4.200",
+   "moq": "4.200",
+   "moq_baskili": "4.200",
+   "ad": "Pizza Kutusu 12\""
+  },
+  {
+   "inc": "13\"",
+   "olcu": "345x345x45",
+   "paket": "50",
+   "paket_palet": "84",
+   "adet_palet": "4.200",
+   "moq": "4.200",
+   "moq_baskili": "4.200",
+   "ad": "Pizza Kutusu 13\""
+  },
+  {
+   "inc": "14\"",
+   "olcu": "370x370x45",
+   "paket": "50",
+   "paket_palet": "84",
+   "adet_palet": "4.200",
+   "moq": "4.200",
+   "moq_baskili": "4.200",
+   "ad": "Pizza Kutusu 14\""
+  },
+  {
+   "inc": "15\"",
+   "olcu": "400x400x45",
+   "paket": "50",
+   "paket_palet": "56",
+   "adet_palet": "2.800",
+   "moq": "2.800",
+   "moq_baskili": "2.800",
+   "ad": "Pizza Kutusu 15\""
+  },
+  {
+   "inc": "16\"",
+   "olcu": "425x425x45",
+   "paket": "50",
+   "paket_palet": "56",
+   "adet_palet": "2.800",
+   "moq": "2.800",
+   "moq_baskili": "2.800",
+   "ad": "Pizza Kutusu 16\""
+  },
+  {
+   "inc": "18\"",
+   "olcu": "470x470x50",
+   "paket": "50",
+   "paket_palet": "56",
+   "adet_palet": "2.800",
+   "moq": "2.800",
+   "moq_baskili": "2.800",
+   "ad": "Pizza Kutusu 18\""
+  }
+ ],
+ "not": "",
+ "aciklama": [
+  "Pizza Kutusu, oluklu mukavva pizza kutusudur. Pizza, pide ve lahmacun servisi için uygundur.",
+  "Teknik özellikler: ölçü 127 × 127 × 45 – 470 × 470 × 50 mm, Oluklu mukavva hammadde.",
+  "Gıdayla temasa uygun karton; beyaz, kraft veya siyah yüzey seçeneği. Flekso, ofset ya da dijital baskı ile markanıza özel tasarım yapılır; standart ölçüler dışında talebe göre özel ölçü üretilir, tasarım ve numune 1–2 haftada hazırlanır.",
+  "13 standart ölçü / seçenek: 5\", 6\", 7\", 8\", 9\", 10\", 11\", 12\", 13\", 14\", 15\", 16\", 18\".",
+  "Siparişe özel üretimdir; minimum sipariş 2.800 – 14.000 adet (boya göre)."
+ ],
+ "aciklama_html": "<p>Pizza Kutusu, oluklu mukavva pizza kutusudur. Pizza, pide ve lahmacun servisi için uygundur.</p>\n<p>Teknik özellikler: ölçü 127 × 127 × 45 – 470 × 470 × 50 mm, Oluklu mukavva hammadde.</p>\n<p>Gıdayla temasa uygun karton; beyaz, kraft veya siyah yüzey seçeneği. Flekso, ofset ya da dijital baskı ile markanıza özel tasarım yapılır; standart ölçüler dışında talebe göre özel ölçü üretilir, tasarım ve numune 1–2 haftada hazırlanır.</p>\n<p>13 standart ölçü / seçenek: 5\", 6\", 7\", 8\", 9\", 10\", 11\", 12\", 13\", 14\", 15\", 16\", 18\".</p>\n<p>Siparişe özel üretimdir; minimum sipariş 2.800 – 14.000 adet (boya göre).</p>",
+ "etiketler": [
+  "pizza kutusu",
+  "oluklu pizza kutusu",
+  "karton pizza kutusu",
+  "kraft pizza kutusu",
+  "baskılı pizza kutusu",
+  "fast food ambalajı",
+  "paket servis ambalajı",
+  "restoran ambalajı",
+  "toptan ambalaj",
+  "hx-pizza"
+ ],
+ "marka": "EUPLUS",
+ "gorseller": {
+  "jpg": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/hx-pizza-pizza-kutusu/hx-pizza-pizza-kutusu.jpg",
+  "png": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/hx-pizza-pizza-kutusu/hx-pizza-pizza-kutusu.png",
+  "png_seffaf": false,
+  "not": "Kategori tanıtım fotoğrafı; ürüne özel fotoğraf yok"
+ },
+ "kaynak": {
+  "tedarikci": "helmex",
+  "tedarikci_ad": "Helmex",
+  "tedarikci_kodu": "",
+  "katalog": "kaynaklar/helmex/helmex-katalog-2023.pdf"
+ }
+}

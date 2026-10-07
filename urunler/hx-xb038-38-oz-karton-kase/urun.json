@@ -1,0 +1,61 @@
+{
+ "stok_kodu": "HX-XB038",
+ "baslik": "38 oz Karton Kase",
+ "urun_adi": "38 oz Karton Kase",
+ "kategori": "Karton Kaseler",
+ "kategori_en": "Paper Bowls",
+ "katalog": "fastfood",
+ "tur": "kase-hx",
+ "olcu_mm": "187",
+ "hacim_cc": "",
+ "hacim": "",
+ "materyal": "Karton",
+ "agiz_capi_mm": "",
+ "dip_capi_mm": "",
+ "yukseklik_mm": "",
+ "agirlik_g": "23,3",
+ "fisek_ici_adet": "",
+ "koli_olcusu_mm": "575x380x580",
+ "koli_ici_adet": "6x50 - 300",
+ "koli_net_kg": "",
+ "palet_koli": "24",
+ "koli_secenekleri": [],
+ "min_siparis": "6x50 - 300 adet (1 koli)",
+ "gsm": "",
+ "moq": "",
+ "varyantlar": [],
+ "not": "",
+ "aciklama": [
+  "38 oz Karton Kase, karton salata kasesidir. Salata, poke ve sıcak yemek servisi için uygundur.",
+  "Teknik özellikler: ölçü 187 mm, Karton hammadde, ürün ağırlığı 23,3 g.",
+  "Gıdayla temasa uygun karton; beyaz, kraft veya siyah yüzey seçeneği. Flekso, ofset ya da dijital baskı ile markanıza özel tasarım yapılır; standart ölçüler dışında talebe göre özel ölçü üretilir, tasarım ve numune 1–2 haftada hazırlanır.",
+  "Toptan satış koli bazındadır: bir kolide 6x50 - 300 adet, koli ölçüsü 575 × 380 × 580 mm, bir palete 24 koli."
+ ],
+ "aciklama_html": "<p>38 oz Karton Kase, karton salata kasesidir. Salata, poke ve sıcak yemek servisi için uygundur.</p>\n<p>Teknik özellikler: ölçü 187 mm, Karton hammadde, ürün ağırlığı 23,3 g.</p>\n<p>Gıdayla temasa uygun karton; beyaz, kraft veya siyah yüzey seçeneği. Flekso, ofset ya da dijital baskı ile markanıza özel tasarım yapılır; standart ölçüler dışında talebe göre özel ölçü üretilir, tasarım ve numune 1–2 haftada hazırlanır.</p>\n<p>Toptan satış koli bazındadır: bir kolide 6x50 - 300 adet, koli ölçüsü 575 × 380 × 580 mm, bir palete 24 koli.</p>",
+ "etiketler": [
+  "38 oz karton kase",
+  "karton kase",
+  "salata kasesi",
+  "kraft kase",
+  "poke kasesi",
+  "paket servis kasesi",
+  "fast food ambalajı",
+  "paket servis ambalajı",
+  "restoran ambalajı",
+  "toptan ambalaj",
+  "hx-xb038"
+ ],
+ "marka": "EUPLUS",
+ "gorseller": {
+  "jpg": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/hx-xb038-38-oz-karton-kase/hx-xb038-38-oz-karton-kase.jpg",
+  "png": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/hx-xb038-38-oz-karton-kase/hx-xb038-38-oz-karton-kase.png",
+  "png_seffaf": false,
+  "not": "Kategori tanıtım fotoğrafı; ürüne özel fotoğraf yok"
+ },
+ "kaynak": {
+  "tedarikci": "helmex",
+  "tedarikci_ad": "Helmex",
+  "tedarikci_kodu": "XB038",
+  "katalog": "kaynaklar/helmex/helmex-katalog-2023.pdf"
+ }
+}

@@ -66,15 +66,19 @@ ilan metni). Toplu içe aktarma için [`urunler/urunler.csv`](urunler/urunler.cs
 | Karton ve oluklu gıda kutuları | 11 | [`urunler/`](urunler/#paket-servis-ambalajları--72-ürün) |
 | PET bardak, bardak ve kase kapakları | 21 | [`urunler/`](urunler/#paket-servis-ambalajları--72-ürün) |
 | Taşıma viyolü, aksesuar ve kağıt çanta | 9 | [`urunler/`](urunler/#paket-servis-ambalajları--72-ürün) |
+| Fast food karton kutular (burger, tavuk, pizza, pasta, noodle), tepsi, kova, kase, bardak | 48 | [`urunler/`](urunler/#fast-food--restoran-ambalajları--81-ürün) |
+| Kağıt çantalar, torbalar, ambalaj ve tepsi kağıtları | 11 | [`urunler/`](urunler/#fast-food--restoran-ambalajları--81-ürün) |
+| Tamamlayıcı: streç film, sos kabı, ıslak mendil, peçete, filtre, limon sosu, ahşap çatal-bıçak, kızartma yağı | 22 | [`urunler/`](urunler/#fast-food--restoran-ambalajları--81-ürün) |
 
 ## Ürün katalogları (PDF)
 
-İki katalog, aynı görsel dilde; ikisi de [`katalog/urunler.json`](katalog/urunler.json) verisinden üretilir:
+Üç katalog, aynı görsel dilde; üçü de [`katalog/urunler.json`](katalog/urunler.json) verisinden üretilir:
 
 | Katalog | İçerik | Sayfa | Üretici betik |
 |---|---|---|---|
 | [**EUPLUS Ürün Kataloğu 2026**](katalog/EUPLUS-Urun-Katalogu-2026.pdf) | 3 bölümde 93 şeffaf sunum ambalajı (sütlü tatlı, lokum-çikolata, bal) | 20 | [`build_katalog.py`](katalog/build_katalog.py) |
 | [**EUPLUS Paket Servis Kataloğu 2026**](katalog/EUPLUS-Paket-Servis-Katalogu-2026.pdf) | 14 bölümde 72 paket servis ambalajı (karton bardak, kase, kutu, kapak, viyol, kağıt çanta) | 19 | [`build_katalog_servis.py`](katalog/build_katalog_servis.py) |
+| [**EUPLUS Fast Food & Restoran Ambalajları Kataloğu 2026**](katalog/EUPLUS-Fast-Food-Katalogu-2026.pdf) | 27 bölümde 81 ürün / 258 ölçü (burger-tavuk-pizza-pasta kutuları, tepsi, kova, kase, bardak, kağıt çanta ve torbalar, ambalaj kağıdı, tamamlayıcı ürünler) | 36 | [`build_katalog_fastfood.py`](katalog/build_katalog_fastfood.py) |
 
 ## Doğrudan bağlantı (hotlink)
 

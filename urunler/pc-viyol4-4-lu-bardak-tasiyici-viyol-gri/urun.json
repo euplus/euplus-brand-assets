@@ -27,6 +27,9 @@
   }
  ],
  "min_siparis": "220 adet (1 koli)",
+ "gsm": "",
+ "moq": "",
+ "varyantlar": [],
  "not": "",
  "aciklama": [
   "4'lü Bardak Taşıyıcı Viyol (Gri), kağıt hamurundan (pulp) üretilmiş bardak taşıyıcı viyoldür. Birden fazla içeceğin güvenle taşınması için uygundur.",
@@ -47,7 +50,7 @@
   "paket servis ambalajı",
   "karton ambalaj",
   "toptan ambalaj",
-  "pc-vıyol4"
+  "pc-viyol4"
  ],
  "marka": "EUPLUS",
  "gorseller": {

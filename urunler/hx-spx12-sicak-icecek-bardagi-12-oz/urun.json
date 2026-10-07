@@ -1,0 +1,61 @@
+{
+ "stok_kodu": "HX-SPX12",
+ "baslik": "Sıcak İçecek Bardağı 12 oz",
+ "urun_adi": "Sıcak İçecek Bardağı 12 oz",
+ "kategori": "Karton Bardaklar",
+ "kategori_en": "Paper Cups",
+ "katalog": "fastfood",
+ "tur": "bardak-hx",
+ "olcu_mm": "",
+ "hacim_cc": "300 ml",
+ "hacim": "300 ml",
+ "materyal": "Kağıt + PE",
+ "agiz_capi_mm": "",
+ "dip_capi_mm": "",
+ "yukseklik_mm": "",
+ "agirlik_g": "",
+ "fisek_ici_adet": "50",
+ "koli_olcusu_mm": "401x403x530",
+ "koli_ici_adet": "1.000",
+ "koli_net_kg": "",
+ "palet_koli": "24",
+ "koli_secenekleri": [],
+ "min_siparis": "1.000 adet (1 koli)",
+ "gsm": "",
+ "moq": "100.000",
+ "varyantlar": [],
+ "not": "",
+ "aciklama": [
+  "Sıcak İçecek Bardağı 12 oz, PE kaplı karton içecek bardağıdır. Kahve, çay ve soğuk içecek servisi için uygundur.",
+  "Teknik özellikler: hacim 300 ml, Kağıt + PE hammadde.",
+  "Gıdayla temasa uygun karton; beyaz, kraft veya siyah yüzey seçeneği. Flekso, ofset ya da dijital baskı ile markanıza özel tasarım yapılır; standart ölçüler dışında talebe göre özel ölçü üretilir, tasarım ve numune 1–2 haftada hazırlanır.",
+  "Toptan satış koli bazındadır: bir kolide 1.000 adet, koli ölçüsü 401 × 403 × 530 mm, bir palete 24 koli."
+ ],
+ "aciklama_html": "<p>Sıcak İçecek Bardağı 12 oz, PE kaplı karton içecek bardağıdır. Kahve, çay ve soğuk içecek servisi için uygundur.</p>\n<p>Teknik özellikler: hacim 300 ml, Kağıt + PE hammadde.</p>\n<p>Gıdayla temasa uygun karton; beyaz, kraft veya siyah yüzey seçeneği. Flekso, ofset ya da dijital baskı ile markanıza özel tasarım yapılır; standart ölçüler dışında talebe göre özel ölçü üretilir, tasarım ve numune 1–2 haftada hazırlanır.</p>\n<p>Toptan satış koli bazındadır: bir kolide 1.000 adet, koli ölçüsü 401 × 403 × 530 mm, bir palete 24 koli.</p>",
+ "etiketler": [
+  "sıcak içecek bardağı 12 oz",
+  "karton bardak",
+  "kağıt bardak",
+  "kahve bardağı",
+  "soğuk içecek bardağı",
+  "baskılı karton bardak",
+  "fast food ambalajı",
+  "paket servis ambalajı",
+  "restoran ambalajı",
+  "toptan ambalaj",
+  "hx-spx12"
+ ],
+ "marka": "EUPLUS",
+ "gorseller": {
+  "jpg": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/hx-spx12-sicak-icecek-bardagi-12-oz/hx-spx12-sicak-icecek-bardagi-12-oz.jpg",
+  "png": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/hx-spx12-sicak-icecek-bardagi-12-oz/hx-spx12-sicak-icecek-bardagi-12-oz.png",
+  "png_seffaf": false,
+  "not": "Kategori tanıtım fotoğrafı; ürüne özel fotoğraf yok"
+ },
+ "kaynak": {
+  "tedarikci": "helmex",
+  "tedarikci_ad": "Helmex",
+  "tedarikci_kodu": "SPX12oz",
+  "katalog": "kaynaklar/helmex/helmex-katalog-2023.pdf"
+ }
+}

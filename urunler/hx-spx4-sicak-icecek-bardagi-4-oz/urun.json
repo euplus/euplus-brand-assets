@@ -1,0 +1,61 @@
+{
+ "stok_kodu": "HX-SPX4",
+ "baslik": "Sıcak İçecek Bardağı 4 oz",
+ "urun_adi": "Sıcak İçecek Bardağı 4 oz",
+ "kategori": "Karton Bardaklar",
+ "kategori_en": "Paper Cups",
+ "katalog": "fastfood",
+ "tur": "bardak-hx",
+ "olcu_mm": "Ø62,87 / Ø45,22 x 64,36",
+ "hacim_cc": "100 ml",
+ "hacim": "100 ml",
+ "materyal": "Kağıt + PE",
+ "agiz_capi_mm": "",
+ "dip_capi_mm": "",
+ "yukseklik_mm": "",
+ "agirlik_g": "3,37",
+ "fisek_ici_adet": "50",
+ "koli_olcusu_mm": "325x260x335",
+ "koli_ici_adet": "1.000",
+ "koli_net_kg": "",
+ "palet_koli": "48",
+ "koli_secenekleri": [],
+ "min_siparis": "1.000 adet (1 koli)",
+ "gsm": "",
+ "moq": "175.000",
+ "varyantlar": [],
+ "not": "",
+ "aciklama": [
+  "Sıcak İçecek Bardağı 4 oz, PE kaplı karton içecek bardağıdır. Kahve, çay ve soğuk içecek servisi için uygundur.",
+  "Teknik özellikler: ölçü Ø62,87 / Ø45,22  ×  64,36 mm, hacim 100 ml, Kağıt + PE hammadde, ürün ağırlığı 3,37 g.",
+  "Gıdayla temasa uygun karton; beyaz, kraft veya siyah yüzey seçeneği. Flekso, ofset ya da dijital baskı ile markanıza özel tasarım yapılır; standart ölçüler dışında talebe göre özel ölçü üretilir, tasarım ve numune 1–2 haftada hazırlanır.",
+  "Toptan satış koli bazındadır: bir kolide 1.000 adet, koli ölçüsü 325 × 260 × 335 mm, bir palete 48 koli."
+ ],
+ "aciklama_html": "<p>Sıcak İçecek Bardağı 4 oz, PE kaplı karton içecek bardağıdır. Kahve, çay ve soğuk içecek servisi için uygundur.</p>\n<p>Teknik özellikler: ölçü Ø62,87 / Ø45,22  ×  64,36 mm, hacim 100 ml, Kağıt + PE hammadde, ürün ağırlığı 3,37 g.</p>\n<p>Gıdayla temasa uygun karton; beyaz, kraft veya siyah yüzey seçeneği. Flekso, ofset ya da dijital baskı ile markanıza özel tasarım yapılır; standart ölçüler dışında talebe göre özel ölçü üretilir, tasarım ve numune 1–2 haftada hazırlanır.</p>\n<p>Toptan satış koli bazındadır: bir kolide 1.000 adet, koli ölçüsü 325 × 260 × 335 mm, bir palete 48 koli.</p>",
+ "etiketler": [
+  "sıcak içecek bardağı 4 oz",
+  "karton bardak",
+  "kağıt bardak",
+  "kahve bardağı",
+  "soğuk içecek bardağı",
+  "baskılı karton bardak",
+  "fast food ambalajı",
+  "paket servis ambalajı",
+  "restoran ambalajı",
+  "toptan ambalaj",
+  "hx-spx4"
+ ],
+ "marka": "EUPLUS",
+ "gorseller": {
+  "jpg": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/hx-spx4-sicak-icecek-bardagi-4-oz/hx-spx4-sicak-icecek-bardagi-4-oz.jpg",
+  "png": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/hx-spx4-sicak-icecek-bardagi-4-oz/hx-spx4-sicak-icecek-bardagi-4-oz.png",
+  "png_seffaf": false,
+  "not": "Kategori tanıtım fotoğrafı; ürüne özel fotoğraf yok"
+ },
+ "kaynak": {
+  "tedarikci": "helmex",
+  "tedarikci_ad": "Helmex",
+  "tedarikci_kodu": "SPX4oz",
+  "katalog": "kaynaklar/helmex/helmex-katalog-2023.pdf"
+ }
+}

@@ -22,6 +22,6 @@ Toptan satış koli bazındadır: bir kolide 5000 adet (1000 adetlik fişekler h
 | Koli net ağırlık | 5 kg |
 | Not | Yudum kapağı ağzını kapatan tıpa |
 
-**Etiketler:** `kapak tıpası pp 109 mm (siyah / beyaz)`, `kapak tıpası`, `bardak kapağı tıpası`, `kahve kapağı tıpası`, `plastik tıpa`, `yudum kapağı tıpası`, `paket servis ambalajı`, `plastik ambalaj`, `toptan ambalaj`, `pc-tıpa109`
+**Etiketler:** `kapak tıpası pp 109 mm (siyah / beyaz)`, `kapak tıpası`, `bardak kapağı tıpası`, `kahve kapağı tıpası`, `plastik tıpa`, `yudum kapağı tıpası`, `paket servis ambalajı`, `plastik ambalaj`, `toptan ambalaj`, `pc-tipa109`
 
 **Görseller:** [JPG (1200×1200, beyaz zemin)](pc-tipa109-kapak-tipasi-pp-109-mm-siyah-beyaz.jpg) · [PNG (opak, kategori fotoğrafı)](pc-tipa109-kapak-tipasi-pp-109-mm-siyah-beyaz.png)

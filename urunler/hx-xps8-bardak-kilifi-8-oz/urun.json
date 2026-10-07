@@ -1,0 +1,60 @@
+{
+ "stok_kodu": "HX-XPS8",
+ "baslik": "Bardak Kılıfı 8 oz",
+ "urun_adi": "Bardak Kılıfı 8 oz",
+ "kategori": "Bardak Kılıfı ve Taşıyıcı",
+ "kategori_en": "Sleeves & Cup Carriers",
+ "katalog": "fastfood",
+ "tur": "kilif",
+ "olcu_mm": "241x75",
+ "hacim_cc": "",
+ "hacim": "",
+ "materyal": "Oluklu karton",
+ "agiz_capi_mm": "",
+ "dip_capi_mm": "",
+ "yukseklik_mm": "",
+ "agirlik_g": "",
+ "fisek_ici_adet": "",
+ "koli_olcusu_mm": "637x347x137",
+ "koli_ici_adet": "1000 (100x10)",
+ "koli_net_kg": "",
+ "palet_koli": "60",
+ "koli_secenekleri": [],
+ "min_siparis": "1000 (100x10) adet (1 koli)",
+ "gsm": "",
+ "moq": "",
+ "varyantlar": [],
+ "not": "",
+ "aciklama": [
+  "Bardak Kılıfı 8 oz, oluklu karton bardak kılıfıdır. Sıcak içecek bardaklarının el yakmadan tutulması için uygundur.",
+  "Teknik özellikler: ölçü 241 × 75 mm, Oluklu karton hammadde.",
+  "Gıdayla temasa uygun karton; beyaz, kraft veya siyah yüzey seçeneği. Flekso, ofset ya da dijital baskı ile markanıza özel tasarım yapılır; standart ölçüler dışında talebe göre özel ölçü üretilir, tasarım ve numune 1–2 haftada hazırlanır.",
+  "Toptan satış koli bazındadır: bir kolide 1000 (100x10) adet, koli ölçüsü 637 × 347 × 137 mm, bir palete 60 koli."
+ ],
+ "aciklama_html": "<p>Bardak Kılıfı 8 oz, oluklu karton bardak kılıfıdır. Sıcak içecek bardaklarının el yakmadan tutulması için uygundur.</p>\n<p>Teknik özellikler: ölçü 241 × 75 mm, Oluklu karton hammadde.</p>\n<p>Gıdayla temasa uygun karton; beyaz, kraft veya siyah yüzey seçeneği. Flekso, ofset ya da dijital baskı ile markanıza özel tasarım yapılır; standart ölçüler dışında talebe göre özel ölçü üretilir, tasarım ve numune 1–2 haftada hazırlanır.</p>\n<p>Toptan satış koli bazındadır: bir kolide 1000 (100x10) adet, koli ölçüsü 637 × 347 × 137 mm, bir palete 60 koli.</p>",
+ "etiketler": [
+  "bardak kılıfı 8 oz",
+  "bardak kılıfı",
+  "karton sleeve",
+  "bardak tutacağı",
+  "kahve bardağı kılıfı",
+  "fast food ambalajı",
+  "paket servis ambalajı",
+  "restoran ambalajı",
+  "toptan ambalaj",
+  "hx-xps8"
+ ],
+ "marka": "EUPLUS",
+ "gorseller": {
+  "jpg": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/hx-xps8-bardak-kilifi-8-oz/hx-xps8-bardak-kilifi-8-oz.jpg",
+  "png": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/hx-xps8-bardak-kilifi-8-oz/hx-xps8-bardak-kilifi-8-oz.png",
+  "png_seffaf": false,
+  "not": "Kategori tanıtım fotoğrafı; ürüne özel fotoğraf yok"
+ },
+ "kaynak": {
+  "tedarikci": "helmex",
+  "tedarikci_ad": "Helmex",
+  "tedarikci_kodu": "XPS8",
+  "katalog": "kaynaklar/helmex/helmex-katalog-2023.pdf"
+ }
+}

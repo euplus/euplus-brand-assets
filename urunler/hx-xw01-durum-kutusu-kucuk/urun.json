@@ -1,0 +1,61 @@
+{
+ "stok_kodu": "HX-XW01",
+ "baslik": "Dürüm Kutusu (küçük)",
+ "urun_adi": "Dürüm Kutusu (küçük)",
+ "kategori": "Dürüm Kutuları",
+ "kategori_en": "Wrap Boxes",
+ "katalog": "fastfood",
+ "tur": "durum-kutusu",
+ "olcu_mm": "80x30 / 70x30 x h225",
+ "hacim_cc": "",
+ "hacim": "",
+ "materyal": "Karton",
+ "agiz_capi_mm": "",
+ "dip_capi_mm": "",
+ "yukseklik_mm": "",
+ "agirlik_g": "",
+ "fisek_ici_adet": "",
+ "koli_olcusu_mm": "300x240x270",
+ "koli_ici_adet": "400 (100x4)",
+ "koli_net_kg": "",
+ "palet_koli": "128",
+ "koli_secenekleri": [],
+ "min_siparis": "400 (100x4) adet (1 koli)",
+ "gsm": "",
+ "moq": "",
+ "varyantlar": [],
+ "not": "",
+ "aciklama": [
+  "Dürüm Kutusu (küçük), yastık tipi karton dürüm kutusudur. Dürüm, wrap ve sandviç servisi için uygundur.",
+  "Teknik özellikler: ölçü 80 × 30 / 70 × 30  ×  h225 mm, Karton hammadde.",
+  "Gıdayla temasa uygun karton; beyaz, kraft veya siyah yüzey seçeneği. Flekso, ofset ya da dijital baskı ile markanıza özel tasarım yapılır; standart ölçüler dışında talebe göre özel ölçü üretilir, tasarım ve numune 1–2 haftada hazırlanır.",
+  "Toptan satış koli bazındadır: bir kolide 400 (100x4) adet, koli ölçüsü 300 × 240 × 270 mm, bir palete 128 koli."
+ ],
+ "aciklama_html": "<p>Dürüm Kutusu (küçük), yastık tipi karton dürüm kutusudur. Dürüm, wrap ve sandviç servisi için uygundur.</p>\n<p>Teknik özellikler: ölçü 80 × 30 / 70 × 30  ×  h225 mm, Karton hammadde.</p>\n<p>Gıdayla temasa uygun karton; beyaz, kraft veya siyah yüzey seçeneği. Flekso, ofset ya da dijital baskı ile markanıza özel tasarım yapılır; standart ölçüler dışında talebe göre özel ölçü üretilir, tasarım ve numune 1–2 haftada hazırlanır.</p>\n<p>Toptan satış koli bazındadır: bir kolide 400 (100x4) adet, koli ölçüsü 300 × 240 × 270 mm, bir palete 128 koli.</p>",
+ "etiketler": [
+  "dürüm kutusu (küçük)",
+  "dürüm kutusu",
+  "wrap kutusu",
+  "yastık kutu",
+  "karton dürüm kabı",
+  "sandviç kutusu",
+  "fast food ambalajı",
+  "paket servis ambalajı",
+  "restoran ambalajı",
+  "toptan ambalaj",
+  "hx-xw01"
+ ],
+ "marka": "EUPLUS",
+ "gorseller": {
+  "jpg": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/hx-xw01-durum-kutusu-kucuk/hx-xw01-durum-kutusu-kucuk.jpg",
+  "png": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/hx-xw01-durum-kutusu-kucuk/hx-xw01-durum-kutusu-kucuk.png",
+  "png_seffaf": false,
+  "not": "Kategori tanıtım fotoğrafı; ürüne özel fotoğraf yok"
+ },
+ "kaynak": {
+  "tedarikci": "helmex",
+  "tedarikci_ad": "Helmex",
+  "tedarikci_kodu": "XW01",
+  "katalog": "kaynaklar/helmex/helmex-katalog-2023.pdf"
+ }
+}

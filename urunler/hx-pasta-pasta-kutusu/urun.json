@@ -1,0 +1,182 @@
+{
+ "stok_kodu": "HX-PASTA",
+ "baslik": "Pasta Kutusu",
+ "urun_adi": "Pasta Kutusu",
+ "kategori": "Pasta Kutuları",
+ "kategori_en": "Cake Boxes",
+ "katalog": "fastfood",
+ "tur": "pasta-kutusu",
+ "olcu_mm": "14x14x5 – 32x32x8 cm",
+ "hacim_cc": "",
+ "hacim": "",
+ "materyal": "250–285 gsm bristol karton",
+ "agiz_capi_mm": "",
+ "dip_capi_mm": "",
+ "yukseklik_mm": "",
+ "agirlik_g": "",
+ "fisek_ici_adet": "",
+ "koli_olcusu_mm": "",
+ "koli_ici_adet": "50 (25x2) çember",
+ "koli_net_kg": "",
+ "palet_koli": "",
+ "koli_secenekleri": [],
+ "min_siparis": "50 (25x2) çember adet (1 koli)",
+ "gsm": "",
+ "moq": "",
+ "varyantlar": [
+  {
+   "olcu": "14x14x5",
+   "gsm": "250 gsm bristol",
+   "paket": "50 (25x2)",
+   "adet_palet": "16.000",
+   "palet_olcu": "100x120x200",
+   "ad": "Pasta Kutusu 14x14x5 cm"
+  },
+  {
+   "olcu": "16x16x5",
+   "gsm": "250 gsm bristol",
+   "paket": "50 (25x2)",
+   "adet_palet": "15.600",
+   "palet_olcu": "100x120x200",
+   "ad": "Pasta Kutusu 16x16x5 cm"
+  },
+  {
+   "olcu": "18x18x5",
+   "gsm": "250 gsm bristol",
+   "paket": "50 (25x2)",
+   "adet_palet": "13.200",
+   "palet_olcu": "100x120x200",
+   "ad": "Pasta Kutusu 18x18x5 cm"
+  },
+  {
+   "olcu": "20x20x5",
+   "gsm": "250 gsm bristol",
+   "paket": "50 (25x2)",
+   "adet_palet": "10.500",
+   "palet_olcu": "100x120x200",
+   "ad": "Pasta Kutusu 20x20x5 cm"
+  },
+  {
+   "olcu": "23x23x5",
+   "gsm": "270 gsm bristol",
+   "paket": "50 (25x2)",
+   "adet_palet": "7.600",
+   "palet_olcu": "100x120x200",
+   "ad": "Pasta Kutusu 23x23x5 cm"
+  },
+  {
+   "olcu": "26x26x5",
+   "gsm": "270 gsm bristol",
+   "paket": "50 (25x2)",
+   "adet_palet": "6.000",
+   "palet_olcu": "100x120x200",
+   "ad": "Pasta Kutusu 26x26x5 cm"
+  },
+  {
+   "olcu": "29x29x5",
+   "gsm": "270 gsm bristol",
+   "paket": "50 (25x2)",
+   "adet_palet": "4.900",
+   "palet_olcu": "100x120x200",
+   "ad": "Pasta Kutusu 29x29x5 cm"
+  },
+  {
+   "olcu": "32x32x5",
+   "gsm": "270 gsm bristol",
+   "paket": "50 (25x2)",
+   "adet_palet": "3.600",
+   "palet_olcu": "100x120x200",
+   "ad": "Pasta Kutusu 32x32x5 cm"
+  },
+  {
+   "olcu": "16x16x8",
+   "gsm": "250 gsm bristol",
+   "paket": "50 (25x2)",
+   "adet_palet": "13.000",
+   "palet_olcu": "100x120x200",
+   "ad": "Pasta Kutusu 16x16x8 cm"
+  },
+  {
+   "olcu": "18x18x8",
+   "gsm": "250 gsm bristol",
+   "paket": "50 (25x2)",
+   "adet_palet": "10.500",
+   "palet_olcu": "100x120x200",
+   "ad": "Pasta Kutusu 18x18x8 cm"
+  },
+  {
+   "olcu": "20x20x8",
+   "gsm": "270 gsm bristol",
+   "paket": "50 (25x2)",
+   "adet_palet": "8.550",
+   "palet_olcu": "100x120x200",
+   "ad": "Pasta Kutusu 20x20x8 cm"
+  },
+  {
+   "olcu": "22x22x8",
+   "gsm": "270 gsm bristol",
+   "paket": "50 (25x2)",
+   "adet_palet": "7.200",
+   "palet_olcu": "100x120x200",
+   "ad": "Pasta Kutusu 22x22x8 cm"
+  },
+  {
+   "olcu": "25x25x8",
+   "gsm": "270 gsm bristol",
+   "paket": "50 (25x2)",
+   "adet_palet": "5.600",
+   "palet_olcu": "100x120x200",
+   "ad": "Pasta Kutusu 25x25x8 cm"
+  },
+  {
+   "olcu": "28x28x8",
+   "gsm": "270 gsm bristol",
+   "paket": "50 (25x2)",
+   "adet_palet": "4.200",
+   "palet_olcu": "100x120x200",
+   "ad": "Pasta Kutusu 28x28x8 cm"
+  },
+  {
+   "olcu": "32x32x8",
+   "gsm": "285 gsm bristol",
+   "paket": "50 (25x2)",
+   "adet_palet": "3.600",
+   "palet_olcu": "100x120x200",
+   "ad": "Pasta Kutusu 32x32x8 cm"
+  }
+ ],
+ "not": "",
+ "aciklama": [
+  "Pasta Kutusu, bristol karton pasta kutusudur. Pasta, tatlı, donut ve kurabiye servisi için uygundur.",
+  "Teknik özellikler: ölçü 14 × 14 × 5 – 32 × 32 × 8 cm, 250–285 gsm bristol karton hammadde.",
+  "Gıdayla temasa uygun karton; beyaz, kraft veya siyah yüzey seçeneği. Flekso, ofset ya da dijital baskı ile markanıza özel tasarım yapılır; standart ölçüler dışında talebe göre özel ölçü üretilir, tasarım ve numune 1–2 haftada hazırlanır.",
+  "15 standart ölçü / seçenek: 14x14x5, 16x16x5, 18x18x5, 20x20x5, 23x23x5, 26x26x5, 29x29x5, 32x32x5, 16x16x8, 18x18x8, 20x20x8, 22x22x8, 25x25x8, 28x28x8, 32x32x8.",
+  "Toptan satış koli bazındadır: bir kolide 50 (25x2) çember adet."
+ ],
+ "aciklama_html": "<p>Pasta Kutusu, bristol karton pasta kutusudur. Pasta, tatlı, donut ve kurabiye servisi için uygundur.</p>\n<p>Teknik özellikler: ölçü 14 × 14 × 5 – 32 × 32 × 8 cm, 250–285 gsm bristol karton hammadde.</p>\n<p>Gıdayla temasa uygun karton; beyaz, kraft veya siyah yüzey seçeneği. Flekso, ofset ya da dijital baskı ile markanıza özel tasarım yapılır; standart ölçüler dışında talebe göre özel ölçü üretilir, tasarım ve numune 1–2 haftada hazırlanır.</p>\n<p>15 standart ölçü / seçenek: 14x14x5, 16x16x5, 18x18x5, 20x20x5, 23x23x5, 26x26x5, 29x29x5, 32x32x5, 16x16x8, 18x18x8, 20x20x8, 22x22x8, 25x25x8, 28x28x8, 32x32x8.</p>\n<p>Toptan satış koli bazındadır: bir kolide 50 (25x2) çember adet.</p>",
+ "etiketler": [
+  "pasta kutusu",
+  "karton pasta kutusu",
+  "tatlı kutusu",
+  "donut kutusu",
+  "kapaklı pasta kutusu",
+  "fast food ambalajı",
+  "paket servis ambalajı",
+  "restoran ambalajı",
+  "toptan ambalaj",
+  "hx-pasta"
+ ],
+ "marka": "EUPLUS",
+ "gorseller": {
+  "jpg": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/hx-pasta-pasta-kutusu/hx-pasta-pasta-kutusu.jpg",
+  "png": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/hx-pasta-pasta-kutusu/hx-pasta-pasta-kutusu.png",
+  "png_seffaf": false,
+  "not": "Kategori tanıtım fotoğrafı; ürüne özel fotoğraf yok"
+ },
+ "kaynak": {
+  "tedarikci": "helmex",
+  "tedarikci_ad": "Helmex",
+  "tedarikci_kodu": "",
+  "katalog": "kaynaklar/helmex/helmex-katalog-2023.pdf"
+ }
+}

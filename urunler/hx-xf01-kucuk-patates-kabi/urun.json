@@ -1,0 +1,61 @@
+{
+ "stok_kodu": "HX-XF01",
+ "baslik": "Küçük Patates Kabı",
+ "urun_adi": "Küçük Patates Kabı",
+ "kategori": "Patates Kapları",
+ "kategori_en": "Chips Scoops",
+ "katalog": "fastfood",
+ "tur": "patates-kabi",
+ "olcu_mm": "93x38 / 77x35 x h110",
+ "hacim_cc": "",
+ "hacim": "",
+ "materyal": "230 gsm karton",
+ "agiz_capi_mm": "",
+ "dip_capi_mm": "",
+ "yukseklik_mm": "",
+ "agirlik_g": "",
+ "fisek_ici_adet": "",
+ "koli_olcusu_mm": "320x295x270",
+ "koli_ici_adet": "1000 (200x5)",
+ "koli_net_kg": "",
+ "palet_koli": "108",
+ "koli_secenekleri": [],
+ "min_siparis": "1000 (200x5) adet (1 koli)",
+ "gsm": "230 gsm",
+ "moq": "",
+ "varyantlar": [],
+ "not": "",
+ "aciklama": [
+  "Küçük Patates Kabı, açık ağızlı karton patates kabıdır. Patates kızartması, soğan halkası ve atıştırmalık servisi için uygundur.",
+  "Teknik özellikler: ölçü 93 × 38 / 77 × 35  ×  h110 mm, 230 gsm karton hammadde.",
+  "Gıdayla temasa uygun karton; beyaz, kraft veya siyah yüzey seçeneği. Flekso, ofset ya da dijital baskı ile markanıza özel tasarım yapılır; standart ölçüler dışında talebe göre özel ölçü üretilir, tasarım ve numune 1–2 haftada hazırlanır.",
+  "Toptan satış koli bazındadır: bir kolide 1000 (200x5) adet, koli ölçüsü 320 × 295 × 270 mm, bir palete 108 koli."
+ ],
+ "aciklama_html": "<p>Küçük Patates Kabı, açık ağızlı karton patates kabıdır. Patates kızartması, soğan halkası ve atıştırmalık servisi için uygundur.</p>\n<p>Teknik özellikler: ölçü 93 × 38 / 77 × 35  ×  h110 mm, 230 gsm karton hammadde.</p>\n<p>Gıdayla temasa uygun karton; beyaz, kraft veya siyah yüzey seçeneği. Flekso, ofset ya da dijital baskı ile markanıza özel tasarım yapılır; standart ölçüler dışında talebe göre özel ölçü üretilir, tasarım ve numune 1–2 haftada hazırlanır.</p>\n<p>Toptan satış koli bazındadır: bir kolide 1000 (200x5) adet, koli ölçüsü 320 × 295 × 270 mm, bir palete 108 koli.</p>",
+ "etiketler": [
+  "küçük patates kabı",
+  "patates kabı",
+  "patates kutusu",
+  "karton patates kabı",
+  "kızartma kabı",
+  "fast food kabı",
+  "fast food ambalajı",
+  "paket servis ambalajı",
+  "restoran ambalajı",
+  "toptan ambalaj",
+  "hx-xf01"
+ ],
+ "marka": "EUPLUS",
+ "gorseller": {
+  "jpg": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/hx-xf01-kucuk-patates-kabi/hx-xf01-kucuk-patates-kabi.jpg",
+  "png": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/hx-xf01-kucuk-patates-kabi/hx-xf01-kucuk-patates-kabi.png",
+  "png_seffaf": false,
+  "not": "Kategori tanıtım fotoğrafı; ürüne özel fotoğraf yok"
+ },
+ "kaynak": {
+  "tedarikci": "helmex",
+  "tedarikci_ad": "Helmex",
+  "tedarikci_kodu": "XF01",
+  "katalog": "kaynaklar/helmex/helmex-katalog-2023.pdf"
+ }
+}

@@ -319,6 +319,242 @@ markasıyla listelenir.
 
 ---
 
+## Fast food & restoran ambalajları — 81 ürün
+
+Ölçü ve koli bilgileri [Fast Food & Restoran Ambalajları Kataloğu 2026](../katalog/EUPLUS-Fast-Food-Katalogu-2026.pdf) ile aynıdır.
+Kaynak katalogdaki görseller kategori fotoğrafı ve mockup'tır; mockup'lardaki tedarikçi logosu kaldırıldı, PNG'ler opaktır.
+Ölçü tablosu olan ürünler (pizza, pasta kutusu, çantalar, torbalar, kağıtlar, ıslak mendil, peçete, çatal-bıçak seti) tek ürün
+olarak listelenir; standart ölçüler `urun.json` içindeki `varyantlar` alanında ve `ilan.md` tablosundadır. Kodlardaki `HX` öneki
+kaynak kataloğu belirtir; ürünler EUPLUS markasıyla listelenir.
+
+
+### Karton servis ambalajları
+
+
+#### Burger Kutuları (3 ürün)
+
+| Kod | Ürün | Ölçü | Materyal | Koli içi / MOQ | Klasör |
+|---|---|---|---|---|---|
+| HX-XBS01 | Küçük Burger Kutusu | 102×102×64 | 230 gsm karton | 500 (125x4) | [`hx-xbs01-kucuk-burger-kutusu`](hx-xbs01-kucuk-burger-kutusu) |
+| HX-XBS02 | Orta Burger Kutusu | 112×114×72 | 270 gsm karton | 500 (125x4) | [`hx-xbs02-orta-burger-kutusu`](hx-xbs02-orta-burger-kutusu) |
+| HX-XBS03 | Büyük Burger Kutusu | 151×141×78 | 300 gsm karton | 300 (150x2) | [`hx-xbs03-buyuk-burger-kutusu`](hx-xbs03-buyuk-burger-kutusu) |
+
+#### Patates Kapları (2 ürün)
+
+| Kod | Ürün | Ölçü | Materyal | Koli içi / MOQ | Klasör |
+|---|---|---|---|---|---|
+| HX-XF01 | Küçük Patates Kabı | 93×38 / 77×35 × h110 | 230 gsm karton | 1000 (200x5) | [`hx-xf01-kucuk-patates-kabi`](hx-xf01-kucuk-patates-kabi) |
+| HX-XF02 | Orta Patates Kabı | 100×40 / 73×33 × h153 | 250 gsm karton | 1000 (200x5) | [`hx-xf02-orta-patates-kabi`](hx-xf02-orta-patates-kabi) |
+
+#### Mikro Oluklu Burger Kutuları (3 ürün)
+
+| Kod | Ürün | Ölçü | Materyal | Koli içi / MOQ | Klasör |
+|---|---|---|---|---|---|
+| HX-XC01 | Mikro Oluklu Burger Kutusu (S) | 102×102×64 | N dalga mikro oluklu mukavva (TL90/S85/MK110) | 200 (50x4) | [`hx-xc01-mikro-oluklu-burger-kutusu-s`](hx-xc01-mikro-oluklu-burger-kutusu-s) |
+| HX-XC02 | Mikro Oluklu Burger Kutusu (M) | 112×114×72 | N dalga mikro oluklu mukavva (TL90/S85/MK110) | 200 (50x4) | [`hx-xc02-mikro-oluklu-burger-kutusu-m`](hx-xc02-mikro-oluklu-burger-kutusu-m) |
+| HX-XC03 | Mikro Oluklu Burger Kutusu (L) | 195×110×78 | N dalga mikro oluklu mukavva (TL90/S85/MK110) | 250 (125x2) | [`hx-xc03-mikro-oluklu-burger-kutusu-l`](hx-xc03-mikro-oluklu-burger-kutusu-l) |
+
+#### Taşıma Kutuları (6 ürün)
+
+| Kod | Ürün | Ölçü | Materyal | Koli içi / MOQ | Klasör |
+|---|---|---|---|---|---|
+| HX-XNO1 | Taşıma Kutusu No.1 | 130×105 / 113×90 × h65 | Karton; PE veya OPP astar seçenekli | 500 (100x5) | [`hx-xno1-tasima-kutusu-no-1`](hx-xno1-tasima-kutusu-no-1) |
+| HX-XNO2 | Taşıma Kutusu No.2 | 140×103 / 195×140 × h50 | Karton; PE veya OPP astar seçenekli | 280 (70x4) | [`hx-xno2-tasima-kutusu-no-2`](hx-xno2-tasima-kutusu-no-2) |
+| HX-XNO3 | Taşıma Kutusu No.3 | 140×103 / 140×103 × h76 | Karton; PE veya OPP astar seçenekli | 180 (45x4) | [`hx-xno3-tasima-kutusu-no-3`](hx-xno3-tasima-kutusu-no-3) |
+| HX-XNO4 | Taşıma Kutusu No.4 | 188×147 / 113×90 × h90 | Karton; PE veya OPP astar seçenekli | 120 (30x4) | [`hx-xno4-tasima-kutusu-no-4`](hx-xno4-tasima-kutusu-no-4) |
+| HX-XNO5 | Taşıma Kutusu No.5 | 151×120 / 151×120 × h146 | Karton; PE veya OPP astar seçenekli | 160 (40x4) | [`hx-xno5-tasima-kutusu-no-5`](hx-xno5-tasima-kutusu-no-5) |
+| HX-XNO8 | Taşıma Kutusu No.8 | 140×110 / 140×110 × h70 | Karton; PE veya OPP astar seçenekli | 300 (50x6) | [`hx-xno8-tasima-kutusu-no-8`](hx-xno8-tasima-kutusu-no-8) |
+
+#### Sokak Lezzeti Tepsileri (5 ürün)
+
+| Kod | Ürün | Ölçü | Materyal | Koli içi / MOQ | Klasör |
+|---|---|---|---|---|---|
+| HX-XTRAY1 | Sokak Lezzeti Tepsisi No.1 | 157×122,5 / 87×52,5 × h35 | Kraft karton; PE veya OPP astar seçenekli | 500 (125x4) | [`hx-xtray1-sokak-lezzeti-tepsisi-no-1`](hx-xtray1-sokak-lezzeti-tepsisi-no-1) |
+| HX-XTRAY2 | Sokak Lezzeti Tepsisi No.2 | 196×149 / 114×67 × h41 | Kraft karton; PE veya OPP astar seçenekli | 500 (125x4) | [`hx-xtray2-sokak-lezzeti-tepsisi-no-2`](hx-xtray2-sokak-lezzeti-tepsisi-no-2) |
+| HX-XTRAY3 | Sokak Lezzeti Tepsisi No.3 | 221×175 / 127×81 × h47 | Kraft karton; PE veya OPP astar seçenekli | 500 (125x4) | [`hx-xtray3-sokak-lezzeti-tepsisi-no-3`](hx-xtray3-sokak-lezzeti-tepsisi-no-3) |
+| HX-XTRAY4 | Sokak Lezzeti Tepsisi No.4 | 240×190 / 130×80 × h55 | Kraft karton; PE veya OPP astar seçenekli | 500 (125x4) | [`hx-xtray4-sokak-lezzeti-tepsisi-no-4`](hx-xtray4-sokak-lezzeti-tepsisi-no-4) |
+| HX-XTRAY5 | Sokak Lezzeti Tepsisi No.5 | 266×185 / 172×91 × h47 | Kraft karton; PE veya OPP astar seçenekli | 500 (125x4) | [`hx-xtray5-sokak-lezzeti-tepsisi-no-5`](hx-xtray5-sokak-lezzeti-tepsisi-no-5) |
+
+#### Tavuk Kutuları ve Aile Kovası (4 ürün)
+
+| Kod | Ürün | Ölçü | Materyal | Koli içi / MOQ | Klasör |
+|---|---|---|---|---|---|
+| HX-FC0 | Tavuk Kutusu (S) | 144×84×54 | 230 gsm karton | 400 | [`hx-fc0-tavuk-kutusu-s`](hx-fc0-tavuk-kutusu-s) |
+| HX-FC1 | Tavuk Kutusu (M) | 174×105×61 | 250 gsm karton | 300 | [`hx-fc1-tavuk-kutusu-m`](hx-fc1-tavuk-kutusu-m) |
+| HX-FC3 | Tavuk Kutusu (L) | 218×116×73 | 270 gsm karton | 200 | [`hx-fc3-tavuk-kutusu-l`](hx-fc3-tavuk-kutusu-l) |
+| HX-FC4 | Aile Kovası | 158×158×200 | 300 gsm karton | 100 | [`hx-fc4-aile-kovasi`](hx-fc4-aile-kovasi) |
+
+#### Dürüm Kutuları (2 ürün)
+
+| Kod | Ürün | Ölçü | Materyal | Koli içi / MOQ | Klasör |
+|---|---|---|---|---|---|
+| HX-XW01 | Dürüm Kutusu (küçük) | 80×30 / 70×30 × h225 | Karton | 400 (100x4) | [`hx-xw01-durum-kutusu-kucuk`](hx-xw01-durum-kutusu-kucuk) |
+| HX-XW02 | Dürüm Kutusu (büyük) | 125×30 / 115×30 × h225 | Karton | 500 (100x5) | [`hx-xw02-durum-kutusu-buyuk`](hx-xw02-durum-kutusu-buyuk) |
+
+#### Pizza Kutuları (1 ürün)
+
+| Kod | Ürün | Ölçü | Materyal | Koli içi / MOQ | Klasör |
+|---|---|---|---|---|---|
+| HX-PIZZA | Pizza Kutusu (13 ölçü) | 127×127×45 – 470×470×50 | Oluklu mukavva | MOQ 2.800 – 14.000 adet (boya göre) | [`hx-pizza-pizza-kutusu`](hx-pizza-pizza-kutusu) |
+
+#### Pasta Kutuları (1 ürün)
+
+| Kod | Ürün | Ölçü | Materyal | Koli içi / MOQ | Klasör |
+|---|---|---|---|---|---|
+| HX-PASTA | Pasta Kutusu (15 ölçü) | 14×14×5 – 32×32×8 cm | 250–285 gsm bristol karton | 50 (25x2) çember | [`hx-pasta-pasta-kutusu`](hx-pasta-pasta-kutusu) |
+
+#### Yuvarlak Noodle Kutuları (2 ürün)
+
+| Kod | Ürün | Ölçü | Materyal | Koli içi / MOQ | Klasör |
+|---|---|---|---|---|---|
+| HX-NOODLE16 | 16 oz Noodle Kutusu (450 ml) | 78×87 / 80 × h94 | 280 gsm kraft & beyaz kağıt + PE laminasyon | 500 | [`hx-noodle16-16-oz-noodle-kutusu-450-ml`](hx-noodle16-16-oz-noodle-kutusu-450-ml) |
+| HX-NOODLE26 | 26 oz Noodle Kutusu (750 ml) | 83×100 / 94 × h95 | 280 gsm kraft & beyaz kağıt + PE laminasyon | 500 | [`hx-noodle26-26-oz-noodle-kutusu-750-ml`](hx-noodle26-26-oz-noodle-kutusu-750-ml) |
+
+#### Karton Kovalar (3 ürün)
+
+| Kod | Ürün | Ölçü | Materyal | Koli içi / MOQ | Klasör |
+|---|---|---|---|---|---|
+| HX-KOVA60 | 60 oz Karton Kova (1750 cc) | 150×125×132 | 250-300 gsm bristol + PE | 240 | [`hx-kova60-60-oz-karton-kova-1750-cc`](hx-kova60-60-oz-karton-kova-1750-cc) |
+| HX-KOVA85 | 85 oz Karton Kova (2500 cc) | 193×145×147 | 250-300 gsm bristol + PE | 400 | [`hx-kova85-85-oz-karton-kova-2500-cc`](hx-kova85-85-oz-karton-kova-2500-cc) |
+| HX-KOVA130 | 130 oz Karton Kova (4000 cc) | 211×160×170 | 250-300 gsm bristol + PE | 300 | [`hx-kova130-130-oz-karton-kova-4000-cc`](hx-kova130-130-oz-karton-kova-4000-cc) |
+
+#### Karton Kaseler (5 ürün)
+
+| Kod | Ürün | Ölçü | Materyal | Koli içi / MOQ | Klasör |
+|---|---|---|---|---|---|
+| HX-XB016 | 16 oz Karton Kase | 111 | Karton | 10x50 - 500 | [`hx-xb016-16-oz-karton-kase`](hx-xb016-16-oz-karton-kase) |
+| HX-XB020 | 20 oz Karton Kase | 145 | Karton | 10x50 - 500 | [`hx-xb020-20-oz-karton-kase`](hx-xb020-20-oz-karton-kase) |
+| HX-XB026 | 26 oz Karton Kase | 145 | Karton | 10x50 - 500 | [`hx-xb026-26-oz-karton-kase`](hx-xb026-26-oz-karton-kase) |
+| HX-XB032 | 32 oz Karton Kase | 187 | Karton | 6x50 - 300 | [`hx-xb032-32-oz-karton-kase`](hx-xb032-32-oz-karton-kase) |
+| HX-XB038 | 38 oz Karton Kase | 187 | Karton | 6x50 - 300 | [`hx-xb038-38-oz-karton-kase`](hx-xb038-38-oz-karton-kase) |
+
+#### Karton Bardaklar (11 ürün)
+
+| Kod | Ürün | Ölçü | Materyal | Koli içi / MOQ | Klasör |
+|---|---|---|---|---|---|
+| HX-SPX4 | Sıcak İçecek Bardağı 4 oz | Ø62,87 / Ø45,22 × 64,36 | Kağıt + PE | 1.000 | [`hx-spx4-sicak-icecek-bardagi-4-oz`](hx-spx4-sicak-icecek-bardagi-4-oz) |
+| HX-SPX7 | Sıcak İçecek Bardağı 7 oz | Ø72,9 / Ø51,69 × 77 | Kağıt + PE | 2.000 | [`hx-spx7-sicak-icecek-bardagi-7-oz`](hx-spx7-sicak-icecek-bardagi-7-oz) |
+| HX-SPX9T | Sıcak İçecek Bardağı 9T oz (Tall) | Ø80,3 / Ø51,51 × 95,25 | Kağıt + PE | 1.000 | [`hx-spx9t-sicak-icecek-bardagi-9t-oz-tall`](hx-spx9t-sicak-icecek-bardagi-9t-oz-tall) |
+| HX-SPX9S | Sıcak İçecek Bardağı 9S oz (Squat) | Ø80,05 / Ø56,4 × 87,75 | Kağıt + PE | 1.000 | [`hx-spx9s-sicak-icecek-bardagi-9s-oz-squat`](hx-spx9s-sicak-icecek-bardagi-9s-oz-squat) |
+| HX-SPX12 | Sıcak İçecek Bardağı 12 oz | — | Kağıt + PE | 1.000 | [`hx-spx12-sicak-icecek-bardagi-12-oz`](hx-spx12-sicak-icecek-bardagi-12-oz) |
+| HX-SPX16 | Sıcak İçecek Bardağı 16 oz | — | Kağıt + PE | 1.000 | [`hx-spx16-sicak-icecek-bardagi-16-oz`](hx-spx16-sicak-icecek-bardagi-16-oz) |
+| HX-SPX20 | Sıcak İçecek Bardağı 20 oz | — | Kağıt + PE | 600 | [`hx-spx20-sicak-icecek-bardagi-20-oz`](hx-spx20-sicak-icecek-bardagi-20-oz) |
+| HX-DPX12 | Soğuk İçecek Bardağı 12 oz | — | PE + Kağıt + PE | 2.000 | [`hx-dpx12-soguk-icecek-bardagi-12-oz`](hx-dpx12-soguk-icecek-bardagi-12-oz) |
+| HX-DPX16 | Soğuk İçecek Bardağı 16 oz | — | PE + Kağıt + PE | 1.000 | [`hx-dpx16-soguk-icecek-bardagi-16-oz`](hx-dpx16-soguk-icecek-bardagi-16-oz) |
+| HX-DPX22 | Soğuk İçecek Bardağı 22 oz | — | PE + Kağıt + PE | 1.000 | [`hx-dpx22-soguk-icecek-bardagi-22-oz`](hx-dpx22-soguk-icecek-bardagi-22-oz) |
+| HX-DPX32 | Soğuk İçecek Bardağı 32 oz | — | PE + Kağıt + PE | 500 | [`hx-dpx32-soguk-icecek-bardagi-32-oz`](hx-dpx32-soguk-icecek-bardagi-32-oz) |
+
+#### Bardak Kılıfı ve Taşıyıcı (4 ürün)
+
+| Kod | Ürün | Ölçü | Materyal | Koli içi / MOQ | Klasör |
+|---|---|---|---|---|---|
+| HX-XPS8 | Bardak Kılıfı 8 oz | 241×75 | Oluklu karton | 1000 (100x10) | [`hx-xps8-bardak-kilifi-8-oz`](hx-xps8-bardak-kilifi-8-oz) |
+| HX-XPS12-16 | Bardak Kılıfı 10-12-16 oz | 258×75 | Oluklu karton | 1000 (100x10) | [`hx-xps12-16-bardak-kilifi-10-12-16-oz`](hx-xps12-16-bardak-kilifi-10-12-16-oz) |
+| HX-XCC02 | 2'li Bardak Taşıyıcı | — | Geri dönüştürülmüş kağıt hamuru | 428 | [`hx-xcc02-2-li-bardak-tasiyici`](hx-xcc02-2-li-bardak-tasiyici) |
+| HX-XCC04 | 4'lü Bardak Taşıyıcı | — | Geri dönüştürülmüş kağıt hamuru | 210 | [`hx-xcc04-4-lu-bardak-tasiyici`](hx-xcc04-4-lu-bardak-tasiyici) |
+
+### Kağıt çanta ve ambalaj kağıtları
+
+
+#### Düz Saplı Kağıt Çantalar (1 ürün)
+
+| Kod | Ürün | Ölçü | Materyal | Koli içi / MOQ | Klasör |
+|---|---|---|---|---|---|
+| HX-CANTA-DUZ | Düz Saplı Kağıt Çanta (18 ölçü) | 18×10×33 – 46×16×46 cm | 70-80-90-100 gsm kraft / beyaz kağıt | MOQ 20.000 | [`hx-canta-duz-duz-sapli-kagit-canta`](hx-canta-duz-duz-sapli-kagit-canta) |
+
+#### Burgu Saplı Kağıt Çantalar (2 ürün)
+
+| Kod | Ürün | Ölçü | Materyal | Koli içi / MOQ | Klasör |
+|---|---|---|---|---|---|
+| HX-CANTA-BURGU | Burgu Saplı Kağıt Çanta (flekso) (17 ölçü) | 18×8×23 – 54×14×50 cm | 70-80-90-100 gsm kraft / beyaz kağıt | MOQ 10.000 | [`hx-canta-burgu-burgu-sapli-kagit-canta-flekso`](hx-canta-burgu-burgu-sapli-kagit-canta-flekso) |
+| HX-CANTA-BURGU-OFSET | Burgu Saplı Kağıt Çanta (ofset) (5 ölçü) | 22,5×8×23,5 – 34,7×14×40 cm | 100 gsm beyaz kağıt | MOQ 1.000 | [`hx-canta-burgu-ofset-burgu-sapli-kagit-canta-ofset`](hx-canta-burgu-ofset-burgu-sapli-kagit-canta-ofset) |
+
+#### Sapsız Kağıt Torbalar (3 ürün)
+
+| Kod | Ürün | Ölçü | Materyal | Koli içi / MOQ | Klasör |
+|---|---|---|---|---|---|
+| HX-TORBA-DUZ | Yağlı Kağıt Torba (körüksüz) (14 ölçü) | 11×13,5 – 30×30,5 cm | 35–40 gsm greaseproof / sülfit / şamua kağıt | — | [`hx-torba-duz-yagli-kagit-torba-koruksuz`](hx-torba-duz-yagli-kagit-torba-koruksuz) |
+| HX-TORBA-KORUK | Yağlı Kağıt Torba (körüklü) (7 ölçü) | 10×19×5 – 25,5×32×7 cm | 35–40 gsm greaseproof / sülfit / şamua kağıt | — | [`hx-torba-koruk-yagli-kagit-torba-koruklu`](hx-torba-koruk-yagli-kagit-torba-koruklu) |
+| HX-SOS-TORBA | SOS Kraft Torba (3 ölçü) | 13,5×24×7 – 19×30×11 cm | 50 gsm kahve kraft | — | [`hx-sos-torba-sos-kraft-torba`](hx-sos-torba-sos-kraft-torba) |
+
+#### Lüks Çantalar (2 ürün)
+
+| Kod | Ürün | Ölçü | Materyal | Koli içi / MOQ | Klasör |
+|---|---|---|---|---|---|
+| HX-LUKS-BEYAZ | Lüks Çanta (beyaz) (26 ölçü) | 8×6×18 – 55×12×38 cm | 210 / 250 / 300 gsm, mat veya parlak laminasyon | MOQ 250 | [`hx-luks-beyaz-luks-canta-beyaz`](hx-luks-beyaz-luks-canta-beyaz) |
+| HX-LUKS-KAHVE | Lüks Çanta (kahve) (26 ölçü) | 8×6×18 – 55×12×38 cm | 200 gsm kahve | MOQ 250 | [`hx-luks-kahve-luks-canta-kahve`](hx-luks-kahve-luks-canta-kahve) |
+
+#### Ambalaj Kağıdı ve Tepsi Kağıdı (2 ürün)
+
+| Kod | Ürün | Ölçü | Materyal | Koli içi / MOQ | Klasör |
+|---|---|---|---|---|---|
+| HX-AMBALAJ-KAGIDI | Ambalaj Kağıdı (burger sargısı) (7 ölçü) | 20×20 – 40×40 cm | 40 gsm (27 / 40 / 60 gsm seçenekli) | — | [`hx-ambalaj-kagidi-ambalaj-kagidi-burger-sargisi`](hx-ambalaj-kagidi-ambalaj-kagidi-burger-sargisi) |
+| HX-TEPSI-KAGIDI | Tepsi Kağıdı (7 ölçü) | 20×20 – 40×40 cm | 70 gsm (40 / 70 / 80 / 90 gsm seçenekli) | — | [`hx-tepsi-kagidi-tepsi-kagidi`](hx-tepsi-kagidi-tepsi-kagidi) |
+
+### Tamamlayıcı ürünler
+
+
+#### Streç Film (2 ürün)
+
+| Kod | Ürün | Ölçü | Materyal | Koli içi / MOQ | Klasör |
+|---|---|---|---|---|---|
+| HX-STREC-MAKINE | Makine Tipi Streç Film (3 ölçü) | 500 mm × 2030–2880 m | LLDPE | — | [`hx-strec-makine-makine-tipi-strec-film`](hx-strec-makine-makine-tipi-strec-film) |
+| HX-STREC-EL | El Tipi Streç Film (3 ölçü) | 500 mm × 270–300 m | LLDPE | — | [`hx-strec-el-el-tipi-strec-film`](hx-strec-el-el-tipi-strec-film) |
+
+#### Menteşeli Sos Kapları (3 ürün)
+
+| Kod | Ürün | Ölçü | Materyal | Koli içi / MOQ | Klasör |
+|---|---|---|---|---|---|
+| HX-SOSKABI-1OZ | Menteşeli Sos Kabı 1 oz | — | PP, şeffaf | 1.000 | [`hx-soskabi-1oz-menteseli-sos-kabi-1-oz`](hx-soskabi-1oz-menteseli-sos-kabi-1-oz) |
+| HX-SOSKABI-2OZ | Menteşeli Sos Kabı 2 oz | — | PP, şeffaf | 1.000 | [`hx-soskabi-2oz-menteseli-sos-kabi-2-oz`](hx-soskabi-2oz-menteseli-sos-kabi-2-oz) |
+| HX-SOSKABI-4OZ | Menteşeli Sos Kabı 4 oz | — | PP, şeffaf | 500 | [`hx-soskabi-4oz-menteseli-sos-kabi-4-oz`](hx-soskabi-4oz-menteseli-sos-kabi-4-oz) |
+
+#### Islak Mendil (1 ürün)
+
+| Kod | Ürün | Ölçü | Materyal | Koli içi / MOQ | Klasör |
+|---|---|---|---|---|---|
+| HX-ISLAK-MENDIL | Islak Mendil (10 ölçü) | 6×8 – 7×12 cm | PET/MET/PE, PET/ALU/PE, PAP/MET/PE veya PAP/ALU/PE poşet; nonwoven havlu | — | [`hx-islak-mendil-islak-mendil`](hx-islak-mendil-islak-mendil) |
+
+#### Peçete ve Kağıt Havlu (6 ürün)
+
+| Kod | Ürün | Ölçü | Materyal | Koli içi / MOQ | Klasör |
+|---|---|---|---|---|---|
+| HX-PECETE | Peçete (6 ölçü) | — | %100 selüloz | — | [`hx-pecete-pecete`](hx-pecete-pecete) |
+| HX-MAKINE-HAVLU | Otomatik makine havlusu (4 ölçü) | — | %100 selüloz | — | [`hx-makine-havlu-otomatik-makine-havlusu`](hx-makine-havlu-otomatik-makine-havlusu) |
+| HX-TUVALET-KAGIDI | Tuvalet kağıdı | — | %100 selüloz | 24 | [`hx-tuvalet-kagidi-tuvalet-kagidi`](hx-tuvalet-kagidi-tuvalet-kagidi) |
+| HX-DISP-PECETE | Dispenser peçete (2 ölçü) | — | %100 selüloz | — | [`hx-disp-pecete-dispenser-pecete`](hx-disp-pecete-dispenser-pecete) |
+| HX-DISP-Z-PECETE | Dispenser Z peçete (2 ölçü) | — | %100 selüloz | — | [`hx-disp-z-pecete-dispenser-z-pecete`](hx-disp-z-pecete-dispenser-z-pecete) |
+| HX-END-HAVLU | Endüstriyel havlu | — | %100 selüloz | 1 | [`hx-end-havlu-endustriyel-havlu`](hx-end-havlu-endustriyel-havlu) |
+
+#### Fritöz Filtre Kağıdı (1 ürün)
+
+| Kod | Ürün | Ölçü | Materyal | Koli içi / MOQ | Klasör |
+|---|---|---|---|---|---|
+| HX-FILTRE-KAGIDI | Fritöz Filtre Kağıdı | 54×36 cm | nonwoven 50 gsm | 500 | [`hx-filtre-kagidi-fritoz-filtre-kagidi`](hx-filtre-kagidi-fritoz-filtre-kagidi) |
+
+#### Limon Sosu (1 ürün)
+
+| Kod | Ürün | Ölçü | Materyal | Koli içi / MOQ | Klasör |
+|---|---|---|---|---|---|
+| HX-LIMON-SOS | Limon Sosu 500 ml | — | PET, şeffaf | 20 | [`hx-limon-sos-limon-sosu-500-ml`](hx-limon-sos-limon-sosu-500-ml) |
+
+#### Ahşap Çatal Bıçak (4 ürün)
+
+| Kod | Ürün | Ölçü | Materyal | Koli içi / MOQ | Klasör |
+|---|---|---|---|---|---|
+| HX-KASIK | Ahşap Kaşık 13 cm | 13 cm | Huş ağacı | 2.000 | [`hx-kasik-ahsap-kasik-13-cm`](hx-kasik-ahsap-kasik-13-cm) |
+| HX-CATAL | Ahşap Çatal 13 cm | 13 cm | Huş ağacı | 2.000 | [`hx-catal-ahsap-catal-13-cm`](hx-catal-ahsap-catal-13-cm) |
+| HX-BICAK | Ahşap Bıçak 13 cm | 13 cm | Huş ağacı | 2.000 | [`hx-bicak-ahsap-bicak-13-cm`](hx-bicak-ahsap-bicak-13-cm) |
+| HX-CATAL-BICAK-SET | Ahşap Çatal Bıçak Seti (9 ölçü) | 13 cm | Huş ağacı; kahve sülfit kağıt; 1 kat beyaz 11 gsm peçete | — | [`hx-catal-bicak-set-ahsap-catal-bicak-seti`](hx-catal-bicak-set-ahsap-catal-bicak-seti) |
+
+#### Kızartma Yağı (1 ürün)
+
+| Kod | Ürün | Ölçü | Materyal | Koli içi / MOQ | Klasör |
+|---|---|---|---|---|---|
+| HX-KIZARTMA-YAGI | Kızartma Yağı 18 lt | — | Teneke | — | [`hx-kizartma-yagi-kizartma-yagi-18-lt`](hx-kizartma-yagi-kizartma-yagi-18-lt) |
+
+---
+
 ## Doğrudan bağlantı (hotlink)
 
 ```

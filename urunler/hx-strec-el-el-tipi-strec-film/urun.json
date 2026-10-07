@@ -1,0 +1,90 @@
+{
+ "stok_kodu": "HX-STREC-EL",
+ "baslik": "El Tipi Streç Film",
+ "urun_adi": "El Tipi Streç Film",
+ "kategori": "Streç Film",
+ "kategori_en": "Stretch Films",
+ "katalog": "fastfood",
+ "tur": "strec",
+ "olcu_mm": "500 mm × 270–300 m",
+ "hacim_cc": "",
+ "hacim": "",
+ "materyal": "LLDPE",
+ "agiz_capi_mm": "",
+ "dip_capi_mm": "",
+ "yukseklik_mm": "",
+ "agirlik_g": "",
+ "fisek_ici_adet": "",
+ "koli_olcusu_mm": "",
+ "koli_ici_adet": "",
+ "koli_net_kg": "",
+ "palet_koli": "",
+ "koli_secenekleri": [],
+ "min_siparis": "Bizimle iletişime geçin",
+ "gsm": "",
+ "moq": "",
+ "varyantlar": [
+  {
+   "tip": "El",
+   "boy": "270",
+   "en": "500",
+   "mikron": "17",
+   "masura_kg": "0,3",
+   "brut_kg": "2,41",
+   "ad": "El Streç 17 µ"
+  },
+  {
+   "tip": "El",
+   "boy": "270",
+   "en": "500",
+   "mikron": "20",
+   "masura_kg": "0,3",
+   "brut_kg": "2,78",
+   "ad": "El Streç 20 µ"
+  },
+  {
+   "tip": "El",
+   "boy": "300",
+   "en": "500",
+   "mikron": "23",
+   "masura_kg": "0,3",
+   "brut_kg": "3,47",
+   "ad": "El Streç 23 µ"
+  }
+ ],
+ "not": "",
+ "aciklama": [
+  "El Tipi Streç Film, palet sarma streç filmidir. Palet ve koli sabitleme için uygundur.",
+  "Teknik özellikler: ölçü 500 mm × 270–300 m, LLDPE hammadde.",
+  "Markanıza özel baskı ve etiket seçeneği için bizimle iletişime geçin.",
+  "3 standart ölçü / seçenek: 500×270, 500×270, 500×300.",
+  "Sipariş adedi, koli düzeni ve teslimat için bizimle iletişime geçin."
+ ],
+ "aciklama_html": "<p>El Tipi Streç Film, palet sarma streç filmidir. Palet ve koli sabitleme için uygundur.</p>\n<p>Teknik özellikler: ölçü 500 mm × 270–300 m, LLDPE hammadde.</p>\n<p>Markanıza özel baskı ve etiket seçeneği için bizimle iletişime geçin.</p>\n<p>3 standart ölçü / seçenek: 500×270, 500×270, 500×300.</p>\n<p>Sipariş adedi, koli düzeni ve teslimat için bizimle iletişime geçin.</p>",
+ "etiketler": [
+  "el tipi streç film",
+  "streç film",
+  "palet streci",
+  "makine streç",
+  "el streci",
+  "ambalaj filmi",
+  "fast food ambalajı",
+  "paket servis ambalajı",
+  "restoran ambalajı",
+  "toptan ambalaj",
+  "hx-strec-el"
+ ],
+ "marka": "EUPLUS",
+ "gorseller": {
+  "jpg": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/hx-strec-el-el-tipi-strec-film/hx-strec-el-el-tipi-strec-film.jpg",
+  "png": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/hx-strec-el-el-tipi-strec-film/hx-strec-el-el-tipi-strec-film.png",
+  "png_seffaf": false,
+  "not": "Kategori tanıtım fotoğrafı; ürüne özel fotoğraf yok"
+ },
+ "kaynak": {
+  "tedarikci": "helmex",
+  "tedarikci_ad": "Helmex",
+  "tedarikci_kodu": "",
+  "katalog": "kaynaklar/helmex/helmex-katalog-2023.pdf"
+ }
+}

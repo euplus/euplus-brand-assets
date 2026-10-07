@@ -1,0 +1,323 @@
+{
+ "stok_kodu": "HX-LUKS-KAHVE",
+ "baslik": "Lüks Çanta (kahve)",
+ "urun_adi": "Lüks Çanta (kahve)",
+ "kategori": "Lüks Çantalar",
+ "kategori_en": "Luxury Bags",
+ "katalog": "fastfood",
+ "tur": "luks-canta",
+ "olcu_mm": "8x6x18 – 55x12x38 cm",
+ "hacim_cc": "",
+ "hacim": "",
+ "materyal": "200 gsm kahve",
+ "agiz_capi_mm": "",
+ "dip_capi_mm": "",
+ "yukseklik_mm": "",
+ "agirlik_g": "",
+ "fisek_ici_adet": "",
+ "koli_olcusu_mm": "",
+ "koli_ici_adet": "",
+ "koli_net_kg": "",
+ "palet_koli": "",
+ "koli_secenekleri": [],
+ "min_siparis": "250 adet",
+ "gsm": "",
+ "moq": "250",
+ "varyantlar": [
+  {
+   "seri": "Kahve",
+   "olcu": "8x6x18",
+   "gsm": "200 gsm",
+   "renk": "kahve",
+   "laminasyon": "—",
+   "baski": "CMYK ofset (4-2-1)",
+   "moq": "250",
+   "ad": "Lüks Kahve Çanta 8x6x18"
+  },
+  {
+   "seri": "Kahve",
+   "olcu": "11x5x17",
+   "gsm": "200 gsm",
+   "renk": "kahve",
+   "laminasyon": "—",
+   "baski": "CMYK ofset (4-2-1)",
+   "moq": "250",
+   "ad": "Lüks Kahve Çanta 11x5x17"
+  },
+  {
+   "seri": "Kahve",
+   "olcu": "13,5x7x19,5",
+   "gsm": "200 gsm",
+   "renk": "kahve",
+   "laminasyon": "—",
+   "baski": "CMYK ofset (4-2-1)",
+   "moq": "250",
+   "ad": "Lüks Kahve Çanta 13,5x7x19,5"
+  },
+  {
+   "seri": "Kahve",
+   "olcu": "13x13x30",
+   "gsm": "200 gsm",
+   "renk": "kahve",
+   "laminasyon": "—",
+   "baski": "CMYK ofset (4-2-1)",
+   "moq": "250",
+   "ad": "Lüks Kahve Çanta 13x13x30"
+  },
+  {
+   "seri": "Kahve",
+   "olcu": "15x8x20",
+   "gsm": "200 gsm",
+   "renk": "kahve",
+   "laminasyon": "—",
+   "baski": "CMYK ofset (4-2-1)",
+   "moq": "250",
+   "ad": "Lüks Kahve Çanta 15x8x20"
+  },
+  {
+   "seri": "Kahve",
+   "olcu": "17x10x25",
+   "gsm": "200 gsm",
+   "renk": "kahve",
+   "laminasyon": "—",
+   "baski": "CMYK ofset (4-2-1)",
+   "moq": "250",
+   "ad": "Lüks Kahve Çanta 17x10x25"
+  },
+  {
+   "seri": "Kahve",
+   "olcu": "17x7x17",
+   "gsm": "200 gsm",
+   "renk": "kahve",
+   "laminasyon": "—",
+   "baski": "CMYK ofset (4-2-1)",
+   "moq": "250",
+   "ad": "Lüks Kahve Çanta 17x7x17"
+  },
+  {
+   "seri": "Kahve",
+   "olcu": "18x8x23",
+   "gsm": "200 gsm",
+   "renk": "kahve",
+   "laminasyon": "—",
+   "baski": "CMYK ofset (4-2-1)",
+   "moq": "250",
+   "ad": "Lüks Kahve Çanta 18x8x23"
+  },
+  {
+   "seri": "Kahve",
+   "olcu": "19x15x16",
+   "gsm": "200 gsm",
+   "renk": "kahve",
+   "laminasyon": "—",
+   "baski": "CMYK ofset (4-2-1)",
+   "moq": "250",
+   "ad": "Lüks Kahve Çanta 19x15x16"
+  },
+  {
+   "seri": "Kahve",
+   "olcu": "19x9,5x24",
+   "gsm": "200 gsm",
+   "renk": "kahve",
+   "laminasyon": "—",
+   "baski": "CMYK ofset (4-2-1)",
+   "moq": "250",
+   "ad": "Lüks Kahve Çanta 19x9,5x24"
+  },
+  {
+   "seri": "Kahve",
+   "olcu": "21x11x21",
+   "gsm": "200 gsm",
+   "renk": "kahve",
+   "laminasyon": "—",
+   "baski": "CMYK ofset (4-2-1)",
+   "moq": "250",
+   "ad": "Lüks Kahve Çanta 21x11x21"
+  },
+  {
+   "seri": "Kahve",
+   "olcu": "21x13x35",
+   "gsm": "200 gsm",
+   "renk": "kahve",
+   "laminasyon": "—",
+   "baski": "CMYK ofset (4-2-1)",
+   "moq": "250",
+   "ad": "Lüks Kahve Çanta 21x13x35"
+  },
+  {
+   "seri": "Kahve",
+   "olcu": "24x10x35",
+   "gsm": "200 gsm",
+   "renk": "kahve",
+   "laminasyon": "—",
+   "baski": "CMYK ofset (4-2-1)",
+   "moq": "250",
+   "ad": "Lüks Kahve Çanta 24x10x35"
+  },
+  {
+   "seri": "Kahve",
+   "olcu": "25x10x24",
+   "gsm": "200 gsm",
+   "renk": "kahve",
+   "laminasyon": "—",
+   "baski": "CMYK ofset (4-2-1)",
+   "moq": "250",
+   "ad": "Lüks Kahve Çanta 25x10x24"
+  },
+  {
+   "seri": "Kahve",
+   "olcu": "26x26x18",
+   "gsm": "200 gsm",
+   "renk": "kahve",
+   "laminasyon": "—",
+   "baski": "CMYK ofset (4-2-1)",
+   "moq": "250",
+   "ad": "Lüks Kahve Çanta 26x26x18"
+  },
+  {
+   "seri": "Kahve",
+   "olcu": "26x7,5x39,5",
+   "gsm": "200 gsm",
+   "renk": "kahve",
+   "laminasyon": "—",
+   "baski": "CMYK ofset (4-2-1)",
+   "moq": "250",
+   "ad": "Lüks Kahve Çanta 26x7,5x39,5"
+  },
+  {
+   "seri": "Kahve",
+   "olcu": "30x10x25",
+   "gsm": "200 gsm",
+   "renk": "kahve",
+   "laminasyon": "—",
+   "baski": "CMYK ofset (4-2-1)",
+   "moq": "250",
+   "ad": "Lüks Kahve Çanta 30x10x25"
+  },
+  {
+   "seri": "Kahve",
+   "olcu": "30x18x20",
+   "gsm": "200 gsm",
+   "renk": "kahve",
+   "laminasyon": "—",
+   "baski": "CMYK ofset (4-2-1)",
+   "moq": "250",
+   "ad": "Lüks Kahve Çanta 30x18x20"
+  },
+  {
+   "seri": "Kahve",
+   "olcu": "34,5x14x40",
+   "gsm": "200 gsm",
+   "renk": "kahve",
+   "laminasyon": "—",
+   "baski": "CMYK ofset (4-2-1)",
+   "moq": "250",
+   "ad": "Lüks Kahve Çanta 34,5x14x40"
+  },
+  {
+   "seri": "Kahve",
+   "olcu": "35x12x55",
+   "gsm": "200 gsm",
+   "renk": "kahve",
+   "laminasyon": "—",
+   "baski": "CMYK ofset (4-2-1)",
+   "moq": "250",
+   "ad": "Lüks Kahve Çanta 35x12x55"
+  },
+  {
+   "seri": "Kahve",
+   "olcu": "35x30x20",
+   "gsm": "200 gsm",
+   "renk": "kahve",
+   "laminasyon": "—",
+   "baski": "CMYK ofset (4-2-1)",
+   "moq": "250",
+   "ad": "Lüks Kahve Çanta 35x30x20"
+  },
+  {
+   "seri": "Kahve",
+   "olcu": "36x10x24",
+   "gsm": "200 gsm",
+   "renk": "kahve",
+   "laminasyon": "—",
+   "baski": "CMYK ofset (4-2-1)",
+   "moq": "250",
+   "ad": "Lüks Kahve Çanta 36x10x24"
+  },
+  {
+   "seri": "Kahve",
+   "olcu": "38x9x23",
+   "gsm": "200 gsm",
+   "renk": "kahve",
+   "laminasyon": "—",
+   "baski": "CMYK ofset (4-2-1)",
+   "moq": "250",
+   "ad": "Lüks Kahve Çanta 38x9x23"
+  },
+  {
+   "seri": "Kahve",
+   "olcu": "45x13x35",
+   "gsm": "200 gsm",
+   "renk": "kahve",
+   "laminasyon": "—",
+   "baski": "CMYK ofset (4-2-1)",
+   "moq": "250",
+   "ad": "Lüks Kahve Çanta 45x13x35"
+  },
+  {
+   "seri": "Kahve",
+   "olcu": "50x10x35",
+   "gsm": "200 gsm",
+   "renk": "kahve",
+   "laminasyon": "—",
+   "baski": "CMYK ofset (4-2-1)",
+   "moq": "250",
+   "ad": "Lüks Kahve Çanta 50x10x35"
+  },
+  {
+   "seri": "Kahve",
+   "olcu": "55x12x38",
+   "gsm": "200 gsm",
+   "renk": "kahve",
+   "laminasyon": "—",
+   "baski": "CMYK ofset (4-2-1)",
+   "moq": "250",
+   "ad": "Lüks Kahve Çanta 55x12x38"
+  }
+ ],
+ "not": "",
+ "aciklama": [
+  "Lüks Çanta (kahve), ip saplı lüks kağıt çantadır. Mağaza, butik ve kurumsal hediye taşıması için uygundur.",
+  "Teknik özellikler: ölçü 8 × 6 × 18 – 55 × 12 × 38 cm, 200 gsm kahve hammadde.",
+  "Gıdayla temasa uygun kağıt; beyaz veya kahve. Flekso ya da ofset baskı ile markanıza özel üretilir; standart ölçüler dışındaki talepler için özel üretim yapılır.",
+  "26 standart ölçü / seçenek: 8x6x18, 11x5x17, 13,5x7x19,5, 13x13x30, 15x8x20, 17x10x25, 17x7x17, 18x8x23, 19x15x16, 19x9,5x24, 21x11x21, 21x13x35, 24x10x35, 25x10x24, 26x26x18, 26x7,5x39,5, 30x10x25, 30x18x20, 34,5x14x40, 35x12x55, 35x30x20, 36x10x24, 38x9x23, 45x13x35, 50x10x35, 55x12x38.",
+  "Siparişe özel üretimdir; minimum sipariş 250 adet."
+ ],
+ "aciklama_html": "<p>Lüks Çanta (kahve), ip saplı lüks kağıt çantadır. Mağaza, butik ve kurumsal hediye taşıması için uygundur.</p>\n<p>Teknik özellikler: ölçü 8 × 6 × 18 – 55 × 12 × 38 cm, 200 gsm kahve hammadde.</p>\n<p>Gıdayla temasa uygun kağıt; beyaz veya kahve. Flekso ya da ofset baskı ile markanıza özel üretilir; standart ölçüler dışındaki talepler için özel üretim yapılır.</p>\n<p>26 standart ölçü / seçenek: 8x6x18, 11x5x17, 13,5x7x19,5, 13x13x30, 15x8x20, 17x10x25, 17x7x17, 18x8x23, 19x15x16, 19x9,5x24, 21x11x21, 21x13x35, 24x10x35, 25x10x24, 26x26x18, 26x7,5x39,5, 30x10x25, 30x18x20, 34,5x14x40, 35x12x55, 35x30x20, 36x10x24, 38x9x23, 45x13x35, 50x10x35, 55x12x38.</p>\n<p>Siparişe özel üretimdir; minimum sipariş 250 adet.</p>",
+ "etiketler": [
+  "lüks çanta (kahve)",
+  "lüks çanta",
+  "ip saplı çanta",
+  "karton çanta",
+  "butik çantası",
+  "ofset baskılı çanta",
+  "fast food ambalajı",
+  "paket servis ambalajı",
+  "restoran ambalajı",
+  "toptan ambalaj",
+  "hx-luks-kahve"
+ ],
+ "marka": "EUPLUS",
+ "gorseller": {
+  "jpg": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/hx-luks-kahve-luks-canta-kahve/hx-luks-kahve-luks-canta-kahve.jpg",
+  "png": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/hx-luks-kahve-luks-canta-kahve/hx-luks-kahve-luks-canta-kahve.png",
+  "png_seffaf": false,
+  "not": "Kategori tanıtım fotoğrafı; ürüne özel fotoğraf yok"
+ },
+ "kaynak": {
+  "tedarikci": "helmex",
+  "tedarikci_ad": "Helmex",
+  "tedarikci_kodu": "",
+  "katalog": "kaynaklar/helmex/helmex-katalog-2023.pdf"
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "stok_kodu": "HX-XBS01",
+ "baslik": "Küçük Burger Kutusu",
+ "urun_adi": "Küçük Burger Kutusu",
+ "kategori": "Burger Kutuları",
+ "kategori_en": "Burger Boxes",
+ "katalog": "fastfood",
+ "tur": "burger-kutusu",
+ "olcu_mm": "102x102x64",
+ "hacim_cc": "",
+ "hacim": "",
+ "materyal": "230 gsm karton",
+ "agiz_capi_mm": "",
+ "dip_capi_mm": "",
+ "yukseklik_mm": "",
+ "agirlik_g": "",
+ "fisek_ici_adet": "",
+ "koli_olcusu_mm": "500x300x515",
+ "koli_ici_adet": "500 (125x4)",
+ "koli_net_kg": "",
+ "palet_koli": "32",
+ "koli_secenekleri": [],
+ "min_siparis": "500 (125x4) adet (1 koli)",
+ "gsm": "230 gsm",
+ "moq": "",
+ "varyantlar": [],
+ "not": "Kapak genişliği 115 mm",
+ "aciklama": [
+  "Küçük Burger Kutusu, kilitli kapaklı karton burger kutusudur. Hamburger, tost ve sandviç servisi için uygundur.",
+  "Teknik özellikler: ölçü 102 × 102 × 64 mm, 230 gsm karton hammadde.",
+  "Gıdayla temasa uygun karton; beyaz, kraft veya siyah yüzey seçeneği. Flekso, ofset ya da dijital baskı ile markanıza özel tasarım yapılır; standart ölçüler dışında talebe göre özel ölçü üretilir, tasarım ve numune 1–2 haftada hazırlanır.",
+  "Toptan satış koli bazındadır: bir kolide 500 (125x4) adet, koli ölçüsü 500 × 300 × 515 mm, bir palete 32 koli."
+ ],
+ "aciklama_html": "<p>Küçük Burger Kutusu, kilitli kapaklı karton burger kutusudur. Hamburger, tost ve sandviç servisi için uygundur.</p>\n<p>Teknik özellikler: ölçü 102 × 102 × 64 mm, 230 gsm karton hammadde.</p>\n<p>Gıdayla temasa uygun karton; beyaz, kraft veya siyah yüzey seçeneği. Flekso, ofset ya da dijital baskı ile markanıza özel tasarım yapılır; standart ölçüler dışında talebe göre özel ölçü üretilir, tasarım ve numune 1–2 haftada hazırlanır.</p>\n<p>Toptan satış koli bazındadır: bir kolide 500 (125x4) adet, koli ölçüsü 500 × 300 × 515 mm, bir palete 32 koli.</p>",
+ "etiketler": [
+  "küçük burger kutusu",
+  "hamburger kutusu",
+  "burger kutusu",
+  "karton hamburger kutusu",
+  "kraft burger kutusu",
+  "kilitli karton kutu",
+  "fast food kutusu",
+  "fast food ambalajı",
+  "paket servis ambalajı",
+  "restoran ambalajı",
+  "toptan ambalaj",
+  "hx-xbs01"
+ ],
+ "marka": "EUPLUS",
+ "gorseller": {
+  "jpg": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/hx-xbs01-kucuk-burger-kutusu/hx-xbs01-kucuk-burger-kutusu.jpg",
+  "png": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/hx-xbs01-kucuk-burger-kutusu/hx-xbs01-kucuk-burger-kutusu.png",
+  "png_seffaf": false,
+  "not": "Kategori tanıtım fotoğrafı; ürüne özel fotoğraf yok"
+ },
+ "kaynak": {
+  "tedarikci": "helmex",
+  "tedarikci_ad": "Helmex",
+  "tedarikci_kodu": "XBS01",
+  "katalog": "kaynaklar/helmex/helmex-katalog-2023.pdf"
+ }
+}

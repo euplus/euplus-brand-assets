@@ -1,0 +1,107 @@
+{
+ "stok_kodu": "HX-MAKINE-HAVLU",
+ "baslik": "Otomatik makine havlusu",
+ "urun_adi": "Otomatik makine havlusu",
+ "kategori": "Peçete ve Kağıt Havlu",
+ "kategori_en": "Napkins & Towels",
+ "katalog": "fastfood",
+ "tur": "pecete",
+ "olcu_mm": "",
+ "hacim_cc": "",
+ "hacim": "",
+ "materyal": "%100 selüloz",
+ "agiz_capi_mm": "",
+ "dip_capi_mm": "",
+ "yukseklik_mm": "",
+ "agirlik_g": "",
+ "fisek_ici_adet": "",
+ "koli_olcusu_mm": "",
+ "koli_ici_adet": "",
+ "koli_net_kg": "",
+ "palet_koli": "",
+ "koli_secenekleri": [],
+ "min_siparis": "Bizimle iletişime geçin",
+ "gsm": "",
+ "moq": "",
+ "varyantlar": [
+  {
+   "ad": "Otomatik makine havlusu",
+   "en": "21",
+   "boy": "70 m",
+   "katlama": "rulo",
+   "baski": "-",
+   "kat": "2",
+   "gsm": "21",
+   "paket": "6",
+   "koli_ici": "6"
+  },
+  {
+   "ad": "Otomatik makine havlusu",
+   "en": "25",
+   "boy": "90 m",
+   "katlama": "rulo",
+   "baski": "-",
+   "kat": "2",
+   "gsm": "23",
+   "paket": "6",
+   "koli_ici": "6"
+  },
+  {
+   "ad": "Otomatik makine havlusu",
+   "en": "25",
+   "boy": "140 m",
+   "katlama": "rulo",
+   "baski": "-",
+   "kat": "2",
+   "gsm": "23",
+   "paket": "140 m",
+   "koli_ici": "6"
+  },
+  {
+   "ad": "Otomatik makine havlusu",
+   "en": "21",
+   "boy": "110 m",
+   "katlama": "rulo",
+   "baski": "-",
+   "kat": "2",
+   "gsm": "23",
+   "paket": "110 m",
+   "koli_ici": "6"
+  }
+ ],
+ "not": "",
+ "aciklama": [
+  "Otomatik makine havlusu, %100 selüloz kağıt üründür. Restoran, kafe ve paket servis için uygundur.",
+  "Teknik özellikler: %100 selüloz hammadde.",
+  "Markanıza özel baskı ve etiket seçeneği için bizimle iletişime geçin.",
+  "4 standart ölçü / seçenek: 21×70 m, 25×90 m, 25×140 m, 21×110 m.",
+  "Sipariş adedi, koli düzeni ve teslimat için bizimle iletişime geçin."
+ ],
+ "aciklama_html": "<p>Otomatik makine havlusu, %100 selüloz kağıt üründür. Restoran, kafe ve paket servis için uygundur.</p>\n<p>Teknik özellikler: %100 selüloz hammadde.</p>\n<p>Markanıza özel baskı ve etiket seçeneği için bizimle iletişime geçin.</p>\n<p>4 standart ölçü / seçenek: 21×70 m, 25×90 m, 25×140 m, 21×110 m.</p>\n<p>Sipariş adedi, koli düzeni ve teslimat için bizimle iletişime geçin.</p>",
+ "etiketler": [
+  "otomatik makine havlusu",
+  "peçete",
+  "kağıt havlu",
+  "dispenser peçete",
+  "selüloz peçete",
+  "restoran peçetesi",
+  "fast food ambalajı",
+  "paket servis ambalajı",
+  "restoran ambalajı",
+  "toptan ambalaj",
+  "hx-makine-havlu"
+ ],
+ "marka": "EUPLUS",
+ "gorseller": {
+  "jpg": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/hx-makine-havlu-otomatik-makine-havlusu/hx-makine-havlu-otomatik-makine-havlusu.jpg",
+  "png": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/hx-makine-havlu-otomatik-makine-havlusu/hx-makine-havlu-otomatik-makine-havlusu.png",
+  "png_seffaf": false,
+  "not": "Kategori tanıtım fotoğrafı; ürüne özel fotoğraf yok"
+ },
+ "kaynak": {
+  "tedarikci": "helmex",
+  "tedarikci_ad": "Helmex",
+  "tedarikci_kodu": "",
+  "katalog": "kaynaklar/helmex/helmex-katalog-2023.pdf"
+ }
+}

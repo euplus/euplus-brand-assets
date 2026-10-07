@@ -1,0 +1,61 @@
+{
+ "stok_kodu": "HX-END-HAVLU",
+ "baslik": "Endüstriyel havlu",
+ "urun_adi": "Endüstriyel havlu",
+ "kategori": "Peçete ve Kağıt Havlu",
+ "kategori_en": "Napkins & Towels",
+ "katalog": "fastfood",
+ "tur": "pecete",
+ "olcu_mm": "",
+ "hacim_cc": "",
+ "hacim": "",
+ "materyal": "%100 selüloz",
+ "agiz_capi_mm": "",
+ "dip_capi_mm": "",
+ "yukseklik_mm": "",
+ "agirlik_g": "",
+ "fisek_ici_adet": "",
+ "koli_olcusu_mm": "",
+ "koli_ici_adet": "1",
+ "koli_net_kg": "",
+ "palet_koli": "",
+ "koli_secenekleri": [],
+ "min_siparis": "1 adet (1 koli)",
+ "gsm": "23",
+ "moq": "",
+ "varyantlar": [],
+ "not": "",
+ "aciklama": [
+  "Endüstriyel havlu, %100 selüloz kağıt üründür. Restoran, kafe ve paket servis için uygundur.",
+  "Teknik özellikler: %100 selüloz hammadde, 23.",
+  "Markanıza özel baskı ve etiket seçeneği için bizimle iletişime geçin.",
+  "Toptan satış koli bazındadır: bir kolide 1 adet."
+ ],
+ "aciklama_html": "<p>Endüstriyel havlu, %100 selüloz kağıt üründür. Restoran, kafe ve paket servis için uygundur.</p>\n<p>Teknik özellikler: %100 selüloz hammadde, 23.</p>\n<p>Markanıza özel baskı ve etiket seçeneği için bizimle iletişime geçin.</p>\n<p>Toptan satış koli bazındadır: bir kolide 1 adet.</p>",
+ "etiketler": [
+  "endüstriyel havlu",
+  "peçete",
+  "kağıt havlu",
+  "dispenser peçete",
+  "selüloz peçete",
+  "restoran peçetesi",
+  "fast food ambalajı",
+  "paket servis ambalajı",
+  "restoran ambalajı",
+  "toptan ambalaj",
+  "hx-end-havlu"
+ ],
+ "marka": "EUPLUS",
+ "gorseller": {
+  "jpg": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/hx-end-havlu-endustriyel-havlu/hx-end-havlu-endustriyel-havlu.jpg",
+  "png": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/hx-end-havlu-endustriyel-havlu/hx-end-havlu-endustriyel-havlu.png",
+  "png_seffaf": false,
+  "not": "Kategori tanıtım fotoğrafı; ürüne özel fotoğraf yok"
+ },
+ "kaynak": {
+  "tedarikci": "helmex",
+  "tedarikci_ad": "Helmex",
+  "tedarikci_kodu": "",
+  "katalog": "kaynaklar/helmex/helmex-katalog-2023.pdf"
+ }
+}

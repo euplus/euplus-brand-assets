@@ -19,6 +19,6 @@ Toptan satış koli bazındadır: bir kolide 500 adet.
 | Koli içi adet | 500 |
 | Not | Yudum kapağı ağzını kapatan tıpa |
 
-**Etiketler:** `kapak tıpası pp 50 mm (siyah / beyaz)`, `kapak tıpası`, `bardak kapağı tıpası`, `kahve kapağı tıpası`, `plastik tıpa`, `yudum kapağı tıpası`, `paket servis ambalajı`, `plastik ambalaj`, `toptan ambalaj`, `pc-tıpa50`
+**Etiketler:** `kapak tıpası pp 50 mm (siyah / beyaz)`, `kapak tıpası`, `bardak kapağı tıpası`, `kahve kapağı tıpası`, `plastik tıpa`, `yudum kapağı tıpası`, `paket servis ambalajı`, `plastik ambalaj`, `toptan ambalaj`, `pc-tipa50`
 
 **Görseller:** [JPG (1200×1200, beyaz zemin)](pc-tipa50-kapak-tipasi-pp-50-mm-siyah-beyaz.jpg) · [PNG (opak, kategori fotoğrafı)](pc-tipa50-kapak-tipasi-pp-50-mm-siyah-beyaz.png)

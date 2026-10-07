@@ -34,6 +34,8 @@ katalog/urunler.json         katalog kaynak verisi — ürün metinlerinin TEK d
 katalog/gorseller/           ürün görselleri: cp*.png şeffaf; pc-*.png şeffaf, pc-*.jpg opak tanıtım fotoğrafı
 katalog/build_katalog.py     PDF katalog üretici — şeffaf sunum kapları (katalog="seffaf")
 katalog/build_katalog_servis.py  PDF katalog üretici — paket servis (katalog="servis"), bölüm başına tek sayfa
+katalog/build_katalog_fastfood.py  PDF katalog üretici — fast food (katalog="fastfood"), genel tablo motoru:
+                             bölümün `sutunlar`/`tablolar` tanımına göre çizer, uzun tablolar sayfaya taşar; 2 geçişli sayfa no
 katalog/build_urunler.py     urunler/ altındaki her şeyi üreten betik
 preview/tum-logolar.png      logo önizlemesi
 index.html                   Pages sayfası · README.md kullanım kılavuzu
@@ -44,6 +46,9 @@ Vektör aslı bulunursa SVG'yi koyup 512/1024/2048 PNG'leri ondan üret, 300'lü
 Mevcut tedarikçiler: crystal-pack (93 ürün, kod öneki `CP`, katalog "seffaf"),
 promocup (72 ürün, kod öneki `PC`, katalog "servis"; tedarikçi kodu olanlarda `PC-<kod>`, diğerlerinde
 `PC-<tip><ölçü>` türetildi, bkz. `kaynaklar/promocup/tedarikci.json` → `kod_notu`).
+helmex (81 ürün / 258 ölçü satırı, kod öneki `HX`, katalog "fastfood"; İngilizce 2023 kataloğu, 64 sayfa raster).
+Helmex ürünlerinde ölçü tablosu olanlar tek ürün + `varyantlar[]` (her varyant bölümün sütun anahtarlarını taşır);
+bölümler `grup` (1 karton, 2 kağıt, 3 tamamlayıcı) ile katalogda ayırıcı sayfaya bölünür.
 Ayrıca eski iki ürün: bardak-kilifi-siyah, bardak-kilifi-kraft (elle yazılmış, betik üretmez).
 
 ## Yeni katalog/görsel geldiğinde (ana iş akışı)
@@ -78,6 +83,11 @@ Kullanıcı `gelen/` klasörüne dosya bırakır ya da sohbete gönderir. Sıray
 - Renkli düz zemin (pembe panel) → floodfill eşiği ~22 + 400 px altı adacıkları sil; gölgedeki zemin
   tonunu "pembelik" (r − (g+b)/2 > 8) ile yakalayıp griye çevir. Beyaz ürünlerde zemine yakın renkleri
   global olarak silme — kutunun gri gölgelenmesini deler; yalnız köşelerden bağlı bölgeyi sil.
+- Tedarikçi logosu basılı mockup'lar (Helmex): OpenCV Telea inpainting. Çok renkli amblemi doygunluk +
+  renk çeşitliliğiyle bul, soluna yazı için ROI aç, ROI'de yerel zeminden farklı pikselleri maskele (eşik 55,
+  sonra 26 ile ikinci geçiş). Perspektifli / büyük logolarda otomatik ROI yetmez; grid çizip elle ROI ver.
+  Gri yazı ve yarı saydam logo düşük eşik (20–35) ister. Kıvrımlı yüzeyde büyük logo (kova, bardak kılıfı)
+  inpainting ile kurtulmaz → o mockup'ı kullanma, kategori fotoğrafını kullan.
 - Turuncu gibi doygun zemin → kroma uzayında (rgb/toplam) renk anahtarı; paneli kenarından 10 px
   içeriden kırp (anti-alias saçak), alfayı 2 px aşındır. Degrade zeminde şeffaf ürün (PET kapak) → opak bırak.
 - Beyaz zemin → şeffaf çevirirken floodfill eşiği 14 iyi çalışır; açık renkli/şeffaf
@@ -114,3 +124,4 @@ ve bölümden türetilir, ürün başına 13-14 adet.
 - Renk kodlarını README'deki tablodan al; uydurma.
 - Push öncesi `git status` temiz olsun; PNG'ler `.gitattributes` ile binary işaretli.
 - `Claude outputs/` (müşteri teklif PDF'leri vb.) `.gitignore`'da; public depoya girmez.
+- Tedarikçi mockup'larındaki tedarikçi logosu kaldırılır (kullanıcı kararı); kaynak PDF'e dokunulmaz.

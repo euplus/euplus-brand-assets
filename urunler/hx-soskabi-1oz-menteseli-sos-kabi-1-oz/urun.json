@@ -1,0 +1,61 @@
+{
+ "stok_kodu": "HX-SOSKABI-1OZ",
+ "baslik": "Menteşeli Sos Kabı 1 oz",
+ "urun_adi": "Menteşeli Sos Kabı 1 oz",
+ "kategori": "Menteşeli Sos Kapları",
+ "kategori_en": "PP Hinged Lid Sauce Pots",
+ "katalog": "fastfood",
+ "tur": "sos-kabi",
+ "olcu_mm": "",
+ "hacim_cc": "",
+ "hacim": "1 oz",
+ "materyal": "PP, şeffaf",
+ "agiz_capi_mm": "",
+ "dip_capi_mm": "",
+ "yukseklik_mm": "",
+ "agirlik_g": "",
+ "fisek_ici_adet": "",
+ "koli_olcusu_mm": "510x240x265",
+ "koli_ici_adet": "1.000",
+ "koli_net_kg": "",
+ "palet_koli": "72",
+ "koli_secenekleri": [],
+ "min_siparis": "1.000 adet (1 koli)",
+ "gsm": "",
+ "moq": "",
+ "varyantlar": [],
+ "not": "",
+ "aciklama": [
+  "Menteşeli Sos Kabı 1 oz, menteşeli kapaklı şeffaf PP sos kabıdır. Sos, ketçap ve mayonez servisi için uygundur.",
+  "Teknik özellikler: hacim 1 oz, PP, şeffaf hammadde.",
+  "Palet 80×120 cm.",
+  "Toptan satış koli bazındadır: bir kolide 1.000 adet, koli ölçüsü 510 × 240 × 265 mm, bir palete 72 koli."
+ ],
+ "aciklama_html": "<p>Menteşeli Sos Kabı 1 oz, menteşeli kapaklı şeffaf PP sos kabıdır. Sos, ketçap ve mayonez servisi için uygundur.</p>\n<p>Teknik özellikler: hacim 1 oz, PP, şeffaf hammadde.</p>\n<p>Palet 80×120 cm.</p>\n<p>Toptan satış koli bazındadır: bir kolide 1.000 adet, koli ölçüsü 510 × 240 × 265 mm, bir palete 72 koli.</p>",
+ "etiketler": [
+  "menteşeli sos kabı 1 oz",
+  "sos kabı",
+  "menteşeli sos kabı",
+  "ketçap kabı",
+  "plastik sos kabı",
+  "tek kullanımlık sos kabı",
+  "fast food ambalajı",
+  "paket servis ambalajı",
+  "restoran ambalajı",
+  "toptan ambalaj",
+  "hx-soskabi-1oz"
+ ],
+ "marka": "EUPLUS",
+ "gorseller": {
+  "jpg": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/hx-soskabi-1oz-menteseli-sos-kabi-1-oz/hx-soskabi-1oz-menteseli-sos-kabi-1-oz.jpg",
+  "png": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/hx-soskabi-1oz-menteseli-sos-kabi-1-oz/hx-soskabi-1oz-menteseli-sos-kabi-1-oz.png",
+  "png_seffaf": false,
+  "not": "Kategori tanıtım fotoğrafı; ürüne özel fotoğraf yok"
+ },
+ "kaynak": {
+  "tedarikci": "helmex",
+  "tedarikci_ad": "Helmex",
+  "tedarikci_kodu": "",
+  "katalog": "kaynaklar/helmex/helmex-katalog-2023.pdf"
+ }
+}

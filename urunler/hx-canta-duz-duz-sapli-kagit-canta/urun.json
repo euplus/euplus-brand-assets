@@ -1,0 +1,207 @@
+{
+ "stok_kodu": "HX-CANTA-DUZ",
+ "baslik": "Düz Saplı Kağıt Çanta",
+ "urun_adi": "Düz Saplı Kağıt Çanta",
+ "kategori": "Düz Saplı Kağıt Çantalar",
+ "kategori_en": "Flat Handle Bags",
+ "katalog": "fastfood",
+ "tur": "canta-hx",
+ "olcu_mm": "18x10x33 – 46x16x46 cm",
+ "hacim_cc": "",
+ "hacim": "",
+ "materyal": "70-80-90-100 gsm kraft / beyaz kağıt",
+ "agiz_capi_mm": "",
+ "dip_capi_mm": "",
+ "yukseklik_mm": "",
+ "agirlik_g": "",
+ "fisek_ici_adet": "",
+ "koli_olcusu_mm": "",
+ "koli_ici_adet": "",
+ "koli_net_kg": "",
+ "palet_koli": "",
+ "koli_secenekleri": [],
+ "min_siparis": "20.000 adet",
+ "gsm": "",
+ "moq": "20.000",
+ "varyantlar": [
+  {
+   "olcu": "18x10x33",
+   "gsm": "70-80-90-100 gsm",
+   "renk": "beyaz / kahve",
+   "baski": "flekso",
+   "moq": "20.000",
+   "ad": "Düz Saplı Çanta 18x10x33"
+  },
+  {
+   "olcu": "18x12x32",
+   "gsm": "70-80-90-100 gsm",
+   "renk": "beyaz / kahve",
+   "baski": "flekso",
+   "moq": "20.000",
+   "ad": "Düz Saplı Çanta 18x12x32"
+  },
+  {
+   "olcu": "18x12x42",
+   "gsm": "70-80-90-100 gsm",
+   "renk": "beyaz / kahve",
+   "baski": "flekso",
+   "moq": "20.000",
+   "ad": "Düz Saplı Çanta 18x12x42"
+  },
+  {
+   "olcu": "18x9x29,5",
+   "gsm": "70-80-90-100 gsm",
+   "renk": "beyaz / kahve",
+   "baski": "flekso",
+   "moq": "20.000",
+   "ad": "Düz Saplı Çanta 18x9x29,5"
+  },
+  {
+   "olcu": "22x12x28",
+   "gsm": "70-80-90-100 gsm",
+   "renk": "beyaz / kahve",
+   "baski": "flekso",
+   "moq": "20.000",
+   "ad": "Düz Saplı Çanta 22x12x28"
+  },
+  {
+   "olcu": "22x22x37",
+   "gsm": "70-80-90-100 gsm",
+   "renk": "beyaz / kahve",
+   "baski": "flekso",
+   "moq": "20.000",
+   "ad": "Düz Saplı Çanta 22x22x37"
+  },
+  {
+   "olcu": "25x14x31",
+   "gsm": "70-80-90-100 gsm",
+   "renk": "beyaz / kahve",
+   "baski": "flekso",
+   "moq": "20.000",
+   "ad": "Düz Saplı Çanta 25x14x31"
+  },
+  {
+   "olcu": "25x14x36",
+   "gsm": "70-80-90-100 gsm",
+   "renk": "beyaz / kahve",
+   "baski": "flekso",
+   "moq": "20.000",
+   "ad": "Düz Saplı Çanta 25x14x36"
+  },
+  {
+   "olcu": "27x17x29,5",
+   "gsm": "70-80-90-100 gsm",
+   "renk": "beyaz / kahve",
+   "baski": "flekso",
+   "moq": "20.000",
+   "ad": "Düz Saplı Çanta 27x17x29,5"
+  },
+  {
+   "olcu": "27x17x43,5",
+   "gsm": "70-80-90-100 gsm",
+   "renk": "beyaz / kahve",
+   "baski": "flekso",
+   "moq": "20.000",
+   "ad": "Düz Saplı Çanta 27x17x43,5"
+  },
+  {
+   "olcu": "27x22x53",
+   "gsm": "70-80-90-100 gsm",
+   "renk": "beyaz / kahve",
+   "baski": "flekso",
+   "moq": "20.000",
+   "ad": "Düz Saplı Çanta 27x22x53"
+  },
+  {
+   "olcu": "30x25x45",
+   "gsm": "70-80-90-100 gsm",
+   "renk": "beyaz / kahve",
+   "baski": "flekso",
+   "moq": "20.000",
+   "ad": "Düz Saplı Çanta 30x25x45"
+  },
+  {
+   "olcu": "32x16x35",
+   "gsm": "70-80-90-100 gsm",
+   "renk": "beyaz / kahve",
+   "baski": "flekso",
+   "moq": "20.000",
+   "ad": "Düz Saplı Çanta 32x16x35"
+  },
+  {
+   "olcu": "32x22x34",
+   "gsm": "70-80-90-100 gsm",
+   "renk": "beyaz / kahve",
+   "baski": "flekso",
+   "moq": "20.000",
+   "ad": "Düz Saplı Çanta 32x22x34"
+  },
+  {
+   "olcu": "32x22x37",
+   "gsm": "70-80-90-100 gsm",
+   "renk": "beyaz / kahve",
+   "baski": "flekso",
+   "moq": "20.000",
+   "ad": "Düz Saplı Çanta 32x22x37"
+  },
+  {
+   "olcu": "40x22x42",
+   "gsm": "70-80-90-100 gsm",
+   "renk": "beyaz / kahve",
+   "baski": "flekso",
+   "moq": "20.000",
+   "ad": "Düz Saplı Çanta 40x22x42"
+  },
+  {
+   "olcu": "46x16x40",
+   "gsm": "70-80-90-100 gsm",
+   "renk": "beyaz / kahve",
+   "baski": "flekso",
+   "moq": "20.000",
+   "ad": "Düz Saplı Çanta 46x16x40"
+  },
+  {
+   "olcu": "46x16x46",
+   "gsm": "70-80-90-100 gsm",
+   "renk": "beyaz / kahve",
+   "baski": "flekso",
+   "moq": "20.000",
+   "ad": "Düz Saplı Çanta 46x16x46"
+  }
+ ],
+ "not": "",
+ "aciklama": [
+  "Düz Saplı Kağıt Çanta, saplı kağıt taşıma çantasıdır. Paket servis ve mağaza taşıması için uygundur.",
+  "Teknik özellikler: ölçü 18 × 10 × 33 – 46 × 16 × 46 cm, 70-80-90-100 gsm kraft / beyaz kağıt hammadde.",
+  "Gıdayla temasa uygun kağıt; beyaz veya kahve. Flekso ya da ofset baskı ile markanıza özel üretilir; standart ölçüler dışındaki talepler için özel üretim yapılır.",
+  "18 standart ölçü / seçenek: 18x10x33, 18x12x32, 18x12x42, 18x9x29,5, 22x12x28, 22x22x37, 25x14x31, 25x14x36, 27x17x29,5, 27x17x43,5, 27x22x53, 30x25x45, 32x16x35, 32x22x34, 32x22x37, 40x22x42, 46x16x40, 46x16x46.",
+  "Siparişe özel üretimdir; minimum sipariş 20.000 adet."
+ ],
+ "aciklama_html": "<p>Düz Saplı Kağıt Çanta, saplı kağıt taşıma çantasıdır. Paket servis ve mağaza taşıması için uygundur.</p>\n<p>Teknik özellikler: ölçü 18 × 10 × 33 – 46 × 16 × 46 cm, 70-80-90-100 gsm kraft / beyaz kağıt hammadde.</p>\n<p>Gıdayla temasa uygun kağıt; beyaz veya kahve. Flekso ya da ofset baskı ile markanıza özel üretilir; standart ölçüler dışındaki talepler için özel üretim yapılır.</p>\n<p>18 standart ölçü / seçenek: 18x10x33, 18x12x32, 18x12x42, 18x9x29,5, 22x12x28, 22x22x37, 25x14x31, 25x14x36, 27x17x29,5, 27x17x43,5, 27x22x53, 30x25x45, 32x16x35, 32x22x34, 32x22x37, 40x22x42, 46x16x40, 46x16x46.</p>\n<p>Siparişe özel üretimdir; minimum sipariş 20.000 adet.</p>",
+ "etiketler": [
+  "düz saplı kağıt çanta",
+  "kağıt çanta",
+  "kraft çanta",
+  "saplı kağıt çanta",
+  "paket servis çantası",
+  "baskılı kağıt çanta",
+  "fast food ambalajı",
+  "paket servis ambalajı",
+  "restoran ambalajı",
+  "toptan ambalaj",
+  "hx-canta-duz"
+ ],
+ "marka": "EUPLUS",
+ "gorseller": {
+  "jpg": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/hx-canta-duz-duz-sapli-kagit-canta/hx-canta-duz-duz-sapli-kagit-canta.jpg",
+  "png": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/hx-canta-duz-duz-sapli-kagit-canta/hx-canta-duz-duz-sapli-kagit-canta.png",
+  "png_seffaf": false,
+  "not": "Kategori tanıtım fotoğrafı; ürüne özel fotoğraf yok"
+ },
+ "kaynak": {
+  "tedarikci": "helmex",
+  "tedarikci_ad": "Helmex",
+  "tedarikci_kodu": "",
+  "katalog": "kaynaklar/helmex/helmex-katalog-2023.pdf"
+ }
+}

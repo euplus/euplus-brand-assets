@@ -1,0 +1,84 @@
+{
+ "stok_kodu": "HX-DISP-PECETE",
+ "baslik": "Dispenser peçete",
+ "urun_adi": "Dispenser peçete",
+ "kategori": "Peçete ve Kağıt Havlu",
+ "kategori_en": "Napkins & Towels",
+ "katalog": "fastfood",
+ "tur": "pecete",
+ "olcu_mm": "",
+ "hacim_cc": "",
+ "hacim": "",
+ "materyal": "%100 selüloz",
+ "agiz_capi_mm": "",
+ "dip_capi_mm": "",
+ "yukseklik_mm": "",
+ "agirlik_g": "",
+ "fisek_ici_adet": "",
+ "koli_olcusu_mm": "",
+ "koli_ici_adet": "",
+ "koli_net_kg": "",
+ "palet_koli": "",
+ "koli_secenekleri": [],
+ "min_siparis": "Bizimle iletişime geçin",
+ "gsm": "",
+ "moq": "",
+ "varyantlar": [
+  {
+   "ad": "Dispenser peçete",
+   "en": "23",
+   "boy": "21",
+   "katlama": "dispenser",
+   "baski": "-",
+   "kat": "1",
+   "gsm": "17",
+   "paket": "200",
+   "koli_ici": "18"
+  },
+  {
+   "ad": "Dispenser peçete",
+   "en": "23",
+   "boy": "21",
+   "katlama": "dispenser",
+   "baski": "-",
+   "kat": "1",
+   "gsm": "17",
+   "paket": "250",
+   "koli_ici": "18"
+  }
+ ],
+ "not": "",
+ "aciklama": [
+  "Dispenser peçete, %100 selüloz kağıt üründür. Restoran, kafe ve paket servis için uygundur.",
+  "Teknik özellikler: %100 selüloz hammadde.",
+  "Markanıza özel baskı ve etiket seçeneği için bizimle iletişime geçin.",
+  "2 standart ölçü / seçenek: 23×21, 23×21.",
+  "Sipariş adedi, koli düzeni ve teslimat için bizimle iletişime geçin."
+ ],
+ "aciklama_html": "<p>Dispenser peçete, %100 selüloz kağıt üründür. Restoran, kafe ve paket servis için uygundur.</p>\n<p>Teknik özellikler: %100 selüloz hammadde.</p>\n<p>Markanıza özel baskı ve etiket seçeneği için bizimle iletişime geçin.</p>\n<p>2 standart ölçü / seçenek: 23×21, 23×21.</p>\n<p>Sipariş adedi, koli düzeni ve teslimat için bizimle iletişime geçin.</p>",
+ "etiketler": [
+  "dispenser peçete",
+  "peçete",
+  "kağıt havlu",
+  "selüloz peçete",
+  "restoran peçetesi",
+  "fast food ambalajı",
+  "paket servis ambalajı",
+  "restoran ambalajı",
+  "toptan ambalaj",
+  "hx-disp-pecete"
+ ],
+ "marka": "EUPLUS",
+ "gorseller": {
+  "jpg": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/hx-disp-pecete-dispenser-pecete/hx-disp-pecete-dispenser-pecete.jpg",
+  "png": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/hx-disp-pecete-dispenser-pecete/hx-disp-pecete-dispenser-pecete.png",
+  "png_seffaf": false,
+  "not": "Kategori tanıtım fotoğrafı; ürüne özel fotoğraf yok"
+ },
+ "kaynak": {
+  "tedarikci": "helmex",
+  "tedarikci_ad": "Helmex",
+  "tedarikci_kodu": "",
+  "katalog": "kaynaklar/helmex/helmex-katalog-2023.pdf"
+ }
+}

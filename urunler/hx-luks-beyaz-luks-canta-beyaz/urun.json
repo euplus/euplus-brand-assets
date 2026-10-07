@@ -1,0 +1,323 @@
+{
+ "stok_kodu": "HX-LUKS-BEYAZ",
+ "baslik": "Lüks Çanta (beyaz)",
+ "urun_adi": "Lüks Çanta (beyaz)",
+ "kategori": "Lüks Çantalar",
+ "kategori_en": "Luxury Bags",
+ "katalog": "fastfood",
+ "tur": "luks-canta",
+ "olcu_mm": "8x6x18 – 55x12x38 cm",
+ "hacim_cc": "",
+ "hacim": "",
+ "materyal": "210 / 250 / 300 gsm, mat veya parlak laminasyon",
+ "agiz_capi_mm": "",
+ "dip_capi_mm": "",
+ "yukseklik_mm": "",
+ "agirlik_g": "",
+ "fisek_ici_adet": "",
+ "koli_olcusu_mm": "",
+ "koli_ici_adet": "",
+ "koli_net_kg": "",
+ "palet_koli": "",
+ "koli_secenekleri": [],
+ "min_siparis": "250 adet",
+ "gsm": "",
+ "moq": "250",
+ "varyantlar": [
+  {
+   "seri": "Beyaz",
+   "olcu": "8x6x18",
+   "gsm": "210-250-300 gsm",
+   "renk": "dış beyaz – iç beyaz",
+   "laminasyon": "mat / parlak",
+   "baski": "CMYK ofset (4-2-1)",
+   "moq": "250",
+   "ad": "Lüks Beyaz Çanta 8x6x18"
+  },
+  {
+   "seri": "Beyaz",
+   "olcu": "11x5x17",
+   "gsm": "210-250-300 gsm",
+   "renk": "dış beyaz – iç beyaz",
+   "laminasyon": "mat / parlak",
+   "baski": "CMYK ofset (4-2-1)",
+   "moq": "250",
+   "ad": "Lüks Beyaz Çanta 11x5x17"
+  },
+  {
+   "seri": "Beyaz",
+   "olcu": "13,5x7x19,5",
+   "gsm": "210-250-300 gsm",
+   "renk": "dış beyaz – iç beyaz",
+   "laminasyon": "mat / parlak",
+   "baski": "CMYK ofset (4-2-1)",
+   "moq": "250",
+   "ad": "Lüks Beyaz Çanta 13,5x7x19,5"
+  },
+  {
+   "seri": "Beyaz",
+   "olcu": "13x13x30",
+   "gsm": "210-250-300 gsm",
+   "renk": "dış beyaz – iç beyaz",
+   "laminasyon": "mat / parlak",
+   "baski": "CMYK ofset (4-2-1)",
+   "moq": "250",
+   "ad": "Lüks Beyaz Çanta 13x13x30"
+  },
+  {
+   "seri": "Beyaz",
+   "olcu": "15x8x20",
+   "gsm": "210-250-300 gsm",
+   "renk": "dış beyaz – iç beyaz",
+   "laminasyon": "mat / parlak",
+   "baski": "CMYK ofset (4-2-1)",
+   "moq": "250",
+   "ad": "Lüks Beyaz Çanta 15x8x20"
+  },
+  {
+   "seri": "Beyaz",
+   "olcu": "17x10x25",
+   "gsm": "210-250-300 gsm",
+   "renk": "dış beyaz – iç beyaz",
+   "laminasyon": "mat / parlak",
+   "baski": "CMYK ofset (4-2-1)",
+   "moq": "250",
+   "ad": "Lüks Beyaz Çanta 17x10x25"
+  },
+  {
+   "seri": "Beyaz",
+   "olcu": "17x7x17",
+   "gsm": "210-250-300 gsm",
+   "renk": "dış beyaz – iç beyaz",
+   "laminasyon": "mat / parlak",
+   "baski": "CMYK ofset (4-2-1)",
+   "moq": "250",
+   "ad": "Lüks Beyaz Çanta 17x7x17"
+  },
+  {
+   "seri": "Beyaz",
+   "olcu": "18x8x23",
+   "gsm": "210-250-300 gsm",
+   "renk": "dış beyaz – iç beyaz",
+   "laminasyon": "mat / parlak",
+   "baski": "CMYK ofset (4-2-1)",
+   "moq": "250",
+   "ad": "Lüks Beyaz Çanta 18x8x23"
+  },
+  {
+   "seri": "Beyaz",
+   "olcu": "19x15x16",
+   "gsm": "210-250-300 gsm",
+   "renk": "dış beyaz – iç beyaz",
+   "laminasyon": "mat / parlak",
+   "baski": "CMYK ofset (4-2-1)",
+   "moq": "250",
+   "ad": "Lüks Beyaz Çanta 19x15x16"
+  },
+  {
+   "seri": "Beyaz",
+   "olcu": "19x9,5x24",
+   "gsm": "210-250-300 gsm",
+   "renk": "dış beyaz – iç beyaz",
+   "laminasyon": "mat / parlak",
+   "baski": "CMYK ofset (4-2-1)",
+   "moq": "250",
+   "ad": "Lüks Beyaz Çanta 19x9,5x24"
+  },
+  {
+   "seri": "Beyaz",
+   "olcu": "21x11x21",
+   "gsm": "210-250-300 gsm",
+   "renk": "dış beyaz – iç beyaz",
+   "laminasyon": "mat / parlak",
+   "baski": "CMYK ofset (4-2-1)",
+   "moq": "250",
+   "ad": "Lüks Beyaz Çanta 21x11x21"
+  },
+  {
+   "seri": "Beyaz",
+   "olcu": "21x13x35",
+   "gsm": "210-250-300 gsm",
+   "renk": "dış beyaz – iç beyaz",
+   "laminasyon": "mat / parlak",
+   "baski": "CMYK ofset (4-2-1)",
+   "moq": "250",
+   "ad": "Lüks Beyaz Çanta 21x13x35"
+  },
+  {
+   "seri": "Beyaz",
+   "olcu": "24x10x35",
+   "gsm": "210-250-300 gsm",
+   "renk": "dış beyaz – iç beyaz",
+   "laminasyon": "mat / parlak",
+   "baski": "CMYK ofset (4-2-1)",
+   "moq": "250",
+   "ad": "Lüks Beyaz Çanta 24x10x35"
+  },
+  {
+   "seri": "Beyaz",
+   "olcu": "25x10x24",
+   "gsm": "210-250-300 gsm",
+   "renk": "dış beyaz – iç beyaz",
+   "laminasyon": "mat / parlak",
+   "baski": "CMYK ofset (4-2-1)",
+   "moq": "250",
+   "ad": "Lüks Beyaz Çanta 25x10x24"
+  },
+  {
+   "seri": "Beyaz",
+   "olcu": "26x26x18",
+   "gsm": "210-250-300 gsm",
+   "renk": "dış beyaz – iç beyaz",
+   "laminasyon": "mat / parlak",
+   "baski": "CMYK ofset (4-2-1)",
+   "moq": "250",
+   "ad": "Lüks Beyaz Çanta 26x26x18"
+  },
+  {
+   "seri": "Beyaz",
+   "olcu": "26x7,5x39,5",
+   "gsm": "210-250-300 gsm",
+   "renk": "dış beyaz – iç beyaz",
+   "laminasyon": "mat / parlak",
+   "baski": "CMYK ofset (4-2-1)",
+   "moq": "250",
+   "ad": "Lüks Beyaz Çanta 26x7,5x39,5"
+  },
+  {
+   "seri": "Beyaz",
+   "olcu": "30x10x25",
+   "gsm": "210-250-300 gsm",
+   "renk": "dış beyaz – iç beyaz",
+   "laminasyon": "mat / parlak",
+   "baski": "CMYK ofset (4-2-1)",
+   "moq": "250",
+   "ad": "Lüks Beyaz Çanta 30x10x25"
+  },
+  {
+   "seri": "Beyaz",
+   "olcu": "30x18x20",
+   "gsm": "210-250-300 gsm",
+   "renk": "dış beyaz – iç beyaz",
+   "laminasyon": "mat / parlak",
+   "baski": "CMYK ofset (4-2-1)",
+   "moq": "250",
+   "ad": "Lüks Beyaz Çanta 30x18x20"
+  },
+  {
+   "seri": "Beyaz",
+   "olcu": "34,5x14x40",
+   "gsm": "210-250-300 gsm",
+   "renk": "dış beyaz – iç beyaz",
+   "laminasyon": "mat / parlak",
+   "baski": "CMYK ofset (4-2-1)",
+   "moq": "250",
+   "ad": "Lüks Beyaz Çanta 34,5x14x40"
+  },
+  {
+   "seri": "Beyaz",
+   "olcu": "35x12x55",
+   "gsm": "210-250-300 gsm",
+   "renk": "dış beyaz – iç beyaz",
+   "laminasyon": "mat / parlak",
+   "baski": "CMYK ofset (4-2-1)",
+   "moq": "250",
+   "ad": "Lüks Beyaz Çanta 35x12x55"
+  },
+  {
+   "seri": "Beyaz",
+   "olcu": "35x30x20",
+   "gsm": "210-250-300 gsm",
+   "renk": "dış beyaz – iç beyaz",
+   "laminasyon": "mat / parlak",
+   "baski": "CMYK ofset (4-2-1)",
+   "moq": "250",
+   "ad": "Lüks Beyaz Çanta 35x30x20"
+  },
+  {
+   "seri": "Beyaz",
+   "olcu": "36x10x24",
+   "gsm": "210-250-300 gsm",
+   "renk": "dış beyaz – iç beyaz",
+   "laminasyon": "mat / parlak",
+   "baski": "CMYK ofset (4-2-1)",
+   "moq": "250",
+   "ad": "Lüks Beyaz Çanta 36x10x24"
+  },
+  {
+   "seri": "Beyaz",
+   "olcu": "38x9x23",
+   "gsm": "210-250-300 gsm",
+   "renk": "dış beyaz – iç beyaz",
+   "laminasyon": "mat / parlak",
+   "baski": "CMYK ofset (4-2-1)",
+   "moq": "250",
+   "ad": "Lüks Beyaz Çanta 38x9x23"
+  },
+  {
+   "seri": "Beyaz",
+   "olcu": "45x13x35",
+   "gsm": "210-250-300 gsm",
+   "renk": "dış beyaz – iç beyaz",
+   "laminasyon": "mat / parlak",
+   "baski": "CMYK ofset (4-2-1)",
+   "moq": "250",
+   "ad": "Lüks Beyaz Çanta 45x13x35"
+  },
+  {
+   "seri": "Beyaz",
+   "olcu": "50x10x35",
+   "gsm": "210-250-300 gsm",
+   "renk": "dış beyaz – iç beyaz",
+   "laminasyon": "mat / parlak",
+   "baski": "CMYK ofset (4-2-1)",
+   "moq": "250",
+   "ad": "Lüks Beyaz Çanta 50x10x35"
+  },
+  {
+   "seri": "Beyaz",
+   "olcu": "55x12x38",
+   "gsm": "210-250-300 gsm",
+   "renk": "dış beyaz – iç beyaz",
+   "laminasyon": "mat / parlak",
+   "baski": "CMYK ofset (4-2-1)",
+   "moq": "250",
+   "ad": "Lüks Beyaz Çanta 55x12x38"
+  }
+ ],
+ "not": "",
+ "aciklama": [
+  "Lüks Çanta (beyaz), ip saplı lüks kağıt çantadır. Mağaza, butik ve kurumsal hediye taşıması için uygundur.",
+  "Teknik özellikler: ölçü 8 × 6 × 18 – 55 × 12 × 38 cm, 210 / 250 / 300 gsm, mat veya parlak laminasyon hammadde.",
+  "Gıdayla temasa uygun kağıt; beyaz veya kahve. Flekso ya da ofset baskı ile markanıza özel üretilir; standart ölçüler dışındaki talepler için özel üretim yapılır.",
+  "26 standart ölçü / seçenek: 8x6x18, 11x5x17, 13,5x7x19,5, 13x13x30, 15x8x20, 17x10x25, 17x7x17, 18x8x23, 19x15x16, 19x9,5x24, 21x11x21, 21x13x35, 24x10x35, 25x10x24, 26x26x18, 26x7,5x39,5, 30x10x25, 30x18x20, 34,5x14x40, 35x12x55, 35x30x20, 36x10x24, 38x9x23, 45x13x35, 50x10x35, 55x12x38.",
+  "Siparişe özel üretimdir; minimum sipariş 250 adet."
+ ],
+ "aciklama_html": "<p>Lüks Çanta (beyaz), ip saplı lüks kağıt çantadır. Mağaza, butik ve kurumsal hediye taşıması için uygundur.</p>\n<p>Teknik özellikler: ölçü 8 × 6 × 18 – 55 × 12 × 38 cm, 210 / 250 / 300 gsm, mat veya parlak laminasyon hammadde.</p>\n<p>Gıdayla temasa uygun kağıt; beyaz veya kahve. Flekso ya da ofset baskı ile markanıza özel üretilir; standart ölçüler dışındaki talepler için özel üretim yapılır.</p>\n<p>26 standart ölçü / seçenek: 8x6x18, 11x5x17, 13,5x7x19,5, 13x13x30, 15x8x20, 17x10x25, 17x7x17, 18x8x23, 19x15x16, 19x9,5x24, 21x11x21, 21x13x35, 24x10x35, 25x10x24, 26x26x18, 26x7,5x39,5, 30x10x25, 30x18x20, 34,5x14x40, 35x12x55, 35x30x20, 36x10x24, 38x9x23, 45x13x35, 50x10x35, 55x12x38.</p>\n<p>Siparişe özel üretimdir; minimum sipariş 250 adet.</p>",
+ "etiketler": [
+  "lüks çanta (beyaz)",
+  "lüks çanta",
+  "ip saplı çanta",
+  "karton çanta",
+  "butik çantası",
+  "ofset baskılı çanta",
+  "fast food ambalajı",
+  "paket servis ambalajı",
+  "restoran ambalajı",
+  "toptan ambalaj",
+  "hx-luks-beyaz"
+ ],
+ "marka": "EUPLUS",
+ "gorseller": {
+  "jpg": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/hx-luks-beyaz-luks-canta-beyaz/hx-luks-beyaz-luks-canta-beyaz.jpg",
+  "png": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/hx-luks-beyaz-luks-canta-beyaz/hx-luks-beyaz-luks-canta-beyaz.png",
+  "png_seffaf": false,
+  "not": "Kategori tanıtım fotoğrafı; ürüne özel fotoğraf yok"
+ },
+ "kaynak": {
+  "tedarikci": "helmex",
+  "tedarikci_ad": "Helmex",
+  "tedarikci_kodu": "",
+  "katalog": "kaynaklar/helmex/helmex-katalog-2023.pdf"
+ }
+}

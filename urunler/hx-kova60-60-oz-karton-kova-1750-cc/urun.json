@@ -1,0 +1,61 @@
+{
+ "stok_kodu": "HX-KOVA60",
+ "baslik": "60 oz Karton Kova (1750 cc)",
+ "urun_adi": "60 oz Karton Kova (1750 cc)",
+ "kategori": "Karton Kovalar",
+ "kategori_en": "Paper Buckets",
+ "katalog": "fastfood",
+ "tur": "kova",
+ "olcu_mm": "150x125x132",
+ "hacim_cc": "1750",
+ "hacim": "1750",
+ "materyal": "250-300 gsm bristol + PE",
+ "agiz_capi_mm": "",
+ "dip_capi_mm": "",
+ "yukseklik_mm": "",
+ "agirlik_g": "",
+ "fisek_ici_adet": "",
+ "koli_olcusu_mm": "440x370x550",
+ "koli_ici_adet": "240",
+ "koli_net_kg": "",
+ "palet_koli": "24",
+ "koli_secenekleri": [],
+ "min_siparis": "240 adet (1 koli)",
+ "gsm": "",
+ "moq": "",
+ "varyantlar": [],
+ "not": "",
+ "aciklama": [
+  "60 oz Karton Kova (1750 cc), PE kaplı bristol karton kovadır. Kızarmış tavuk ve aile menüsü servisi için uygundur.",
+  "Teknik özellikler: ölçü 150 × 125 × 132 mm, hacim 1750 cc, 250-300 gsm bristol + PE hammadde.",
+  "Gıdayla temasa uygun karton; beyaz, kraft veya siyah yüzey seçeneği. Flekso, ofset ya da dijital baskı ile markanıza özel tasarım yapılır; standart ölçüler dışında talebe göre özel ölçü üretilir, tasarım ve numune 1–2 haftada hazırlanır.",
+  "Toptan satış koli bazındadır: bir kolide 240 adet, koli ölçüsü 440 × 370 × 550 mm, bir palete 24 koli."
+ ],
+ "aciklama_html": "<p>60 oz Karton Kova (1750 cc), PE kaplı bristol karton kovadır. Kızarmış tavuk ve aile menüsü servisi için uygundur.</p>\n<p>Teknik özellikler: ölçü 150 × 125 × 132 mm, hacim 1750 cc, 250-300 gsm bristol + PE hammadde.</p>\n<p>Gıdayla temasa uygun karton; beyaz, kraft veya siyah yüzey seçeneği. Flekso, ofset ya da dijital baskı ile markanıza özel tasarım yapılır; standart ölçüler dışında talebe göre özel ölçü üretilir, tasarım ve numune 1–2 haftada hazırlanır.</p>\n<p>Toptan satış koli bazındadır: bir kolide 240 adet, koli ölçüsü 440 × 370 × 550 mm, bir palete 24 koli.</p>",
+ "etiketler": [
+  "60 oz karton kova (1750 cc)",
+  "karton kova",
+  "tavuk kovası",
+  "aile menüsü kovası",
+  "kağıt kova",
+  "fast food kovası",
+  "fast food ambalajı",
+  "paket servis ambalajı",
+  "restoran ambalajı",
+  "toptan ambalaj",
+  "hx-kova60"
+ ],
+ "marka": "EUPLUS",
+ "gorseller": {
+  "jpg": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/hx-kova60-60-oz-karton-kova-1750-cc/hx-kova60-60-oz-karton-kova-1750-cc.jpg",
+  "png": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/hx-kova60-60-oz-karton-kova-1750-cc/hx-kova60-60-oz-karton-kova-1750-cc.png",
+  "png_seffaf": false,
+  "not": "Kategori tanıtım fotoğrafı; ürüne özel fotoğraf yok"
+ },
+ "kaynak": {
+  "tedarikci": "helmex",
+  "tedarikci_ad": "Helmex",
+  "tedarikci_kodu": "",
+  "katalog": "kaynaklar/helmex/helmex-katalog-2023.pdf"
+ }
+}

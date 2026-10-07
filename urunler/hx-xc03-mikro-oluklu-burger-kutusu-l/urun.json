@@ -1,0 +1,62 @@
+{
+ "stok_kodu": "HX-XC03",
+ "baslik": "Mikro Oluklu Burger Kutusu (L)",
+ "urun_adi": "Mikro Oluklu Burger Kutusu (L)",
+ "kategori": "Mikro Oluklu Burger Kutuları",
+ "kategori_en": "Micro Corrugated Takeaway Boxes",
+ "katalog": "fastfood",
+ "tur": "burger-kutusu",
+ "olcu_mm": "195x110x78",
+ "hacim_cc": "",
+ "hacim": "",
+ "materyal": "N dalga mikro oluklu mukavva (TL90/S85/MK110)",
+ "agiz_capi_mm": "",
+ "dip_capi_mm": "",
+ "yukseklik_mm": "",
+ "agirlik_g": "",
+ "fisek_ici_adet": "",
+ "koli_olcusu_mm": "500x570x300",
+ "koli_ici_adet": "250 (125x2)",
+ "koli_net_kg": "",
+ "palet_koli": "28",
+ "koli_secenekleri": [],
+ "min_siparis": "250 (125x2) adet (1 koli)",
+ "gsm": "N dalga TL90/S85/MK110",
+ "moq": "",
+ "varyantlar": [],
+ "not": "",
+ "aciklama": [
+  "Mikro Oluklu Burger Kutusu (L), kilitli kapaklı karton burger kutusudur. Hamburger, tost ve sandviç servisi için uygundur.",
+  "Teknik özellikler: ölçü 195 × 110 × 78 mm, N dalga mikro oluklu mukavva (TL90/S85/MK110) hammadde, N dalga TL90/S85/MK110.",
+  "Gıdayla temasa uygun karton; beyaz, kraft veya siyah yüzey seçeneği. Flekso, ofset ya da dijital baskı ile markanıza özel tasarım yapılır; standart ölçüler dışında talebe göre özel ölçü üretilir, tasarım ve numune 1–2 haftada hazırlanır.",
+  "Toptan satış koli bazındadır: bir kolide 250 (125x2) adet, koli ölçüsü 500 × 570 × 300 mm, bir palete 28 koli."
+ ],
+ "aciklama_html": "<p>Mikro Oluklu Burger Kutusu (L), kilitli kapaklı karton burger kutusudur. Hamburger, tost ve sandviç servisi için uygundur.</p>\n<p>Teknik özellikler: ölçü 195 × 110 × 78 mm, N dalga mikro oluklu mukavva (TL90/S85/MK110) hammadde, N dalga TL90/S85/MK110.</p>\n<p>Gıdayla temasa uygun karton; beyaz, kraft veya siyah yüzey seçeneği. Flekso, ofset ya da dijital baskı ile markanıza özel tasarım yapılır; standart ölçüler dışında talebe göre özel ölçü üretilir, tasarım ve numune 1–2 haftada hazırlanır.</p>\n<p>Toptan satış koli bazındadır: bir kolide 250 (125x2) adet, koli ölçüsü 500 × 570 × 300 mm, bir palete 28 koli.</p>",
+ "etiketler": [
+  "mikro oluklu burger kutusu (l)",
+  "hamburger kutusu",
+  "burger kutusu",
+  "karton hamburger kutusu",
+  "kraft burger kutusu",
+  "kilitli karton kutu",
+  "fast food kutusu",
+  "fast food ambalajı",
+  "paket servis ambalajı",
+  "restoran ambalajı",
+  "toptan ambalaj",
+  "hx-xc03"
+ ],
+ "marka": "EUPLUS",
+ "gorseller": {
+  "jpg": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/hx-xc03-mikro-oluklu-burger-kutusu-l/hx-xc03-mikro-oluklu-burger-kutusu-l.jpg",
+  "png": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/hx-xc03-mikro-oluklu-burger-kutusu-l/hx-xc03-mikro-oluklu-burger-kutusu-l.png",
+  "png_seffaf": false,
+  "not": "Kategori tanıtım fotoğrafı; ürüne özel fotoğraf yok"
+ },
+ "kaynak": {
+  "tedarikci": "helmex",
+  "tedarikci_ad": "Helmex",
+  "tedarikci_kodu": "XC03",
+  "katalog": "kaynaklar/helmex/helmex-katalog-2023.pdf"
+ }
+}

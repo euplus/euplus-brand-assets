@@ -1,0 +1,60 @@
+{
+ "stok_kodu": "HX-XCC04",
+ "baslik": "4'lü Bardak Taşıyıcı",
+ "urun_adi": "4'lü Bardak Taşıyıcı",
+ "kategori": "Bardak Kılıfı ve Taşıyıcı",
+ "kategori_en": "Sleeves & Cup Carriers",
+ "katalog": "fastfood",
+ "tur": "tasiyici",
+ "olcu_mm": "",
+ "hacim_cc": "",
+ "hacim": "",
+ "materyal": "Geri dönüştürülmüş kağıt hamuru",
+ "agiz_capi_mm": "",
+ "dip_capi_mm": "",
+ "yukseklik_mm": "",
+ "agirlik_g": "",
+ "fisek_ici_adet": "",
+ "koli_olcusu_mm": "595x315x560",
+ "koli_ici_adet": "210",
+ "koli_net_kg": "",
+ "palet_koli": "24",
+ "koli_secenekleri": [],
+ "min_siparis": "210 adet (1 koli)",
+ "gsm": "",
+ "moq": "",
+ "varyantlar": [],
+ "not": "",
+ "aciklama": [
+  "4'lü Bardak Taşıyıcı, geri dönüştürülmüş kağıt hamurundan bardak taşıyıcıdır. Birden fazla içeceğin güvenle taşınması için uygundur.",
+  "Teknik özellikler: Geri dönüştürülmüş kağıt hamuru hammadde.",
+  "Gıdayla temasa uygun karton; beyaz, kraft veya siyah yüzey seçeneği. Flekso, ofset ya da dijital baskı ile markanıza özel tasarım yapılır; standart ölçüler dışında talebe göre özel ölçü üretilir, tasarım ve numune 1–2 haftada hazırlanır.",
+  "Toptan satış koli bazındadır: bir kolide 210 adet, koli ölçüsü 595 × 315 × 560 mm, bir palete 24 koli."
+ ],
+ "aciklama_html": "<p>4'lü Bardak Taşıyıcı, geri dönüştürülmüş kağıt hamurundan bardak taşıyıcıdır. Birden fazla içeceğin güvenle taşınması için uygundur.</p>\n<p>Teknik özellikler: Geri dönüştürülmüş kağıt hamuru hammadde.</p>\n<p>Gıdayla temasa uygun karton; beyaz, kraft veya siyah yüzey seçeneği. Flekso, ofset ya da dijital baskı ile markanıza özel tasarım yapılır; standart ölçüler dışında talebe göre özel ölçü üretilir, tasarım ve numune 1–2 haftada hazırlanır.</p>\n<p>Toptan satış koli bazındadır: bir kolide 210 adet, koli ölçüsü 595 × 315 × 560 mm, bir palete 24 koli.</p>",
+ "etiketler": [
+  "4'lü bardak taşıyıcı",
+  "bardak taşıyıcı",
+  "viyol",
+  "cup holder",
+  "kahve taşıma viyolü",
+  "fast food ambalajı",
+  "paket servis ambalajı",
+  "restoran ambalajı",
+  "toptan ambalaj",
+  "hx-xcc04"
+ ],
+ "marka": "EUPLUS",
+ "gorseller": {
+  "jpg": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/hx-xcc04-4-lu-bardak-tasiyici/hx-xcc04-4-lu-bardak-tasiyici.jpg",
+  "png": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/hx-xcc04-4-lu-bardak-tasiyici/hx-xcc04-4-lu-bardak-tasiyici.png",
+  "png_seffaf": false,
+  "not": ""
+ },
+ "kaynak": {
+  "tedarikci": "helmex",
+  "tedarikci_ad": "Helmex",
+  "tedarikci_kodu": "XCC04",
+  "katalog": "kaynaklar/helmex/helmex-katalog-2023.pdf"
+ }
+}

@@ -1,0 +1,61 @@
+{
+ "stok_kodu": "HX-XF02",
+ "baslik": "Orta Patates Kabı",
+ "urun_adi": "Orta Patates Kabı",
+ "kategori": "Patates Kapları",
+ "kategori_en": "Chips Scoops",
+ "katalog": "fastfood",
+ "tur": "patates-kabi",
+ "olcu_mm": "100x40 / 73x33 x h153",
+ "hacim_cc": "",
+ "hacim": "",
+ "materyal": "250 gsm karton",
+ "agiz_capi_mm": "",
+ "dip_capi_mm": "",
+ "yukseklik_mm": "",
+ "agirlik_g": "",
+ "fisek_ici_adet": "",
+ "koli_olcusu_mm": "400x320x285",
+ "koli_ici_adet": "1000 (200x5)",
+ "koli_net_kg": "",
+ "palet_koli": "",
+ "koli_secenekleri": [],
+ "min_siparis": "1000 (200x5) adet (1 koli)",
+ "gsm": "250 gsm",
+ "moq": "",
+ "varyantlar": [],
+ "not": "",
+ "aciklama": [
+  "Orta Patates Kabı, açık ağızlı karton patates kabıdır. Patates kızartması, soğan halkası ve atıştırmalık servisi için uygundur.",
+  "Teknik özellikler: ölçü 100 × 40 / 73 × 33  ×  h153 mm, 250 gsm karton hammadde.",
+  "Gıdayla temasa uygun karton; beyaz, kraft veya siyah yüzey seçeneği. Flekso, ofset ya da dijital baskı ile markanıza özel tasarım yapılır; standart ölçüler dışında talebe göre özel ölçü üretilir, tasarım ve numune 1–2 haftada hazırlanır.",
+  "Toptan satış koli bazındadır: bir kolide 1000 (200x5) adet, koli ölçüsü 400 × 320 × 285 mm."
+ ],
+ "aciklama_html": "<p>Orta Patates Kabı, açık ağızlı karton patates kabıdır. Patates kızartması, soğan halkası ve atıştırmalık servisi için uygundur.</p>\n<p>Teknik özellikler: ölçü 100 × 40 / 73 × 33  ×  h153 mm, 250 gsm karton hammadde.</p>\n<p>Gıdayla temasa uygun karton; beyaz, kraft veya siyah yüzey seçeneği. Flekso, ofset ya da dijital baskı ile markanıza özel tasarım yapılır; standart ölçüler dışında talebe göre özel ölçü üretilir, tasarım ve numune 1–2 haftada hazırlanır.</p>\n<p>Toptan satış koli bazındadır: bir kolide 1000 (200x5) adet, koli ölçüsü 400 × 320 × 285 mm.</p>",
+ "etiketler": [
+  "orta patates kabı",
+  "patates kabı",
+  "patates kutusu",
+  "karton patates kabı",
+  "kızartma kabı",
+  "fast food kabı",
+  "fast food ambalajı",
+  "paket servis ambalajı",
+  "restoran ambalajı",
+  "toptan ambalaj",
+  "hx-xf02"
+ ],
+ "marka": "EUPLUS",
+ "gorseller": {
+  "jpg": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/hx-xf02-orta-patates-kabi/hx-xf02-orta-patates-kabi.jpg",
+  "png": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/hx-xf02-orta-patates-kabi/hx-xf02-orta-patates-kabi.png",
+  "png_seffaf": false,
+  "not": "Kategori tanıtım fotoğrafı; ürüne özel fotoğraf yok"
+ },
+ "kaynak": {
+  "tedarikci": "helmex",
+  "tedarikci_ad": "Helmex",
+  "tedarikci_kodu": "XF02",
+  "katalog": "kaynaklar/helmex/helmex-katalog-2023.pdf"
+ }
+}

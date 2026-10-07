@@ -1,0 +1,103 @@
+{
+ "stok_kodu": "HX-CANTA-BURGU-OFSET",
+ "baslik": "Burgu Saplı Kağıt Çanta (ofset)",
+ "urun_adi": "Burgu Saplı Kağıt Çanta (ofset)",
+ "kategori": "Burgu Saplı Kağıt Çantalar",
+ "kategori_en": "Twisted Handle Bags",
+ "katalog": "fastfood",
+ "tur": "canta-hx",
+ "olcu_mm": "22,5x8x23,5 – 34,7x14x40 cm",
+ "hacim_cc": "",
+ "hacim": "",
+ "materyal": "100 gsm beyaz kağıt",
+ "agiz_capi_mm": "",
+ "dip_capi_mm": "",
+ "yukseklik_mm": "",
+ "agirlik_g": "",
+ "fisek_ici_adet": "",
+ "koli_olcusu_mm": "",
+ "koli_ici_adet": "",
+ "koli_net_kg": "",
+ "palet_koli": "",
+ "koli_secenekleri": [],
+ "min_siparis": "1.000 adet",
+ "gsm": "",
+ "moq": "1.000",
+ "varyantlar": [
+  {
+   "olcu": "26x8x38",
+   "gsm": "100 gsm",
+   "renk": "beyaz",
+   "baski": "ofset",
+   "moq": "1.000",
+   "ad": "Burgu Saplı Ofset Çanta 26x8x38"
+  },
+  {
+   "olcu": "34,7x14x40",
+   "gsm": "100 gsm",
+   "renk": "beyaz",
+   "baski": "ofset",
+   "moq": "1.000",
+   "ad": "Burgu Saplı Ofset Çanta 34,7x14x40"
+  },
+  {
+   "olcu": "22,5x8x23,5",
+   "gsm": "100 gsm",
+   "renk": "beyaz",
+   "baski": "ofset",
+   "moq": "1.000",
+   "ad": "Burgu Saplı Ofset Çanta 22,5x8x23,5"
+  },
+  {
+   "olcu": "24x13x22",
+   "gsm": "100 gsm",
+   "renk": "beyaz",
+   "baski": "ofset",
+   "moq": "1.000",
+   "ad": "Burgu Saplı Ofset Çanta 24x13x22"
+  },
+  {
+   "olcu": "30x19x25",
+   "gsm": "100 gsm",
+   "renk": "beyaz",
+   "baski": "ofset",
+   "moq": "1.000",
+   "ad": "Burgu Saplı Ofset Çanta 30x19x25"
+  }
+ ],
+ "not": "",
+ "aciklama": [
+  "Burgu Saplı Kağıt Çanta (ofset), saplı kağıt taşıma çantasıdır. Paket servis ve mağaza taşıması için uygundur.",
+  "Teknik özellikler: ölçü 22,5 × 8 × 23,5 – 34,7 × 14 × 40 cm, 100 gsm beyaz kağıt hammadde.",
+  "Gıdayla temasa uygun kağıt; beyaz veya kahve. Flekso ya da ofset baskı ile markanıza özel üretilir; standart ölçüler dışındaki talepler için özel üretim yapılır.",
+  "5 standart ölçü / seçenek: 26x8x38, 34,7x14x40, 22,5x8x23,5, 24x13x22, 30x19x25.",
+  "Siparişe özel üretimdir; minimum sipariş 1.000 adet."
+ ],
+ "aciklama_html": "<p>Burgu Saplı Kağıt Çanta (ofset), saplı kağıt taşıma çantasıdır. Paket servis ve mağaza taşıması için uygundur.</p>\n<p>Teknik özellikler: ölçü 22,5 × 8 × 23,5 – 34,7 × 14 × 40 cm, 100 gsm beyaz kağıt hammadde.</p>\n<p>Gıdayla temasa uygun kağıt; beyaz veya kahve. Flekso ya da ofset baskı ile markanıza özel üretilir; standart ölçüler dışındaki talepler için özel üretim yapılır.</p>\n<p>5 standart ölçü / seçenek: 26x8x38, 34,7x14x40, 22,5x8x23,5, 24x13x22, 30x19x25.</p>\n<p>Siparişe özel üretimdir; minimum sipariş 1.000 adet.</p>",
+ "etiketler": [
+  "burgu saplı kağıt çanta (ofset)",
+  "kağıt çanta",
+  "kraft çanta",
+  "saplı kağıt çanta",
+  "paket servis çantası",
+  "baskılı kağıt çanta",
+  "fast food ambalajı",
+  "paket servis ambalajı",
+  "restoran ambalajı",
+  "toptan ambalaj",
+  "hx-canta-burgu-ofset"
+ ],
+ "marka": "EUPLUS",
+ "gorseller": {
+  "jpg": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/hx-canta-burgu-ofset-burgu-sapli-kagit-canta-ofset/hx-canta-burgu-ofset-burgu-sapli-kagit-canta-ofset.jpg",
+  "png": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/hx-canta-burgu-ofset-burgu-sapli-kagit-canta-ofset/hx-canta-burgu-ofset-burgu-sapli-kagit-canta-ofset.png",
+  "png_seffaf": false,
+  "not": "Kategori tanıtım fotoğrafı; ürüne özel fotoğraf yok"
+ },
+ "kaynak": {
+  "tedarikci": "helmex",
+  "tedarikci_ad": "Helmex",
+  "tedarikci_kodu": "",
+  "katalog": "kaynaklar/helmex/helmex-katalog-2023.pdf"
+ }
+}

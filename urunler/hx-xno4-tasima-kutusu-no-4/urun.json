@@ -1,0 +1,61 @@
+{
+ "stok_kodu": "HX-XNO4",
+ "baslik": "Taşıma Kutusu No.4",
+ "urun_adi": "Taşıma Kutusu No.4",
+ "kategori": "Taşıma Kutuları",
+ "kategori_en": "Takeaway Boxes",
+ "katalog": "fastfood",
+ "tur": "tasima-kutusu",
+ "olcu_mm": "188x147 / 113x90 x h90",
+ "hacim_cc": "",
+ "hacim": "",
+ "materyal": "Karton; PE veya OPP astar seçenekli",
+ "agiz_capi_mm": "",
+ "dip_capi_mm": "",
+ "yukseklik_mm": "",
+ "agirlik_g": "",
+ "fisek_ici_adet": "",
+ "koli_olcusu_mm": "550x370x460",
+ "koli_ici_adet": "120 (30x4)",
+ "koli_net_kg": "",
+ "palet_koli": "25",
+ "koli_secenekleri": [],
+ "min_siparis": "120 (30x4) adet (1 koli)",
+ "gsm": "",
+ "moq": "",
+ "varyantlar": [],
+ "not": "",
+ "aciklama": [
+  "Taşıma Kutusu No.4, kilitli kapaklı karton taşıma kutusudur. Sıcak ve soğuk yemek, salata ve makarna servisi için uygundur.",
+  "Teknik özellikler: ölçü 188 × 147 / 113 × 90  ×  h90 mm, Karton; PE veya OPP astar seçenekli hammadde.",
+  "Gıdayla temasa uygun karton; beyaz, kraft veya siyah yüzey seçeneği. Flekso, ofset ya da dijital baskı ile markanıza özel tasarım yapılır; standart ölçüler dışında talebe göre özel ölçü üretilir, tasarım ve numune 1–2 haftada hazırlanır.",
+  "Toptan satış koli bazındadır: bir kolide 120 (30x4) adet, koli ölçüsü 550 × 370 × 460 mm, bir palete 25 koli."
+ ],
+ "aciklama_html": "<p>Taşıma Kutusu No.4, kilitli kapaklı karton taşıma kutusudur. Sıcak ve soğuk yemek, salata ve makarna servisi için uygundur.</p>\n<p>Teknik özellikler: ölçü 188 × 147 / 113 × 90  ×  h90 mm, Karton; PE veya OPP astar seçenekli hammadde.</p>\n<p>Gıdayla temasa uygun karton; beyaz, kraft veya siyah yüzey seçeneği. Flekso, ofset ya da dijital baskı ile markanıza özel tasarım yapılır; standart ölçüler dışında talebe göre özel ölçü üretilir, tasarım ve numune 1–2 haftada hazırlanır.</p>\n<p>Toptan satış koli bazındadır: bir kolide 120 (30x4) adet, koli ölçüsü 550 × 370 × 460 mm, bir palete 25 koli.</p>",
+ "etiketler": [
+  "taşıma kutusu no.4",
+  "taşıma kutusu",
+  "takeaway kutusu",
+  "karton yemek kutusu",
+  "paket servis kutusu",
+  "kilitli yemek kutusu",
+  "fast food ambalajı",
+  "paket servis ambalajı",
+  "restoran ambalajı",
+  "toptan ambalaj",
+  "hx-xno4"
+ ],
+ "marka": "EUPLUS",
+ "gorseller": {
+  "jpg": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/hx-xno4-tasima-kutusu-no-4/hx-xno4-tasima-kutusu-no-4.jpg",
+  "png": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/hx-xno4-tasima-kutusu-no-4/hx-xno4-tasima-kutusu-no-4.png",
+  "png_seffaf": false,
+  "not": "Kategori tanıtım fotoğrafı; ürüne özel fotoğraf yok"
+ },
+ "kaynak": {
+  "tedarikci": "helmex",
+  "tedarikci_ad": "Helmex",
+  "tedarikci_kodu": "XNo4",
+  "katalog": "kaynaklar/helmex/helmex-katalog-2023.pdf"
+ }
+}

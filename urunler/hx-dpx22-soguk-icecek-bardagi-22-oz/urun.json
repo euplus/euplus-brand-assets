@@ -1,0 +1,61 @@
+{
+ "stok_kodu": "HX-DPX22",
+ "baslik": "Soğuk İçecek Bardağı 22 oz",
+ "urun_adi": "Soğuk İçecek Bardağı 22 oz",
+ "kategori": "Karton Bardaklar",
+ "kategori_en": "Paper Cups",
+ "katalog": "fastfood",
+ "tur": "bardak-hx",
+ "olcu_mm": "",
+ "hacim_cc": "550 ml",
+ "hacim": "550 ml",
+ "materyal": "PE + Kağıt + PE",
+ "agiz_capi_mm": "",
+ "dip_capi_mm": "",
+ "yukseklik_mm": "",
+ "agirlik_g": "",
+ "fisek_ici_adet": "50",
+ "koli_olcusu_mm": "398x400x627",
+ "koli_ici_adet": "1.000",
+ "koli_net_kg": "",
+ "palet_koli": "21",
+ "koli_secenekleri": [],
+ "min_siparis": "1.000 adet (1 koli)",
+ "gsm": "",
+ "moq": "75.000",
+ "varyantlar": [],
+ "not": "",
+ "aciklama": [
+  "Soğuk İçecek Bardağı 22 oz, PE kaplı karton içecek bardağıdır. Kahve, çay ve soğuk içecek servisi için uygundur.",
+  "Teknik özellikler: hacim 550 ml, PE + Kağıt + PE hammadde.",
+  "Gıdayla temasa uygun karton; beyaz, kraft veya siyah yüzey seçeneği. Flekso, ofset ya da dijital baskı ile markanıza özel tasarım yapılır; standart ölçüler dışında talebe göre özel ölçü üretilir, tasarım ve numune 1–2 haftada hazırlanır.",
+  "Toptan satış koli bazındadır: bir kolide 1.000 adet, koli ölçüsü 398 × 400 × 627 mm, bir palete 21 koli."
+ ],
+ "aciklama_html": "<p>Soğuk İçecek Bardağı 22 oz, PE kaplı karton içecek bardağıdır. Kahve, çay ve soğuk içecek servisi için uygundur.</p>\n<p>Teknik özellikler: hacim 550 ml, PE + Kağıt + PE hammadde.</p>\n<p>Gıdayla temasa uygun karton; beyaz, kraft veya siyah yüzey seçeneği. Flekso, ofset ya da dijital baskı ile markanıza özel tasarım yapılır; standart ölçüler dışında talebe göre özel ölçü üretilir, tasarım ve numune 1–2 haftada hazırlanır.</p>\n<p>Toptan satış koli bazındadır: bir kolide 1.000 adet, koli ölçüsü 398 × 400 × 627 mm, bir palete 21 koli.</p>",
+ "etiketler": [
+  "soğuk içecek bardağı 22 oz",
+  "karton bardak",
+  "kağıt bardak",
+  "kahve bardağı",
+  "soğuk içecek bardağı",
+  "baskılı karton bardak",
+  "fast food ambalajı",
+  "paket servis ambalajı",
+  "restoran ambalajı",
+  "toptan ambalaj",
+  "hx-dpx22"
+ ],
+ "marka": "EUPLUS",
+ "gorseller": {
+  "jpg": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/hx-dpx22-soguk-icecek-bardagi-22-oz/hx-dpx22-soguk-icecek-bardagi-22-oz.jpg",
+  "png": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/hx-dpx22-soguk-icecek-bardagi-22-oz/hx-dpx22-soguk-icecek-bardagi-22-oz.png",
+  "png_seffaf": false,
+  "not": "Kategori tanıtım fotoğrafı; ürüne özel fotoğraf yok"
+ },
+ "kaynak": {
+  "tedarikci": "helmex",
+  "tedarikci_ad": "Helmex",
+  "tedarikci_kodu": "DPX22oz",
+  "katalog": "kaynaklar/helmex/helmex-katalog-2023.pdf"
+ }
+}

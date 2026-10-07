@@ -1,0 +1,61 @@
+{
+ "stok_kodu": "HX-CATAL",
+ "baslik": "Ahşap Çatal 13 cm",
+ "urun_adi": "Ahşap Çatal 13 cm",
+ "kategori": "Ahşap Çatal Bıçak",
+ "kategori_en": "Wooden Cutlery",
+ "katalog": "fastfood",
+ "tur": "catal-bicak",
+ "olcu_mm": "13 cm",
+ "hacim_cc": "",
+ "hacim": "",
+ "materyal": "Huş ağacı",
+ "agiz_capi_mm": "",
+ "dip_capi_mm": "",
+ "yukseklik_mm": "",
+ "agirlik_g": "",
+ "fisek_ici_adet": "",
+ "koli_olcusu_mm": "250x340x230",
+ "koli_ici_adet": "2.000",
+ "koli_net_kg": "",
+ "palet_koli": "80",
+ "koli_secenekleri": [],
+ "min_siparis": "2.000 adet (1 koli)",
+ "gsm": "",
+ "moq": "",
+ "varyantlar": [],
+ "not": "",
+ "aciklama": [
+  "Ahşap Çatal 13 cm, huş ağacından tek kullanımlık çatal-bıçak ürünüdür. Paket servis ve ikram için uygundur.",
+  "Teknik özellikler: ölçü 13 cm, Huş ağacı hammadde.",
+  "Materyal: huş ağacı (birch), 13 cm.",
+  "Toptan satış koli bazındadır: bir kolide 2.000 adet, koli ölçüsü 250 × 340 × 230 mm, bir palete 80 koli."
+ ],
+ "aciklama_html": "<p>Ahşap Çatal 13 cm, huş ağacından tek kullanımlık çatal-bıçak ürünüdür. Paket servis ve ikram için uygundur.</p>\n<p>Teknik özellikler: ölçü 13 cm, Huş ağacı hammadde.</p>\n<p>Materyal: huş ağacı (birch), 13 cm.</p>\n<p>Toptan satış koli bazındadır: bir kolide 2.000 adet, koli ölçüsü 250 × 340 × 230 mm, bir palete 80 koli.</p>",
+ "etiketler": [
+  "ahşap çatal 13 cm",
+  "ahşap çatal",
+  "ahşap kaşık",
+  "ahşap bıçak",
+  "tek kullanımlık çatal bıçak",
+  "çatal bıçak seti",
+  "fast food ambalajı",
+  "paket servis ambalajı",
+  "restoran ambalajı",
+  "toptan ambalaj",
+  "hx-catal"
+ ],
+ "marka": "EUPLUS",
+ "gorseller": {
+  "jpg": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/hx-catal-ahsap-catal-13-cm/hx-catal-ahsap-catal-13-cm.jpg",
+  "png": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/hx-catal-ahsap-catal-13-cm/hx-catal-ahsap-catal-13-cm.png",
+  "png_seffaf": false,
+  "not": "Kategori tanıtım fotoğrafı; ürüne özel fotoğraf yok"
+ },
+ "kaynak": {
+  "tedarikci": "helmex",
+  "tedarikci_ad": "Helmex",
+  "tedarikci_kodu": "",
+  "katalog": "kaynaklar/helmex/helmex-katalog-2023.pdf"
+ }
+}

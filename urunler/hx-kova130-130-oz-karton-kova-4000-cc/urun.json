@@ -1,0 +1,61 @@
+{
+ "stok_kodu": "HX-KOVA130",
+ "baslik": "130 oz Karton Kova (4000 cc)",
+ "urun_adi": "130 oz Karton Kova (4000 cc)",
+ "kategori": "Karton Kovalar",
+ "kategori_en": "Paper Buckets",
+ "katalog": "fastfood",
+ "tur": "kova",
+ "olcu_mm": "211x160x170",
+ "hacim_cc": "4000",
+ "hacim": "4000",
+ "materyal": "250-300 gsm bristol + PE",
+ "agiz_capi_mm": "",
+ "dip_capi_mm": "",
+ "yukseklik_mm": "",
+ "agirlik_g": "",
+ "fisek_ici_adet": "",
+ "koli_olcusu_mm": "470x670x750",
+ "koli_ici_adet": "300",
+ "koli_net_kg": "",
+ "palet_koli": "12",
+ "koli_secenekleri": [],
+ "min_siparis": "300 adet (1 koli)",
+ "gsm": "",
+ "moq": "",
+ "varyantlar": [],
+ "not": "",
+ "aciklama": [
+  "130 oz Karton Kova (4000 cc), PE kaplı bristol karton kovadır. Kızarmış tavuk ve aile menüsü servisi için uygundur.",
+  "Teknik özellikler: ölçü 211 × 160 × 170 mm, hacim 4000 cc, 250-300 gsm bristol + PE hammadde.",
+  "Gıdayla temasa uygun karton; beyaz, kraft veya siyah yüzey seçeneği. Flekso, ofset ya da dijital baskı ile markanıza özel tasarım yapılır; standart ölçüler dışında talebe göre özel ölçü üretilir, tasarım ve numune 1–2 haftada hazırlanır.",
+  "Toptan satış koli bazındadır: bir kolide 300 adet, koli ölçüsü 470 × 670 × 750 mm, bir palete 12 koli."
+ ],
+ "aciklama_html": "<p>130 oz Karton Kova (4000 cc), PE kaplı bristol karton kovadır. Kızarmış tavuk ve aile menüsü servisi için uygundur.</p>\n<p>Teknik özellikler: ölçü 211 × 160 × 170 mm, hacim 4000 cc, 250-300 gsm bristol + PE hammadde.</p>\n<p>Gıdayla temasa uygun karton; beyaz, kraft veya siyah yüzey seçeneği. Flekso, ofset ya da dijital baskı ile markanıza özel tasarım yapılır; standart ölçüler dışında talebe göre özel ölçü üretilir, tasarım ve numune 1–2 haftada hazırlanır.</p>\n<p>Toptan satış koli bazındadır: bir kolide 300 adet, koli ölçüsü 470 × 670 × 750 mm, bir palete 12 koli.</p>",
+ "etiketler": [
+  "130 oz karton kova (4000 cc)",
+  "karton kova",
+  "tavuk kovası",
+  "aile menüsü kovası",
+  "kağıt kova",
+  "fast food kovası",
+  "fast food ambalajı",
+  "paket servis ambalajı",
+  "restoran ambalajı",
+  "toptan ambalaj",
+  "hx-kova130"
+ ],
+ "marka": "EUPLUS",
+ "gorseller": {
+  "jpg": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/hx-kova130-130-oz-karton-kova-4000-cc/hx-kova130-130-oz-karton-kova-4000-cc.jpg",
+  "png": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/hx-kova130-130-oz-karton-kova-4000-cc/hx-kova130-130-oz-karton-kova-4000-cc.png",
+  "png_seffaf": false,
+  "not": "Kategori tanıtım fotoğrafı; ürüne özel fotoğraf yok"
+ },
+ "kaynak": {
+  "tedarikci": "helmex",
+  "tedarikci_ad": "Helmex",
+  "tedarikci_kodu": "",
+  "katalog": "kaynaklar/helmex/helmex-katalog-2023.pdf"
+ }
+}

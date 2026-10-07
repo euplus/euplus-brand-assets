@@ -1,0 +1,60 @@
+{
+ "stok_kodu": "HX-FILTRE-KAGIDI",
+ "baslik": "Fritöz Filtre Kağıdı",
+ "urun_adi": "Fritöz Filtre Kağıdı",
+ "kategori": "Fritöz Filtre Kağıdı",
+ "kategori_en": "Henny Penny Filters",
+ "katalog": "fastfood",
+ "tur": "filtre",
+ "olcu_mm": "54x36 cm",
+ "hacim_cc": "",
+ "hacim": "",
+ "materyal": "nonwoven 50 gsm",
+ "agiz_capi_mm": "",
+ "dip_capi_mm": "",
+ "yukseklik_mm": "",
+ "agirlik_g": "",
+ "fisek_ici_adet": "",
+ "koli_olcusu_mm": "",
+ "koli_ici_adet": "500",
+ "koli_net_kg": "",
+ "palet_koli": "42",
+ "koli_secenekleri": [],
+ "min_siparis": "500 adet (1 koli)",
+ "gsm": "",
+ "moq": "",
+ "varyantlar": [],
+ "not": "",
+ "aciklama": [
+  "Fritöz Filtre Kağıdı, basınçlı fritöz filtre kağıdıdır. Fritöz yağının süzülmesi için uygundur.",
+  "Teknik özellikler: ölçü 54 × 36 cm, nonwoven 50 gsm hammadde.",
+  "Ambalaj: içte baskılı plastik poşet, dışta baskılı karton koli. Palet 80×120×200 cm.",
+  "Toptan satış koli bazındadır: bir kolide 500 adet, bir palete 42 koli."
+ ],
+ "aciklama_html": "<p>Fritöz Filtre Kağıdı, basınçlı fritöz filtre kağıdıdır. Fritöz yağının süzülmesi için uygundur.</p>\n<p>Teknik özellikler: ölçü 54 × 36 cm, nonwoven 50 gsm hammadde.</p>\n<p>Ambalaj: içte baskılı plastik poşet, dışta baskılı karton koli. Palet 80×120×200 cm.</p>\n<p>Toptan satış koli bazındadır: bir kolide 500 adet, bir palete 42 koli.</p>",
+ "etiketler": [
+  "fritöz filtre kağıdı",
+  "fritöz filtresi",
+  "henny penny filtre",
+  "filtre kağıdı",
+  "yağ filtresi",
+  "fast food ambalajı",
+  "paket servis ambalajı",
+  "restoran ambalajı",
+  "toptan ambalaj",
+  "hx-filtre-kagidi"
+ ],
+ "marka": "EUPLUS",
+ "gorseller": {
+  "jpg": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/hx-filtre-kagidi-fritoz-filtre-kagidi/hx-filtre-kagidi-fritoz-filtre-kagidi.jpg",
+  "png": "https://raw.githubusercontent.com/euplus/euplus-brand-assets/main/urunler/hx-filtre-kagidi-fritoz-filtre-kagidi/hx-filtre-kagidi-fritoz-filtre-kagidi.png",
+  "png_seffaf": false,
+  "not": "Kategori tanıtım fotoğrafı; ürüne özel fotoğraf yok"
+ },
+ "kaynak": {
+  "tedarikci": "helmex",
+  "tedarikci_ad": "Helmex",
+  "tedarikci_kodu": "",
+  "katalog": "kaynaklar/helmex/helmex-katalog-2023.pdf"
+ }
+}
