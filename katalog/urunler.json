@@ -1831,71 +1831,6 @@
    ]
   },
   "42": {
-   "ad": "Limon Sosu",
-   "en": "Lemon Dressing",
-   "katalog": "fastfood",
-   "tedarikci": "helmex",
-   "grup": 3,
-   "gorsel": "gorseller/hx-limon-sosu.jpg",
-   "slogan": "500 ml PET şişe; markanıza özel etiket.",
-   "ozet": "Salata ve meze için 500 ml limon sosu; şeffaf PET şişe, markanıza özel etiket desteği.",
-   "tablo": "generic",
-   "sutunlar": [
-    [
-     "Kod",
-     "kod",
-     90,
-     "l"
-    ],
-    [
-     "Ürün",
-     "ad",
-     120,
-     "l"
-    ],
-    [
-     "Hacim",
-     "hacim",
-     50,
-     "r"
-    ],
-    [
-     "Şişe",
-     "materyal",
-     80,
-     "l"
-    ],
-    [
-     "Baskı",
-     "baski",
-     80,
-     "l"
-    ],
-    [
-     "Koli içi",
-     "koli_ici",
-     50,
-     "r"
-    ],
-    [
-     "Koli ölçüsü (mm)",
-     "koli",
-     80,
-     "l"
-    ],
-    [
-     "Palet",
-     "palet",
-     35,
-     "r"
-    ]
-   ],
-   "tablolar": [],
-   "notlar": [
-    "Özel etiket desteği sağlanır; klişe bedeli uygulanır. Palet 80×120×240 cm."
-   ]
-  },
-  "43": {
    "ad": "Ahşap Çatal Bıçak",
    "en": "Wooden Cutlery",
    "katalog": "fastfood",
@@ -1959,61 +1894,6 @@
    "notlar": [
     "Materyal: huş ağacı (birch), 13 cm."
    ]
-  },
-  "44": {
-   "ad": "Kızartma Yağı",
-   "en": "Frying Oil",
-   "katalog": "fastfood",
-   "tedarikci": "helmex",
-   "grup": 3,
-   "gorsel": "gorseller/hx-kizartma-yagi.jpg",
-   "slogan": "Profesyonel mutfaklar için 18 lt teneke.",
-   "ozet": "Profesyonel mutfaklar için yüksek sıcaklığa dayanıklı kızartma yağı; 18 litrelik teneke. Yanmaz, köpürmez, duman ve koku yapmaz; trans yağ içermez; birkaç kez kullanılabilir.",
-   "tablo": "generic",
-   "sutunlar": [
-    [
-     "Kod",
-     "kod",
-     100,
-     "l"
-    ],
-    [
-     "Ürün",
-     "ad",
-     150,
-     "l"
-    ],
-    [
-     "Net",
-     "hacim",
-     50,
-     "r"
-    ],
-    [
-     "Ambalaj",
-     "materyal",
-     80,
-     "l"
-    ],
-    [
-     "Koli/palet",
-     "palet",
-     60,
-     "r"
-    ],
-    [
-     "Raf ömrü",
-     "raf_omru",
-     60,
-     "l"
-    ]
-   ],
-   "tablolar": [],
-   "notlar": [
-    "Besin değerleri (100 g): enerji 3700 kJ / 900 kcal; yağ 100 g (çoklu doymamış 13 g, tekli doymamış 42 g, doymuş 45 g, trans < 1 g); karbonhidrat, şeker, protein ve tuz 0 g.",
-    "Kullanım: plastik kapağı açarak kullanın, kullanım sonrası kapatın; güneşten uzak, serin yerde saklayın. Diğer yağ tipleri için bizimle iletişime geçin."
-   ],
-   "gorsel2": "gorseller/hx-kizartma-yagi-2.jpg"
   }
  },
  "urunler": [
@@ -8556,30 +8436,9 @@
    "paket": "50 adet x 10"
   },
   {
-   "kod": "HX-LIMON-SOS",
-   "ad": "Limon Sosu 500 ml",
-   "bolum": 42,
-   "gorsel": "gorseller/hx-limon-sosu.jpg",
-   "tedarikci": "helmex",
-   "olcu": "",
-   "hacim": "500 ml",
-   "materyal": "PET, şeffaf",
-   "koli": "340x270x240",
-   "koli_ici": "20",
-   "palet": "80",
-   "fisek_ici": "",
-   "agirlik_g": "",
-   "gsm": "",
-   "moq": "",
-   "tedarikci_kodu": "",
-   "not": "",
-   "varyantlar": [],
-   "baski": "özel etiket"
-  },
-  {
    "kod": "HX-KASIK",
    "ad": "Ahşap Kaşık 13 cm",
-   "bolum": 43,
+   "bolum": 42,
    "gorsel": "gorseller/hx-ahsap-catal-bicak.jpg",
    "tedarikci": "helmex",
    "olcu": "13 cm",
@@ -8604,7 +8463,7 @@
   {
    "kod": "HX-CATAL",
    "ad": "Ahşap Çatal 13 cm",
-   "bolum": 43,
+   "bolum": 42,
    "gorsel": "gorseller/hx-ahsap-catal-bicak.jpg",
    "tedarikci": "helmex",
    "olcu": "13 cm",
@@ -8629,7 +8488,7 @@
   {
    "kod": "HX-BICAK",
    "ad": "Ahşap Bıçak 13 cm",
-   "bolum": 43,
+   "bolum": 42,
    "gorsel": "gorseller/hx-ahsap-catal-bicak.jpg",
    "tedarikci": "helmex",
    "olcu": "13 cm",
@@ -8654,7 +8513,7 @@
   {
    "kod": "HX-CATAL-BICAK-SET",
    "ad": "Ahşap Çatal Bıçak Seti",
-   "bolum": 43,
+   "bolum": 42,
    "gorsel": "gorseller/hx-ahsap-catal-bicak.jpg",
    "tedarikci": "helmex",
    "olcu": "13 cm",
@@ -8770,28 +8629,6 @@
      "adet_palet": "28.800"
     }
    ]
-  },
-  {
-   "kod": "HX-KIZARTMA-YAGI",
-   "ad": "Kızartma Yağı 18 lt",
-   "bolum": 44,
-   "gorsel": "gorseller/hx-kizartma-yagi.jpg",
-   "tedarikci": "helmex",
-   "olcu": "",
-   "hacim": "18 lt",
-   "materyal": "Teneke",
-   "koli": "",
-   "koli_ici": "",
-   "palet": "44",
-   "fisek_ici": "",
-   "agirlik_g": "",
-   "gsm": "",
-   "moq": "",
-   "tedarikci_kodu": "",
-   "not": "",
-   "varyantlar": [],
-   "raf_omru": "1 yıl",
-   "barkod": "8691313011061"
   }
  ]
 }

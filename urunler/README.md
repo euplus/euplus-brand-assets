@@ -319,13 +319,13 @@ markasıyla listelenir.
 
 ---
 
-## Fast food & restoran ambalajları — 81 ürün
+## Fast food & restoran ambalajları — 79 ürün
 
 Ölçü ve koli bilgileri [Fast Food & Restoran Ambalajları Kataloğu 2026](../katalog/EUPLUS-Fast-Food-Katalogu-2026.pdf) ile aynıdır.
 Kaynak katalogdaki görseller kategori fotoğrafı ve mockup'tır; mockup'lardaki tedarikçi logosu kaldırıldı, PNG'ler opaktır.
 Ölçü tablosu olan ürünler (pizza, pasta kutusu, çantalar, torbalar, kağıtlar, ıslak mendil, peçete, çatal-bıçak seti) tek ürün
 olarak listelenir; standart ölçüler `urun.json` içindeki `varyantlar` alanında ve `ilan.md` tablosundadır. Kodlardaki `HX` öneki
-kaynak kataloğu belirtir; ürünler EUPLUS markasıyla listelenir.
+kaynak kataloğu belirtir; ürünler EUPLUS markasıyla listelenir. Kaynaktaki gıda ürünleri (limon sosu, kızartma yağı) alınmadı.
 
 
 ### Karton servis ambalajları
@@ -532,12 +532,6 @@ kaynak kataloğu belirtir; ürünler EUPLUS markasıyla listelenir.
 |---|---|---|---|---|---|
 | HX-FILTRE-KAGIDI | Fritöz Filtre Kağıdı | 54×36 cm | nonwoven 50 gsm | 500 | [`hx-filtre-kagidi-fritoz-filtre-kagidi`](hx-filtre-kagidi-fritoz-filtre-kagidi) |
 
-#### Limon Sosu (1 ürün)
-
-| Kod | Ürün | Ölçü | Materyal | Koli içi / MOQ | Klasör |
-|---|---|---|---|---|---|
-| HX-LIMON-SOS | Limon Sosu 500 ml | — | PET, şeffaf | 20 | [`hx-limon-sos-limon-sosu-500-ml`](hx-limon-sos-limon-sosu-500-ml) |
-
 #### Ahşap Çatal Bıçak (4 ürün)
 
 | Kod | Ürün | Ölçü | Materyal | Koli içi / MOQ | Klasör |
@@ -546,12 +540,6 @@ kaynak kataloğu belirtir; ürünler EUPLUS markasıyla listelenir.
 | HX-CATAL | Ahşap Çatal 13 cm | 13 cm | Huş ağacı | 2.000 | [`hx-catal-ahsap-catal-13-cm`](hx-catal-ahsap-catal-13-cm) |
 | HX-BICAK | Ahşap Bıçak 13 cm | 13 cm | Huş ağacı | 2.000 | [`hx-bicak-ahsap-bicak-13-cm`](hx-bicak-ahsap-bicak-13-cm) |
 | HX-CATAL-BICAK-SET | Ahşap Çatal Bıçak Seti (9 ölçü) | 13 cm | Huş ağacı; kahve sülfit kağıt; 1 kat beyaz 11 gsm peçete | — | [`hx-catal-bicak-set-ahsap-catal-bicak-seti`](hx-catal-bicak-set-ahsap-catal-bicak-seti) |
-
-#### Kızartma Yağı (1 ürün)
-
-| Kod | Ürün | Ölçü | Materyal | Koli içi / MOQ | Klasör |
-|---|---|---|---|---|---|
-| HX-KIZARTMA-YAGI | Kızartma Yağı 18 lt | — | Teneke | — | [`hx-kizartma-yagi-kizartma-yagi-18-lt`](hx-kizartma-yagi-kizartma-yagi-18-lt) |
 
 ---
 

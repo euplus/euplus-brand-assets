@@ -46,7 +46,7 @@ Vektör aslı bulunursa SVG'yi koyup 512/1024/2048 PNG'leri ondan üret, 300'lü
 Mevcut tedarikçiler: crystal-pack (93 ürün, kod öneki `CP`, katalog "seffaf"),
 promocup (72 ürün, kod öneki `PC`, katalog "servis"; tedarikçi kodu olanlarda `PC-<kod>`, diğerlerinde
 `PC-<tip><ölçü>` türetildi, bkz. `kaynaklar/promocup/tedarikci.json` → `kod_notu`).
-helmex (81 ürün / 258 ölçü satırı, kod öneki `HX`, katalog "fastfood"; İngilizce 2023 kataloğu, 64 sayfa raster).
+helmex (79 ürün / 256 ölçü satırı, kod öneki `HX`, katalog "fastfood"; İngilizce 2023 kataloğu, 64 sayfa raster).
 Helmex ürünlerinde ölçü tablosu olanlar tek ürün + `varyantlar[]` (her varyant bölümün sütun anahtarlarını taşır);
 bölümler `grup` (1 karton, 2 kağıt, 3 tamamlayıcı) ile katalogda ayırıcı sayfaya bölünür.
 Ayrıca eski iki ürün: bardak-kilifi-siyah, bardak-kilifi-kraft (elle yazılmış, betik üretmez).
@@ -125,3 +125,5 @@ ve bölümden türetilir, ürün başına 13-14 adet.
 - Push öncesi `git status` temiz olsun; PNG'ler `.gitattributes` ile binary işaretli.
 - `Claude outputs/` (müşteri teklif PDF'leri vb.) `.gitignore`'da; public depoya girmez.
 - Tedarikçi mockup'larındaki tedarikçi logosu kaldırılır (kullanıcı kararı); kaynak PDF'e dokunulmaz.
+- EUPLUS kataloglarında GIDA ÜRÜNÜ yer almaz (kullanıcı kararı, 2026-10-07): tedarikçi kataloğundaki yağ, sos,
+  içecek vb. ürünler alınmaz; yalnızca ambalaj ve servis ekipmanı.

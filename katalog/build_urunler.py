@@ -135,7 +135,7 @@ def kind_hx(a):
                    ('pizza', 'pizza-kutusu'), ('pasta', 'pasta-kutusu'), ('noodle', 'noodle-kutusu'), ('karton kova', 'kova'), ('karton kase', 'kase-hx'),
                    ('içecek bardağı', 'bardak-hx'), ('kılıf', 'kilif'), ('taşıyıcı', 'tasiyici'), ('lüks çanta', 'luks-canta'), ('çanta', 'canta-hx'),
                    ('torba', 'torba'), ('streç', 'strec'), ('sos kabı', 'sos-kabi'), ('ıslak mendil', 'islak-mendil'), ('peçete', 'pecete'), ('havlu', 'pecete'),
-                   ('tuvalet', 'pecete'), ('filtre', 'filtre'), ('limon', 'limon-sosu'), ('ahşap', 'catal-bicak'), ('kızartma yağı', 'yag')]:
+                   ('tuvalet', 'pecete'), ('filtre', 'filtre'), ('ahşap', 'catal-bicak')]:
         if key in a: return k
     return 'karton'
 KIND_HX = {
@@ -164,9 +164,7 @@ KIND_HX = {
  'islak-mendil': ('tek tek paketli ıslak mendildir', 'restoran ve paket servis ikramı', ['ıslak mendil', 'restoran ıslak mendili', 'baskılı ıslak mendil', 'tekli ıslak mendil']),
  'pecete': ('%100 selüloz kağıt üründür', 'restoran, kafe ve paket servis', ['peçete', 'kağıt havlu', 'dispenser peçete', 'selüloz peçete', 'restoran peçetesi']),
  'filtre': ('basınçlı fritöz filtre kağıdıdır', 'fritöz yağının süzülmesi', ['fritöz filtresi', 'henny penny filtre', 'filtre kağıdı', 'yağ filtresi']),
- 'limon-sosu': ('PET şişede limon sosudur', 'salata ve meze', ['limon sosu', 'limon dressing', 'salata sosu', 'restoran limon sosu']),
  'catal-bicak': ('huş ağacından tek kullanımlık çatal-bıçak ürünüdür', 'paket servis ve ikram', ['ahşap çatal', 'ahşap kaşık', 'ahşap bıçak', 'tek kullanımlık çatal bıçak', 'çatal bıçak seti']),
- 'yag': ('profesyonel mutfaklar için kızartma yağıdır', 'fritözde patates, tavuk ve hamur işi kızartma', ['kızartma yağı', 'fritöz yağı', 'profesyonel kızartma yağı', '18 lt yağ']),
  'karton': ('karton gıda ambalajıdır', 'paket servis', ['karton ambalaj']),
 }
 def vlabel(v):

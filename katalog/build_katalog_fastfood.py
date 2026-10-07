@@ -144,8 +144,8 @@ def intro(c, toc, index_page):
     body = ("EUPLUS Lojistik Ambalaj, fast food, restoran, kafe ve paket servis işletmeleri için karton kutudan kağıt çantaya, "
             "bardaktan peçeteye bütün servis ambalajlarını tek çatı altında sunar. Bu katalogda burger, tavuk, pizza ve pasta kutuları, "
             "patates kapları, tepsiler, noodle kutuları, kovalar, kaseler, karton bardaklar; düz ve burgu saplı kağıt çantalar, yağlı kağıt "
-            "torbalar, lüks çantalar, ambalaj ve tepsi kağıtları ile streç film, sos kabı, ıslak mendil, peçete, fritöz filtresi, limon sosu, "
-            "ahşap çatal-bıçak ve kızartma yağı yer alır. Karton ürünlerde beyaz, kraft veya siyah yüzey; flekso, ofset ya da dijital baskı ile "
+            "torbalar, lüks çantalar, ambalaj ve tepsi kağıtları ile streç film, sos kabı, ıslak mendil, peçete, fritöz filtresi ve "
+            "ahşap çatal-bıçak yer alır. Karton ürünlerde beyaz, kraft veya siyah yüzey; flekso, ofset ya da dijital baskı ile "
             "markanıza özel tasarım yapılır. Standart ölçüler dışındaki talepler için özel üretim mümkündür.")
     for ln in wrap(c, body, "R", 9.5, CW): text(c, M, y, ln, "R", 9.5, INK); y -= 13.5
     y -= 6

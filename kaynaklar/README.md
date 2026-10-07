@@ -18,7 +18,7 @@ kaynaklar/<tedarikci-slug>/
 |---|---|---|---|
 | [Crystal Pack](crystal-pack) | 93 | [2026](crystal-pack/crystal-pack-katalog-2026.pdf) | `CP` |
 | [Promocup](promocup) | 72 | [2026](promocup/promocup-katalog-2026.pdf) | `PC` |
-| [Helmex](helmex) | 81 | [2023](helmex/helmex-katalog-2023.pdf) | `HX` |
+| [Helmex](helmex) | 79 | [2023](helmex/helmex-katalog-2023.pdf) | `HX` |
 
 ## Telif ve izin
 

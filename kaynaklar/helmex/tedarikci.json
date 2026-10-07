@@ -17,14 +17,14 @@
    "sayfa": 64,
    "dil": "İngilizce",
    "islendi": "2026-10-07",
-   "urun_sayisi": 80,
-   "satir_sayisi": 281,
-   "not": "InDesign'dan dışa aktarılmış, sayfa başına tek raster görsel (150 dpi); metin katmanı yok. Tablolar sayfa görüntülerinden okunarak Türkçeleştirildi. Ürün mockup'larındaki Helmex logosu OpenCV inpainting ile silindi; silinemeyen üç görsel (dürüm kutusu, kova ve bardak mockup'ları) kullanılmadı. Ölçü tablosu olan ürünler (pizza, pasta, çanta, kağıt, mendil, peçete, çatal-bıçak seti) tek ürün + varyant olarak modellendi."
+   "urun_sayisi": 79,
+   "satir_sayisi": 256,
+   "not": "InDesign'dan dışa aktarılmış, sayfa başına tek raster görsel (150 dpi); metin katmanı yok. Tablolar sayfa görüntülerinden okunarak Türkçeleştirildi. Ürün mockup'larındaki Helmex logosu OpenCV inpainting ile silindi; silinemeyen üç görsel (dürüm kutusu, kova ve bardak mockup'ları) kullanılmadı. Ölçü tablosu olan ürünler (pizza, pasta, çanta, kağıt, mendil, peçete, çatal-bıçak seti) tek ürün + varyant olarak modellendi. Kataloğun gıda ürünleri (limon sosu, kızartma yağı) kullanıcı kararıyla alınmadı: EUPLUS kataloğunda gıda ürünü yer almaz."
   }
  ],
  "urun_kodu_oneki": "HX",
  "kod_notu": "Tedarikçi kodu olan ürünlerde HX-<kod> (XBS01, FC0, SPX12, XB016...); ölçü tablosu ürünlerinde HX-<ürün> (HX-PIZZA, HX-CANTA-DUZ...).",
- "notlar": "Fast food ve restoran paket servis ambalajları: burger/tavuk/pizza/pasta kutuları, patates kabı, tepsi, noodle kutusu, kova, kase, karton bardak, kılıf ve taşıyıcı, kağıt çantalar, yağlı kağıt torbalar, lüks çanta, ambalaj ve tepsi kağıdı; tamamlayıcı: streç film, PP sos kabı, ıslak mendil, peçete, fritöz filtresi, limon sosu, ahşap çatal-bıçak, kızartma yağı. Özel ölçü ve baskılı (bespoke) üretim; 1–2 haftada tasarım ve numune.",
+ "notlar": "Fast food ve restoran paket servis ambalajları: burger/tavuk/pizza/pasta kutuları, patates kabı, tepsi, noodle kutusu, kova, kase, karton bardak, kılıf ve taşıyıcı, kağıt çantalar, yağlı kağıt torbalar, lüks çanta, ambalaj ve tepsi kağıdı; tamamlayıcı: streç film, PP sos kabı, ıslak mendil, peçete, fritöz filtresi, ahşap çatal-bıçak. Özel ölçü ve baskılı (bespoke) üretim; 1–2 haftada tasarım ve numune. Katalogdaki gıda ürünleri (limon sosu, kızartma yağı) alınmadı.",
  "gorsel_izni": {
   "durum": "teyit edilmedi",
   "not": "Depo public. Yayımdan önce Helmex ile teyit edilmeli. Mockup görsellerindeki Helmex logosu kullanıcı talebiyle kaldırıldı."
