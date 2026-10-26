@@ -39,6 +39,8 @@ katalog/build_katalog_servis.py  PDF katalog üretici — paket servis (katalog=
 katalog/build_katalog_fastfood.py  PDF katalog üretici — fast food (katalog="fastfood"), genel tablo motoru:
                              bölümün `sutunlar`/`tablolar` tanımına göre çizer, uzun tablolar sayfaya taşar; 2 geçişli sayfa no
 katalog/build_urunler.py     urunler/ altındaki her şeyi üreten betik
+katalog/upscale.py           seçilen ürün görsellerini Real-ESRGAN ile büyütür (--liste adaylar, --geri-al, --derle);
+                             orijinaller katalog/gorseller/orijinal/ altında, motor ~/.euplus-tools/realesrgan/
 preview/tum-logolar.png      logo önizlemesi
 index.html                   Pages sayfası · README.md kullanım kılavuzu
 ```
@@ -104,6 +106,9 @@ Kullanıcı `gelen/` klasörüne dosya bırakır ya da sohbete gönderir. Sıray
   Kiril harf karışmasını (В→B) normalize et, kod altındaki kesikli çizgi "—==" çöpü üretir. Sonuçları kırpıntı sayfasıyla gözle doğrula.
 - PyMuPDF 1.26 `rewrite_images` alfa maskeli büyük belgelerde rastgele segfault verebiliyor (gıda kataloğu);
   build_katalog.py "gida" için kendi JPEG dönüşümünü (`jpeg_images`) kullanır.
+- Düşük çözünürlüklü ürün görseli (Bukap ~300 px) → `python3 katalog/upscale.py KOD ...`; şeffaf PNG'de RGB ve alfa ayrı
+  büyütülüp beyaz zemin etkisi geri alınır. Sonra build_urunler + build_katalog gida. Real-ESRGAN binary'si dışarıdan
+  indirilen koddur; ilk çalıştırma (xattr/chmod) kullanıcıdan istenir.
 - Beyaz zemin → şeffaf çevirirken floodfill eşiği 14 iyi çalışır; açık renkli/şeffaf
   ürünlerde (ör. cam gibi tabaklar) içeri sızarsa 6'ya düşür.
 
