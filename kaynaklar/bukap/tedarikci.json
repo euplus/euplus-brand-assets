@@ -20,9 +20,10 @@
  ],
  "urun_kodu_oneki": "BKP",
  "kod_notu": "Katalogdaki BKP kodları aynen kullanıldı. Katalogdaki CP kodlu ürünler (çatal-kaşık-bıçak, İtalyan serisi tabaklar) Crystal Pack kodlarıyla çakışmasın diye BK-CP<kod> olarak alındı. Katalogda aynı kodun iki farklı ürüne verildiği yerlerde ikinci ürüne -2 eklendi (BKP130-2, BKP600-2, BKP945-2, BKP1029-2, BKP1460-2, BKP10330-2, BK-CP615-2); renk varyantları -Y (yeşil) ve BKP1715-S2 (sarı) aldı. Kodu basılı olmayan ürünler: BK-ACIBADEM, BK-4BK1000, BK-KK200-A, BK-KK200-B, BK-KK250. Asıl tedarikçi kodu her ürünün urun.json → kaynak.tedarikci_kodu alanında.",
- "notlar": "Crystal Pack ile aynı adres (kardeş firma). Pastane-kafe kapları, kurabiye ve genel gıda kapları, PET/karton bardak ve şişe, mikrodalga yemek kapları, sos ve salata kapları, alüminyum kaplar, üst film kapama kapları, PP tabak-bardak, plastik çatal-kaşık-bıçak. Katalog tüm ürünler için -10 °C 24 saat / +60 °C 1 saat kullanım beyan eder. Katalogda gıda ürünü yoktur. Katalog hataları düzeltildi ve ürün notlarına yazıldı (BKP1490 hacmi, BKP1027 hacmi, BKP6330 ölçüsü, BKP1715-Y etiketi).",
+ "notlar": "EUPLUS Bukap'ın İzmir bayisidir (2026-10). Crystal Pack ile aynı adres (kardeş firma). Pastane-kafe kapları, kurabiye ve genel gıda kapları, PET/karton bardak ve şişe, mikrodalga yemek kapları, sos ve salata kapları, alüminyum kaplar, üst film kapama kapları, PP tabak-bardak, plastik çatal-kaşık-bıçak. Katalog tüm ürünler için -10 °C 24 saat / +60 °C 1 saat kullanım beyan eder. Katalogda gıda ürünü yoktur. Katalog hataları düzeltildi ve ürün notlarına yazıldı (BKP1490 hacmi, BKP1027 hacmi, BKP6330 ölçüsü, BKP1715-Y etiketi).",
  "gorsel_izni": {
-  "durum": "teyit edilmedi",
-  "not": "Depo public. Yayımdan önce Bukap ile teyit edilmeli. BKP9809-9830 ve BKP10540 karton bardak/kase fotoğraflarında örnek baskı desenleri (Coffee Time, BOMBA vb.) var."
+  "durum": "verildi",
+  "tarih": "2026-10-26",
+  "not": "EUPLUS, Bukap'ın İzmir bayisidir; görsel kullanımı onaylı (kullanıcı beyanı). BKP9809-9830 ve BKP10540 karton bardak/kase fotoğraflarında örnek baskı desenleri (Coffee Time, BOMBA vb.) var."
  }
 }
