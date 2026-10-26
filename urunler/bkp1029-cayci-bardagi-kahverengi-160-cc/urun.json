@@ -5,6 +5,7 @@
  "kategori": "Tabak ve Bardaklar",
  "kategori_en": "Plates & Cups",
  "katalog": "gida",
+ "pdf_katalogda": true,
  "tur": "bardak",
  "olcu_mm": "70x45x75",
  "hacim_cc": "160",
@@ -59,9 +60,9 @@
  },
  "kaynak": {
   "tedarikci": "bukap",
-  "tedarikci_ad": "bukap",
+  "tedarikci_ad": "Bukap Ambalaj",
   "tedarikci_kodu": "BKP1029",
   "kaynak_sayfa": 121,
-  "katalog": "kaynaklar/bukap/"
+  "katalog": "kaynaklar/bukap/bukap-katalog-2026.pdf"
  }
 }

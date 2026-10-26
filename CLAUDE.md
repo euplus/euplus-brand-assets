@@ -54,6 +54,8 @@ bölümler `grup` (1 karton, 2 kağıt, 3 tamamlayıcı) ile katalogda ayırıc�
 bukap (342 ürün, kod öneki `BKP`, katalog "gida", bölüm 43–50; Crystal Pack ile aynı adres/kardeş firma). Katalogdaki CP kodları
 `BK-CP…` olarak alındı (Crystal Pack ile çakışmasın); katalogda aynı kodu paylaşan ikinci ürünler `-2` aldı, ayrıntı `kod_notu`'nda.
 Bukap ürünlerinde ek alanlar: alt_grup (sayfa alt başlığı), agirlik_g, tedarikci_kodu, kaynak_sayfa, not.
+Ürüne `"katalogda": false` verilirse PDF katalogdan çıkar ama ürün arşivinde (urunler/, CSV) kalır (kullanıcı kararı 2026-10-26:
+Bukap karton bardak + kapakları, kraft çanta, çorba kaseleri — 24 ürün).
 Ayrıca eski iki ürün: bardak-kilifi-siyah, bardak-kilifi-kraft (elle yazılmış, betik üretmez).
 
 ## Yeni katalog/görsel geldiğinde (ana iş akışı)

@@ -85,7 +85,7 @@ Dört katalog, aynı görsel dilde; dördü de [`katalog/urunler.json`](katalog/
 | Katalog | İçerik | Sayfa | Üretici betik |
 |---|---|---|---|
 | [**EUPLUS Ürün Kataloğu 2026**](katalog/EUPLUS-Urun-Katalogu-2026.pdf) | 3 bölümde 93 şeffaf sunum ambalajı (sütlü tatlı, lokum-çikolata, bal) | 20 | [`build_katalog.py`](katalog/build_katalog.py) |
-| [**EUPLUS Gıda Ambalaj Kataloğu 2026**](katalog/EUPLUS-Gida-Ambalaj-Katalogu-2026.pdf) | 8 bölümde 342 ürün (pastane-kafe, kurabiye ve genel gıda, içecek bardağı ve şişe, restoran-paket servis, alüminyum, üst film kapama, tabak-bardak, çatal-kaşık-bıçak); Crystal Pack kataloğuyla aynı format | 60 | [`build_katalog.py gida`](katalog/build_katalog.py) |
+| [**EUPLUS Gıda Ambalaj Kataloğu 2026**](katalog/EUPLUS-Gida-Ambalaj-Katalogu-2026.pdf) | 8 bölümde 318 ürün (pastane-kafe, kurabiye ve genel gıda, PET bardak ve şişe, restoran-paket servis, alüminyum, üst film kapama, tabak-bardak, çatal-kaşık-bıçak); Crystal Pack kataloğuyla aynı format. Karton bardaklar, kraft çantalar ve çorba kaseleri (24 ürün) yalnız ürün arşivinde | 56 | [`build_katalog.py gida`](katalog/build_katalog.py) |
 | [**EUPLUS Paket Servis Kataloğu 2026**](katalog/EUPLUS-Paket-Servis-Katalogu-2026.pdf) | 14 bölümde 72 paket servis ambalajı (karton bardak, kase, kutu, kapak, viyol, kağıt çanta) | 19 | [`build_katalog_servis.py`](katalog/build_katalog_servis.py) |
 | [**EUPLUS Fast Food & Restoran Ambalajları Kataloğu 2026**](katalog/EUPLUS-Fast-Food-Katalogu-2026.pdf) | 25 bölümde 79 ürün / 256 ölçü (burger-tavuk-pizza-pasta kutuları, tepsi, kova, kase, bardak, kağıt çanta ve torbalar, ambalaj kağıdı, tamamlayıcı ürünler) | 36 | [`build_katalog_fastfood.py`](katalog/build_katalog_fastfood.py) |
 

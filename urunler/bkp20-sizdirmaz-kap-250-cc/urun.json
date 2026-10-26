@@ -5,6 +5,7 @@
  "kategori": "Pastane & Kafe Kapları",
  "kategori_en": "Patisserie & Cafe Containers",
  "katalog": "gida",
+ "pdf_katalogda": true,
  "tur": "kap",
  "olcu_mm": "110x110x40",
  "hacim_cc": "250",
@@ -59,9 +60,9 @@
  },
  "kaynak": {
   "tedarikci": "bukap",
-  "tedarikci_ad": "bukap",
+  "tedarikci_ad": "Bukap Ambalaj",
   "tedarikci_kodu": "BKP20",
   "kaynak_sayfa": 40,
-  "katalog": "kaynaklar/bukap/"
+  "katalog": "kaynaklar/bukap/bukap-katalog-2026.pdf"
  }
 }

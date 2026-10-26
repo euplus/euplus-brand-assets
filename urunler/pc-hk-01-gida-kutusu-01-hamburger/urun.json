@@ -5,6 +5,7 @@
  "kategori": "Gıda Kutuları",
  "kategori_en": "Food Boxes",
  "katalog": "servis",
+ "pdf_katalogda": true,
  "tur": "gida-kutusu",
  "olcu_mm": "95x95x70",
  "hacim_cc": "",

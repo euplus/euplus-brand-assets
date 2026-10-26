@@ -5,6 +5,7 @@
  "kategori": "Kurabiye ve Genel Gıda Kapları",
  "kategori_en": "Cookie & General Food Containers",
  "katalog": "gida",
+ "pdf_katalogda": true,
  "tur": "kap",
  "olcu_mm": "160x110x45",
  "hacim_cc": "",
@@ -59,9 +60,9 @@
  },
  "kaynak": {
   "tedarikci": "bukap",
-  "tedarikci_ad": "bukap",
+  "tedarikci_ad": "Bukap Ambalaj",
   "tedarikci_kodu": "BKP6170-S",
   "kaynak_sayfa": 30,
-  "katalog": "kaynaklar/bukap/"
+  "katalog": "kaynaklar/bukap/bukap-katalog-2026.pdf"
  }
 }

@@ -5,6 +5,7 @@
  "kategori": "Alüminyum Kaplar",
  "kategori_en": "Aluminium Containers",
  "katalog": "gida",
+ "pdf_katalogda": true,
  "tur": "aluminyum",
  "olcu_mm": "227x177x30",
  "hacim_cc": "",
@@ -59,9 +60,9 @@
  },
  "kaynak": {
   "tedarikci": "bukap",
-  "tedarikci_ad": "bukap",
+  "tedarikci_ad": "Bukap Ambalaj",
   "tedarikci_kodu": "BKP20135",
   "kaynak_sayfa": 89,
-  "katalog": "kaynaklar/bukap/"
+  "katalog": "kaynaklar/bukap/bukap-katalog-2026.pdf"
  }
 }

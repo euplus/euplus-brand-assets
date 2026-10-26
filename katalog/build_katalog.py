@@ -40,7 +40,7 @@ CONFIGS = {
     tagline="Pastane, restoran ve paket servis ambalajları", headline="Pastaneden restorana tek tedarikçi",
     body=("EUPLUS Lojistik Ambalaj, gıda işletmelerinin ihtiyaç duyduğu sunum, saklama ve paket servis ambalajlarını tek "
           "çatı altında sunar. Bu katalogda pasta, kek, makaron, kurabiye ve dondurma kaplarından sızdırmaz kaplara; "
-          "PET ve karton bardaklardan mikrodalga yemek kaplarına, sos ve salata kaplarından alüminyum ve üst film kapama "
+          "PET bardak ve şişelerden mikrodalga yemek kaplarına, sos ve salata kaplarından alüminyum ve üst film kapama "
           "kaplarına, tabak, bardak ve çatal-kaşık-bıçağa kadar geniş bir yelpaze bulacaksınız. Ürünler gıdayla temasa "
           "uygun PET, PP, PS, karton ve alüminyumdan üretilir."),
     feats=[("−10 °C", "24 saate kadar soğuk saklama ve dolap kullanımı"),
@@ -48,9 +48,9 @@ CONFIGS = {
            ("PET · PP · PS", "Şeffaf PET, ısıya dayanıklı PP; karton ve alüminyum seçenekler"),
            ("Koli bazında", "Satış koli içi adet üzerinden; ölçüler milimetre")],
     last=("Gramaj", "agirlik_g", "g", "Tek ürün ağırlığı, gram (çatal-kaşık, tabak, kapama kapları)"),
-    picks=["BKP815", "BKP6680", "BKP2230-2270", "BKP9505", "BKP670", "BKP1320-K"],
+    picks=["BKP815", "BKP6680", "BKP2230-2270", "BKP9150", "BKP670", "BKP1320-K"],
     highlights={43: ["BKP815", "BKP6685", "BKP6465-G"], 44: ["BK-KK250", "BKP6190-L", "BKP887"],
-                45: ["BKP9150", "BKP9505", "BKP10325"], 46: ["BKP2230-2270", "BKP2040-2010", "BKP960-Y"],
+                45: ["BKP9150", "BKP9905", "BKP10325"], 46: ["BKP2230-2270", "BKP2040-2010", "BKP960-Y"],
                 47: ["BKP20060", "BKP20135", "BKP20145"], 48: ["BKP1310-GOLD", "BKP2770", "BKP2955"],
                 49: ["BKP1715-K", "BK-CP441", "BKP1080"], 50: ["BK-CP620", "BK-CP672", "BKP7130-S"]}),
 }
@@ -95,7 +95,7 @@ PHONE = "Tel: +90 232 421 41 41   ·   Faks: +90 232 421 41 66"
 WEB = "www.euplus.com.tr"
 
 SECTIONS = {int(k): v for k, v in DATA["bolumler"].items() if v.get("katalog", "seffaf") == KEY}
-PRODUCTS = [p for p in DATA["urunler"] if p["bolum"] in SECTIONS]  # paket servis ürünleri build_katalog_servis.py'de
+PRODUCTS = [p for p in DATA["urunler"] if p["bolum"] in SECTIONS and p.get("katalogda", True)]  # katalogda=false → yalnız ürün arşivinde, PDF'e girmez
 PER_PAGE = 9  # 3 x 3
 
 _img_cache = {}

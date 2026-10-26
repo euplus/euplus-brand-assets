@@ -551,6 +551,9 @@ fotoğrafların uzun kenarı çoğunlukla 250–450 px'tir; 1200×1200 JPG bu ç
 Kodlar katalogdaki BKP kodlarıdır; CP kodlu çatal-kaşık-bıçak ve tabaklar `BK-CP…`, katalogda aynı kodu paylaşan ikinci ürünler `-2` alır
 (ayrıntı: [`kaynaklar/bukap/tedarikci.json`](../kaynaklar/bukap/tedarikci.json)).
 
+Karton bardaklar ve kapakları, kraft çantalar ve çorba kaseleri (24 ürün) PDF katalogda **yer almaz**; bu ürünler burada
+ve CSV'de durur (`urun.json` → `pdf_katalogda: false`).
+
 
 ### Pastane & Kafe Kapları (75 ürün)
 

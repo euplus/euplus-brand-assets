@@ -5,6 +5,7 @@
  "kategori": "Kurabiye ve Genel Gıda Kapları",
  "kategori_en": "Cookie & General Food Containers",
  "katalog": "gida",
+ "pdf_katalogda": true,
  "tur": "kase",
  "olcu_mm": "200x105x62",
  "hacim_cc": "1000",
@@ -59,9 +60,9 @@
  },
  "kaynak": {
   "tedarikci": "bukap",
-  "tedarikci_ad": "bukap",
+  "tedarikci_ad": "Bukap Ambalaj",
   "tedarikci_kodu": "BKP1130",
   "kaynak_sayfa": 105,
-  "katalog": "kaynaklar/bukap/"
+  "katalog": "kaynaklar/bukap/bukap-katalog-2026.pdf"
  }
 }

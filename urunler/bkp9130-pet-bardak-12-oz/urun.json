@@ -5,6 +5,7 @@
  "kategori": "İçecek Bardakları ve Şişeler",
  "kategori_en": "Cups, Bottles & Carriers",
  "katalog": "gida",
+ "pdf_katalogda": true,
  "tur": "bardak",
  "olcu_mm": "95x60x110",
  "hacim_cc": "350",
@@ -59,9 +60,9 @@
  },
  "kaynak": {
   "tedarikci": "bukap",
-  "tedarikci_ad": "bukap",
+  "tedarikci_ad": "Bukap Ambalaj",
   "tedarikci_kodu": "BKP9130",
   "kaynak_sayfa": 47,
-  "katalog": "kaynaklar/bukap/"
+  "katalog": "kaynaklar/bukap/bukap-katalog-2026.pdf"
  }
 }

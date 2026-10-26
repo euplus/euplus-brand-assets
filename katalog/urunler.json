@@ -1912,14 +1912,14 @@
    "en": "Cups, Bottles & Carriers",
    "katalog": "gida",
    "tedarikci": "bukap",
-   "ozet": "PET bardak ve kapakları, PET şişe, karton bardak, viyol ve kraft çanta."
+   "ozet": "PET bardak ve kapakları, PET şişe ve bardak taşıyıcı viyol."
   },
   "46": {
    "ad": "Restoran ve Paket Servis Kapları",
    "en": "Restaurant & Takeaway Containers",
    "katalog": "gida",
    "tedarikci": "bukap",
-   "ozet": "Mikrodalga yemek kapları, çorba kaseleri, sos, salata, meze ve sandviç kapları."
+   "ozet": "Mikrodalga yemek kapları, sos, salata, meze ve sandviç kapları, kraft kaseler."
   },
   "47": {
    "ad": "Alüminyum Kaplar",
@@ -10734,7 +10734,8 @@
    "tedarikci_kodu": "BKP9505",
    "kaynak_sayfa": 52,
    "gorsel": "gorseller/bkp9505.png",
-   "not": ""
+   "not": "",
+   "katalogda": false
   },
   {
    "kod": "BKP9530",
@@ -10752,7 +10753,8 @@
    "tedarikci_kodu": "BKP9530",
    "kaynak_sayfa": 52,
    "gorsel": "gorseller/bkp9530.png",
-   "not": ""
+   "not": "",
+   "katalogda": false
   },
   {
    "kod": "BKP9610",
@@ -10770,7 +10772,8 @@
    "tedarikci_kodu": "BKP9610",
    "kaynak_sayfa": 54,
    "gorsel": "gorseller/bkp9610.png",
-   "not": ""
+   "not": "",
+   "katalogda": false
   },
   {
    "kod": "BKP9650",
@@ -10788,7 +10791,8 @@
    "tedarikci_kodu": "BKP9650",
    "kaynak_sayfa": 54,
    "gorsel": "gorseller/bkp9650.png",
-   "not": ""
+   "not": "",
+   "katalogda": false
   },
   {
    "kod": "BKP9605",
@@ -10806,7 +10810,8 @@
    "tedarikci_kodu": "BKP9605",
    "kaynak_sayfa": 54,
    "gorsel": "gorseller/bkp9605.png",
-   "not": ""
+   "not": "",
+   "katalogda": false
   },
   {
    "kod": "BKP9645",
@@ -10824,7 +10829,8 @@
    "tedarikci_kodu": "BKP9645",
    "kaynak_sayfa": 54,
    "gorsel": "gorseller/bkp9645.png",
-   "not": ""
+   "not": "",
+   "katalogda": false
   },
   {
    "kod": "BKP9809",
@@ -10842,7 +10848,8 @@
    "tedarikci_kodu": "BKP9809",
    "kaynak_sayfa": 56,
    "gorsel": "gorseller/bkp9809.png",
-   "not": ""
+   "not": "",
+   "katalogda": false
   },
   {
    "kod": "BKP9805",
@@ -10860,7 +10867,8 @@
    "tedarikci_kodu": "BKP9805",
    "kaynak_sayfa": 56,
    "gorsel": "gorseller/bkp9805.png",
-   "not": ""
+   "not": "",
+   "katalogda": false
   },
   {
    "kod": "BKP9810",
@@ -10878,7 +10886,8 @@
    "tedarikci_kodu": "BKP9810",
    "kaynak_sayfa": 56,
    "gorsel": "gorseller/bkp9810.png",
-   "not": ""
+   "not": "",
+   "katalogda": false
   },
   {
    "kod": "BKP9815",
@@ -10896,7 +10905,8 @@
    "tedarikci_kodu": "BKP9815",
    "kaynak_sayfa": 56,
    "gorsel": "gorseller/bkp9815.png",
-   "not": ""
+   "not": "",
+   "katalogda": false
   },
   {
    "kod": "BKP9830",
@@ -10914,7 +10924,8 @@
    "tedarikci_kodu": "BKP9830",
    "kaynak_sayfa": 56,
    "gorsel": "gorseller/bkp9830.png",
-   "not": ""
+   "not": "",
+   "katalogda": false
   },
   {
    "kod": "BKP9820",
@@ -10932,7 +10943,8 @@
    "tedarikci_kodu": "BKP9820",
    "kaynak_sayfa": 56,
    "gorsel": "gorseller/bkp9820.png",
-   "not": ""
+   "not": "",
+   "katalogda": false
   },
   {
    "kod": "BKP9715",
@@ -10950,7 +10962,8 @@
    "tedarikci_kodu": "BKP9715",
    "kaynak_sayfa": 57,
    "gorsel": "gorseller/bkp9715.png",
-   "not": ""
+   "not": "",
+   "katalogda": false
   },
   {
    "kod": "BKP9730",
@@ -10968,7 +10981,8 @@
    "tedarikci_kodu": "BKP9730",
    "kaynak_sayfa": 57,
    "gorsel": "gorseller/bkp9730.png",
-   "not": ""
+   "not": "",
+   "katalogda": false
   },
   {
    "kod": "BKP9740",
@@ -10986,7 +11000,8 @@
    "tedarikci_kodu": "BKP9740",
    "kaynak_sayfa": 57,
    "gorsel": "gorseller/bkp9740.png",
-   "not": ""
+   "not": "",
+   "katalogda": false
   },
   {
    "kod": "BKP9760",
@@ -11004,7 +11019,8 @@
    "tedarikci_kodu": "BKP9760",
    "kaynak_sayfa": 57,
    "gorsel": "gorseller/bkp9760.png",
-   "not": ""
+   "not": "",
+   "katalogda": false
   },
   {
    "kod": "BKP9240",
@@ -11076,7 +11092,8 @@
    "tedarikci_kodu": "BKP10250",
    "kaynak_sayfa": 59,
    "gorsel": "gorseller/bkp10250.png",
-   "not": ""
+   "not": "",
+   "katalogda": false
   },
   {
    "kod": "BKP10260",
@@ -11094,7 +11111,8 @@
    "tedarikci_kodu": "BKP10260",
    "kaynak_sayfa": 59,
    "gorsel": "gorseller/bkp10260.png",
-   "not": ""
+   "not": "",
+   "katalogda": false
   },
   {
    "kod": "BKP2210-2250",
@@ -11670,7 +11688,8 @@
    "tedarikci_kodu": "BKP1930",
    "kaynak_sayfa": 73,
    "gorsel": "gorseller/bkp1930.png",
-   "not": ""
+   "not": "",
+   "katalogda": false
   },
   {
    "kod": "BKP1940",
@@ -11688,7 +11707,8 @@
    "tedarikci_kodu": "BKP1940",
    "kaynak_sayfa": 73,
    "gorsel": "gorseller/bkp1940.png",
-   "not": ""
+   "not": "",
+   "katalogda": false
   },
   {
    "kod": "BKP9850",
@@ -11706,7 +11726,8 @@
    "tedarikci_kodu": "BKP9850",
    "kaynak_sayfa": 73,
    "gorsel": "gorseller/bkp9850.png",
-   "not": ""
+   "not": "",
+   "katalogda": false
   },
   {
    "kod": "BKP9855",
@@ -11724,7 +11745,8 @@
    "tedarikci_kodu": "BKP9855",
    "kaynak_sayfa": 73,
    "gorsel": "gorseller/bkp9855.png",
-   "not": ""
+   "not": "",
+   "katalogda": false
   },
   {
    "kod": "BKP10540",
@@ -11742,7 +11764,8 @@
    "tedarikci_kodu": "BKP10540",
    "kaynak_sayfa": 73,
    "gorsel": "gorseller/bkp10540.png",
-   "not": ""
+   "not": "",
+   "katalogda": false
   },
   {
    "kod": "BKP1950",
@@ -11760,7 +11783,8 @@
    "tedarikci_kodu": "BKP1950",
    "kaynak_sayfa": 73,
    "gorsel": "gorseller/bkp1950.png",
-   "not": ""
+   "not": "",
+   "katalogda": false
   },
   {
    "kod": "BKP1560",

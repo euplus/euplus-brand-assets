@@ -5,6 +5,7 @@
  "kategori": "Restoran ve Paket Servis Kapları",
  "kategori_en": "Restaurant & Takeaway Containers",
  "katalog": "gida",
+ "pdf_katalogda": true,
  "tur": "kase",
  "olcu_mm": "190x160x70",
  "hacim_cc": "1300",
@@ -59,9 +60,9 @@
  },
  "kaynak": {
   "tedarikci": "bukap",
-  "tedarikci_ad": "bukap",
+  "tedarikci_ad": "Bukap Ambalaj",
   "tedarikci_kodu": "BKP10525",
   "kaynak_sayfa": 80,
-  "katalog": "kaynaklar/bukap/"
+  "katalog": "kaynaklar/bukap/bukap-katalog-2026.pdf"
  }
 }

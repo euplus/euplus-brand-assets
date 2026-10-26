@@ -5,6 +5,7 @@
  "kategori": "Oluklu Gıda Kutuları",
  "kategori_en": "Corrugated Food Boxes",
  "katalog": "servis",
+ "pdf_katalogda": true,
  "tur": "pizza-kutusu",
  "olcu_mm": "220x210x40",
  "hacim_cc": "",

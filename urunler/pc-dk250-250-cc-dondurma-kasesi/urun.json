@@ -5,6 +5,7 @@
  "kategori": "Dondurma Kaseleri",
  "kategori_en": "Ice Cream Cups",
  "katalog": "servis",
+ "pdf_katalogda": true,
  "tur": "dondurma-kasesi",
  "olcu_mm": "97x80x48",
  "hacim_cc": "250",

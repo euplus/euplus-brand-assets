@@ -5,6 +5,7 @@
  "kategori": "Restoran ve Paket Servis Kapları",
  "kategori_en": "Restaurant & Takeaway Containers",
  "katalog": "gida",
+ "pdf_katalogda": true,
  "tur": "salata",
  "olcu_mm": "170x170x87",
  "hacim_cc": "750",
@@ -59,9 +60,9 @@
  },
  "kaynak": {
   "tedarikci": "bukap",
-  "tedarikci_ad": "bukap",
+  "tedarikci_ad": "Bukap Ambalaj",
   "tedarikci_kodu": "BKP670",
   "kaynak_sayfa": 81,
-  "katalog": "kaynaklar/bukap/"
+  "katalog": "kaynaklar/bukap/bukap-katalog-2026.pdf"
  }
 }

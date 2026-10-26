@@ -5,6 +5,7 @@
  "kategori": "Çatal, Kaşık ve Bıçak",
  "kategori_en": "Cutlery",
  "katalog": "gida",
+ "pdf_katalogda": true,
  "tur": "dondurma-kasigi",
  "olcu_mm": "75",
  "hacim_cc": "",
@@ -59,9 +60,9 @@
  },
  "kaynak": {
   "tedarikci": "bukap",
-  "tedarikci_ad": "bukap",
+  "tedarikci_ad": "Bukap Ambalaj",
   "tedarikci_kodu": "CP674",
   "kaynak_sayfa": 134,
-  "katalog": "kaynaklar/bukap/"
+  "katalog": "kaynaklar/bukap/bukap-katalog-2026.pdf"
  }
 }

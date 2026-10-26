@@ -444,7 +444,7 @@ for p in P:
     ks = p.get('koli_secenekleri') or []
     rec = {
         'stok_kodu': p['kod'], 'baslik': title(p), 'urun_adi': p['ad'],
-        'kategori': sec['ad'], 'kategori_en': sec['en'], 'katalog': sec.get('katalog', 'seffaf'), 'tur': kind(p),
+        'kategori': sec['ad'], 'kategori_en': sec['en'], 'katalog': sec.get('katalog', 'seffaf'), 'pdf_katalogda': p.get('katalogda', True), 'tur': kind(p),
         'olcu_mm': p['olcu'], 'hacim_cc': p['hacim'] if p['hacim'] and 'oz' not in p['hacim'] else '',
         'hacim': p['hacim'], 'materyal': p['materyal'],
         'agiz_capi_mm': p.get('agiz_capi', ''), 'dip_capi_mm': p.get('dip_capi', ''), 'yukseklik_mm': p.get('yukseklik', ''),

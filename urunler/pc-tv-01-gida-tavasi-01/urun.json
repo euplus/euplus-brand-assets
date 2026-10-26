@@ -5,6 +5,7 @@
  "kategori": "Gıda Tavaları",
  "kategori_en": "Food Trays",
  "katalog": "servis",
+ "pdf_katalogda": true,
  "tur": "tava",
  "olcu_mm": "70x120x40",
  "hacim_cc": "",

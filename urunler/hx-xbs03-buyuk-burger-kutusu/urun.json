@@ -5,6 +5,7 @@
  "kategori": "Burger Kutuları",
  "kategori_en": "Burger Boxes",
  "katalog": "fastfood",
+ "pdf_katalogda": true,
  "tur": "burger-kutusu",
  "olcu_mm": "151x141x78",
  "hacim_cc": "",

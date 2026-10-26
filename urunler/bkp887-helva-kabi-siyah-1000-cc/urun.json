@@ -5,6 +5,7 @@
  "kategori": "Kurabiye ve Genel Gıda Kapları",
  "kategori_en": "Cookie & General Food Containers",
  "katalog": "gida",
+ "pdf_katalogda": true,
  "tur": "kap",
  "olcu_mm": "170x170x57",
  "hacim_cc": "1000",
@@ -59,9 +60,9 @@
  },
  "kaynak": {
   "tedarikci": "bukap",
-  "tedarikci_ad": "bukap",
+  "tedarikci_ad": "Bukap Ambalaj",
   "tedarikci_kodu": "BKP887",
   "kaynak_sayfa": 110,
-  "katalog": "kaynaklar/bukap/"
+  "katalog": "kaynaklar/bukap/bukap-katalog-2026.pdf"
  }
 }

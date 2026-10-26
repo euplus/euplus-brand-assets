@@ -5,6 +5,7 @@
  "kategori": "Oluklu Gıda Kutuları",
  "kategori_en": "Corrugated Food Boxes",
  "katalog": "servis",
+ "pdf_katalogda": true,
  "tur": "oluklu-kutu",
  "olcu_mm": "150x150x100",
  "hacim_cc": "",

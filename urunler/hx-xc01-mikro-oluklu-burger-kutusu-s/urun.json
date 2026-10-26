@@ -5,6 +5,7 @@
  "kategori": "Mikro Oluklu Burger Kutuları",
  "kategori_en": "Micro Corrugated Takeaway Boxes",
  "katalog": "fastfood",
+ "pdf_katalogda": true,
  "tur": "burger-kutusu",
  "olcu_mm": "102x102x64",
  "hacim_cc": "",

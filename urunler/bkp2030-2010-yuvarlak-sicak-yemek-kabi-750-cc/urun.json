@@ -5,6 +5,7 @@
  "kategori": "Restoran ve Paket Servis Kapları",
  "kategori_en": "Restaurant & Takeaway Containers",
  "katalog": "gida",
+ "pdf_katalogda": true,
  "tur": "kap",
  "olcu_mm": "170x170x60",
  "hacim_cc": "750",
@@ -59,9 +60,9 @@
  },
  "kaynak": {
   "tedarikci": "bukap",
-  "tedarikci_ad": "bukap",
+  "tedarikci_ad": "Bukap Ambalaj",
   "tedarikci_kodu": "BKP2030-2010",
   "kaynak_sayfa": 64,
-  "katalog": "kaynaklar/bukap/"
+  "katalog": "kaynaklar/bukap/bukap-katalog-2026.pdf"
  }
 }
