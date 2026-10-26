@@ -25,6 +25,7 @@
  "moq": "",
  "varyantlar": [],
  "not": "Baskılı veya baskısız; kraft ya da beyaz karton",
+ "alt_kategori": "",
  "aciklama": [
   "Gıda Tavası 01, açık karton servis tavasıdır (gıda tepsisi). Sosisli, tavuk, nugget, tatlı ve atıştırmalık servisi için uygundur.",
   "Teknik özellikler: ürün ölçüsü 70 × 120 × 40 mm.",
@@ -56,6 +57,7 @@
   "tedarikci": "promocup",
   "tedarikci_ad": "Promocup",
   "tedarikci_kodu": "TV-01",
+  "kaynak_sayfa": "",
   "katalog": "kaynaklar/promocup/promocup-katalog-2026.pdf"
  }
 }

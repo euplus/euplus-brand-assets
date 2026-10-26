@@ -25,6 +25,7 @@
  "moq": "",
  "varyantlar": [],
  "not": "",
+ "alt_kategori": "",
  "aciklama": [
   "Küçük Patates Kabı, açık ağızlı karton patates kabıdır. Patates kızartması, soğan halkası ve atıştırmalık servisi için uygundur.",
   "Teknik özellikler: ölçü 93 × 38 / 77 × 35  ×  h110 mm, 230 gsm karton hammadde.",
@@ -56,6 +57,7 @@
   "tedarikci": "helmex",
   "tedarikci_ad": "Helmex",
   "tedarikci_kodu": "XF01",
+  "kaynak_sayfa": "",
   "katalog": "kaynaklar/helmex/helmex-katalog-2023.pdf"
  }
 }

@@ -25,6 +25,7 @@
  "moq": "",
  "varyantlar": [],
  "not": "Körük 9–26 cm, genişlik 22–55 cm, yükseklik 20–62 cm arası ölçüler; minimum sipariş 25.000 adet; özel baskı yapılır",
+ "alt_kategori": "",
  "aciklama": [
   "Kraft Çanta – Düz Saplı, kağıt taşıma çantasıdır. Paket servis, mağaza ve kurumsal hediye taşıması için uygundur.",
   "Teknik özellikler: ölçü ve ağırlık siparişe göre belirlenir.",
@@ -58,6 +59,7 @@
   "tedarikci": "promocup",
   "tedarikci_ad": "Promocup",
   "tedarikci_kodu": "",
+  "kaynak_sayfa": "",
   "katalog": "kaynaklar/promocup/promocup-katalog-2026.pdf"
  }
 }

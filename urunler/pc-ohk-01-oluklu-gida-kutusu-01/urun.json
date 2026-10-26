@@ -25,6 +25,7 @@
  "moq": "",
  "varyantlar": [],
  "not": "",
+ "alt_kategori": "",
  "aciklama": [
   "Oluklu Gıda Kutusu 01, mikro oluklu mukavvadan üretilmiş kilitli gıda kutusudur. Hamburger, menü, kızartma ve paket servis için uygundur.",
   "Teknik özellikler: ürün ölçüsü 150 × 150 × 100 mm.",
@@ -56,6 +57,7 @@
   "tedarikci": "promocup",
   "tedarikci_ad": "Promocup",
   "tedarikci_kodu": "OHK-01",
+  "kaynak_sayfa": "",
   "katalog": "kaynaklar/promocup/promocup-katalog-2026.pdf"
  }
 }

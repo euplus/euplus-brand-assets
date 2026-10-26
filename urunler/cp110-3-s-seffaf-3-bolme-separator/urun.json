@@ -25,6 +25,7 @@
  "moq": "",
  "varyantlar": [],
  "not": "",
+ "alt_kategori": "",
  "aciklama": [
   "Şeffaf 3 Bölme Separatör, kendi kabıyla uyumlu bölmeli separatördür (ayırıcı). Lokum, çikolata, draje, badem şekeri, macaron ve kuruyemiş sunumu için uygundur.",
   "Teknik özellikler: ürün ölçüsü 120 × 120 × 30 mm, PET (polietilen tereftalat) hammadde.",
@@ -54,6 +55,7 @@
   "tedarikci": "crystal-pack",
   "tedarikci_ad": "Crystal Pack",
   "tedarikci_kodu": "CP110 3-S",
+  "kaynak_sayfa": "",
   "katalog": "kaynaklar/crystal-pack/crystal-pack-katalog-2026.pdf"
  }
 }

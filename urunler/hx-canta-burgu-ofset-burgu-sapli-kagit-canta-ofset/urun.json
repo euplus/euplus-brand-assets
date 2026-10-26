@@ -66,6 +66,7 @@
   }
  ],
  "not": "",
+ "alt_kategori": "",
  "aciklama": [
   "Burgu Saplı Kağıt Çanta (ofset), saplı kağıt taşıma çantasıdır. Paket servis ve mağaza taşıması için uygundur.",
   "Teknik özellikler: ölçü 22,5 × 8 × 23,5 – 34,7 × 14 × 40 cm, 100 gsm beyaz kağıt hammadde.",
@@ -98,6 +99,7 @@
   "tedarikci": "helmex",
   "tedarikci_ad": "Helmex",
   "tedarikci_kodu": "",
+  "kaynak_sayfa": "",
   "katalog": "kaynaklar/helmex/helmex-katalog-2023.pdf"
  }
 }

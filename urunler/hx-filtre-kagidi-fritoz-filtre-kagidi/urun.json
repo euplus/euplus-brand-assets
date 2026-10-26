@@ -25,6 +25,7 @@
  "moq": "",
  "varyantlar": [],
  "not": "",
+ "alt_kategori": "",
  "aciklama": [
   "Fritöz Filtre Kağıdı, basınçlı fritöz filtre kağıdıdır. Fritöz yağının süzülmesi için uygundur.",
   "Teknik özellikler: ölçü 54 × 36 cm, nonwoven 50 gsm hammadde.",
@@ -55,6 +56,7 @@
   "tedarikci": "helmex",
   "tedarikci_ad": "Helmex",
   "tedarikci_kodu": "",
+  "kaynak_sayfa": "",
   "katalog": "kaynaklar/helmex/helmex-katalog-2023.pdf"
  }
 }

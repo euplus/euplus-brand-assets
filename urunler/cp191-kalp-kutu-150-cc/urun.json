@@ -25,6 +25,7 @@
  "moq": "",
  "varyantlar": [],
  "not": "",
+ "alt_kategori": "",
  "aciklama": [
   "Kalp Kutu 150 cc, tek kullanımlık şeffaf sunum kutusudur. Lokum, çikolata, draje, badem şekeri, macaron ve kuruyemiş sunumu için uygundur.",
   "Teknik özellikler: ürün ölçüsü 92 × 92 × 36 mm, 150 cc hacim, PS (polistiren) hammadde.",
@@ -58,6 +59,7 @@
   "tedarikci": "crystal-pack",
   "tedarikci_ad": "Crystal Pack",
   "tedarikci_kodu": "CP191",
+  "kaynak_sayfa": "",
   "katalog": "kaynaklar/crystal-pack/crystal-pack-katalog-2026.pdf"
  }
 }

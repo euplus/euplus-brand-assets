@@ -31,6 +31,7 @@
  "moq": "",
  "varyantlar": [],
  "not": "8 ve 12 oz soğuk içecek bardakları ile uyumlu",
+ "alt_kategori": "",
  "aciklama": [
   "8-12 oz Soğuk İçecek Kapağı 80 mm Ø, karton soğuk içecek bardağıdır. Soğuk içecek, gazlı içecek, milkshake, smoothie, mısır ve patates servisi için uygundur.",
   "Teknik özellikler: çap 80 mm, ürün ağırlığı 1,5 g.",
@@ -64,6 +65,7 @@
   "tedarikci": "promocup",
   "tedarikci_ad": "Promocup",
   "tedarikci_kodu": "",
+  "kaynak_sayfa": "",
   "katalog": "kaynaklar/promocup/promocup-katalog-2026.pdf"
  }
 }

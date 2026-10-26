@@ -53,6 +53,7 @@
   }
  ],
  "not": "",
+ "alt_kategori": "",
  "aciklama": [
   "El Tipi Streç Film, palet sarma streç filmidir. Palet ve koli sabitleme için uygundur.",
   "Teknik özellikler: ölçü 500 mm × 270–300 m, LLDPE hammadde.",
@@ -85,6 +86,7 @@
   "tedarikci": "helmex",
   "tedarikci_ad": "Helmex",
   "tedarikci_kodu": "",
+  "kaynak_sayfa": "",
   "katalog": "kaynaklar/helmex/helmex-katalog-2023.pdf"
  }
 }

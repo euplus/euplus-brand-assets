@@ -25,6 +25,7 @@
  "moq": "",
  "varyantlar": [],
  "not": "",
+ "alt_kategori": "",
  "aciklama": [
   "2'li Bardak Taşıyıcı, geri dönüştürülmüş kağıt hamurundan bardak taşıyıcıdır. Birden fazla içeceğin güvenle taşınması için uygundur.",
   "Teknik özellikler: Geri dönüştürülmüş kağıt hamuru hammadde.",
@@ -55,6 +56,7 @@
   "tedarikci": "helmex",
   "tedarikci_ad": "Helmex",
   "tedarikci_kodu": "XCC02",
+  "kaynak_sayfa": "",
   "katalog": "kaynaklar/helmex/helmex-katalog-2023.pdf"
  }
 }

@@ -92,6 +92,7 @@
   }
  ],
  "not": "",
+ "alt_kategori": "",
  "aciklama": [
   "Peçete, %100 selüloz kağıt üründür. Restoran, kafe ve paket servis için uygundur.",
   "Teknik özellikler: %100 selüloz hammadde.",
@@ -123,6 +124,7 @@
   "tedarikci": "helmex",
   "tedarikci_ad": "Helmex",
   "tedarikci_kodu": "",
+  "kaynak_sayfa": "",
   "katalog": "kaynaklar/helmex/helmex-katalog-2023.pdf"
  }
 }

@@ -36,6 +36,7 @@
  "moq": "",
  "varyantlar": [],
  "not": "",
+ "alt_kategori": "",
  "aciklama": [
   "8 oz Tek Katlı Sıcak İçecek Bardağı, tek katlı karton sıcak içecek bardağıdır. Kahve, çay, salep, sıcak çikolata ve bitki çayı servisi için uygundur.",
   "Teknik özellikler: ağız çapı 80 mm, dip çapı 57 mm, yükseklik 88 mm, hacim 8 oz, ürün ağırlığı 7,5 g.",
@@ -71,6 +72,7 @@
   "tedarikci": "promocup",
   "tedarikci_ad": "Promocup",
   "tedarikci_kodu": "",
+  "kaynak_sayfa": "",
   "katalog": "kaynaklar/promocup/promocup-katalog-2026.pdf"
  }
 }

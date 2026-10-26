@@ -25,6 +25,7 @@
  "moq": "",
  "varyantlar": [],
  "not": "",
+ "alt_kategori": "",
  "aciklama": [
   "32 oz Karton Kase, karton salata kasesidir. Salata, poke ve sıcak yemek servisi için uygundur.",
   "Teknik özellikler: ölçü 187 mm, Karton hammadde, ürün ağırlığı 19 g.",
@@ -56,6 +57,7 @@
   "tedarikci": "helmex",
   "tedarikci_ad": "Helmex",
   "tedarikci_kodu": "XB032",
+  "kaynak_sayfa": "",
   "katalog": "kaynaklar/helmex/helmex-katalog-2023.pdf"
  }
 }

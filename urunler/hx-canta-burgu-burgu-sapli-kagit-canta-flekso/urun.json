@@ -162,6 +162,7 @@
   }
  ],
  "not": "",
+ "alt_kategori": "",
  "aciklama": [
   "Burgu Saplı Kağıt Çanta (flekso), saplı kağıt taşıma çantasıdır. Paket servis ve mağaza taşıması için uygundur.",
   "Teknik özellikler: ölçü 18 × 8 × 23 – 54 × 14 × 50 cm, 70-80-90-100 gsm kraft / beyaz kağıt hammadde.",
@@ -194,6 +195,7 @@
   "tedarikci": "helmex",
   "tedarikci_ad": "Helmex",
   "tedarikci_kodu": "",
+  "kaynak_sayfa": "",
   "katalog": "kaynaklar/helmex/helmex-katalog-2023.pdf"
  }
 }

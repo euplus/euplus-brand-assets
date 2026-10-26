@@ -31,6 +31,7 @@
  "moq": "",
  "varyantlar": [],
  "not": "12, 14 ve 16 oz bardaklar ile uyumlu",
+ "alt_kategori": "",
  "aciklama": [
   "12-16 oz PS Yudum Kapak 90 mm Ø (Siyah / Beyaz), bardak veya kase ile uyumlu plastik kapaktır. Paket servis ve gel-al satışta taşıma güvenliği için uygundur.",
   "Teknik özellikler: çap 90 mm, ürün ağırlığı 3,2 g.",
@@ -62,6 +63,7 @@
   "tedarikci": "promocup",
   "tedarikci_ad": "Promocup",
   "tedarikci_kodu": "LBT90",
+  "kaynak_sayfa": "",
   "katalog": "kaynaklar/promocup/promocup-katalog-2026.pdf"
  }
 }

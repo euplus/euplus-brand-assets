@@ -31,6 +31,7 @@
  "moq": "",
  "varyantlar": [],
  "not": "",
+ "alt_kategori": "",
  "aciklama": [
   "14 oz PET Bardak (95 mm Ø) – 400 ml, kristal şeffaf PET soğuk içecek bardağıdır. Bubble tea, frappe, limonata, smoothie ve soğuk kahve servisi için uygundur.",
   "Teknik özellikler: çap 95 mm, 400 cc hacim, ürün ağırlığı 12 g.",
@@ -65,6 +66,7 @@
   "tedarikci": "promocup",
   "tedarikci_ad": "Promocup",
   "tedarikci_kodu": "",
+  "kaynak_sayfa": "",
   "katalog": "kaynaklar/promocup/promocup-katalog-2026.pdf"
  }
 }

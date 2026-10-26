@@ -31,6 +31,7 @@
  "moq": "",
  "varyantlar": [],
  "not": "",
+ "alt_kategori": "",
  "aciklama": [
   "300 cc Dondurma Kasesi, karton dondurma ve tatlı kasesidir. Dondurma, dondurulmuş yoğurt, helva, meyve salatası ve meze servisi için uygundur.",
   "Teknik özellikler: ağız çapı 90 mm, dip çapı 66 mm, yükseklik 82 mm, 300 cc hacim, ürün ağırlığı 7 g.",
@@ -63,6 +64,7 @@
   "tedarikci": "promocup",
   "tedarikci_ad": "Promocup",
   "tedarikci_kodu": "",
+  "kaynak_sayfa": "",
   "katalog": "kaynaklar/promocup/promocup-katalog-2026.pdf"
  }
 }

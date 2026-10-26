@@ -25,6 +25,7 @@
  "moq": "200.000",
  "varyantlar": [],
  "not": "",
+ "alt_kategori": "",
  "aciklama": [
   "Sıcak İçecek Bardağı 7 oz, PE kaplı karton içecek bardağıdır. Kahve, çay ve soğuk içecek servisi için uygundur.",
   "Teknik özellikler: ölçü Ø72,9 / Ø51,69  ×  77 mm, hacim 175 ml, Kağıt + PE hammadde, ürün ağırlığı 4,19 g.",
@@ -56,6 +57,7 @@
   "tedarikci": "helmex",
   "tedarikci_ad": "Helmex",
   "tedarikci_kodu": "SPX7oz",
+  "kaynak_sayfa": "",
   "katalog": "kaynaklar/helmex/helmex-katalog-2023.pdf"
  }
 }

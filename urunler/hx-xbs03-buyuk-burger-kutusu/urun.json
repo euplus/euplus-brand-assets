@@ -25,6 +25,7 @@
  "moq": "",
  "varyantlar": [],
  "not": "Kapak genişliği 155 mm",
+ "alt_kategori": "",
  "aciklama": [
   "Büyük Burger Kutusu, kilitli kapaklı karton burger kutusudur. Hamburger, tost ve sandviç servisi için uygundur.",
   "Teknik özellikler: ölçü 151 × 141 × 78 mm, 300 gsm karton hammadde.",
@@ -57,6 +58,7 @@
   "tedarikci": "helmex",
   "tedarikci_ad": "Helmex",
   "tedarikci_kodu": "XBS03",
+  "kaynak_sayfa": "",
   "katalog": "kaynaklar/helmex/helmex-katalog-2023.pdf"
  }
 }

@@ -31,6 +31,7 @@
  "moq": "",
  "varyantlar": [],
  "not": "",
+ "alt_kategori": "",
  "aciklama": [
   "Pasta Kutusu / Holder, karton pasta kutusu taşıyıcısıdır (holder). Pasta ve tatlı kutularının taşınması için uygundur.",
   "Teknik özellikler: ölçü ve ağırlık siparişe göre belirlenir.",
@@ -61,6 +62,7 @@
   "tedarikci": "promocup",
   "tedarikci_ad": "Promocup",
   "tedarikci_kodu": "",
+  "kaynak_sayfa": "",
   "katalog": "kaynaklar/promocup/promocup-katalog-2026.pdf"
  }
 }

@@ -25,6 +25,7 @@
  "moq": "",
  "varyantlar": [],
  "not": "",
+ "alt_kategori": "",
  "aciklama": [
   "Tavuk Kutusu (M), kızarmış tavuk için kilitli karton kutudur. Kızarmış tavuk, kanat ve nugget servisi için uygundur.",
   "Teknik özellikler: ölçü 174 × 105 × 61 mm, 250 gsm karton hammadde.",
@@ -56,6 +57,7 @@
   "tedarikci": "helmex",
   "tedarikci_ad": "Helmex",
   "tedarikci_kodu": "FC1",
+  "kaynak_sayfa": "",
   "katalog": "kaynaklar/helmex/helmex-katalog-2023.pdf"
  }
 }

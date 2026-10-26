@@ -31,6 +31,7 @@
  "moq": "",
  "varyantlar": [],
  "not": "16 ve 22 oz soğuk içecek bardakları ile uyumlu",
+ "alt_kategori": "",
  "aciklama": [
   "16-22 oz Soğuk İçecek Kapağı 90 mm Ø, karton soğuk içecek bardağıdır. Soğuk içecek, gazlı içecek, milkshake, smoothie, mısır ve patates servisi için uygundur.",
   "Teknik özellikler: çap 90 mm, ürün ağırlığı 1,9 g.",
@@ -64,6 +65,7 @@
   "tedarikci": "promocup",
   "tedarikci_ad": "Promocup",
   "tedarikci_kodu": "",
+  "kaynak_sayfa": "",
   "katalog": "kaynaklar/promocup/promocup-katalog-2026.pdf"
  }
 }

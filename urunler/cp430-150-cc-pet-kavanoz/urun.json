@@ -25,6 +25,7 @@
  "moq": "",
  "varyantlar": [],
  "not": "",
+ "alt_kategori": "",
  "aciklama": [
   "150 cc PET Kavanoz, tek kullanımlık şeffaf kavanozdur. Sütlü tatlı, puding, muhallebi, sütlaç, kazandibi, tiramisu ve benzeri tatlıların sunumu için uygundur.",
   "Teknik özellikler: ürün ölçüsü 64 × 64 × 75 mm, 150 cc hacim, PET (polietilen tereftalat) hammadde.",
@@ -58,6 +59,7 @@
   "tedarikci": "crystal-pack",
   "tedarikci_ad": "Crystal Pack",
   "tedarikci_kodu": "CP430",
+  "kaynak_sayfa": "",
   "katalog": "kaynaklar/crystal-pack/crystal-pack-katalog-2026.pdf"
  }
 }

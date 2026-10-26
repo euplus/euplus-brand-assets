@@ -170,6 +170,7 @@
   }
  ],
  "not": "",
+ "alt_kategori": "",
  "aciklama": [
   "Düz Saplı Kağıt Çanta, saplı kağıt taşıma çantasıdır. Paket servis ve mağaza taşıması için uygundur.",
   "Teknik özellikler: ölçü 18 × 10 × 33 – 46 × 16 × 46 cm, 70-80-90-100 gsm kraft / beyaz kağıt hammadde.",
@@ -202,6 +203,7 @@
   "tedarikci": "helmex",
   "tedarikci_ad": "Helmex",
   "tedarikci_kodu": "",
+  "kaynak_sayfa": "",
   "katalog": "kaynaklar/helmex/helmex-katalog-2023.pdf"
  }
 }

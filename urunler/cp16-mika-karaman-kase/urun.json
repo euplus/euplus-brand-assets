@@ -25,6 +25,7 @@
  "moq": "",
  "varyantlar": [],
  "not": "",
+ "alt_kategori": "",
  "aciklama": [
   "Mika Karaman Kase 270-300 cc, tek kullanımlık şeffaf tatlı kasesidir. Sütlü tatlı, puding, muhallebi, sütlaç, kazandibi, tiramisu ve benzeri tatlıların sunumu için uygundur.",
   "Teknik özellikler: ürün ölçüsü 106 × 75 × 90 mm, 270-300 cc hacim, PS (polistiren) hammadde.",
@@ -59,6 +60,7 @@
   "tedarikci": "crystal-pack",
   "tedarikci_ad": "Crystal Pack",
   "tedarikci_kodu": "CP16",
+  "kaynak_sayfa": "",
   "katalog": "kaynaklar/crystal-pack/crystal-pack-katalog-2026.pdf"
  }
 }

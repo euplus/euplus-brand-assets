@@ -25,6 +25,7 @@
  "moq": "",
  "varyantlar": [],
  "not": "Baskılı veya baskısız; kraft ya da beyaz karton",
+ "alt_kategori": "",
  "aciklama": [
   "Büyük Boy Patates Kızartması Kutusu, karton patates kızartması kutusudur. Patates kızartması, soğan halkası, nugget ve atıştırmalık servisi için uygundur.",
   "Teknik özellikler: ürün ölçüsü 83 × 40 × 130 mm.",
@@ -55,6 +56,7 @@
   "tedarikci": "promocup",
   "tedarikci_ad": "Promocup",
   "tedarikci_kodu": "PK-02",
+  "kaynak_sayfa": "",
   "katalog": "kaynaklar/promocup/promocup-katalog-2026.pdf"
  }
 }

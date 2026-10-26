@@ -25,6 +25,7 @@
  "moq": "",
  "varyantlar": [],
  "not": "",
+ "alt_kategori": "",
  "aciklama": [
   "26 oz Noodle Kutusu (750 ml), PE laminasyonlu yuvarlak karton noodle kutusudur. Noodle, makarna ve sıcak yemek servisi için uygundur.",
   "Teknik özellikler: ölçü 83 × 100 / 94  ×  h95 mm, hacim 750 cc, 280 gsm kraft & beyaz kağıt + PE laminasyon hammadde, ürün ağırlığı 16 g.",
@@ -56,6 +57,7 @@
   "tedarikci": "helmex",
   "tedarikci_ad": "Helmex",
   "tedarikci_kodu": "",
+  "kaynak_sayfa": "",
   "katalog": "kaynaklar/helmex/helmex-katalog-2023.pdf"
  }
 }

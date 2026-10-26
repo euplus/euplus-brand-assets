@@ -25,6 +25,7 @@
  "moq": "",
  "varyantlar": [],
  "not": "",
+ "alt_kategori": "",
  "aciklama": [
   "Yuvarlak Honey Kutu 700 cc, tek kullanımlık şeffaf sunum kutusudur. Süzme bal, petek bal ve krem bal sunumu için uygundur.",
   "Teknik özellikler: ürün ölçüsü 156 × 156 × 58 mm, 600 cc hacim, PS (polistiren) hammadde.",
@@ -58,6 +59,7 @@
   "tedarikci": "crystal-pack",
   "tedarikci_ad": "Crystal Pack",
   "tedarikci_kodu": "CP362",
+  "kaynak_sayfa": "",
   "katalog": "kaynaklar/crystal-pack/crystal-pack-katalog-2026.pdf"
  }
 }

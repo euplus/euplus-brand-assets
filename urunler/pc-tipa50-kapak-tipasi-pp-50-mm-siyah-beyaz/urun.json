@@ -31,6 +31,7 @@
  "moq": "",
  "varyantlar": [],
  "not": "Yudum kapağı ağzını kapatan tıpa",
+ "alt_kategori": "",
  "aciklama": [
   "Kapak Tıpası PP 50 mm (Siyah / Beyaz), yudum kapağı ağzını kapatan PP tıpadır. Paket servis sırasında dökülmenin önlenmesi için uygundur.",
   "Teknik özellikler: ürün ağırlığı 1 g.",
@@ -62,6 +63,7 @@
   "tedarikci": "promocup",
   "tedarikci_ad": "Promocup",
   "tedarikci_kodu": "",
+  "kaynak_sayfa": "",
   "katalog": "kaynaklar/promocup/promocup-katalog-2026.pdf"
  }
 }

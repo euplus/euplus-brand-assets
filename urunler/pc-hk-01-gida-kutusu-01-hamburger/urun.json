@@ -25,6 +25,7 @@
  "moq": "",
  "varyantlar": [],
  "not": "Baskılı veya baskısız; kraft ya da beyaz karton",
+ "alt_kategori": "",
  "aciklama": [
   "Gıda Kutusu 01 (Hamburger), kilitli kapaklı karton gıda kutusudur. Hamburger, tost, sandviç ve menü servisi için uygundur.",
   "Teknik özellikler: ürün ölçüsü 95 × 95 × 70 mm.",
@@ -56,6 +57,7 @@
   "tedarikci": "promocup",
   "tedarikci_ad": "Promocup",
   "tedarikci_kodu": "HK-01",
+  "kaynak_sayfa": "",
   "katalog": "kaynaklar/promocup/promocup-katalog-2026.pdf"
  }
 }

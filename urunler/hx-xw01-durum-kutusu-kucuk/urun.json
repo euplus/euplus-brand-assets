@@ -25,6 +25,7 @@
  "moq": "",
  "varyantlar": [],
  "not": "",
+ "alt_kategori": "",
  "aciklama": [
   "Dürüm Kutusu (küçük), yastık tipi karton dürüm kutusudur. Dürüm, wrap ve sandviç servisi için uygundur.",
   "Teknik özellikler: ölçü 80 × 30 / 70 × 30  ×  h225 mm, Karton hammadde.",
@@ -56,6 +57,7 @@
   "tedarikci": "helmex",
   "tedarikci_ad": "Helmex",
   "tedarikci_kodu": "XW01",
+  "kaynak_sayfa": "",
   "katalog": "kaynaklar/helmex/helmex-katalog-2023.pdf"
  }
 }

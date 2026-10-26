@@ -25,6 +25,7 @@
  "moq": "",
  "varyantlar": [],
  "not": "",
+ "alt_kategori": "",
  "aciklama": [
   "Orta Patates Kabı, açık ağızlı karton patates kabıdır. Patates kızartması, soğan halkası ve atıştırmalık servisi için uygundur.",
   "Teknik özellikler: ölçü 100 × 40 / 73 × 33  ×  h153 mm, 250 gsm karton hammadde.",
@@ -56,6 +57,7 @@
   "tedarikci": "helmex",
   "tedarikci_ad": "Helmex",
   "tedarikci_kodu": "XF02",
+  "kaynak_sayfa": "",
   "katalog": "kaynaklar/helmex/helmex-katalog-2023.pdf"
  }
 }

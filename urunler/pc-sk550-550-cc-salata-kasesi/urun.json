@@ -36,6 +36,7 @@
  "moq": "",
  "varyantlar": [],
  "not": "",
+ "alt_kategori": "",
  "aciklama": [
   "550 cc Salata Kasesi, kraft karton salata kasesidir. Salata, poke bowl, makarna, pilav ve sıcak-soğuk yemek servisi için uygundur.",
   "Teknik özellikler: ağız çapı 145 mm, dip çapı 127 mm, yükseklik 52 mm, 550 cc hacim, ürün ağırlığı 12,5 g.",
@@ -69,6 +70,7 @@
   "tedarikci": "promocup",
   "tedarikci_ad": "Promocup",
   "tedarikci_kodu": "",
+  "kaynak_sayfa": "",
   "katalog": "kaynaklar/promocup/promocup-katalog-2026.pdf"
  }
 }

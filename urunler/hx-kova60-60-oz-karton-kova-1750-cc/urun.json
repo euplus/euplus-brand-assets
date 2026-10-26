@@ -25,6 +25,7 @@
  "moq": "",
  "varyantlar": [],
  "not": "",
+ "alt_kategori": "",
  "aciklama": [
   "60 oz Karton Kova (1750 cc), PE kaplı bristol karton kovadır. Kızarmış tavuk ve aile menüsü servisi için uygundur.",
   "Teknik özellikler: ölçü 150 × 125 × 132 mm, hacim 1750 cc, 250-300 gsm bristol + PE hammadde.",
@@ -56,6 +57,7 @@
   "tedarikci": "helmex",
   "tedarikci_ad": "Helmex",
   "tedarikci_kodu": "",
+  "kaynak_sayfa": "",
   "katalog": "kaynaklar/helmex/helmex-katalog-2023.pdf"
  }
 }

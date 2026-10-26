@@ -25,6 +25,7 @@
  "moq": "",
  "varyantlar": [],
  "not": "",
+ "alt_kategori": "",
  "aciklama": [
   "Açık Orta Tabak 450 cc, tek kullanımlık şeffaf sunum tabağıdır. Süzme bal, petek bal ve krem bal sunumu için uygundur.",
   "Teknik özellikler: ürün ölçüsü 128 × 172 × 27 mm, 450 cc hacim, PS (polistiren) hammadde.",
@@ -58,6 +59,7 @@
   "tedarikci": "crystal-pack",
   "tedarikci_ad": "Crystal Pack",
   "tedarikci_kodu": "CP311",
+  "kaynak_sayfa": "",
   "katalog": "kaynaklar/crystal-pack/crystal-pack-katalog-2026.pdf"
  }
 }

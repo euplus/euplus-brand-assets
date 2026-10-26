@@ -25,6 +25,7 @@
  "moq": "",
  "varyantlar": [],
  "not": "",
+ "alt_kategori": "",
  "aciklama": [
   "Kalp Tabak (Açık) 350 cc, tek kullanımlık şeffaf sunum tabağıdır. Lokum, çikolata, draje, badem şekeri, macaron ve kuruyemiş sunumu için uygundur.",
   "Teknik özellikler: ürün ölçüsü 230 × 210 × 15 mm, 350 cc hacim, PS (polistiren) hammadde.",
@@ -58,6 +59,7 @@
   "tedarikci": "crystal-pack",
   "tedarikci_ad": "Crystal Pack",
   "tedarikci_kodu": "CP203",
+  "kaynak_sayfa": "",
   "katalog": "kaynaklar/crystal-pack/crystal-pack-katalog-2026.pdf"
  }
 }

@@ -25,6 +25,7 @@
  "moq": "",
  "varyantlar": [],
  "not": "",
+ "alt_kategori": "",
  "aciklama": [
   "Sokak Lezzeti Tepsisi No.4, açık karton servis tepsisidir. Patates, tavuk, sosisli ve atıştırmalık servisi için uygundur.",
   "Teknik özellikler: ölçü 240 × 190 / 130 × 80  ×  h55 mm, Kraft karton; PE veya OPP astar seçenekli hammadde.",
@@ -56,6 +57,7 @@
   "tedarikci": "helmex",
   "tedarikci_ad": "Helmex",
   "tedarikci_kodu": "XTray4",
+  "kaynak_sayfa": "",
   "katalog": "kaynaklar/helmex/helmex-katalog-2023.pdf"
  }
 }

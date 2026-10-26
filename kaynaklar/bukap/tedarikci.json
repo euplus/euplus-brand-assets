@@ -1,0 +1,28 @@
+{
+ "slug": "bukap",
+ "ad": "Bukap Ambalaj",
+ "tur": "tedarikçi",
+ "adres": "Barbaros Mah. Çimen Sok. No:30 Ataşehir / İstanbul",
+ "telefon": "+90 216 641 25 15",
+ "eposta": "info@bukapambalaj.com",
+ "web": "www.bukapambalaj.com",
+ "instagram": "@bukapambalaj",
+ "kataloglar": [
+  {
+   "dosya": "bukap-katalog-2026.pdf",
+   "yil": 2026,
+   "sayfa": 140,
+   "dil": "Türkçe / İngilizce",
+   "islendi": "2026-10-26",
+   "urun_sayisi": 342,
+   "not": "iLovePDF ile sıkıştırılmış katalog; ürün fotoğrafları gömülü ayrı görseller (çoğu alfa maskeli) olarak doğrudan çıkarıldı, ortalama uzun kenar ~300 px. Etiketlerin bir kısmı metin, çoğu raster; macOS Vision OCR ile 600 dpi kırpıntılardan okundu ve gözle doğrulandı. Tekrarlanan sayfalardaki aynı ürünler (s.39/134 dondurma kaşıkları, s.24/41 BKP735, s.45/47 PET bardaklar, s.43/113 peynir kapları, s.117/121 BKP1005) bir kez alındı. s.47'deki 10/12 oz PET bardak fotoğrafları üçüncü taraf marka baskılı olduğu için s.45'teki fotoğraflar kullanıldı."
+  }
+ ],
+ "urun_kodu_oneki": "BKP",
+ "kod_notu": "Katalogdaki BKP kodları aynen kullanıldı. Katalogdaki CP kodlu ürünler (çatal-kaşık-bıçak, İtalyan serisi tabaklar) Crystal Pack kodlarıyla çakışmasın diye BK-CP<kod> olarak alındı. Katalogda aynı kodun iki farklı ürüne verildiği yerlerde ikinci ürüne -2 eklendi (BKP130-2, BKP600-2, BKP945-2, BKP1029-2, BKP1460-2, BKP10330-2, BK-CP615-2); renk varyantları -Y (yeşil) ve BKP1715-S2 (sarı) aldı. Kodu basılı olmayan ürünler: BK-ACIBADEM, BK-4BK1000, BK-KK200-A, BK-KK200-B, BK-KK250. Asıl tedarikçi kodu her ürünün urun.json → kaynak.tedarikci_kodu alanında.",
+ "notlar": "Crystal Pack ile aynı adres (kardeş firma). Pastane-kafe kapları, kurabiye ve genel gıda kapları, PET/karton bardak ve şişe, mikrodalga yemek kapları, sos ve salata kapları, alüminyum kaplar, üst film kapama kapları, PP tabak-bardak, plastik çatal-kaşık-bıçak. Katalog tüm ürünler için -10 °C 24 saat / +60 °C 1 saat kullanım beyan eder. Katalogda gıda ürünü yoktur. Katalog hataları düzeltildi ve ürün notlarına yazıldı (BKP1490 hacmi, BKP1027 hacmi, BKP6330 ölçüsü, BKP1715-Y etiketi).",
+ "gorsel_izni": {
+  "durum": "teyit edilmedi",
+  "not": "Depo public. Yayımdan önce Bukap ile teyit edilmeli. BKP9809-9830 ve BKP10540 karton bardak/kase fotoğraflarında örnek baskı desenleri (Coffee Time, BOMBA vb.) var."
+ }
+}

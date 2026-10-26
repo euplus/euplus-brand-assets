@@ -125,6 +125,7 @@
   }
  ],
  "not": "",
+ "alt_kategori": "",
  "aciklama": [
   "Ahşap Çatal Bıçak Seti, huş ağacından tek kullanımlık çatal-bıçak ürünüdür. Paket servis ve ikram için uygundur.",
   "Teknik özellikler: ölçü 13 cm, Huş ağacı; kahve sülfit kağıt; 1 kat beyaz 11 gsm peçete hammadde.",
@@ -157,6 +158,7 @@
   "tedarikci": "helmex",
   "tedarikci_ad": "Helmex",
   "tedarikci_kodu": "",
+  "kaynak_sayfa": "",
   "katalog": "kaynaklar/helmex/helmex-katalog-2023.pdf"
  }
 }

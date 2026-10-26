@@ -25,6 +25,7 @@
  "moq": "",
  "varyantlar": [],
  "not": "",
+ "alt_kategori": "",
  "aciklama": [
   "200 cc Prizma Kase, tek kullanımlık şeffaf tatlı kasesidir. Sütlü tatlı, puding, muhallebi, sütlaç, kazandibi, tiramisu ve benzeri tatlıların sunumu için uygundur.",
   "Teknik özellikler: ürün ölçüsü 70 × 40 × 165 mm, 200 cc hacim, PS (polistiren) hammadde.",
@@ -58,6 +59,7 @@
   "tedarikci": "crystal-pack",
   "tedarikci_ad": "Crystal Pack",
   "tedarikci_kodu": "CP82",
+  "kaynak_sayfa": "",
   "katalog": "kaynaklar/crystal-pack/crystal-pack-katalog-2026.pdf"
  }
 }

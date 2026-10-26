@@ -31,6 +31,7 @@
  "moq": "",
  "varyantlar": [],
  "not": "",
+ "alt_kategori": "",
  "aciklama": [
   "100 cc Dondurma Kasesi, karton dondurma ve tatlı kasesidir. Dondurma, dondurulmuş yoğurt, helva, meyve salatası ve meze servisi için uygundur.",
   "Teknik özellikler: ağız çapı 85 mm, dip çapı 73 mm, yükseklik 44 mm, 100 cc hacim, ürün ağırlığı 5 g.",
@@ -63,6 +64,7 @@
   "tedarikci": "promocup",
   "tedarikci_ad": "Promocup",
   "tedarikci_kodu": "",
+  "kaynak_sayfa": "",
   "katalog": "kaynaklar/promocup/promocup-katalog-2026.pdf"
  }
 }

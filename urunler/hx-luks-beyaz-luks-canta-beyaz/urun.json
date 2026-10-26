@@ -286,6 +286,7 @@
   }
  ],
  "not": "",
+ "alt_kategori": "",
  "aciklama": [
   "Lüks Çanta (beyaz), ip saplı lüks kağıt çantadır. Mağaza, butik ve kurumsal hediye taşıması için uygundur.",
   "Teknik özellikler: ölçü 8 × 6 × 18 – 55 × 12 × 38 cm, 210 / 250 / 300 gsm, mat veya parlak laminasyon hammadde.",
@@ -318,6 +319,7 @@
   "tedarikci": "helmex",
   "tedarikci_ad": "Helmex",
   "tedarikci_kodu": "",
+  "kaynak_sayfa": "",
   "katalog": "kaynaklar/helmex/helmex-katalog-2023.pdf"
  }
 }

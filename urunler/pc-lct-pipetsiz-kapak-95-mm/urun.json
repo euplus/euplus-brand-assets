@@ -31,6 +31,7 @@
  "moq": "",
  "varyantlar": [],
  "not": "",
+ "alt_kategori": "",
  "aciklama": [
   "Pipetsiz Kapak Ø95 mm, bardak veya kase ile uyumlu plastik kapaktır. Paket servis ve gel-al satışta taşıma güvenliği için uygundur.",
   "Teknik özellikler: çap 95 mm, ürün ağırlığı 3,4 g.",
@@ -62,6 +63,7 @@
   "tedarikci": "promocup",
   "tedarikci_ad": "Promocup",
   "tedarikci_kodu": "LCT",
+  "kaynak_sayfa": "",
   "katalog": "kaynaklar/promocup/promocup-katalog-2026.pdf"
  }
 }

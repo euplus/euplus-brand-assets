@@ -3,14 +3,16 @@
 urunler/<kod>-<ad>/  →  <slug>.jpg (1200×1200 beyaz) + <slug>.png + urun.json + ilan.md
 ve toplu urunler/urunler.json + urunler/urunler.csv.
 
-İki tedarikçi şeması desteklenir:
+Tedarikçi şemaları:
   crystal-pack : şeffaf PS/PET sunum kapları (olcu, hacim, materyal, koli, koli_ici, palet)
   promocup     : karton bardak / paket servis (agiz_capi, dip_capi, yukseklik, agirlik_g,
                  fisek_ici, koli_secenekleri[], net_kg, tedarikci_kodu, not)
+  helmex       : fast food (varyantlar[], gsm, moq)
+  bukap        : gıda ambalajları (crystal-pack alanları + alt_grup, agirlik_g, tedarikci_kodu, kaynak_sayfa, not)
 Kullanım: python3 katalog/build_urunler.py   (depo kökünden)
 """
 import json, os, re, csv, unicodedata
-from PIL import Image
+from PIL import Image, ImageFilter
 
 ROOT = os.path.abspath('.')
 DATA = json.load(open('katalog/urunler.json', encoding='utf-8'))
@@ -40,6 +42,7 @@ def g(s): return s + ' g' if s else '—'
 def kind(p):
     a = tr_lower(p['ad'])
     if supplier(p) == 'helmex': return kind_hx(a)
+    if supplier(p) == 'bukap': return kind_bk(p)[0]
     if supplier(p) == 'promocup':
         if 'çanta' in a: return 'canta'
         if 'viyol' in a: return 'viyol'
@@ -71,7 +74,7 @@ def kind(p):
     return 'kutu'
 
 def title(p):
-    if supplier(p) in ('promocup', 'helmex'): return p['ad']
+    if supplier(p) in ('promocup', 'helmex', 'bukap'): return p['ad']
     ad, hacim = p['ad'], p['hacim']
     if hacim and 'cc' not in ad.lower() and 'oz' not in ad.lower(): return f"{ad} {hacim} cc"
     return ad
@@ -317,6 +320,90 @@ def tags_pc(p):
     out.append(p['kod'].lower())
     return out
 
+# ================= Bukap (gıda ambalajları) metinleri =================
+KIND_BK = [  # (ad içinde aranan regex, tür, ne olduğu, etiketler) — sıra önemli
+ ('set', 'set', 'tek kullanımlık hazır yemek setidir', ['çatal bıçak seti', 'hazır yemek seti', 'paket servis seti', 'plastik çatal kaşık seti', 'peçeteli set']),
+ ('karıştırıcı', 'karistirici', 'tek kullanımlık içecek karıştırıcısıdır', ['karıştırıcı', 'kahve karıştırıcı', 'plastik karıştırıcı', 'çay karıştırıcı']),
+ ('dondurma kaşığı', 'dondurma-kasigi', 'tek kullanımlık dondurma kaşığıdır', ['dondurma kaşığı', 'plastik dondurma kaşığı', 'tatlı kaşığı', 'renkli kaşık']),
+ ('çatal', 'catal', 'tek kullanımlık plastik çataldır', ['plastik çatal', 'tek kullanımlık çatal', 'paket servis çatalı', 'catering çatal']),
+ ('kaşık', 'kasik', 'tek kullanımlık plastik kaşıktır', ['plastik kaşık', 'tek kullanımlık kaşık', 'paket servis kaşığı', 'catering kaşık']),
+ ('bıçak', 'bicak', 'tek kullanımlık plastik bıçaktır', ['plastik bıçak', 'tek kullanımlık bıçak', 'paket servis bıçağı', 'catering bıçak']),
+ (r'\bkapağı\b', 'kapak', 'uyumlu gövdesine sıkı oturan kapaktır', ['plastik kapak', 'bardak kapağı', 'kase kapağı', 'yedek kapak']),
+ ('şişe', 'sise', 'kapaklı PET şişedir', ['pet şişe', 'plastik şişe', 'meyve suyu şişesi', 'ayran şişesi', 'boş pet şişe']),
+ ('viyol bardak', 'viyol', 'kağıt hamurundan bardak taşıyıcı viyoldür', ['bardak taşıyıcı', 'viyol', 'kahve taşıma viyolü', 'cup holder']),
+ ('yumurta', 'yumurta', 'şeffaf PET yumurta viyolüdür', ['yumurta viyolü', 'plastik yumurta kabı', 'şeffaf yumurta kutusu', 'yumurta ambalajı']),
+ ('çanta', 'canta', 'saplı kraft kağıt çantadır', ['kraft çanta', 'kağıt çanta', 'saplı kağıt çanta', 'paket servis çantası']),
+ ('poşet', 'poset', 'şeffaf OPP poşettir', ['opp poşet', 'şeffaf poşet', 'körüklü poşet', 'kurabiye poşeti', 'şekerleme poşeti']),
+ ('tabak', 'tabak', 'tek kullanımlık plastik tabaktır', ['plastik tabak', 'tek kullanımlık tabak', 'servis tabağı', 'parti tabağı']),
+ (r'\bsos\b', 'sos', 'porsiyonluk sos kabıdır', ['sos kabı', 'kapaklı sos kabı', 'ketçap kabı', 'porsiyon kabı', 'plastik sos kabı']),
+ ('salata', 'salata', 'kapaklı salata kabıdır', ['salata kabı', 'kapaklı salata kabı', 'şeffaf salata kasesi', 'paket servis salata kabı']),
+ (r'\bbarda[kğ]', 'bardak', 'tek kullanımlık bardaktır', ['tek kullanımlık bardak', 'içecek bardağı', 'servis bardağı']),
+ ('alüminyum', 'aluminyum', 'alüminyum folyo kaptır', ['alüminyum kap', 'folyo kap', 'alüminyum tepsi', 'fırın kabı', 'paket servis kabı']),
+ ('kapama', 'kapama', 'üst film kapama (top seal) makinesine uygun kaptır', ['üst film kapama kabı', 'top seal kap', 'kapama tepsisi', 'vakumlu ambalaj', 'hazır yemek kabı']),
+ ('kase', 'kase', 'tek kullanımlık kasedir', ['plastik kase', 'tek kullanımlık kase', 'kapaklı kase', 'servis kasesi']),
+ ('kutu', 'kutu', 'şeffaf sunum kutusudur', ['şeffaf kutu', 'plastik kutu', 'sunum kutusu', 'hediye kutusu']),
+ ('sızdırmaz', 'kap', 'sızdırmaz kapaklı şeffaf gıda kabıdır', ['sızdırmaz kap', 'kapaklı plastik kap', 'şeffaf saklama kabı', 'menteşeli kap', 'paket servis kabı']),
+ ('kurabiye', 'kap', 'kapaklı şeffaf kurabiye kabıdır', ['kurabiye kabı', 'kurabiye kutusu', 'şeffaf kurabiye kabı', 'pastane ambalajı', 'menteşeli kap']),
+ ('pasta|kek|baklava|kazandibi', 'kap', 'kapaklı tatlı ve pasta sunum kabıdır', ['pasta kabı', 'tatlı kabı', 'kek kabı', 'pastane ambalajı', 'kapaklı sunum kabı']),
+ ('dondurma|küvet', 'kap', 'dondurma kabıdır', ['dondurma kabı', 'dondurma kutusu', 'dondurma ambalajı', 'kapaklı dondurma kabı']),
+ ('peynir|sushi|meze|kahvaltı|kebap|tavuk|yemek|hamburger|sandviç', 'kap', 'kapaklı yemek ve sunum kabıdır', ['yemek kabı', 'paket servis kabı', 'kapaklı yemek kabı', 'take away kap', 'mikrodalga kabı']),
+ ('', 'kap', 'tek kullanımlık gıda kabıdır', ['plastik kap', 'tek kullanımlık kap', 'gıda kabı', 'saklama kabı']),
+]
+USE_BK = {  # alt grup → kullanım alanı
+ 'Paketleme Kapları': 'şekerleme, kuruyemiş, lokum, kurabiye ve hediyelik ürünlerin sunumu', 'Pasta ve Kek Kapları': 'pasta, kek, cheesecake, baklava ve tatlı sunumu',
+ 'Kurabiye Kapları': 'kurabiye, bisküvi, pasta ve tatlı satışı', 'Makaron Kapları': 'makaron, çikolata ve bonbon sunumu',
+ 'Dondurma Kapları': 'dondurma, sorbe ve soğuk tatlı servisi', 'Sızdırmaz Kaplar': 'tatlı, salata, meze, zeytin ve sulu gıdaların sızdırmadan taşınması',
+ 'Soğuk İçecek Bardakları': 'soğuk kahve, limonata, smoothie, milkshake ve meyve kokteyli servisi', 'Plastik Şişeler': 'ayran, meyve suyu, limonata ve soğuk içecek dolumu',
+ 'Karton Bardaklar': 'kahve, çay ve sıcak içecek servisi', 'Viyoller': 'birden fazla içeceğin güvenle taşınması', 'Kraft Çantalar': 'paket servis ve gel-al siparişlerinin taşınması',
+ 'Mikrodalga Yemek Kapları': 'sıcak yemek, pilav ve ana yemeğin paket servisi', 'Tavuk Kapları': 'döner tavuk, kızarmış tavuk ve et yemeklerinin paket servisi',
+ 'Çok Amaçlı Kaplar': 'meze, kahvaltılık, salata ve atıştırmalık sunumu', 'Kahvaltı ve Bölmeli Kaplar': 'kahvaltı tabağı, meze ve bölmeli yemek servisi',
+ 'Meze Kapları': 'meze, salata ve soğuk başlangıç sunumu', 'Sandviç Kapları': 'üçgen sandviç ve tost sunumu', 'Çorba Kaseleri': 'çorba ve sıcak sulu yemeklerin paket servisi',
+ 'Sos Kapları': 'ketçap, mayonez, sos, reçel ve bal porsiyonu', 'Salata Kapları': 'salata, makarna, meyve ve soğuk yemek servisi', 'Kraft Kaseler': 'salata, poke bowl, makarna ve sıcak yemek servisi',
+ 'Alüminyum Kaplar': 'fırın yemekleri, künefe, sütlaç ve sıcak yemeklerin pişirilmesi ve paket servisi',
+ 'Üst Film Kapama Yemek Kapları': 'hazır yemek, catering ve tabldot servisi', 'Üst Film Kapama Et Kapları': 'kırmızı et, tavuk ve şarküteri ürünlerinin paketlenmesi',
+ 'PP Köşeli Kaseler': 'tatlı, salata, börek ve şarküteri satışı', 'Kaymak Kapları': 'kaymak, tereyağı ve kahvaltılık ürün satışı',
+ 'PP Yuvarlak Kaseler': 'çorba, yoğurt, turşu, zeytin ve sulu gıdaların saklanması', 'Helva Kapları': 'helva, tahin ve tatlı satışı', 'Yumurta Viyolleri': 'tavuk ve bıldırcın yumurtası satışı',
+ 'Peynir Kapları': 'peynir, tereyağı ve kahvaltılık ürün satışı', 'Parti Bardak ve Tabakları': 'parti, doğum günü ve organizasyon ikramı',
+ 'İtalyan Serisi Tabak ve Bardaklar': 'yemek, pizza ve içecek servisi', 'PP Bardaklar': 'su, çay, ayran ve içecek servisi', 'Standart Tabaklar': 'yemek, pasta ve ikram servisi',
+ 'Plastik Çatallar': 'paket servis, catering ve ikram', 'Plastik Kaşıklar': 'paket servis, catering ve ikram', 'Plastik Bıçaklar': 'paket servis, catering ve ikram',
+ 'Dondurma Kaşıkları': 'dondurma, tatlı ve puding servisi', 'Hazır Yemek Setleri': 'paket servis ve catering siparişleri',
+}
+MAT_BK = {'PET': 'PET (polietilen tereftalat); kristal şeffaf, darbeye dayanıklı', 'PP': 'PP (polipropilen); hafif, esnek ve ısıya dayanıklı',
+          'PS': 'PS (polistiren); sert ve parlak yüzeyli', 'PS (strafor)': 'genleştirilmiş polistiren (strafor); ısı yalıtımlı ve hafif',
+          'OPP': 'OPP (oriented polipropilen) film; parlak ve şeffaf', 'Karton': 'gıdayla temasa uygun karton', 'Alüminyum': 'gıdaya uygun alüminyum folyo',
+          'PET / PP': 'PET kapak ve PP gövde'}
+def kind_bk(p):
+    a = tr_lower(p['ad'])
+    for key, k, what, tg in KIND_BK:
+        if re.search(key, a): return k, what, tg
+def aciklama_bk(p):
+    k, what, _ = kind_bk(p); L = []
+    use = USE_BK.get(p.get('alt_grup', ''), 'gıda sunumu ve paket servis')
+    L.append(f"{title(p)}, {what}. {use[0].upper() + use[1:]} için uygundur.")
+    oz = []
+    if p['olcu']: oz.append(('ağız çapı ' + p['olcu'][1:] + ' mm') if p['olcu'].startswith('Ø') else
+                            (f"uzunluk {p['olcu']} mm" if 'x' not in p['olcu'] else f"ürün ölçüsü {dims(p['olcu'])}"))
+    if p['hacim']: oz.append(f"{p['hacim']} cc hacim")
+    if p.get('agirlik_g'): oz.append(f"ürün ağırlığı {p['agirlik_g']} g")
+    if p['materyal']: oz.append(f"{p['materyal']} hammadde")
+    L.append("Teknik özellikler: " + (", ".join(oz) if oz else "ölçü ve materyal bilgisi için bizimle iletişime geçin") + ".")
+    m = MAT_BK.get(p['materyal'])
+    L.append((m[0].upper() + m[1:] + ". " if m else "") + "Gıdayla temasa uygun hammaddeden üretilmiştir; hijyenik ve tek kullanımlıktır.")
+    L.append("Üretici beyanına göre −10 °C'de 24 saate, +60 °C'de 1 saate kadar kullanıma uygundur.")
+    if p['koli'] and p['koli_ici']: L.append(f"Toptan satış koli bazındadır: bir kolide {p['koli_ici']} adet, koli ölçüsü {dims(p['koli'])}.")
+    elif p['koli_ici']: L.append(f"Toptan satış koli bazındadır: bir kolide {p['koli_ici']} adet.")
+    else: L.append("Koli düzeni, sipariş adedi ve teslimat için bizimle iletişime geçin.")
+    if p.get('not'): L[-1] += " Not: " + p['not']
+    return L
+def tags_bk(p):
+    k, _, tg = kind_bk(p); out = [tr_lower(p['ad'])] + tg
+    if p['hacim'] and k not in ('catal', 'kasik', 'bicak'): out.append(f"{p['hacim']} cc {tg[0]}")
+    if p.get('alt_grup'): out.append(tr_lower(p['alt_grup']))
+    if p['materyal'] in ('PET', 'PP', 'PS'): out.append(p['materyal'].lower() + ' ' + {'catal': 'çatal', 'kasik': 'kaşık', 'bicak': 'bıçak'}.get(k, 'ambalaj'))
+    out += ['gıda ambalajı', {'Karton': 'karton ambalaj', 'Alüminyum': 'alüminyum ambalaj', 'OPP': 'şeffaf ambalaj'}.get(p['materyal'], 'plastik ambalaj'),
+            'tek kullanımlık ambalaj', 'horeca ambalaj', 'toptan ambalaj', 'paket servis ambalajı']
+    return out[:13] + [p['kod'].lower()]
+
 def dedupe(ts, n=14):
     seen = set(); res = []
     for t in ts:
@@ -325,17 +412,19 @@ def dedupe(ts, n=14):
     return res[:n]
 
 def aciklama(p):
-    return {'promocup': aciklama_pc, 'helmex': aciklama_hx}.get(supplier(p), aciklama_cp)(p)
+    return {'promocup': aciklama_pc, 'helmex': aciklama_hx, 'bukap': aciklama_bk}.get(supplier(p), aciklama_cp)(p)
 def tags(p):
-    return dedupe({'promocup': tags_pc, 'helmex': tags_hx}.get(supplier(p), tags_cp)(p))
+    return dedupe({'promocup': tags_pc, 'helmex': tags_hx, 'bukap': tags_bk}.get(supplier(p), tags_cp)(p))
 
 # ================= görseller =================
-def white_square(im, size=1200, pad=0.06):
+def white_square(im, size=1200, pad=0.06, sharpen=False):
     im = im.convert('RGBA')
     bg = Image.new('RGB', (size, size), 'white')
     m = int(size * pad); box = size - 2 * m
     r = min(box / im.width, box / im.height)
     im2 = im.resize((max(1, int(im.width * r)), max(1, int(im.height * r))), Image.LANCZOS)
+    if sharpen and r > 1.5:  # küçük kaynak görsel büyütülünce yumuşar
+        a = im2.split()[3]; im2 = im2.convert('RGB').filter(ImageFilter.UnsharpMask(radius=1.6, percent=70, threshold=2)); im2.putalpha(a)
     bg.paste(im2, ((size - im2.width) // 2, (size - im2.height) // 2), im2)
     return bg
 
@@ -347,7 +436,7 @@ for p in P:
     d = os.path.join(OUT, sl); os.makedirs(d, exist_ok=True)
     src = Image.open(os.path.join('katalog', p['gorsel']))
     transparent = src.mode in ('RGBA', 'LA') or (src.mode == 'P' and 'transparency' in src.info)
-    white_square(src).save(os.path.join(d, sl + '.jpg'), quality=92, optimize=True, subsampling=0)
+    white_square(src, sharpen=(sup == 'bukap')).save(os.path.join(d, sl + '.jpg'), quality=92, optimize=True, subsampling=0)
     png = src.convert('RGBA') if transparent else src.convert('RGB')
     png.thumbnail((1600, 1600), Image.LANCZOS); png.save(os.path.join(d, sl + '.png'), optimize=True)
     shared = sec.get('gorsel') == p['gorsel']
@@ -364,13 +453,14 @@ for p in P:
         'koli_secenekleri': ks,
         'min_siparis': ('25.000 adet (siparişe özel üretim)' if kind(p) == 'canta' else (p['koli_ici'] + ' adet (1 koli)') if p['koli_ici'] else ((p['moq'] if 'adet' in p['moq'] else p['moq'] + ' adet') if p.get('moq') else 'Bizimle iletişime geçin')),
         'gsm': p.get('gsm', ''), 'moq': p.get('moq', ''), 'varyantlar': p.get('varyantlar', []),
-        'not': p.get('not', ''),
+        'not': p.get('not', ''), 'alt_kategori': p.get('alt_grup', ''),
         'aciklama': ac, 'aciklama_html': '<p>' + '</p>\n<p>'.join(ac) + '</p>',
         'etiketler': tg, 'marka': 'EUPLUS',
         'gorseller': {'jpg': f"{RAW}/{sl}/{sl}.jpg", 'png': f"{RAW}/{sl}/{sl}.png", 'png_seffaf': transparent,
                       'not': 'Kategori tanıtım fotoğrafı; ürüne özel fotoğraf yok' if shared else ''},
         'kaynak': {'tedarikci': sup, 'tedarikci_ad': SUPPLIERS.get(sup, {}).get('ad', sup),
                    'tedarikci_kodu': p.get('tedarikci_kodu') or (p['kod'] if sup == 'crystal-pack' else ''),
+                   'kaynak_sayfa': p.get('kaynak_sayfa', ''),
                    'katalog': f"kaynaklar/{sup}/" + (SUPPLIERS.get(sup, {}).get('kataloglar') or [{'dosya': ''}])[0]['dosya']},
     }
     json.dump(rec, open(os.path.join(d, 'urun.json'), 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
@@ -382,6 +472,10 @@ for p in P:
             tbl = [(k_, v_) for k_, v_ in [('Ölçü', p.get('olcu')), ('Hacim', p.get('hacim')), ('Materyal', p.get('materyal')), ('Gramaj', p.get('gsm')),
                                            ('Ürün ağırlığı', g(p['agirlik_g']) if p.get('agirlik_g') else ''), ('Koli içi adet', p.get('koli_ici')), ('Koli ölçüsü', dims(p['koli']) if p.get('koli') else ''),
                                            ('Palet', (p['palet'] + ' koli') if p.get('palet') else ''), ('Minimum sipariş', (p['moq'] if 'adet' in p['moq'] else p['moq'] + ' adet') if p.get('moq') else ''), ('Not', p.get('not'))] if v_]
+        elif sup == 'bukap':
+            tbl = [(k_, v_) for k_, v_ in [('Alt kategori', p.get('alt_grup')), ('Ürün ölçüsü', dims(p['olcu']) if p['olcu'] else ''), ('Hacim', (p['hacim'] + ' cc') if p['hacim'] else ''),
+                                           ('Ürün ağırlığı', g(p['agirlik_g']) if p.get('agirlik_g') else ''), ('Materyal', p['materyal']), ('Koli ölçüsü', dims(p['koli']) if p['koli'] else ''),
+                                           ('Koli içi adet', p['koli_ici'])] if v_]
         elif sup == 'promocup':
             tbl = []
             if p.get('agiz_capi'): tbl.append(('Ağız çapı', p['agiz_capi'] + ' mm'))

@@ -25,6 +25,7 @@
  "moq": "",
  "varyantlar": [],
  "not": "",
+ "alt_kategori": "",
  "aciklama": [
   "Gift Kutu Büyük 1200 cc, tek kullanımlık şeffaf sunum kutusudur. Lokum, çikolata, draje, badem şekeri, macaron ve kuruyemiş sunumu için uygundur.",
   "Teknik özellikler: ürün ölçüsü 167 × 167 × 95 mm, 1200 cc hacim, PS (polistiren) hammadde.",
@@ -59,6 +60,7 @@
   "tedarikci": "crystal-pack",
   "tedarikci_ad": "Crystal Pack",
   "tedarikci_kodu": "CP185",
+  "kaynak_sayfa": "",
   "katalog": "kaynaklar/crystal-pack/crystal-pack-katalog-2026.pdf"
  }
 }

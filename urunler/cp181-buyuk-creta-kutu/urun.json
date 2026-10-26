@@ -25,6 +25,7 @@
  "moq": "",
  "varyantlar": [],
  "not": "",
+ "alt_kategori": "",
  "aciklama": [
   "Büyük Creta Kutu 800 cc, tek kullanımlık şeffaf sunum kutusudur. Lokum, çikolata, draje, badem şekeri, macaron ve kuruyemiş sunumu için uygundur.",
   "Teknik özellikler: ürün ölçüsü 106 × 190 × 75 mm, 800 cc hacim, PS (polistiren) hammadde.",
@@ -59,6 +60,7 @@
   "tedarikci": "crystal-pack",
   "tedarikci_ad": "Crystal Pack",
   "tedarikci_kodu": "CP181",
+  "kaynak_sayfa": "",
   "katalog": "kaynaklar/crystal-pack/crystal-pack-katalog-2026.pdf"
  }
 }

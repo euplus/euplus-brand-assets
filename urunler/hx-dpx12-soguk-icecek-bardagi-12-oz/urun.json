@@ -25,6 +25,7 @@
  "moq": "175.000",
  "varyantlar": [],
  "not": "",
+ "alt_kategori": "",
  "aciklama": [
   "Soğuk İçecek Bardağı 12 oz, PE kaplı karton içecek bardağıdır. Kahve, çay ve soğuk içecek servisi için uygundur.",
   "Teknik özellikler: hacim 300 ml, PE + Kağıt + PE hammadde.",
@@ -56,6 +57,7 @@
   "tedarikci": "helmex",
   "tedarikci_ad": "Helmex",
   "tedarikci_kodu": "DPX12oz",
+  "kaynak_sayfa": "",
   "katalog": "kaynaklar/helmex/helmex-katalog-2023.pdf"
  }
 }

@@ -25,6 +25,7 @@
  "moq": "",
  "varyantlar": [],
  "not": "",
+ "alt_kategori": "",
  "aciklama": [
   "Oluklu Pizza Dilim Kutusu, mikro oluklu mukavvadan üretilmiş pizza dilim kutusudur. Dilim pizza, börek ve pide servisi için uygundur.",
   "Teknik özellikler: ürün ölçüsü 220 × 210 × 40 mm.",
@@ -55,6 +56,7 @@
   "tedarikci": "promocup",
   "tedarikci_ad": "Promocup",
   "tedarikci_kodu": "OPZ-01",
+  "kaynak_sayfa": "",
   "katalog": "kaynaklar/promocup/promocup-katalog-2026.pdf"
  }
 }

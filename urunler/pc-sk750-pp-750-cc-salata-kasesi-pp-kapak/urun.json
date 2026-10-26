@@ -31,6 +31,7 @@
  "moq": "",
  "varyantlar": [],
  "not": "kase + kapak",
+ "alt_kategori": "",
  "aciklama": [
   "750 cc Salata Kasesi + PP Kapak, bardak veya kase ile uyumlu plastik kapaktır. Paket servis ve gel-al satışta taşıma güvenliği için uygundur.",
   "Teknik özellikler: ağız çapı 145 mm, dip çapı 125 mm, yükseklik 65 mm, 750 cc hacim, ürün ağırlığı 14+7 g.",
@@ -63,6 +64,7 @@
   "tedarikci": "promocup",
   "tedarikci_ad": "Promocup",
   "tedarikci_kodu": "",
+  "kaynak_sayfa": "",
   "katalog": "kaynaklar/promocup/promocup-katalog-2026.pdf"
  }
 }

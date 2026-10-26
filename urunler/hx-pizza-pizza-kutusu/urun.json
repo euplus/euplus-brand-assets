@@ -156,6 +156,7 @@
   }
  ],
  "not": "",
+ "alt_kategori": "",
  "aciklama": [
   "Pizza Kutusu, oluklu mukavva pizza kutusudur. Pizza, pide ve lahmacun servisi için uygundur.",
   "Teknik özellikler: ölçü 127 × 127 × 45 – 470 × 470 × 50 mm, Oluklu mukavva hammadde.",
@@ -187,6 +188,7 @@
   "tedarikci": "helmex",
   "tedarikci_ad": "Helmex",
   "tedarikci_kodu": "",
+  "kaynak_sayfa": "",
   "katalog": "kaynaklar/helmex/helmex-katalog-2023.pdf"
  }
 }

@@ -31,6 +31,7 @@
  "moq": "",
  "varyantlar": [],
  "not": "550 ve 750 cc salata kaseleri ile uyumlu",
+ "alt_kategori": "",
  "aciklama": [
   "145 mm Ø PP Kapak, bardak veya kase ile uyumlu plastik kapaktır. Paket servis ve gel-al satışta taşıma güvenliği için uygundur.",
   "Teknik özellikler: çap 145 mm, ürün ağırlığı 7 g.",
@@ -62,6 +63,7 @@
   "tedarikci": "promocup",
   "tedarikci_ad": "Promocup",
   "tedarikci_kodu": "",
+  "kaynak_sayfa": "",
   "katalog": "kaynaklar/promocup/promocup-katalog-2026.pdf"
  }
 }

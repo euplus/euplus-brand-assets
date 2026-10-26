@@ -31,6 +31,7 @@
  "moq": "",
  "varyantlar": [],
  "not": "",
+ "alt_kategori": "",
  "aciklama": [
   "14 oz Çift Katlı Sıcak İçecek Bardağı, çift katlı (çift cidarlı) karton sıcak içecek bardağıdır. Filtre kahve, latte, çay ve sıcak çikolata gibi uzun süre sıcak tutulan içeceklerin servisi için uygundur.",
   "Teknik özellikler: ağız çapı 90 mm, dip çapı 60 mm, yükseklik 110 mm, hacim 14 oz, ürün ağırlığı 17 g.",
@@ -66,6 +67,7 @@
   "tedarikci": "promocup",
   "tedarikci_ad": "Promocup",
   "tedarikci_kodu": "",
+  "kaynak_sayfa": "",
   "katalog": "kaynaklar/promocup/promocup-katalog-2026.pdf"
  }
 }

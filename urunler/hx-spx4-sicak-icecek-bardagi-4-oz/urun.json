@@ -25,6 +25,7 @@
  "moq": "175.000",
  "varyantlar": [],
  "not": "",
+ "alt_kategori": "",
  "aciklama": [
   "Sıcak İçecek Bardağı 4 oz, PE kaplı karton içecek bardağıdır. Kahve, çay ve soğuk içecek servisi için uygundur.",
   "Teknik özellikler: ölçü Ø62,87 / Ø45,22  ×  64,36 mm, hacim 100 ml, Kağıt + PE hammadde, ürün ağırlığı 3,37 g.",
@@ -56,6 +57,7 @@
   "tedarikci": "helmex",
   "tedarikci_ad": "Helmex",
   "tedarikci_kodu": "SPX4oz",
+  "kaynak_sayfa": "",
   "katalog": "kaynaklar/helmex/helmex-katalog-2023.pdf"
  }
 }

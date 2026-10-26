@@ -1,0 +1,26 @@
+# Yuvarlak Sos Kabı (Panda) 80 cc
+
+**Stok kodu:** BKP1570  ·  **Kategori:** Restoran ve Paket Servis Kapları  ·  **Marka:** EUPLUS
+
+Yuvarlak Sos Kabı (Panda) 80 cc, porsiyonluk sos kabıdır. Ketçap, mayonez, sos, reçel ve bal porsiyonu için uygundur.
+
+Teknik özellikler: ürün ölçüsü 70 × 70 × 60 mm, 80 cc hacim, PP hammadde.
+
+PP (polipropilen); hafif, esnek ve ısıya dayanıklı. Gıdayla temasa uygun hammaddeden üretilmiştir; hijyenik ve tek kullanımlıktır.
+
+Üretici beyanına göre −10 °C'de 24 saate, +60 °C'de 1 saate kadar kullanıma uygundur.
+
+Toptan satış koli bazındadır: bir kolide 1000 adet, koli ölçüsü 440 × 360 × 150 mm.
+
+| Özellik | Değer |
+|---|---|
+| Alt kategori | Sos Kapları |
+| Ürün ölçüsü | 70 × 70 × 60 mm |
+| Hacim | 80 cc |
+| Materyal | PP |
+| Koli ölçüsü | 440 × 360 × 150 mm |
+| Koli içi adet | 1000 |
+
+**Etiketler:** `yuvarlak sos kabı (panda) 80 cc`, `sos kabı`, `kapaklı sos kabı`, `ketçap kabı`, `porsiyon kabı`, `plastik sos kabı`, `80 cc sos kabı`, `sos kapları`, `pp ambalaj`, `gıda ambalajı`, `plastik ambalaj`, `tek kullanımlık ambalaj`, `horeca ambalaj`, `bkp1570`
+
+**Görseller:** [JPG (1200×1200, beyaz zemin)](bkp1570-yuvarlak-sos-kabi-panda-80-cc.jpg) · [PNG (şeffaf)](bkp1570-yuvarlak-sos-kabi-panda-80-cc.png)

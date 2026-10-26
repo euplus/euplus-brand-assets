@@ -1,12 +1,13 @@
 #!/usr/bin/env python3
-"""EUPLUS ürün kataloğu (PDF) üretici.
+"""EUPLUS ürün kataloğu (PDF) üretici — 3×3 ürün kartlı katalog formatı.
 
-Kullanım:  python3 katalog/build_katalog.py
-Girdi:     katalog/urunler.json (katalog="seffaf" bölümleri) + katalog/gorseller/*.png + logos/euplus/euplus.svg
-Çıktı:     katalog/EUPLUS-Urun-Katalogu-2026.pdf
+Kullanım:  python3 katalog/build_katalog.py [seffaf|gida]   (varsayılan: seffaf)
+Girdi:     katalog/urunler.json (bölüm.katalog = anahtar) + katalog/gorseller/*.png + logos/euplus/euplus.svg
+Çıktı:     seffaf → katalog/EUPLUS-Urun-Katalogu-2026.pdf (Crystal Pack)
+           gida   → katalog/EUPLUS-Gida-Ambalaj-Katalogu-2026.pdf (Bukap)
 Bağımlılık: reportlab, Pillow (pip install reportlab pillow)
 """
-import json, math, os
+import json, math, os, sys
 from reportlab.lib.pagesizes import A4
 from reportlab.lib.colors import HexColor, white
 from reportlab.pdfgen import canvas
@@ -17,7 +18,44 @@ from PIL import Image
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(HERE)
-OUT = os.path.join(HERE, "EUPLUS-Urun-Katalogu-2026.pdf")
+KEY = sys.argv[1] if len(sys.argv) > 1 else "seffaf"
+# ---- katalog başına metinler (format aynı, içerik farklı) ----
+CONFIGS = {
+ "seffaf": dict(
+    out="EUPLUS-Urun-Katalogu-2026.pdf", title="EUPLUS Ürün Kataloğu", subject="Şeffaf tatlı, çikolata ve bal ambalajları",
+    tagline="Şeffaf tatlı, çikolata ve bal ambalajları", headline="EUPLUS ile tatlınız hep vitrinde",
+    body=("EUPLUS Lojistik Ambalaj, gıda sektörüne yönelik şeffaf sunum ve servis ambalajlarını tek çatı altında "
+          "sunar. Bu katalogda sütlü tatlılar, lokum ve çikolata ürünleri ile bal için tasarlanmış kristal şeffaf "
+          "kase, kutu, kavanoz, tabak ve kapak çeşitlerini bulacaksınız. Tüm ürünler gıdayla temasa uygun "
+          "polistiren (PS) veya PET hammaddeden üretilir; içeriği olduğu gibi gösterir, raf ömrü boyunca formunu korur."),
+    feats=[("−10 °C", "Soğuk servis ve dolap saklama için uygun minimum sıcaklık"),
+           ("+60 °C", "Sıcak dolum ve servis için uygun maksimum sıcaklık"),
+           ("PS / PET", "Kristal şeffaf gövdeler PS, bombe ve düz kapaklar PET"),
+           ("Euro palet", "Adetler 80 × 120 cm euro palet düzenine göre verilmiştir")],
+    picks=["CP14", "CP41", "CP111", "CP165", "CP319", "CP185"],
+    last=("Palet", "palet", "koli", "Bir euro palete sığan koli sayısı"),
+    highlights={1: ["CP14", "CP41", "CP60"], 2: ["CP111", "CP165", "CP185"], 3: ["CP319", "CP320", "CP364"]}),
+ "gida": dict(
+    out="EUPLUS-Gida-Ambalaj-Katalogu-2026.pdf", cover_title="Gıda Ambalaj Kataloğu", title="EUPLUS Gıda Ambalajları Kataloğu", subject="Pastane, restoran ve paket servis ambalajları",
+    tagline="Pastane, restoran ve paket servis ambalajları", headline="Pastaneden restorana tek tedarikçi",
+    body=("EUPLUS Lojistik Ambalaj, gıda işletmelerinin ihtiyaç duyduğu sunum, saklama ve paket servis ambalajlarını tek "
+          "çatı altında sunar. Bu katalogda pasta, kek, makaron, kurabiye ve dondurma kaplarından sızdırmaz kaplara; "
+          "PET ve karton bardaklardan mikrodalga yemek kaplarına, sos ve salata kaplarından alüminyum ve üst film kapama "
+          "kaplarına, tabak, bardak ve çatal-kaşık-bıçağa kadar geniş bir yelpaze bulacaksınız. Ürünler gıdayla temasa "
+          "uygun PET, PP, PS, karton ve alüminyumdan üretilir."),
+    feats=[("−10 °C", "24 saate kadar soğuk saklama ve dolap kullanımı"),
+           ("+60 °C", "1 saate kadar sıcak dolum ve servis"),
+           ("PET · PP · PS", "Şeffaf PET, ısıya dayanıklı PP; karton ve alüminyum seçenekler"),
+           ("Koli bazında", "Satış koli içi adet üzerinden; ölçüler milimetre")],
+    last=("Gramaj", "agirlik_g", "g", "Tek ürün ağırlığı, gram (çatal-kaşık, tabak, kapama kapları)"),
+    picks=["BKP815", "BKP6680", "BKP2230-2270", "BKP9505", "BKP670", "BKP1320-K"],
+    highlights={43: ["BKP815", "BKP6685", "BKP6465-G"], 44: ["BK-KK250", "BKP6190-L", "BKP887"],
+                45: ["BKP9150", "BKP9505", "BKP10325"], 46: ["BKP2230-2270", "BKP2040-2010", "BKP960-Y"],
+                47: ["BKP20060", "BKP20135", "BKP20145"], 48: ["BKP1310-GOLD", "BKP2770", "BKP2955"],
+                49: ["BKP1715-K", "BK-CP441", "BKP1080"], 50: ["BK-CP620", "BK-CP672", "BKP7130-S"]}),
+}
+CFG = CONFIGS[KEY]
+OUT = os.path.join(HERE, CFG["out"])
 LOGO = os.path.join(ROOT, "logos", "euplus", "euplus-2048.png")
 LOGO_SVG = os.path.join(ROOT, "logos", "euplus", "euplus.svg")
 _logo_slots = []  # (sayfa indeksi, fitz Rect) — sıkıştırma sonrası vektör logo buraya gömülür
@@ -56,7 +94,7 @@ ADDRESS = "Mersinli Mah. 2829 Sokak No:3, 1. Sanayi Sitesi, 35170 İzmir / TÜRK
 PHONE = "Tel: +90 232 421 41 41   ·   Faks: +90 232 421 41 66"
 WEB = "www.euplus.com.tr"
 
-SECTIONS = {int(k): v for k, v in DATA["bolumler"].items() if v.get("katalog", "seffaf") == "seffaf"}
+SECTIONS = {int(k): v for k, v in DATA["bolumler"].items() if v.get("katalog", "seffaf") == KEY}
 PRODUCTS = [p for p in DATA["urunler"] if p["bolum"] in SECTIONS]  # paket servis ürünleri build_katalog_servis.py'de
 PER_PAGE = 9  # 3 x 3
 
@@ -89,6 +127,11 @@ def text(c, x, y, s, font="R", size=9, color=INK, align="l"):
     if align == "l": c.drawString(x, y, s)
     elif align == "r": c.drawRightString(x, y, s)
     else: c.drawCentredString(x, y, s)
+
+def fit(s, font, size, width, floor=5.5):
+    """Metnin genişliğe sığması için gereken punto (en fazla size, en az floor)."""
+    while size > floor and pdfmetrics.stringWidth(s, font, size) > width: size -= 0.1
+    return size
 
 def wrap(c, s, font, size, width):
     words = s.split(); lines = []; cur = ""
@@ -125,10 +168,10 @@ def cover(c):
     page_no[0] += 1
     c.setFillColor(white); c.rect(0, 0, W, H, fill=1, stroke=0)
     logo(c, M, H - 150, 230, 100)
-    text(c, M, H - 215, "Ürün Kataloğu", "B", 34, INK)
-    text(c, M, H - 243, f"{YEAR}  ·  Şeffaf tatlı, çikolata ve bal ambalajları", "R", 12.5, MUTED)
+    text(c, M, H - 215, CFG.get("cover_title", "Ürün Kataloğu"), "B", 34, INK)
+    text(c, M, H - 243, f"{YEAR}  ·  {CFG['tagline']}", "R", 12.5, MUTED)
     # ürün mozaiği 3x2
-    picks = ["CP14", "CP41", "CP111", "CP165", "CP319", "CP185"]
+    picks = CFG["picks"]
     by = {p["kod"]: p for p in PRODUCTS}
     gx, gy, gw, gh, gap = M, 150, W - 2 * M, 430, 10
     cw = (gw - 2 * gap) / 3; ch = (gh - gap) / 2
@@ -148,19 +191,12 @@ def cover(c):
 def intro(c, toc):
     header_footer(c, "Katalog hakkında")
     y = TOP - 10
-    text(c, M, y, "EUPLUS ile tatlınız hep vitrinde", "B", 20, INK); y -= 26
-    body = ("EUPLUS Lojistik Ambalaj, gıda sektörüne yönelik şeffaf sunum ve servis ambalajlarını tek çatı altında "
-            "sunar. Bu katalogda sütlü tatlılar, lokum ve çikolata ürünleri ile bal için tasarlanmış kristal şeffaf "
-            "kase, kutu, kavanoz, tabak ve kapak çeşitlerini bulacaksınız. Tüm ürünler gıdayla temasa uygun "
-            "polistiren (PS) veya PET hammaddeden üretilir; içeriği olduğu gibi gösterir, raf ömrü boyunca formunu korur.")
-    for ln in wrap(c, body, "R", 10, W - 2 * M):
+    text(c, M, y, CFG["headline"], "B", 20, INK); y -= 26
+    for ln in wrap(c, CFG["body"], "R", 10, W - 2 * M):
         text(c, M, y, ln, "R", 10, INK); y -= 14.5
     y -= 10
     # özellik kutuları
-    feats = [("−10 °C", "Soğuk servis ve dolap saklama için uygun minimum sıcaklık"),
-             ("+60 °C", "Sıcak dolum ve servis için uygun maksimum sıcaklık"),
-             ("PS / PET", "Kristal şeffaf gövdeler PS, bombe ve düz kapaklar PET"),
-             ("Euro palet", "Adetler 80 × 120 cm euro palet düzenine göre verilmiştir")]
+    feats = CFG["feats"]
     bw = (W - 2 * M - 3 * 10) / 4; bh = 74
     for i, (t, d) in enumerate(feats):
         x = M + i * (bw + 10)
@@ -187,7 +223,7 @@ def intro(c, toc):
     text(c, M, y, "Ürün kartlarındaki alanlar", "B", 10, INK); y -= 15
     legend = [("Ölçü", "En × boy × yükseklik, milimetre"), ("Hacim", "Nominal dolum hacmi, cc"),
               ("Koli", "Dış koli ölçüsü, milimetre"), ("Koli içi", "Bir kolideki ürün adedi"),
-              ("Palet", "Bir euro palete sığan koli sayısı")]
+              (CFG["last"][0], CFG["last"][3])]
     for k, v in legend:
         text(c, M, y, k, "B", 8.5, GRAY); text(c, M + 50, y, v, "R", 8.5, INK); y -= 12.5
     c.showPage()
@@ -210,7 +246,8 @@ def divider(c, num, title, en, items, highlights):
         c.setFillColor(PAPER); c.setStrokeColor(LINE); c.setLineWidth(0.6)
         c.roundRect(x, y, cw, ch, 8, fill=1, stroke=1)
         draw_fit(c, os.path.join(HERE, by[k]["gorsel"]), x, y + 26, cw, ch - 26, pad=14)
-        text(c, x + cw / 2, y + 10, f"{k}  ·  {by[k]['ad']}", "B", 7.5, GRAY, "c")
+        cap = f"{k}  ·  {by[k]['ad']}"
+        text(c, x + cw / 2, y + 10, cap, "B", fit(cap, "B", 7.5, cw - 10), GRAY, "c")
     text(c, M, 22, f"{COMPANY}   ·   {WEB}", "R", 7, MUTED)
     c.showPage()
 
@@ -223,13 +260,16 @@ def card(c, p, x, y, w, h):
     draw_fit(c, os.path.join(HERE, p["gorsel"]), x, y + h - ph - 4, w, ph, pad=10)
     ty = y + h - ph - 22
     text(c, x + 10, ty, p["kod"], "B", 11, ORANGE)
-    lines = wrap(c, p["ad"], "B", 8.5, w - 20)[:2]
+    fs = 8.5  # uzun adlar önce tek satıra sığacak kadar küçülür (en az 7.2), sığmazsa iki satır
+    while fs > 7.2 and pdfmetrics.stringWidth(p["ad"], "B", fs) > w - 20: fs -= 0.1
+    if pdfmetrics.stringWidth(p["ad"], "B", fs) > w - 20: fs = 8.5
+    lines = wrap(c, p["ad"], "B", fs, w - 20)[:2]
     for ln in lines:
-        ty -= 12; text(c, x + 10, ty, ln, "B", 8.5, INK)
+        ty -= 12; text(c, x + 10, ty, ln, "B", fs, INK)
     if len(lines) == 1: ty -= 12  # tek satırlık adlarda hizayı koru
     ty -= 8
     rows = [("Ölçü", fmt_dims(p["olcu"])), ("Hacim", fmt_num(p["hacim"], "cc")), ("Materyal", p["materyal"] or "—"),
-            ("Koli", fmt_dims(p["koli"])), ("Koli içi", fmt_num(p["koli_ici"], "adet")), ("Palet", fmt_num(p["palet"], "koli"))]
+            ("Koli", fmt_dims(p["koli"])), ("Koli içi", fmt_num(p["koli_ici"], "adet")), (CFG["last"][0], fmt_num(p.get(CFG["last"][1], ""), CFG["last"][2]))]
     for i, (k, v) in enumerate(rows):
         yy = ty - i * 10
         if i % 2 == 0:
@@ -253,7 +293,7 @@ def product_pages(c, title, items):
 # ---------------- ürün listesi tablosu ----------------
 def index_table(c):
     cols = [("Kod", 52, "l"), ("Ürün", 132, "l"), ("Ölçü (mm)", 70, "l"), ("Hacim", 44, "r"), ("Materyal", 66, "l"),
-            ("Koli (mm)", 70, "l"), ("Koli içi", 42, "r"), ("Palet", 38, "r")]
+            ("Koli (mm)", 70, "l"), ("Koli içi", 42, "r"), (CFG["last"][0], 38, "r")]
     def head(y):
         c.setFillColor(GRAY); c.rect(M, y - 4, W - 2 * M, 15, fill=1, stroke=0)
         x = M + 4
@@ -274,11 +314,11 @@ def index_table(c):
                 c.showPage(); header_footer(c, "Ürün listesi"); y = TOP - 8; y = head(y)
             if n % 2: c.setFillColor(PAPER); c.rect(M, y - 4, W - 2 * M, rh, fill=1, stroke=0)
             vals = [p["kod"], p["ad"], p["olcu"].replace("x", "×") or "—", (p["hacim"] + " cc") if p["hacim"] else "—",
-                    p["materyal"] or "—", p["koli"].replace("x", "×") or "—", p["koli_ici"] or "—", p["palet"] or "—"]
+                    p["materyal"] or "—", p["koli"].replace("x", "×") or "—", p["koli_ici"] or "—", p.get(CFG["last"][1]) or "—"]
             x = M + 4
             for (name, wd, al), v in zip(cols, vals):
                 f = "B" if name == "Kod" else "N"
-                text(c, x + (wd - 6 if al == "r" else 0), y, v, f, 7.5, INK, al); x += wd
+                text(c, x + (wd - 6 if al == "r" else 0), y, v, f, fit(v, f, 7.5, wd - 4), INK, al); x += wd
             y -= rh
     y -= 10
     note = ("Ölçü, hacim ve koli bilgileri üretici verilerine dayanır; ± %3 tolerans içerebilir. "
@@ -304,7 +344,7 @@ def back(c):
 # ---------------- derleme ----------------
 def build():
     c = canvas.Canvas(OUT, pagesize=A4)
-    c.setTitle(f"EUPLUS Ürün Kataloğu {YEAR}"); c.setAuthor(COMPANY); c.setSubject("Şeffaf tatlı, çikolata ve bal ambalajları")
+    c.setTitle(f"{CFG['title']} {YEAR}"); c.setAuthor(COMPANY); c.setSubject(CFG["subject"])
     # sayfa numaralarını önceden hesapla: kapak(1) + giriş(1), her bölüm: ayırıcı(1) + ürün sayfaları
     toc = []; pg = 3
     for sec in sorted(SECTIONS):
@@ -312,7 +352,7 @@ def build():
         toc.append((SECTIONS[sec]["ad"], SECTIONS[sec]["en"], pg, len(items)))
         pg += 1 + math.ceil(len(items) / PER_PAGE)
     cover(c); intro(c, toc)
-    highlights = {1: ["CP14", "CP41", "CP60"], 2: ["CP111", "CP165", "CP185"], 3: ["CP319", "CP320", "CP364"]}
+    highlights = CFG["highlights"]
     for num, sec in enumerate(sorted(SECTIONS), start=1):
         items = [p for p in PRODUCTS if p["bolum"] == sec]
         divider(c, num, SECTIONS[sec]["ad"], SECTIONS[sec]["en"], items, highlights[sec])
@@ -329,11 +369,31 @@ def compress(path):
     except ImportError:
         print("uyarı: pymupdf yok, sıkıştırma atlandı (pip install pymupdf)"); return
     doc = fitz.open(path)
-    doc.rewrite_images(dpi_threshold=201, dpi_target=200, quality=82, lossy=True, lossless=True)
+    if KEY == "seffaf":
+        doc.rewrite_images(dpi_threshold=201, dpi_target=200, quality=82, lossy=True, lossless=True)
+    else:  # MuPDF 1.26 rewrite_images bu belgede rastgele segfault veriyor → görselleri kendimiz JPEG'e çeviririz
+        jpeg_images(doc, fitz)
     logo_pdf = fitz.open("pdf", fitz.open(LOGO_SVG).convert_to_pdf())
     for pi, r in _logo_slots:
         doc[pi].show_pdf_page(fitz.Rect(*r), logo_pdf, 0)
     tmp = path + ".tmp"; doc.ez_save(tmp, garbage=4, deflate=True); doc.close(); os.replace(tmp, path)
+
+def jpeg_images(doc, fitz, quality=85):
+    """Flate kodlu görsel gövdelerini JPEG'e çevirir; alfa (SMask) kayıpsız kalır. Görseller zaten ≤900 px."""
+    done = set()
+    for page in doc:
+        for x in page.get_images(full=True):
+            xref = x[0]
+            if xref in done or "DCTDecode" in doc.xref_get_key(xref, "Filter")[1]: continue
+            done.add(xref)
+            pix = fitz.Pixmap(doc, xref)
+            if pix.alpha: pix = fitz.Pixmap(pix, 0)
+            if pix.n not in (1, 3): pix = fitz.Pixmap(fitz.csRGB, pix)
+            doc.update_stream(xref, pix.tobytes("jpg", jpg_quality=quality), compress=False)
+            doc.xref_set_key(xref, "Filter", "/DCTDecode")
+            doc.xref_set_key(xref, "DecodeParms", "null")
+            doc.xref_set_key(xref, "ColorSpace", "/DeviceGray" if pix.n == 1 else "/DeviceRGB")
+            doc.xref_set_key(xref, "BitsPerComponent", "8")
 
 if __name__ == "__main__":
     build()

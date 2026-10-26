@@ -208,6 +208,7 @@
   }
  ],
  "not": "",
+ "alt_kategori": "",
  "aciklama": [
   "Yağlı Kağıt Torba (körüksüz), kağıt torbadır. Sandviç, börek, hamburger ve fırın ürünü servisi için uygundur.",
   "Teknik özellikler: ölçü 11 × 13,5 – 30 × 30,5 cm, 35–40 gsm greaseproof / sülfit / şamua kağıt hammadde.",
@@ -240,6 +241,7 @@
   "tedarikci": "helmex",
   "tedarikci_ad": "Helmex",
   "tedarikci_kodu": "",
+  "kaynak_sayfa": "",
   "katalog": "kaynaklar/helmex/helmex-katalog-2023.pdf"
  }
 }

@@ -30,9 +30,11 @@ urunler/<kod>-<urun-adi>/    <slug>.jpg (1200×1200 beyaz) + <slug>.png (şeffaf
 urunler/urunler.csv          toplu içe aktarma (Excel/pazaryeri, UTF-8 BOM)
 urunler/urunler.json         toplu veri (API/otomasyon)
 katalog/urunler.json         katalog kaynak verisi — ürün metinlerinin TEK doğru kaynağı
-                             (bolumler[n].katalog = "seffaf" | "servis", .tedarikci = slug)
+                             (bolumler[n].katalog = "seffaf" | "servis" | "fastfood" | "gida", .tedarikci = slug)
 katalog/gorseller/           ürün görselleri: cp*.png şeffaf; pc-*.png şeffaf, pc-*.jpg opak tanıtım fotoğrafı
-katalog/build_katalog.py     PDF katalog üretici — şeffaf sunum kapları (katalog="seffaf")
+katalog/build_katalog.py     PDF katalog üretici, 3×3 kart formatı: `python3 katalog/build_katalog.py [seffaf|gida]`
+                             seffaf → EUPLUS-Urun-Katalogu-2026.pdf, gida → EUPLUS-Gida-Ambalaj-Katalogu-2026.pdf;
+                             katalog başına metinler betikteki CONFIGS'te (kapak, giriş, öne çıkanlar, 6. kart satırı)
 katalog/build_katalog_servis.py  PDF katalog üretici — paket servis (katalog="servis"), bölüm başına tek sayfa
 katalog/build_katalog_fastfood.py  PDF katalog üretici — fast food (katalog="fastfood"), genel tablo motoru:
                              bölümün `sutunlar`/`tablolar` tanımına göre çizer, uzun tablolar sayfaya taşar; 2 geçişli sayfa no
@@ -49,6 +51,9 @@ promocup (72 ürün, kod öneki `PC`, katalog "servis"; tedarikçi kodu olanlard
 helmex (79 ürün / 256 ölçü satırı, kod öneki `HX`, katalog "fastfood"; İngilizce 2023 kataloğu, 64 sayfa raster).
 Helmex ürünlerinde ölçü tablosu olanlar tek ürün + `varyantlar[]` (her varyant bölümün sütun anahtarlarını taşır);
 bölümler `grup` (1 karton, 2 kağıt, 3 tamamlayıcı) ile katalogda ayırıcı sayfaya bölünür.
+bukap (342 ürün, kod öneki `BKP`, katalog "gida", bölüm 43–50; Crystal Pack ile aynı adres/kardeş firma). Katalogdaki CP kodları
+`BK-CP…` olarak alındı (Crystal Pack ile çakışmasın); katalogda aynı kodu paylaşan ikinci ürünler `-2` aldı, ayrıntı `kod_notu`'nda.
+Bukap ürünlerinde ek alanlar: alt_grup (sayfa alt başlığı), agirlik_g, tedarikci_kodu, kaynak_sayfa, not.
 Ayrıca eski iki ürün: bardak-kilifi-siyah, bardak-kilifi-kraft (elle yazılmış, betik üretmez).
 
 ## Yeni katalog/görsel geldiğinde (ana iş akışı)
@@ -90,6 +95,13 @@ Kullanıcı `gelen/` klasörüne dosya bırakır ya da sohbete gönderir. Sıray
   inpainting ile kurtulmaz → o mockup'ı kullanma, kategori fotoğrafını kullan.
 - Turuncu gibi doygun zemin → kroma uzayında (rgb/toplam) renk anahtarı; paneli kenarından 10 px
   içeriden kırp (anti-alias saçak), alfayı 2 px aşındır. Degrade zeminde şeffaf ürün (PET kapak) → opak bırak.
+- Sıkıştırılmış (iLovePDF) ama ürün fotoğrafları ayrı gömülü görsel olan kataloglarda (Bukap): sayfayı render edip kırpma;
+  gömülü görseli SMask'ıyla birlikte doğrudan çıkar (kalite kaybı yok). Yerleşim matrisine bak — ters yerleştirilmiş
+  (a<0) görseller aynalanmalı. Aynı xref sayfada iki kez yerleşebilir; eşleştirmeyi xref değil yerleşim bazında yap.
+- Raster etiketler: macOS Vision OCR (Swift, `VNRecognizeTextRequest`, tr-TR) etiketi 600 dpi kırpınca çok iyi okur;
+  Kiril harf karışmasını (В→B) normalize et, kod altındaki kesikli çizgi "—==" çöpü üretir. Sonuçları kırpıntı sayfasıyla gözle doğrula.
+- PyMuPDF 1.26 `rewrite_images` alfa maskeli büyük belgelerde rastgele segfault verebiliyor (gıda kataloğu);
+  build_katalog.py "gida" için kendi JPEG dönüşümünü (`jpeg_images`) kullanır.
 - Beyaz zemin → şeffaf çevirirken floodfill eşiği 14 iyi çalışır; açık renkli/şeffaf
   ürünlerde (ör. cam gibi tabaklar) içeri sızarsa 6'ya düşür.
 

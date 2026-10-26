@@ -31,6 +31,7 @@
  "moq": "",
  "varyantlar": [],
  "not": "29 oz soğuk içecek bardağı ile uyumlu",
+ "alt_kategori": "",
  "aciklama": [
   "104 mm Ø PS Kapak (29 oz), bardak veya kase ile uyumlu plastik kapaktır. Paket servis ve gel-al satışta taşıma güvenliği için uygundur.",
   "Teknik özellikler: çap 104 mm, ürün ağırlığı 3 g.",
@@ -62,6 +63,7 @@
   "tedarikci": "promocup",
   "tedarikci_ad": "Promocup",
   "tedarikci_kodu": "",
+  "kaynak_sayfa": "",
   "katalog": "kaynaklar/promocup/promocup-katalog-2026.pdf"
  }
 }
