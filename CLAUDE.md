@@ -105,7 +105,9 @@ Kullanıcı `gelen/` klasörüne dosya bırakır ya da sohbete gönderir. Sıray
 - Raster etiketler: macOS Vision OCR (Swift, `VNRecognizeTextRequest`, tr-TR) etiketi 600 dpi kırpınca çok iyi okur;
   Kiril harf karışmasını (В→B) normalize et, kod altındaki kesikli çizgi "—==" çöpü üretir. Sonuçları kırpıntı sayfasıyla gözle doğrula.
 - PyMuPDF 1.26 `rewrite_images` alfa maskeli büyük belgelerde rastgele segfault verebiliyor (gıda kataloğu);
-  build_katalog.py "gida" için kendi JPEG dönüşümünü (`jpeg_images`) kullanır.
+  build_katalog.py "gida" için kendi JPEG dönüşümünü (`jpeg_images`, 200 dpi sınırı + SMask küçültme) kullanır.
+- Bukap görselleri 2026-10-26'da toplu büyütüldü (`upscale.py --kucuk 300`, 151 görsel, Real-ESRGAN x4); orijinaller
+  katalog/gorseller/orijinal/ altında, kayıt upscale-log.json. Yeniden büyütme hep orijinalden başlar.
 - Düşük çözünürlüklü ürün görseli (Bukap ~300 px) → `python3 katalog/upscale.py KOD ...`; şeffaf PNG'de RGB ve alfa ayrı
   büyütülüp beyaz zemin etkisi geri alınır. Sonra build_urunler + build_katalog gida. Real-ESRGAN binary'si dışarıdan
   indirilen koddur; ilk çalıştırma (xattr/chmod) kullanıcıdan istenir.

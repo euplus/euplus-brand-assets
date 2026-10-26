@@ -1,0 +1,2267 @@
+{
+ "bkp9150.png": {
+  "kod": "BKP9150",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   708,
+   1068
+  ],
+  "sonra": [
+   708,
+   1068
+  ]
+ },
+ "bk-cp618.png": {
+  "kod": "BK-CP618",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   900,
+   256
+  ],
+  "sonra": [
+   900,
+   256
+  ]
+ },
+ "bkp6440.png": {
+  "kod": "BKP6440",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   139,
+   187
+  ],
+  "sonra": [
+   556,
+   748
+  ]
+ },
+ "bkp6445.png": {
+  "kod": "BKP6445",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   152,
+   236
+  ],
+  "sonra": [
+   608,
+   944
+  ]
+ },
+ "bk-acibadem.png": {
+  "kod": "BK-ACIBADEM",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   181,
+   116
+  ],
+  "sonra": [
+   724,
+   464
+  ]
+ },
+ "bkp6480.png": {
+  "kod": "BKP6480",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   267,
+   250
+  ],
+  "sonra": [
+   1068,
+   1000
+  ]
+ },
+ "bkp6445-g.png": {
+  "kod": "BKP6445-G",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   147,
+   234
+  ],
+  "sonra": [
+   588,
+   936
+  ]
+ },
+ "bkp6610.png": {
+  "kod": "BKP6610",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   113,
+   265
+  ],
+  "sonra": [
+   452,
+   1060
+  ]
+ },
+ "bkp6615.png": {
+  "kod": "BKP6615",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   123,
+   284
+  ],
+  "sonra": [
+   492,
+   1136
+  ]
+ },
+ "bkp805.png": {
+  "kod": "BKP805",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   246,
+   158
+  ],
+  "sonra": [
+   984,
+   632
+  ]
+ },
+ "bkp810.png": {
+  "kod": "BKP810",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   255,
+   177
+  ],
+  "sonra": [
+   1020,
+   708
+  ]
+ },
+ "bkp815.png": {
+  "kod": "BKP815",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   267,
+   200
+  ],
+  "sonra": [
+   1068,
+   800
+  ]
+ },
+ "bkp6810.png": {
+  "kod": "BKP6810",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   227,
+   167
+  ],
+  "sonra": [
+   908,
+   668
+  ]
+ },
+ "bkp140.png": {
+  "kod": "BKP140",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   267,
+   158
+  ],
+  "sonra": [
+   1068,
+   632
+  ]
+ },
+ "bkp6820.png": {
+  "kod": "BKP6820",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   228,
+   165
+  ],
+  "sonra": [
+   912,
+   660
+  ]
+ },
+ "bkp6850.png": {
+  "kod": "BKP6850",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   244,
+   195
+  ],
+  "sonra": [
+   976,
+   780
+  ]
+ },
+ "bkp6860-6870.png": {
+  "kod": "BKP6860-6870",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   276,
+   238
+  ],
+  "sonra": [
+   1104,
+   952
+  ]
+ },
+ "bkp6300.png": {
+  "kod": "BKP6300",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   282,
+   153
+  ],
+  "sonra": [
+   1128,
+   612
+  ]
+ },
+ "bkp600.png": {
+  "kod": "BKP600",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   212,
+   97
+  ],
+  "sonra": [
+   848,
+   388
+  ]
+ },
+ "bkp610.png": {
+  "kod": "BKP610",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   215,
+   112
+  ],
+  "sonra": [
+   860,
+   448
+  ]
+ },
+ "bkp620.png": {
+  "kod": "BKP620",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   217,
+   137
+  ],
+  "sonra": [
+   868,
+   548
+  ]
+ },
+ "bkp630.png": {
+  "kod": "BKP630",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   255,
+   152
+  ],
+  "sonra": [
+   1020,
+   608
+  ]
+ },
+ "bkp6160-xs.png": {
+  "kod": "BKP6160-XS",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   229,
+   130
+  ],
+  "sonra": [
+   916,
+   520
+  ]
+ },
+ "bkp6170-s.png": {
+  "kod": "BKP6170-S",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   265,
+   152
+  ],
+  "sonra": [
+   1060,
+   608
+  ]
+ },
+ "bkp6730-cp12k.png": {
+  "kod": "BKP6730-CP12K",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   210,
+   157
+  ],
+  "sonra": [
+   840,
+   628
+  ]
+ },
+ "bkp6710-6720.png": {
+  "kod": "BKP6710-6720",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   231,
+   164
+  ],
+  "sonra": [
+   924,
+   656
+  ]
+ },
+ "bkp6755.png": {
+  "kod": "BKP6755",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   114,
+   190
+  ],
+  "sonra": [
+   456,
+   760
+  ]
+ },
+ "bkp6760.png": {
+  "kod": "BKP6760",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   117,
+   291
+  ],
+  "sonra": [
+   468,
+   1164
+  ]
+ },
+ "bkp6670.png": {
+  "kod": "BKP6670",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   225,
+   127
+  ],
+  "sonra": [
+   900,
+   508
+  ]
+ },
+ "bkp6680.png": {
+  "kod": "BKP6680",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   266,
+   159
+  ],
+  "sonra": [
+   1064,
+   636
+  ]
+ },
+ "bkp6689.png": {
+  "kod": "BKP6689",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   243,
+   242
+  ],
+  "sonra": [
+   972,
+   968
+  ]
+ },
+ "bkp1460.png": {
+  "kod": "BKP1460",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   213,
+   134
+  ],
+  "sonra": [
+   852,
+   536
+  ]
+ },
+ "bkp1470.png": {
+  "kod": "BKP1470",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   279,
+   141
+  ],
+  "sonra": [
+   1116,
+   564
+  ]
+ },
+ "bkp1520.png": {
+  "kod": "BKP1520",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   269,
+   155
+  ],
+  "sonra": [
+   1076,
+   620
+  ]
+ },
+ "bkp10.png": {
+  "kod": "BKP10",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   267,
+   135
+  ],
+  "sonra": [
+   1068,
+   540
+  ]
+ },
+ "bkp20.png": {
+  "kod": "BKP20",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   272,
+   159
+  ],
+  "sonra": [
+   1088,
+   636
+  ]
+ },
+ "bkp30.png": {
+  "kod": "BKP30",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   269,
+   186
+  ],
+  "sonra": [
+   1076,
+   744
+  ]
+ },
+ "bkp40.png": {
+  "kod": "BKP40",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   296,
+   198
+  ],
+  "sonra": [
+   1184,
+   792
+  ]
+ },
+ "bkp9110.png": {
+  "kod": "BKP9110",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   180,
+   234
+  ],
+  "sonra": [
+   720,
+   936
+  ]
+ },
+ "bkp9120.png": {
+  "kod": "BKP9120",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   220,
+   284
+  ],
+  "sonra": [
+   880,
+   1136
+  ]
+ },
+ "bkp9130.png": {
+  "kod": "BKP9130",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   204,
+   259
+  ],
+  "sonra": [
+   816,
+   1036
+  ]
+ },
+ "bkp9140.png": {
+  "kod": "BKP9140",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   172,
+   243
+  ],
+  "sonra": [
+   688,
+   972
+  ]
+ },
+ "bkp9210.png": {
+  "kod": "BKP9210",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   226,
+   161
+  ],
+  "sonra": [
+   904,
+   644
+  ]
+ },
+ "bkp9220.png": {
+  "kod": "BKP9220",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   228,
+   146
+  ],
+  "sonra": [
+   912,
+   584
+  ]
+ },
+ "bkp9230.png": {
+  "kod": "BKP9230",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   228,
+   146
+  ],
+  "sonra": [
+   912,
+   584
+  ]
+ },
+ "bkp10305.png": {
+  "kod": "BKP10305",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   84,
+   206
+  ],
+  "sonra": [
+   336,
+   824
+  ]
+ },
+ "bkp10310.png": {
+  "kod": "BKP10310",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   92,
+   227
+  ],
+  "sonra": [
+   368,
+   908
+  ]
+ },
+ "bkp10315.png": {
+  "kod": "BKP10315",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   99,
+   244
+  ],
+  "sonra": [
+   396,
+   976
+  ]
+ },
+ "bkp10320.png": {
+  "kod": "BKP10320",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   100,
+   283
+  ],
+  "sonra": [
+   400,
+   1132
+  ]
+ },
+ "bkp10340.png": {
+  "kod": "BKP10340",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   100,
+   228
+  ],
+  "sonra": [
+   400,
+   912
+  ]
+ },
+ "bkp10330-2.png": {
+  "kod": "BKP10330-2",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   116,
+   240
+  ],
+  "sonra": [
+   464,
+   960
+  ]
+ },
+ "bkp10360.png": {
+  "kod": "BKP10360",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   108,
+   246
+  ],
+  "sonra": [
+   432,
+   984
+  ]
+ },
+ "bkp10370.png": {
+  "kod": "BKP10370",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   123,
+   275
+  ],
+  "sonra": [
+   492,
+   1100
+  ]
+ },
+ "bkp9505.png": {
+  "kod": "BKP9505",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   210,
+   276
+  ],
+  "sonra": [
+   840,
+   1104
+  ]
+ },
+ "bkp9530.png": {
+  "kod": "BKP9530",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   204,
+   291
+  ],
+  "sonra": [
+   816,
+   1164
+  ]
+ },
+ "bkp9610.png": {
+  "kod": "BKP9610",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   164,
+   218
+  ],
+  "sonra": [
+   656,
+   872
+  ]
+ },
+ "bkp9650.png": {
+  "kod": "BKP9650",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   180,
+   252
+  ],
+  "sonra": [
+   720,
+   1008
+  ]
+ },
+ "bkp9605.png": {
+  "kod": "BKP9605",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   163,
+   213
+  ],
+  "sonra": [
+   652,
+   852
+  ]
+ },
+ "bkp9645.png": {
+  "kod": "BKP9645",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   172,
+   243
+  ],
+  "sonra": [
+   688,
+   972
+  ]
+ },
+ "bkp9809.png": {
+  "kod": "BKP9809",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   196,
+   245
+  ],
+  "sonra": [
+   784,
+   980
+  ]
+ },
+ "bkp9805.png": {
+  "kod": "BKP9805",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   194,
+   230
+  ],
+  "sonra": [
+   776,
+   920
+  ]
+ },
+ "bkp9810.png": {
+  "kod": "BKP9810",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   210,
+   266
+  ],
+  "sonra": [
+   840,
+   1064
+  ]
+ },
+ "bkp9715.png": {
+  "kod": "BKP9715",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   260,
+   176
+  ],
+  "sonra": [
+   1040,
+   704
+  ]
+ },
+ "bkp9730.png": {
+  "kod": "BKP9730",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   210,
+   138
+  ],
+  "sonra": [
+   840,
+   552
+  ]
+ },
+ "bkp9740.png": {
+  "kod": "BKP9740",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   239,
+   157
+  ],
+  "sonra": [
+   956,
+   628
+  ]
+ },
+ "bkp10250.png": {
+  "kod": "BKP10250",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   171,
+   198
+  ],
+  "sonra": [
+   684,
+   792
+  ]
+ },
+ "bkp10260.png": {
+  "kod": "BKP10260",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   156,
+   219
+  ],
+  "sonra": [
+   624,
+   876
+  ]
+ },
+ "bkp2020-2010.png": {
+  "kod": "BKP2020-2010",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   283,
+   161
+  ],
+  "sonra": [
+   1132,
+   644
+  ]
+ },
+ "bkp2030-2010.png": {
+  "kod": "BKP2030-2010",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   280,
+   171
+  ],
+  "sonra": [
+   1120,
+   684
+  ]
+ },
+ "bkp2040-2010.png": {
+  "kod": "BKP2040-2010",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   287,
+   203
+  ],
+  "sonra": [
+   1148,
+   812
+  ]
+ },
+ "bkp2630.png": {
+  "kod": "BKP2630",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   283,
+   183
+  ],
+  "sonra": [
+   1132,
+   732
+  ]
+ },
+ "bkp905.png": {
+  "kod": "BKP905",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   276,
+   133
+  ],
+  "sonra": [
+   1104,
+   532
+  ]
+ },
+ "bkp910.png": {
+  "kod": "BKP910",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   279,
+   128
+  ],
+  "sonra": [
+   1116,
+   512
+  ]
+ },
+ "bkp6960.png": {
+  "kod": "BKP6960",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   265,
+   140
+  ],
+  "sonra": [
+   1060,
+   560
+  ]
+ },
+ "bkp6970.png": {
+  "kod": "BKP6970",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   279,
+   156
+  ],
+  "sonra": [
+   1116,
+   624
+  ]
+ },
+ "bkp6980.png": {
+  "kod": "BKP6980",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   273,
+   176
+  ],
+  "sonra": [
+   1092,
+   704
+  ]
+ },
+ "bkp1930.png": {
+  "kod": "BKP1930",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   190,
+   170
+  ],
+  "sonra": [
+   760,
+   680
+  ]
+ },
+ "bkp1940.png": {
+  "kod": "BKP1940",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   211,
+   180
+  ],
+  "sonra": [
+   844,
+   720
+  ]
+ },
+ "bkp9850.png": {
+  "kod": "BKP9850",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   208,
+   168
+  ],
+  "sonra": [
+   832,
+   672
+  ]
+ },
+ "bkp9855.png": {
+  "kod": "BKP9855",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   208,
+   168
+  ],
+  "sonra": [
+   832,
+   672
+  ]
+ },
+ "bkp10540.png": {
+  "kod": "BKP10540",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   207,
+   169
+  ],
+  "sonra": [
+   828,
+   676
+  ]
+ },
+ "bkp1950.png": {
+  "kod": "BKP1950",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   265,
+   182
+  ],
+  "sonra": [
+   1060,
+   728
+  ]
+ },
+ "bkp1560.png": {
+  "kod": "BKP1560",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   195,
+   161
+  ],
+  "sonra": [
+   780,
+   644
+  ]
+ },
+ "bkp1570.png": {
+  "kod": "BKP1570",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   287,
+   243
+  ],
+  "sonra": [
+   1148,
+   972
+  ]
+ },
+ "bkp1610.png": {
+  "kod": "BKP1610",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   201,
+   167
+  ],
+  "sonra": [
+   804,
+   668
+  ]
+ },
+ "bkp1620.png": {
+  "kod": "BKP1620",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   172,
+   139
+  ],
+  "sonra": [
+   688,
+   556
+  ]
+ },
+ "bkp450.png": {
+  "kod": "BKP450",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   207,
+   116
+  ],
+  "sonra": [
+   828,
+   464
+  ]
+ },
+ "bkp460.png": {
+  "kod": "BKP460",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   193,
+   136
+  ],
+  "sonra": [
+   772,
+   544
+  ]
+ },
+ "bkp470.png": {
+  "kod": "BKP470",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   261,
+   147
+  ],
+  "sonra": [
+   1044,
+   588
+  ]
+ },
+ "bkp480.png": {
+  "kod": "BKP480",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   263,
+   187
+  ],
+  "sonra": [
+   1052,
+   748
+  ]
+ },
+ "bkp580.png": {
+  "kod": "BKP580",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   298,
+   145
+  ],
+  "sonra": [
+   1192,
+   580
+  ]
+ },
+ "bkp590.png": {
+  "kod": "BKP590",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   227,
+   121
+  ],
+  "sonra": [
+   908,
+   484
+  ]
+ },
+ "bkp600-2.png": {
+  "kod": "BKP600-2",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   296,
+   175
+  ],
+  "sonra": [
+   1184,
+   700
+  ]
+ },
+ "bkp10450.png": {
+  "kod": "BKP10450",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   167,
+   146
+  ],
+  "sonra": [
+   668,
+   584
+  ]
+ },
+ "bkp10460.png": {
+  "kod": "BKP10460",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   203,
+   178
+  ],
+  "sonra": [
+   812,
+   712
+  ]
+ },
+ "bkp10520.png": {
+  "kod": "BKP10520",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   285,
+   193
+  ],
+  "sonra": [
+   1140,
+   772
+  ]
+ },
+ "bkp654.png": {
+  "kod": "BKP654",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   225,
+   126
+  ],
+  "sonra": [
+   900,
+   504
+  ]
+ },
+ "bkp658.png": {
+  "kod": "BKP658",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   252,
+   168
+  ],
+  "sonra": [
+   1008,
+   672
+  ]
+ },
+ "bkp660.png": {
+  "kod": "BKP660",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   291,
+   189
+  ],
+  "sonra": [
+   1164,
+   756
+  ]
+ },
+ "bkp940.png": {
+  "kod": "BKP940",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   253,
+   153
+  ],
+  "sonra": [
+   1012,
+   612
+  ]
+ },
+ "bkp945-2.png": {
+  "kod": "BKP945-2",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   284,
+   174
+  ],
+  "sonra": [
+   1136,
+   696
+  ]
+ },
+ "bkp950.png": {
+  "kod": "BKP950",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   230,
+   182
+  ],
+  "sonra": [
+   920,
+   728
+  ]
+ },
+ "bkp20050.png": {
+  "kod": "BKP20050",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   153,
+   116
+  ],
+  "sonra": [
+   612,
+   464
+  ]
+ },
+ "bkp20055.png": {
+  "kod": "BKP20055",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   158,
+   127
+  ],
+  "sonra": [
+   632,
+   508
+  ]
+ },
+ "bkp20060.png": {
+  "kod": "BKP20060",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   207,
+   134
+  ],
+  "sonra": [
+   828,
+   536
+  ]
+ },
+ "bkp20065.png": {
+  "kod": "BKP20065",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   222,
+   124
+  ],
+  "sonra": [
+   888,
+   496
+  ]
+ },
+ "bkp20075.png": {
+  "kod": "BKP20075",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   260,
+   135
+  ],
+  "sonra": [
+   1040,
+   540
+  ]
+ },
+ "bkp20080.png": {
+  "kod": "BKP20080",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   267,
+   159
+  ],
+  "sonra": [
+   1068,
+   636
+  ]
+ },
+ "bkp1210.png": {
+  "kod": "BKP1210",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   250,
+   155
+  ],
+  "sonra": [
+   1000,
+   620
+  ]
+ },
+ "bkp1210-g.png": {
+  "kod": "BKP1210-G",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   243,
+   163
+  ],
+  "sonra": [
+   972,
+   652
+  ]
+ },
+ "bkp1215.png": {
+  "kod": "BKP1215",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   225,
+   166
+  ],
+  "sonra": [
+   900,
+   664
+  ]
+ },
+ "bkp1200.png": {
+  "kod": "BKP1200",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   239,
+   149
+  ],
+  "sonra": [
+   956,
+   596
+  ]
+ },
+ "bkp1310.png": {
+  "kod": "BKP1310",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   274,
+   149
+  ],
+  "sonra": [
+   1096,
+   596
+  ]
+ },
+ "bkp1310-gold.png": {
+  "kod": "BKP1310-GOLD",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   276,
+   150
+  ],
+  "sonra": [
+   1104,
+   600
+  ]
+ },
+ "bkp1320-k.png": {
+  "kod": "BKP1320-K",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   264,
+   149
+  ],
+  "sonra": [
+   1056,
+   596
+  ]
+ },
+ "bkp1820.png": {
+  "kod": "BKP1820",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   224,
+   171
+  ],
+  "sonra": [
+   896,
+   684
+  ]
+ },
+ "bkp1830.png": {
+  "kod": "BKP1830",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   298,
+   265
+  ],
+  "sonra": [
+   1192,
+   1060
+  ]
+ },
+ "bkp1810.png": {
+  "kod": "BKP1810",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   224,
+   148
+  ],
+  "sonra": [
+   896,
+   592
+  ]
+ },
+ "bkp1840.png": {
+  "kod": "BKP1840",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   239,
+   261
+  ],
+  "sonra": [
+   956,
+   1044
+  ]
+ },
+ "bkp1140.png": {
+  "kod": "BKP1140",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   248,
+   159
+  ],
+  "sonra": [
+   992,
+   636
+  ]
+ },
+ "bkp1150.png": {
+  "kod": "BKP1150",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   260,
+   190
+  ],
+  "sonra": [
+   1040,
+   760
+  ]
+ },
+ "bkp885.png": {
+  "kod": "BKP885",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   277,
+   160
+  ],
+  "sonra": [
+   1108,
+   640
+  ]
+ },
+ "bkp886.png": {
+  "kod": "BKP886",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   278,
+   176
+  ],
+  "sonra": [
+   1112,
+   704
+  ]
+ },
+ "bkp410.png": {
+  "kod": "BKP410",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   237,
+   118
+  ],
+  "sonra": [
+   948,
+   472
+  ]
+ },
+ "bkp430.png": {
+  "kod": "BKP430",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   273,
+   170
+  ],
+  "sonra": [
+   1092,
+   680
+  ]
+ },
+ "bkp1002.png": {
+  "kod": "BKP1002",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   244,
+   272
+  ],
+  "sonra": [
+   976,
+   1088
+  ]
+ },
+ "bkp1715-s2.png": {
+  "kod": "BKP1715-S2",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   179,
+   256
+  ],
+  "sonra": [
+   716,
+   1024
+  ]
+ },
+ "bkp1715-s.png": {
+  "kod": "BKP1715-S",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   179,
+   252
+  ],
+  "sonra": [
+   716,
+   1008
+  ]
+ },
+ "bkp1715-p.png": {
+  "kod": "BKP1715-P",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   175,
+   251
+  ],
+  "sonra": [
+   700,
+   1004
+  ]
+ },
+ "bkp1715-k.png": {
+  "kod": "BKP1715-K",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   179,
+   256
+  ],
+  "sonra": [
+   716,
+   1024
+  ]
+ },
+ "bkp1715-t.png": {
+  "kod": "BKP1715-T",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   179,
+   256
+  ],
+  "sonra": [
+   716,
+   1024
+  ]
+ },
+ "bkp1715-m.png": {
+  "kod": "BKP1715-M",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   179,
+   256
+  ],
+  "sonra": [
+   716,
+   1024
+  ]
+ },
+ "bkp1715-l.png": {
+  "kod": "BKP1715-L",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   179,
+   256
+  ],
+  "sonra": [
+   716,
+   1024
+  ]
+ },
+ "bkp1715-y.png": {
+  "kod": "BKP1715-Y",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   178,
+   256
+  ],
+  "sonra": [
+   712,
+   1024
+  ]
+ },
+ "bkp1005.png": {
+  "kod": "BKP1005",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   153,
+   203
+  ],
+  "sonra": [
+   612,
+   812
+  ]
+ },
+ "bkp1029.png": {
+  "kod": "BKP1029",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   156,
+   196
+  ],
+  "sonra": [
+   624,
+   784
+  ]
+ },
+ "bkp1030.png": {
+  "kod": "BKP1030",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   203,
+   254
+  ],
+  "sonra": [
+   812,
+   1016
+  ]
+ },
+ "bkp1125.png": {
+  "kod": "BKP1125",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   185,
+   288
+  ],
+  "sonra": [
+   740,
+   1152
+  ]
+ },
+ "bkp1027.png": {
+  "kod": "BKP1027",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   167,
+   277
+  ],
+  "sonra": [
+   668,
+   1108
+  ]
+ },
+ "bkp1060.png": {
+  "kod": "BKP1060",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   193,
+   286
+  ],
+  "sonra": [
+   772,
+   1144
+  ]
+ },
+ "bkp1660.png": {
+  "kod": "BKP1660",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   241,
+   129
+  ],
+  "sonra": [
+   964,
+   516
+  ]
+ },
+ "bk-cp615.png": {
+  "kod": "BK-CP615",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   298,
+   128
+  ],
+  "sonra": [
+   1192,
+   512
+  ]
+ },
+ "bk-cp636.png": {
+  "kod": "BK-CP636",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   289,
+   107
+  ],
+  "sonra": [
+   1156,
+   428
+  ]
+ },
+ "bk-cp651-s.png": {
+  "kod": "BK-CP651-S",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   221,
+   67
+  ],
+  "sonra": [
+   884,
+   268
+  ]
+ },
+ "bk-cp651.png": {
+  "kod": "BK-CP651",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   290,
+   94
+  ],
+  "sonra": [
+   1160,
+   376
+  ]
+ },
+ "bkp7110-s.png": {
+  "kod": "BKP7110-S",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   288,
+   168
+  ],
+  "sonra": [
+   1152,
+   672
+  ]
+ },
+ "bkp7111.png": {
+  "kod": "BKP7111",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   285,
+   163
+  ],
+  "sonra": [
+   1140,
+   652
+  ]
+ },
+ "bkp7105-s.png": {
+  "kod": "BKP7105-S",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   288,
+   167
+  ],
+  "sonra": [
+   1152,
+   668
+  ]
+ },
+ "bkp7110.png": {
+  "kod": "BKP7110",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   286,
+   163
+  ],
+  "sonra": [
+   1144,
+   652
+  ]
+ },
+ "bkp7130-s.png": {
+  "kod": "BKP7130-S",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   291,
+   162
+  ],
+  "sonra": [
+   1164,
+   648
+  ]
+ },
+ "bkp7130.png": {
+  "kod": "BKP7130",
+  "tarih": "2026-10-26",
+  "motor": "realesrgan",
+  "model": "realesrgan-x4plus",
+  "olcek": 4,
+  "once": [
+   285,
+   165
+  ],
+  "sonra": [
+   1140,
+   660
+  ]
+ }
+}

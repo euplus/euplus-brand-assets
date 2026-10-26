@@ -5,6 +5,7 @@ Kullanım (depo kökünden):
   python3 katalog/upscale.py --liste [--esik 400]        küçük görselleri listeler (uzun kenar < eşik)
   python3 katalog/upscale.py BKP9150 BK-CP618 ...         verilen ürün kodlarının görsellerini yükseltir
   python3 katalog/upscale.py --bolum 50                   bir bölümün tüm ürünlerini yükseltir
+  python3 katalog/upscale.py --kucuk 300                  uzun kenarı 300 px altındaki tüm görselleri yükseltir
   python3 katalog/upscale.py --geri-al BKP9150            orijinal görseli geri yükler
   python3 katalog/upscale.py --motor lanczos KOD          Real-ESRGAN yoksa klasik büyütme (keskinleştirmeli)
 
@@ -44,6 +45,11 @@ def products(args, D):
         sel.append(by[k.upper()])
     if args.bolum:
         sel += [p for p in D["urunler"] if p["bolum"] in args.bolum]
+    if args.kucuk:
+        for p in D["urunler"]:
+            f = os.path.join(HERE, p["gorsel"]); name = os.path.basename(p["gorsel"])
+            src = os.path.join(ORIG, name) if os.path.exists(os.path.join(ORIG, name)) else f   # daha önce büyütülmüşse orijinale bak
+            if os.path.exists(src) and max(Image.open(src).size) < args.kucuk: sel.append(p)
     # aynı görseli paylaşan ürünler (kategori fotoğrafı) bir kez işlenir
     seen, out = set(), []
     for p in sel:
@@ -131,6 +137,7 @@ def main():
     ap = argparse.ArgumentParser(description=__doc__.split("\n")[0])
     ap.add_argument("kod", nargs="*", help="ürün kodu (BKP9150, BK-CP618 ...)")
     ap.add_argument("--bolum", type=int, nargs="*", default=[], help="bölüm numarası (katalog/urunler.json)")
+    ap.add_argument("--kucuk", type=int, default=0, help="uzun kenarı bu değerin altındaki tüm görselleri seç (px)")
     ap.add_argument("--liste", action="store_true", help="küçük görselleri listele")
     ap.add_argument("--esik", type=int, default=400, help="--liste için uzun kenar eşiği (px)")
     ap.add_argument("--motor", choices=ENGINES, default="realesrgan")

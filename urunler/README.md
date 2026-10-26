@@ -547,7 +547,8 @@ kaynak kataloğu belirtir; ürünler EUPLUS markasıyla listelenir. Kaynaktaki g
 
 Ölçü ve koli bilgileri [Gıda Ambalaj Kataloğu 2026](../katalog/EUPLUS-Gida-Ambalaj-Katalogu-2026.pdf) ile aynıdır.
 Görseller kaynak katalogdaki gömülü ürün fotoğraflarından birebir çıkarıldı; PNG'ler şeffaftır. Kaynak PDF sıkıştırılmış olduğundan
-fotoğrafların uzun kenarı çoğunlukla 250–450 px'tir; 1200×1200 JPG bu çözünürlükten büyütülüp hafifçe keskinleştirildi.
+fotoğrafların uzun kenarı 250–450 px'ti; 300 px altındaki 151 görsel Real-ESRGAN ile 4× büyütüldü ([`katalog/upscale.py`](../katalog/upscale.py)),
+orijinaller `katalog/gorseller/orijinal/` altında saklanır.
 Kodlar katalogdaki BKP kodlarıdır; CP kodlu çatal-kaşık-bıçak ve tabaklar `BK-CP…`, katalogda aynı kodu paylaşan ikinci ürünler `-2` alır
 (ayrıntı: [`kaynaklar/bukap/tedarikci.json`](../kaynaklar/bukap/tedarikci.json)).
 

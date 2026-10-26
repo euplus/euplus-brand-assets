@@ -378,22 +378,37 @@ def compress(path):
         doc[pi].show_pdf_page(fitz.Rect(*r), logo_pdf, 0)
     tmp = path + ".tmp"; doc.ez_save(tmp, garbage=4, deflate=True); doc.close(); os.replace(tmp, path)
 
-def jpeg_images(doc, fitz, quality=85):
-    """Flate kodlu görsel gövdelerini JPEG'e çevirir; alfa (SMask) kayıpsız kalır. Görseller zaten ≤900 px."""
-    done = set()
+def jpeg_images(doc, fitz, quality=85, dpi=200):
+    """Görsel gövdelerini yerleşim boyutuna göre en çok `dpi`'ya indirip JPEG'e çevirir; alfa (SMask) da aynı
+    oranda küçültülür. rewrite_images'ın yaptığı işin güvenli karşılığı."""
+    import io
+    # her görselin sayfada çizildiği en büyük genişlik (pt)
+    widest = {}
     for page in doc:
         for x in page.get_images(full=True):
-            xref = x[0]
-            if xref in done or "DCTDecode" in doc.xref_get_key(xref, "Filter")[1]: continue
-            done.add(xref)
-            pix = fitz.Pixmap(doc, xref)
-            if pix.alpha: pix = fitz.Pixmap(pix, 0)
-            if pix.n not in (1, 3): pix = fitz.Pixmap(fitz.csRGB, pix)
-            doc.update_stream(xref, pix.tobytes("jpg", jpg_quality=quality), compress=False)
-            doc.xref_set_key(xref, "Filter", "/DCTDecode")
-            doc.xref_set_key(xref, "DecodeParms", "null")
-            doc.xref_set_key(xref, "ColorSpace", "/DeviceGray" if pix.n == 1 else "/DeviceRGB")
-            doc.xref_set_key(xref, "BitsPerComponent", "8")
+            for r in page.get_image_rects(x[0]):
+                widest[x[0]] = max(widest.get(x[0], 0), r.width)
+    def shrink(xref, scale):
+        pix = fitz.Pixmap(doc, xref)
+        if pix.alpha: pix = fitz.Pixmap(pix, 0)
+        if pix.n not in (1, 3): pix = fitz.Pixmap(fitz.csRGB, pix)
+        im = Image.frombytes("RGB" if pix.n == 3 else "L", (pix.width, pix.height), pix.samples)
+        if scale < 1: im = im.resize((max(1, round(im.width * scale)), max(1, round(im.height * scale))), Image.LANCZOS)
+        return im
+    for xref, wpt in widest.items():
+        w = int(doc.xref_get_key(xref, "Width")[1]); scale = min(1.0, (wpt / 72 * dpi) / w)
+        if "DCTDecode" in doc.xref_get_key(xref, "Filter")[1] and scale >= 0.95: continue
+        im = shrink(xref, scale); buf = io.BytesIO(); im.save(buf, "JPEG", quality=quality)
+        doc.update_stream(xref, buf.getvalue(), compress=False)
+        for k, v in (("Filter", "/DCTDecode"), ("DecodeParms", "null"), ("ColorSpace", "/DeviceGray" if im.mode == "L" else "/DeviceRGB"),
+                     ("BitsPerComponent", "8"), ("Width", str(im.width)), ("Height", str(im.height))):
+            doc.xref_set_key(xref, k, v)
+        sm = doc.xref_get_key(xref, "SMask")
+        if sm[0] == "xref" and scale < 1:   # alfa maskesini de aynı oranda küçült (kayıpsız kalsın)
+            sx = int(sm[1].split()[0]); a = shrink(sx, scale)
+            doc.update_stream(sx, a.tobytes(), compress=True)
+            for k, v in (("Filter", "/FlateDecode"), ("DecodeParms", "null"), ("Width", str(a.width)), ("Height", str(a.height))):
+                doc.xref_set_key(sx, k, v)
 
 if __name__ == "__main__":
     build()
